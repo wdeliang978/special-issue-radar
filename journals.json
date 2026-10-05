@@ -1,0 +1,261 @@
+{
+  "journals": [
+    {
+      "id": "135f3e2f4272",
+      "name": "The Asia-Pacific Education Researcher",
+      "publisher": "Springer Nature",
+      "issns": [
+        "0119-5646",
+        "2243-7908"
+      ],
+      "indexing": [
+        "SSCI"
+      ],
+      "evidence_url": "https://link.springer.com/journal/40299",
+      "evidence_excerpt": "Social Science Citation Index",
+      "checked_at": "2026-10-04",
+      "verified": true,
+      "journal_url": "https://link.springer.com/journal/40299"
+    },
+    {
+      "id": "d700f66ccd30",
+      "name": "Humanities and Social Sciences Communications",
+      "publisher": "Nature Portfolio",
+      "issns": [
+        "2662-9992"
+      ],
+      "indexing": [
+        "SSCI"
+      ],
+      "evidence_url": "https://www.nature.com/palcomms/journal-information/indexing",
+      "evidence_excerpt": "Social Science Citation Index (SSCI) (Clarivate)",
+      "checked_at": "2026-10-04",
+      "verified": true,
+      "journal_url": "https://www.nature.com/palcomms"
+    },
+    {
+      "id": "4367af3b142e",
+      "name": "Smart Learning Environments",
+      "publisher": "Springer Nature",
+      "issns": [
+        "2196-7091"
+      ],
+      "indexing": [
+        "SSCI"
+      ],
+      "evidence_url": "https://link.springer.com/journal/40561",
+      "evidence_excerpt": "Social Science Citation Index",
+      "checked_at": "2026-10-04",
+      "verified": true,
+      "journal_url": "https://link.springer.com/journal/40561"
+    },
+    {
+      "id": "3cd0b3a6a1b5",
+      "name": "International Journal of STEM Education",
+      "publisher": "Springer Nature",
+      "issns": [
+        "2196-7822"
+      ],
+      "indexing": [
+        "SSCI",
+        "SCIE"
+      ],
+      "evidence_url": "https://link.springer.com/journal/40594",
+      "evidence_excerpt": "Science Citation Index Expanded (SCIE); Social Science Citation Index",
+      "checked_at": "2026-10-04",
+      "verified": true,
+      "journal_url": "https://link.springer.com/journal/40594"
+    },
+    {
+      "id": "7414130f35e4",
+      "name": "npj Science of Learning",
+      "publisher": "Nature Portfolio",
+      "issns": [
+        "2056-7936"
+      ],
+      "indexing": [
+        "SSCI",
+        "SCIE"
+      ],
+      "evidence_url": "https://www.nature.com/npjscilearn/for-authors-and-referees/guide-to-authors/about/journal-information",
+      "evidence_excerpt": "Science Citation Index Expanded (SCIE); Social Science Citation Index",
+      "checked_at": "2026-10-04",
+      "verified": true,
+      "journal_url": "https://www.nature.com/npjscilearn/for-authors-and-referees/guide-to-authors/about"
+    },
+    {
+      "id": "0887144ec2c6",
+      "name": "BMC Psychology",
+      "publisher": "Springer Nature",
+      "issns": [
+        "2050-7283"
+      ],
+      "indexing": [
+        "SSCI"
+      ],
+      "evidence_url": "https://link.springer.com/journal/40359",
+      "evidence_excerpt": "Social Science Citation Index",
+      "checked_at": "2026-10-04",
+      "verified": true,
+      "journal_url": "https://link.springer.com/journal/40359"
+    },
+    {
+      "id": "cc321858f321",
+      "name": "Current Psychology",
+      "publisher": "Springer Nature",
+      "issns": [
+        "1936-4733",
+        "1046-1310"
+      ],
+      "indexing": [
+        "SSCI"
+      ],
+      "evidence_url": "https://link.springer.com/journal/12144",
+      "evidence_excerpt": "Social Science Citation Index",
+      "checked_at": "2026-10-04",
+      "verified": true,
+      "journal_url": "https://link.springer.com/journal/12144"
+    },
+    {
+      "id": "97123446893c",
+      "name": "European Journal of Education",
+      "publisher": "Wiley",
+      "issns": [
+        "0141-8211",
+        "1465-3435"
+      ],
+      "indexing": [
+        "SSCI"
+      ],
+      "evidence_url": "https://onlinelibrary.wiley.com/page/journal/14653435/homepage/productinformation.html",
+      "evidence_excerpt": "Social Sciences Citation Index (Clarivate Analytics)",
+      "checked_at": "2026-10-04",
+      "verified": true,
+      "journal_url": "https://onlinelibrary.wiley.com/journal/14653435"
+    },
+    {
+      "id": "be9ec7ec1a62",
+      "name": "Journal of Research on Adolescence",
+      "publisher": "Wiley",
+      "issns": [],
+      "indexing": [
+        "SSCI"
+      ],
+      "evidence_url": "https://onlinelibrary.wiley.com/page/journal/15327795/homepage/productinformation.html",
+      "evidence_excerpt": "Social Sciences Citation Index (Clarivate Analytics)",
+      "checked_at": "2026-10-04",
+      "verified": true,
+      "journal_url": "https://onlinelibrary.wiley.com/journal/15327795"
+    },
+    {
+      "id": "00f6b1458795",
+      "name": "Information Systems Journal",
+      "publisher": "Wiley",
+      "issns": [
+        "1350-1917",
+        "1365-2575"
+      ],
+      "indexing": [
+        "SSCI"
+      ],
+      "evidence_url": "https://onlinelibrary.wiley.com/page/journal/13652575/homepage/productinformation.html",
+      "evidence_excerpt": "Social Sciences Citation Index (Clarivate Analytics)",
+      "checked_at": "2026-10-04",
+      "verified": true,
+      "journal_url": "https://onlinelibrary.wiley.com/journal/13652575"
+    },
+    {
+      "id": "4a2bb802c2a4",
+      "name": "Journal of Intellectual Disability Research",
+      "publisher": "Wiley",
+      "issns": [],
+      "indexing": [
+        "SSCI"
+      ],
+      "evidence_url": "https://onlinelibrary.wiley.com/page/journal/13652788/homepage/productinformation.html",
+      "evidence_excerpt": "Social Sciences Citation Index (Clarivate Analytics)",
+      "checked_at": "2026-10-04",
+      "verified": true,
+      "journal_url": "https://onlinelibrary.wiley.com/journal/13652788"
+    },
+    {
+      "id": "b3735084cf29",
+      "name": "Expert Systems",
+      "publisher": "Wiley",
+      "issns": [],
+      "indexing": [
+        "SCIE"
+      ],
+      "evidence_url": "https://onlinelibrary.wiley.com/page/journal/14680394/homepage/productinformation.html",
+      "evidence_excerpt": "Science Citation Index Expanded (Clarivate Analytics)",
+      "checked_at": "2026-10-04",
+      "verified": true,
+      "journal_url": "https://onlinelibrary.wiley.com/journal/14680394"
+    },
+    {
+      "id": "42124967cb16",
+      "name": "Human Resource Management",
+      "publisher": "Wiley",
+      "issns": [],
+      "indexing": [
+        "SSCI"
+      ],
+      "evidence_url": "https://onlinelibrary.wiley.com/page/journal/1099050x/homepage/productinformation.html",
+      "evidence_excerpt": "Social Sciences Citation Index (Clarivate Analytics)",
+      "checked_at": "2026-10-04",
+      "verified": true,
+      "journal_url": "https://onlinelibrary.wiley.com/journal/1099050x"
+    },
+    {
+      "id": "d96fde9a0b71",
+      "name": "Journal of Research on Technology in Education",
+      "publisher": "Taylor & Francis",
+      "issns": [
+        "1539-1523",
+        "1945-0818"
+      ],
+      "indexing": [
+        "SSCI"
+      ],
+      "evidence_url": "https://www.tandfonline.com/journals/ujrt20/about-this-journal",
+      "evidence_excerpt": "Social Sciences Citation Index",
+      "checked_at": "2026-10-04",
+      "verified": true,
+      "journal_url": "https://www.tandfonline.com/journals/ujrt20"
+    },
+    {
+      "id": "bcde82688f26",
+      "name": "Social Psychology Quarterly",
+      "publisher": "Sage",
+      "issns": [
+        "0190-2725",
+        "1939-8999"
+      ],
+      "indexing": [
+        "SSCI"
+      ],
+      "evidence_url": "https://in.sagepub.com/en-in/sas/journal/social-psychology-quarterly",
+      "evidence_excerpt": "Social Sciences Citation Index (Web of Science)",
+      "checked_at": "2026-10-04",
+      "verified": true,
+      "journal_url": "https://journals.sagepub.com/home/spq"
+    },
+    {
+      "id": "ab5169333ad2",
+      "name": "Organizational Psychology Review",
+      "publisher": "Sage",
+      "issns": [
+        "2041-3866",
+        "2041-3874"
+      ],
+      "indexing": [
+        "SSCI"
+      ],
+      "evidence_url": "https://in.sagepub.com/en-in/sas/journal/organizational-psychology-review",
+      "evidence_excerpt": "Clarivate Analytics: Social Science Citation Index",
+      "checked_at": "2026-10-04",
+      "verified": true,
+      "journal_url": "https://journals.sagepub.com/home/opr"
+    }
+  ]
+}

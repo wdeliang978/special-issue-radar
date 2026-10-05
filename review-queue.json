@@ -1,0 +1,33 @@
+{
+  "candidates": [
+    {
+      "url": "https://www.computer.org/category/call-for-papers/feed",
+      "title": "",
+      "publisher": "IEEE",
+      "reason": "ValueError: Unsupported non-HTML document",
+      "discovered_at": "2026-10-04"
+    },
+    {
+      "url": "https://link.springer.com/collections/iffhjcagac",
+      "title": "Special Issue: Humanizing AI-mediated Feedback for Writing",
+      "publisher": "Springer Nature",
+      "reason": "multiple conflicting stage deadlines",
+      "discovered_at": "2026-10-04"
+    },
+    {
+      "url": "https://link.springer.com/collections/fajaaijijd",
+      "title": "The Nexus between Learning Analytics and Artificial Intelligence",
+      "publisher": "Springer Nature",
+      "reason": "journal identity not unambiguous or not in verified registry",
+      "discovered_at": "2026-10-04"
+    },
+    {
+      "url": "https://link.springer.com/collections/aehdaicgca",
+      "title": "Attachment Across Adulthood and Aging: Developmental Trajectories, Mechanisms, and Adaptive Processes",
+      "publisher": "Springer Nature",
+      "reason": "multiple conflicting stage deadlines",
+      "discovered_at": "2026-10-04"
+    }
+  ],
+  "unchecked_due_to_limit": 0
+}

@@ -1,0 +1,1 @@
+{"name":"special-issue-radar","private":true,"type":"module","scripts":{"test":"node --test rules.test.js"}}

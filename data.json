@@ -1,0 +1,1649 @@
+{
+  "version": 1,
+  "updated_at": "2026-10-05T02:10:55+00:00",
+  "records": [
+    {
+      "id": "sn-djhaaaccge",
+      "title": "Pedagogical Transformation through Human–AI Collaboration in English-Medium Instruction",
+      "journal": "The Asia-Pacific Education Researcher",
+      "journal_id": "135f3e2f4272",
+      "publisher": "Springer Nature",
+      "issn": "0119-5646",
+      "eissn": "2243-7908",
+      "cfp_url": "https://link.springer.com/collections/djhaaaccge",
+      "abstract_deadline": "2026-11-30",
+      "abstract_required": true,
+      "full_paper_deadline": "2027-05-31",
+      "deadline_notes_zh": "先提交约 500 词摘要、论文题目及每位作者不超过 100 词的简介。摘要经筛选后才邀请提交全文。 摘要邀请结果计划于 2026-12-15 发出。",
+      "topics": [
+        "AI in Education",
+        "AI / NLP",
+        "教育学",
+        "Language Education"
+      ],
+      "keywords": [
+        "AI in Education",
+        "Generative AI",
+        "Language Education",
+        "Higher Education"
+      ],
+      "summary_zh": "研究生成式 AI 如何改变英语授课中的学习、教师实践、课程设计与机构政策，尤其关注语言多样性、教师专业发展与教育公平。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_verified": true,
+      "indexing_evidence_url": "https://link.springer.com/journal/40299",
+      "indexing_checked_at": "2026-10-04",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false
+    },
+    {
+      "id": "nature-jfijibbbah",
+      "title": "Culture in code: intercultural competence in the age of AI and globalisation",
+      "journal": "Humanities and Social Sciences Communications",
+      "journal_id": "d700f66ccd30",
+      "publisher": "Nature Portfolio",
+      "issn": "2662-9992",
+      "eissn": "2662-9992",
+      "cfp_url": "https://www.nature.com/collections/jfijibbbah",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2026-12-11",
+      "deadline_notes_zh": "",
+      "topics": [
+        "AI / NLP",
+        "教育学",
+        "Language Education"
+      ],
+      "keywords": [
+        "AI",
+        "Language Education",
+        "Intercultural Communication",
+        "Education"
+      ],
+      "summary_zh": "探讨 AI 系统与跨文化理解、文化偏差及跨文化教育的关系，欢迎把理论研究与教育培训实践相结合的论文。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_verified": true,
+      "indexing_evidence_url": "https://www.nature.com/palcomms/journal-information/indexing",
+      "indexing_checked_at": "2026-10-04",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false
+    },
+    {
+      "id": "nature-fiigeaggcf",
+      "title": "The rise of informal digital learning: new paradigms for pedagogy, equity and educational futures",
+      "journal": "Humanities and Social Sciences Communications",
+      "journal_id": "d700f66ccd30",
+      "publisher": "Nature Portfolio",
+      "issn": "2662-9992",
+      "eissn": "2662-9992",
+      "cfp_url": "https://www.nature.com/collections/fiigeaggcf",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2027-05-06",
+      "deadline_notes_zh": "",
+      "topics": [
+        "AI in Education",
+        "AI / NLP",
+        "教育技术",
+        "教育学"
+      ],
+      "keywords": [
+        "AI in Education",
+        "Educational Technology",
+        "Informal Learning",
+        "Generative AI"
+      ],
+      "summary_zh": "关注数字平台与 AI 支持的非正式、自主学习，以及其对学习者能动性、教育公平、参与伦理、课程与教师教育的影响。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_verified": true,
+      "indexing_evidence_url": "https://www.nature.com/palcomms/journal-information/indexing",
+      "indexing_checked_at": "2026-10-04",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false
+    },
+    {
+      "id": "nature-gffbgaahgb",
+      "title": "Innovation, AI, and education",
+      "journal": "Humanities and Social Sciences Communications",
+      "journal_id": "d700f66ccd30",
+      "publisher": "Nature Portfolio",
+      "issn": "2662-9992",
+      "eissn": "2662-9992",
+      "cfp_url": "https://www.nature.com/collections/gffbgaahgb",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2026-10-09",
+      "deadline_notes_zh": "需明确教育、人文或社会科学贡献；仅聚焦技术性能的计算机或机器学习研究不在重点范围。",
+      "topics": [
+        "AI in Education",
+        "AI / NLP",
+        "教育技术",
+        "教育学"
+      ],
+      "keywords": [
+        "AI in Education",
+        "Educational Technology",
+        "Education Policy",
+        "AI Ethics"
+      ],
+      "summary_zh": "从教育学、人文与社会科学视角研究 AI 创新、教育制度变化与公平问题，尤其关注跨地区教育发展与政策。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_verified": true,
+      "indexing_evidence_url": "https://www.nature.com/palcomms/journal-information/indexing",
+      "indexing_checked_at": "2026-10-04",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false
+    },
+    {
+      "id": "sn-ebeecjafif",
+      "title": "Science of Learning and EdTech",
+      "journal": "Smart Learning Environments",
+      "journal_id": "4367af3b142e",
+      "publisher": "Springer Nature",
+      "issn": "2196-7091",
+      "eissn": "2196-7091",
+      "cfp_url": "https://link.springer.com/collections/ebeecjafif",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2026-11-01",
+      "deadline_notes_zh": "投稿指南强调有充分证据的实证研究，排除缺少学习科学机制的小规模技术验证或浅层自陈研究。 官方正文一处欢迎概念论文，但后续 Submission Guidelines 又将理论和概念论文列为超出范围；拟投概念论文时需先向编辑核实。",
+      "topics": [
+        "AI in Education",
+        "AI / NLP",
+        "教育技术",
+        "教育学",
+        "心理学"
+      ],
+      "keywords": [
+        "Educational Technology",
+        "Learning Sciences",
+        "AI in Education",
+        "Psychology"
+      ],
+      "summary_zh": "要求将学习科学理论与教育技术设计及干预评价直接联系起来，可涉及认知负荷、游戏化、协作学习、个性化 AI 与多模态学习。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_verified": true,
+      "indexing_evidence_url": "https://link.springer.com/journal/40561",
+      "indexing_checked_at": "2026-10-04",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false
+    },
+    {
+      "id": "sn-hacbfhdedh",
+      "title": "Open education principles between the tension of humans and machines in the Generative AI era",
+      "journal": "Smart Learning Environments",
+      "journal_id": "4367af3b142e",
+      "publisher": "Springer Nature",
+      "issn": "2196-7091",
+      "eissn": "2196-7091",
+      "cfp_url": "https://link.springer.com/collections/hacbfhdedh",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2026-12-30",
+      "deadline_notes_zh": "优先考虑严谨的实证、概念或政策研究；仅描述开放教育资源的采用、困难和感知不在专题重点范围。",
+      "topics": [
+        "AI in Education",
+        "AI / NLP",
+        "教育学"
+      ],
+      "keywords": [
+        "AI in Education",
+        "Generative AI",
+        "Open Education",
+        "AI Ethics"
+      ],
+      "summary_zh": "研究生成式 AI 与开放教育的关系，涵盖人机共创、知识与资源质量、版权归属、算法偏差和开放评价等问题。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_verified": true,
+      "indexing_evidence_url": "https://link.springer.com/journal/40561",
+      "indexing_checked_at": "2026-10-04",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false
+    },
+    {
+      "id": "sn-chdfcibfje",
+      "title": "AI Literacy and STEM Education",
+      "journal": "International Journal of STEM Education",
+      "journal_id": "3cd0b3a6a1b5",
+      "publisher": "Springer Nature",
+      "issn": "2196-7822",
+      "eissn": "2196-7822",
+      "cfp_url": "https://link.springer.com/collections/chdfcibfje",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2027-01-31",
+      "deadline_notes_zh": "欢迎实证和理论研究，研究问题需与 STEM 教育情境相联系。",
+      "topics": [
+        "AI in Education",
+        "AI / NLP",
+        "教育学",
+        "STEM Education"
+      ],
+      "keywords": [
+        "AI in Education",
+        "STEM Education",
+        "AI Literacy",
+        "Generative AI"
+      ],
+      "summary_zh": "探讨 AI 素养与数字化 STEM 教育如何共同改变教学和学习，包括批判性思维、课程融合、学习伙伴作用以及 AI 使用伦理。",
+      "indexing": [
+        "SSCI",
+        "SCIE"
+      ],
+      "indexing_verified": true,
+      "indexing_evidence_url": "https://link.springer.com/journal/40594",
+      "indexing_checked_at": "2026-10-04",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false
+    },
+    {
+      "id": "sn-hbgejjhffg",
+      "title": "Assessment for STEM Education in the AI Era",
+      "journal": "International Journal of STEM Education",
+      "journal_id": "3cd0b3a6a1b5",
+      "publisher": "Springer Nature",
+      "issn": "2196-7822",
+      "eissn": "2196-7822",
+      "cfp_url": "https://link.springer.com/collections/hbgejjhffg",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2027-01-31",
+      "deadline_notes_zh": "欢迎实证研究、研究综述与评论；专题同时关注 AI 辅助评价的价值和局限。",
+      "topics": [
+        "AI in Education",
+        "AI / NLP",
+        "教育技术",
+        "教育学",
+        "STEM Education"
+      ],
+      "keywords": [
+        "AI in Education",
+        "STEM Education",
+        "Assessment",
+        "Learning Analytics"
+      ],
+      "summary_zh": "研究 AI 普及后 STEM 评价目标与方法应如何调整，可涉及真实任务、形成性反馈、工具有效性、公平与学术诚信。",
+      "indexing": [
+        "SSCI",
+        "SCIE"
+      ],
+      "indexing_verified": true,
+      "indexing_evidence_url": "https://link.springer.com/journal/40594",
+      "indexing_checked_at": "2026-10-04",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false
+    },
+    {
+      "id": "nature-ddeibijijd",
+      "title": "Embodied Learning",
+      "journal": "npj Science of Learning",
+      "journal_id": "7414130f35e4",
+      "publisher": "Nature Portfolio",
+      "issn": "2056-7936",
+      "eissn": "2056-7936",
+      "cfp_url": "https://www.nature.com/collections/ddeibijijd/how-to-submit",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2027-01-10",
+      "deadline_notes_zh": "投稿系统选择 Embodied Learning，并在附信中说明投向该专题。",
+      "topics": [
+        "教育技术",
+        "教育学",
+        "心理学",
+        "STEM Education",
+        "Language Education"
+      ],
+      "keywords": [
+        "Learning Sciences",
+        "Educational Technology",
+        "STEM Education",
+        "Language Education",
+        "Psychology"
+      ],
+      "summary_zh": "研究身体动作、手势、社会协同及生理信号参与学习的机制和边界条件，涵盖课堂、VR/AR、机器人与多模态学习分析。",
+      "indexing": [
+        "SSCI",
+        "SCIE"
+      ],
+      "indexing_verified": true,
+      "indexing_evidence_url": "https://www.nature.com/npjscilearn/for-authors-and-referees/guide-to-authors/about/journal-information",
+      "indexing_checked_at": "2026-10-04",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false
+    },
+    {
+      "id": "sn-bjfcebifdj",
+      "title": "Understanding implied meaning: the psychological mechanisms of advanced pragmatic functions",
+      "journal": "BMC Psychology",
+      "journal_id": "0887144ec2c6",
+      "publisher": "Springer Nature",
+      "issn": "2050-7283",
+      "eissn": "2050-7283",
+      "cfp_url": "https://link.springer.com/collections/bjfcebifdj",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2027-01-03",
+      "deadline_notes_zh": "",
+      "topics": [
+        "AI / NLP",
+        "教育学",
+        "心理学",
+        "Language Education"
+      ],
+      "keywords": [
+        "Psychology",
+        "Psycholinguistics",
+        "NLP",
+        "Language Education"
+      ],
+      "summary_zh": "研究人如何借助情境、社会认知与具身机制理解隐喻、幽默、反讽及多模态线索，包含跨语言比较与语用推理的计算模型。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_verified": true,
+      "indexing_evidence_url": "https://link.springer.com/journal/40359",
+      "indexing_checked_at": "2026-10-04",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false
+    },
+    {
+      "id": "nature-fjadcffcid",
+      "title": "Large language models in psychological science",
+      "journal": "Humanities and Social Sciences Communications",
+      "journal_id": "d700f66ccd30",
+      "publisher": "Nature Portfolio",
+      "issn": "2662-9992",
+      "eissn": "2662-9992",
+      "cfp_url": "https://www.nature.com/collections/fjadcffcid",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2026-10-30",
+      "deadline_notes_zh": "必须对心理科学作出实质贡献。以模型性能、排行榜或 AI 工程为主要贡献的研究通常不属于专题范围。",
+      "topics": [
+        "AI / NLP",
+        "教育学",
+        "心理学",
+        "Language Education"
+      ],
+      "keywords": [
+        "AI",
+        "NLP",
+        "Large Language Models",
+        "Psychology",
+        "Educational Psychology"
+      ],
+      "summary_zh": "探讨大语言模型在心理学理论、测量、实验、干预与教育相关实践中的作用，以及有效性、偏差、可复现性和伦理问题。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_verified": true,
+      "indexing_evidence_url": "https://www.nature.com/palcomms/journal-information/indexing",
+      "indexing_checked_at": "2026-10-04",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false
+    },
+    {
+      "id": "sn-ghadecegcd",
+      "title": "Psychological consequences of human-robot interaction",
+      "journal": "BMC Psychology",
+      "journal_id": "0887144ec2c6",
+      "publisher": "Springer Nature",
+      "issn": "2050-7283",
+      "eissn": "2050-7283",
+      "cfp_url": "https://link.springer.com/collections/ghadecegcd",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2027-02-22",
+      "deadline_notes_zh": "研究对象和理论贡献需符合人机机器人互动及心理学范围。",
+      "topics": [
+        "AI / NLP",
+        "教育技术",
+        "教育学",
+        "心理学"
+      ],
+      "keywords": [
+        "AI",
+        "Psychology",
+        "Educational Technology",
+        "Human-Robot Interaction"
+      ],
+      "summary_zh": "关注人与社会机器人互动中的信任、拟人化、共情、注意与学习，以及不同年龄、文化及使用情境下的认知和行为变化。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_verified": true,
+      "indexing_evidence_url": "https://link.springer.com/journal/40359",
+      "indexing_checked_at": "2026-10-04",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false
+    },
+    {
+      "id": "sn-dacjgchhgh",
+      "title": "Interpersonal and emotional pathways to prosocial behavior in educational settings",
+      "journal": "BMC Psychology",
+      "journal_id": "0887144ec2c6",
+      "publisher": "Springer Nature",
+      "issn": "2050-7283",
+      "eissn": "2050-7283",
+      "cfp_url": "https://link.springer.com/collections/dacjgchhgh",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2027-05-11",
+      "deadline_notes_zh": "",
+      "topics": [
+        "教育学",
+        "心理学"
+      ],
+      "keywords": [
+        "Psychology",
+        "Educational Psychology",
+        "Education",
+        "Social-Emotional Learning"
+      ],
+      "summary_zh": "研究学生共情、合作和助人行为的情绪与认知机制，以及教师、同伴、家庭和学校干预对社会适应、心理健康和学业投入的影响。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_verified": true,
+      "indexing_evidence_url": "https://link.springer.com/journal/40359",
+      "indexing_checked_at": "2026-10-04",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false
+    },
+    {
+      "id": "sn-jegjjbbbeh",
+      "title": "Personality, Identity, and the Self in Digital Environments: Expression, Amplification, and Inference",
+      "journal": "Current Psychology",
+      "journal_id": "cc321858f321",
+      "publisher": "Springer Nature",
+      "issn": "1936-4733",
+      "eissn": "1046-1310",
+      "cfp_url": "https://link.springer.com/collections/jegjjbbbeh",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2027-06-30",
+      "deadline_notes_zh": "接受原创定量或定性研究、系统综述与元分析、理论和概念论文及方法论文。",
+      "topics": [
+        "AI / NLP",
+        "心理学"
+      ],
+      "keywords": [
+        "Psychology",
+        "AI",
+        "NLP",
+        "Human-AI Interaction"
+      ],
+      "summary_zh": "围绕数字环境中的自我表达、平台放大作用与行为推断，研究语言和交互轨迹、AI 互动、个性化算法及数字身份之间的联系。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_verified": true,
+      "indexing_evidence_url": "https://link.springer.com/journal/12144",
+      "indexing_checked_at": "2026-10-04",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false
+    },
+    {
+      "id": "sn-hehbdefjia",
+      "title": "Mathematics and Effective STEM Learning",
+      "journal": "International Journal of STEM Education",
+      "journal_id": "3cd0b3a6a1b5",
+      "publisher": "Springer Nature",
+      "issn": "2196-7822",
+      "eissn": "2196-7822",
+      "cfp_url": "https://link.springer.com/collections/hehbdefjia",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2027-08-31",
+      "deadline_notes_zh": "",
+      "topics": [
+        "教育学",
+        "STEM Education"
+      ],
+      "keywords": [
+        "STEM Education",
+        "Mathematics Education",
+        "Computational Thinking",
+        "Education"
+      ],
+      "summary_zh": "研究数学如何促进跨学科 STEM 学习，重点关注理解与推理、建模、计算思维、知识迁移以及真实科学和工程实践。",
+      "indexing": [
+        "SSCI",
+        "SCIE"
+      ],
+      "indexing_verified": true,
+      "indexing_evidence_url": "https://link.springer.com/journal/40594",
+      "indexing_checked_at": "2026-10-04",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false
+    },
+    {
+      "id": "wiley-ejed-ai-learning-employability",
+      "title": "Artificial Intelligence in Education: Learning, Employability, and Institutional Strategies",
+      "journal": "European Journal of Education",
+      "publisher": "Wiley",
+      "issn": "0141-8211",
+      "eissn": "1465-3435",
+      "journal_url": "https://onlinelibrary.wiley.com/journal/14653435",
+      "cfp_url": "https://onlinelibrary.wiley.com/page/journal/14653435/homepage/call-for-papers/si-2026-000865",
+      "abstract_deadline": "2026-12-20",
+      "abstract_required": true,
+      "full_paper_deadline": "2027-07-30",
+      "proposal_deadline": null,
+      "deadline_notes": "A 500-word abstract is required before invitation to the full manuscript stage. No deadline timezone stated.",
+      "topics": [
+        "AI in Education",
+        "AI / NLP",
+        "教育学"
+      ],
+      "summary_zh": "关注生成式 AI 对学习、评价、就业能力及高校治理的影响。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_status": "verified_publisher",
+      "indexing_evidence_url": "https://onlinelibrary.wiley.com/page/journal/14653435/homepage/productinformation.html",
+      "indexing_evidence_excerpt": "Social Sciences Citation Index (Clarivate Analytics)",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "journal_id": "97123446893c",
+      "indexing_verified": true,
+      "indexing_checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false,
+      "keywords": [
+        "AI in education",
+        "Generative AI",
+        "Higher education",
+        "Educational assessment"
+      ]
+    },
+    {
+      "id": "wiley-jra-youth-generative-ai",
+      "title": "Youth Development in the Age of Generative AI: Beliefs, Practices, and Well-Being",
+      "journal": "Journal of Research on Adolescence",
+      "publisher": "Wiley",
+      "issn": null,
+      "eissn": null,
+      "journal_url": "https://onlinelibrary.wiley.com/journal/15327795",
+      "cfp_url": "https://onlinelibrary.wiley.com/page/journal/15327795/call-for-papers/si-2026-000859",
+      "abstract_deadline": "2026-10-30",
+      "abstract_required": true,
+      "full_paper_deadline": "2027-03-01",
+      "proposal_deadline": null,
+      "deadline_notes": "Abstracts precede invited full manuscripts. No deadline timezone stated.",
+      "topics": [
+        "AI in Education",
+        "AI / NLP",
+        "教育学",
+        "心理学"
+      ],
+      "summary_zh": "关注青少年使用生成式 AI 的学习、社交、情绪与身心发展；要求实证研究。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_status": "verified_publisher",
+      "indexing_evidence_url": "https://onlinelibrary.wiley.com/page/journal/15327795/homepage/productinformation.html",
+      "indexing_evidence_excerpt": "Social Sciences Citation Index (Clarivate Analytics)",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "journal_id": "be9ec7ec1a62",
+      "indexing_verified": true,
+      "indexing_checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false,
+      "keywords": [
+        "AI in education",
+        "Generative AI",
+        "Psychology",
+        "Adolescent development"
+      ]
+    },
+    {
+      "id": "wiley-isj-ai-companions",
+      "title": "AI Companions",
+      "journal": "Information Systems Journal",
+      "publisher": "Wiley",
+      "issn": "1350-1917",
+      "eissn": "1365-2575",
+      "journal_url": "https://onlinelibrary.wiley.com/journal/13652575",
+      "cfp_url": "https://onlinelibrary.wiley.com/page/journal/13652575/homepage/call-for-papers/si-2026-000664",
+      "abstract_deadline": "2026-12-31",
+      "abstract_required": false,
+      "full_paper_deadline": "2027-03-31",
+      "proposal_deadline": null,
+      "deadline_notes": "Extended abstract is OPTIONAL for informal feedback. Full manuscript deadline is stated to be firm. No deadline timezone stated.",
+      "topics": [
+        "AI in Education",
+        "AI / NLP",
+        "教育学",
+        "心理学",
+        "Language Education"
+      ],
+      "summary_zh": "研究 AI 陪伴、辅导和教练系统中的关系、信任、依赖及福祉；论文需提出信息系统领域贡献。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_status": "verified_publisher",
+      "indexing_evidence_url": "https://onlinelibrary.wiley.com/page/journal/13652575/homepage/productinformation.html",
+      "indexing_evidence_excerpt": "Social Sciences Citation Index (Clarivate Analytics)",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "journal_id": "00f6b1458795",
+      "indexing_verified": true,
+      "indexing_checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false,
+      "keywords": [
+        "AI",
+        "Generative AI",
+        "Psychology",
+        "Language education",
+        "AI in education"
+      ]
+    },
+    {
+      "id": "wiley-jidr-ai-intellectual-disabilities",
+      "title": "Artificial Intelligence and Intellectual Disabilities: Opportunities, Risks, and Emerging Evidence",
+      "journal": "Journal of Intellectual Disability Research",
+      "publisher": "Wiley",
+      "issn": null,
+      "eissn": null,
+      "journal_url": "https://onlinelibrary.wiley.com/journal/13652788",
+      "cfp_url": "https://onlinelibrary.wiley.com/page/journal/13652788/call-for-papers/ai-and-intellectual-disabilities",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2027-01-01",
+      "proposal_deadline": null,
+      "deadline_notes": "Manuscript deadline explicitly stated; separate abstract deadline not announced. No deadline timezone stated.",
+      "topics": [
+        "AI in Education",
+        "AI / NLP",
+        "教育学",
+        "心理学"
+      ],
+      "summary_zh": "围绕智力障碍人群的 AI 学习支持、沟通、包容性设计及相关风险。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_status": "verified_publisher",
+      "indexing_evidence_url": "https://onlinelibrary.wiley.com/page/journal/13652788/homepage/productinformation.html",
+      "indexing_evidence_excerpt": "Social Sciences Citation Index (Clarivate Analytics)",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "journal_id": "4a2bb802c2a4",
+      "indexing_verified": true,
+      "indexing_checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false,
+      "keywords": [
+        "AI in education",
+        "Special education",
+        "Psychology",
+        "AI"
+      ]
+    },
+    {
+      "id": "wiley-expert-llms-agentic-healthcare",
+      "title": "LLMs and Agentic AI in Healthcare",
+      "journal": "Expert Systems",
+      "publisher": "Wiley",
+      "issn": null,
+      "eissn": null,
+      "journal_url": "https://onlinelibrary.wiley.com/journal/14680394",
+      "cfp_url": "https://onlinelibrary.wiley.com/page/journal/14680394/homepage/call-for-papers/si-2026-001060",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2027-01-31",
+      "proposal_deadline": null,
+      "deadline_notes": "Submission instructions concern manuscripts; separate abstract deadline not announced. No deadline timezone stated.",
+      "topics": [
+        "AI / NLP",
+        "Explainable AI"
+      ],
+      "summary_zh": "医疗场景中的大语言模型与智能体，包含评估、信任和可解释性；主题匹配属于 AI／NLP。",
+      "indexing": [
+        "SCIE"
+      ],
+      "indexing_status": "verified_publisher",
+      "indexing_evidence_url": "https://onlinelibrary.wiley.com/page/journal/14680394/homepage/productinformation.html",
+      "indexing_evidence_excerpt": "Science Citation Index Expanded (Clarivate Analytics)",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "journal_id": "b3735084cf29",
+      "indexing_verified": true,
+      "indexing_checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false,
+      "keywords": [
+        "AI",
+        "NLP",
+        "Explainable AI"
+      ]
+    },
+    {
+      "publisher": "Wiley",
+      "issn": null,
+      "eissn": null,
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "proposal_deadline": null,
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_status": "verified_publisher",
+      "indexing_evidence_excerpt": "Social Sciences Citation Index (Clarivate Analytics)",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "id": "wiley-hrm-work-related-learning",
+      "title": "Learning That Works and Workers That Learn: Reimagining Work-Related Learning for the Future of HRM",
+      "journal": "Human Resource Management",
+      "journal_url": "https://onlinelibrary.wiley.com/journal/1099050x",
+      "cfp_url": "https://onlinelibrary.wiley.com/page/journal/1099050x/call-for-papers/si-2026-000583",
+      "full_paper_deadline": "2027-01-31",
+      "deadline_notes": "Separate abstract deadline not announced. Human resource management must remain central to the contribution.",
+      "topics": [
+        "AI in Education",
+        "AI / NLP",
+        "教育技术",
+        "教育学",
+        "心理学"
+      ],
+      "summary_zh": "研究工作场景中的正式、自主与 AI 辅助学习，连接认知、动机、技能发展与人力资源实践。",
+      "indexing_evidence_url": "https://onlinelibrary.wiley.com/page/journal/1099050x/homepage/productinformation.html",
+      "journal_id": "42124967cb16",
+      "indexing_verified": true,
+      "indexing_checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false,
+      "keywords": [
+        "AI in education",
+        "Psychology",
+        "Adult learning",
+        "Educational technology"
+      ]
+    },
+    {
+      "publisher": "Wiley",
+      "issn": "1350-1917",
+      "eissn": "1365-2575",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "proposal_deadline": null,
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_status": "verified_publisher",
+      "indexing_evidence_excerpt": "Social Sciences Citation Index (Clarivate Analytics)",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "id": "wiley-isj-ai-future-work",
+      "title": "AI and the Future of Work",
+      "journal": "Information Systems Journal",
+      "journal_url": "https://onlinelibrary.wiley.com/journal/13652575",
+      "cfp_url": "https://onlinelibrary.wiley.com/page/journal/13652575/homepage/call-for-papers/si-2026-000678",
+      "full_paper_deadline": "2027-01-31",
+      "deadline_notes": "Separate abstract deadline not announced; manuscripts must contribute to information systems scholarship.",
+      "topics": [
+        "AI / NLP",
+        "教育学"
+      ],
+      "summary_zh": "关注 AI 对工作、技能学习、职业认同、员工能动性与组织治理的影响。",
+      "indexing_evidence_url": "https://onlinelibrary.wiley.com/page/journal/13652575/homepage/productinformation.html",
+      "journal_id": "00f6b1458795",
+      "indexing_verified": true,
+      "indexing_checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false,
+      "keywords": [
+        "AI",
+        "Generative AI",
+        "Adult learning"
+      ]
+    },
+    {
+      "publisher": "Wiley",
+      "issn": "1350-1917",
+      "eissn": "1365-2575",
+      "abstract_deadline": "2026-12-31",
+      "abstract_required": null,
+      "proposal_deadline": null,
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_status": "verified_publisher",
+      "indexing_evidence_excerpt": "Social Sciences Citation Index (Clarivate Analytics)",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "id": "wiley-isj-genai-environment",
+      "title": "Generative AI and the Environment: How Can IS Scholars Contribute to Addressing the Problem and Identifying Solutions",
+      "journal": "Information Systems Journal",
+      "journal_url": "https://onlinelibrary.wiley.com/journal/13652575",
+      "cfp_url": "https://onlinelibrary.wiley.com/page/journal/13652575/call-for-papers/si-2026-000747",
+      "full_paper_deadline": "2027-06-30",
+      "deadline_notes": "An extended abstract date and full-paper date are separately listed; whether the abstract is mandatory is not explicitly stated.",
+      "topics": [
+        "AI / NLP"
+      ],
+      "summary_zh": "从信息系统视角研究生成式 AI 的环境成本、责任和治理；主题匹配属于 AI。",
+      "indexing_evidence_url": "https://onlinelibrary.wiley.com/page/journal/13652575/homepage/productinformation.html",
+      "journal_id": "00f6b1458795",
+      "indexing_verified": true,
+      "indexing_checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false,
+      "keywords": [
+        "AI",
+        "Generative AI"
+      ]
+    },
+    {
+      "publisher": "Taylor & Francis",
+      "issn": "1539-1523",
+      "eissn": "1945-0818",
+      "abstract_deadline": "2026-11-15",
+      "abstract_required": true,
+      "proposal_deadline": null,
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_status": "verified_publisher",
+      "indexing_evidence_excerpt": "Social Sciences Citation Index",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "id": "tf-jrte-ethics-generative-ai",
+      "title": "Ethics, Responsibility, and Generative AI in Educational Research",
+      "journal": "Journal of Research on Technology in Education",
+      "journal_url": "https://www.tandfonline.com/journals/ujrt20",
+      "cfp_url": "https://think.taylorandfrancis.com/special_issues/ethics-responsibility-and-generative-ai-in-educational-research/",
+      "full_paper_deadline": "2027-04-01",
+      "deadline_notes": "Abstracts of up to 1000 words are required before full manuscripts are invited. No deadline timezone stated.",
+      "topics": [
+        "AI in Education",
+        "AI / NLP",
+        "教育技术",
+        "教育学"
+      ],
+      "summary_zh": "讨论教育研究中使用生成式 AI 的伦理框架、透明性、责任、隐私及研究诚信。",
+      "indexing_evidence_url": "https://www.tandfonline.com/journals/ujrt20/about-this-journal",
+      "verification_notes": "Official about-page text retrieved through search; title-specific indexing section lists SSCI beginning with Vol.49, Issues1-2 (2017). Direct tool fetch intermittently 403.",
+      "journal_id": "d96fde9a0b71",
+      "indexing_verified": true,
+      "indexing_checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false,
+      "keywords": [
+        "AI in education",
+        "Educational technology",
+        "Generative AI"
+      ]
+    },
+    {
+      "id": "sage-spq-social-status",
+      "title": "Social Status",
+      "journal": "Social Psychology Quarterly",
+      "publisher": "Sage",
+      "issn": "0190-2725",
+      "eissn": "1939-8999",
+      "journal_url": "https://journals.sagepub.com/home/spq",
+      "cfp_url": "https://journals.sagepub.com/page/spq/call-for-papers",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2026-12-15",
+      "proposal_deadline": null,
+      "deadline_notes": "Article-length manuscripts and research notes are due December 15, 2026. Separate abstract stage and deadline timezone are not announced.",
+      "topics": [
+        "教育学",
+        "心理学"
+      ],
+      "summary_zh": "研究社会地位的形成、心理效应、情绪与决策，以及课堂中的地位差异与干预。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_status": "verified_publisher",
+      "indexing_evidence_url": "https://in.sagepub.com/en-in/sas/journal/social-psychology-quarterly",
+      "indexing_evidence_excerpt": "Social Sciences Citation Index (Web of Science)",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "verification_notes": "Official Sage India catalog currently lists volume 89 (2026) and explicitly lists SSCI. Official CFP lists classroom status among its topics.",
+      "journal_id": "bcde82688f26",
+      "indexing_verified": true,
+      "indexing_checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false,
+      "keywords": [
+        "Psychology",
+        "Education"
+      ]
+    },
+    {
+      "id": "sage-opr-careers-disruptive-times",
+      "title": "Reconceptualizing Careers in Disruptive Times",
+      "journal": "Organizational Psychology Review",
+      "publisher": "Sage",
+      "issn": "2041-3866",
+      "eissn": "2041-3874",
+      "journal_url": "https://journals.sagepub.com/home/opr",
+      "cfp_url": "https://journals.sagepub.com/pb-assets/cmscontent/OPR/CFP_Reconceptualizing_Careers_in_Disruptive_Times-1776228180230.pdf",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2027-05-01",
+      "proposal_deadline": null,
+      "deadline_notes": "CFP announced; full-paper submission window is April 1 to May 1, 2027, so manuscript submission is not yet open as of October 4, 2026. No separate abstract stage or deadline timezone announced. Only conceptual papers, theory-linked methods papers and meta-analyses are considered; other empirical studies are excluded.",
+      "topics": [
+        "AI / NLP",
+        "教育学",
+        "心理学"
+      ],
+      "summary_zh": "研究 AI、智能体和技能变化如何改变职业发展及专业知识的形成。仅接受概念、理论相关方法与元分析论文；2027 年 4 月开始收稿。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_status": "verified_publisher",
+      "indexing_evidence_url": "https://in.sagepub.com/en-in/sas/journal/organizational-psychology-review",
+      "indexing_evidence_excerpt": "Clarivate Analytics: Social Science Citation Index",
+      "status": "announced",
+      "checked_at": "2026-10-04",
+      "verification_notes": "Official Sage India catalog currently lists volume 16 (2026) and explicitly lists the Social Science Citation Index. Dates read from official CFP PDF, page 4.",
+      "journal_id": "ab5169333ad2",
+      "indexing_verified": true,
+      "indexing_checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false,
+      "keywords": [
+        "Psychology",
+        "AI",
+        "Adult learning"
+      ],
+      "submission_opens": "2027-04-01"
+    },
+    {
+      "id": "auto-0349df805110272d",
+      "title": "SDG 4 Quality Education Collection",
+      "journal": "The Asia-Pacific Education Researcher",
+      "journal_id": "135f3e2f4272",
+      "publisher": "Springer Nature",
+      "cfp_url": "https://link.springer.com/collections/ajbdagfbfd",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2030-01-01",
+      "deadline_notes_zh": "自动识别的官方征稿。请在投稿前查看原文中关于格式、资格及截止时区的要求。",
+      "topics": [
+        "教育学",
+        "STEM Education",
+        "Language Education"
+      ],
+      "keywords": [
+        "教育学",
+        "STEM Education",
+        "Language Education"
+      ],
+      "summary_zh": "围绕可持续发展、公平与全球公民教育的长期跨刊专题。此条仅对应已核验为 SSCI 的 The Asia-Pacific Education Researcher；其他参与期刊需分别核对。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_verified": true,
+      "indexing_evidence_url": "https://link.springer.com/journal/40299",
+      "indexing_checked_at": "2026-10-04",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false
+    },
+    {
+      "id": "auto-2ce868fb925a7637",
+      "title": "Beyond WEIRD: positive psychology in underrepresented contexts",
+      "journal": "BMC Psychology",
+      "journal_id": "0887144ec2c6",
+      "publisher": "Springer Nature",
+      "cfp_url": "https://link.springer.com/collections/jejegcbbaj",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2027-05-25",
+      "deadline_notes_zh": "自动识别的官方征稿。请在投稿前查看原文中关于格式、资格及截止时区的要求。",
+      "topics": [
+        "心理学"
+      ],
+      "keywords": [
+        "心理学"
+      ],
+      "summary_zh": "聚焦代表性不足的文化与社会群体中的积极心理学，研究幸福感、优势与社会情境的关系。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_verified": true,
+      "indexing_evidence_url": "https://link.springer.com/journal/40359",
+      "indexing_checked_at": "2026-10-04",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false
+    },
+    {
+      "id": "auto-9acbbfd6ac9f46c2",
+      "title": "Moral distress in healthcare professionals",
+      "journal": "BMC Psychology",
+      "journal_id": "0887144ec2c6",
+      "publisher": "Springer Nature",
+      "cfp_url": "https://link.springer.com/collections/ejfjciacdi",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2027-05-03",
+      "deadline_notes_zh": "自动识别的官方征稿。请在投稿前查看原文中关于格式、资格及截止时区的要求。",
+      "topics": [
+        "心理学"
+      ],
+      "keywords": [
+        "心理学"
+      ],
+      "summary_zh": "研究医护人员道德困扰的心理机制、测量、职业影响与支持方式。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_verified": true,
+      "indexing_evidence_url": "https://link.springer.com/journal/40359",
+      "indexing_checked_at": "2026-10-04",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false
+    },
+    {
+      "id": "auto-c1ffc803c0651b7f",
+      "title": "Alexithymia: Present Trends and Future Insights into the Construct",
+      "journal": "Current Psychology",
+      "journal_id": "cc321858f321",
+      "publisher": "Springer Nature",
+      "cfp_url": "https://link.springer.com/collections/fhacfjebjf",
+      "abstract_deadline": null,
+      "abstract_required": null,
+      "full_paper_deadline": "2027-06-30",
+      "deadline_notes_zh": "自动识别的官方征稿。请在投稿前查看原文中关于格式、资格及截止时区的要求。",
+      "topics": [
+        "心理学"
+      ],
+      "keywords": [
+        "心理学"
+      ],
+      "summary_zh": "聚焦述情障碍的理论、测量与跨情境表现，以及情绪识别、加工和表达的研究进展。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_verified": true,
+      "indexing_evidence_url": "https://link.springer.com/journal/12144",
+      "indexing_checked_at": "2026-10-04",
+      "status": "open",
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "review_required": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "elsevier",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/browse/calls-for-papers",
+      "description": "ScienceDirect 征稿入口，含 AI、计算机科学、教育与心理学专题。部分页面可能限制自动访问。",
+      "journal_id": null
+    },
+    {
+      "id": "wiley",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/page/journal/13652575/homepage/special_issues.htm",
+      "description": "通过已核验期刊的专题入口发现征稿；摘要与全文分开识别。",
+      "journal_id": null
+    },
+    {
+      "id": "sage",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/open-call-for-papers",
+      "description": "出版社开放征稿入口。普通投稿与客座编辑招募不计入专题征稿。",
+      "journal_id": null
+    },
+    {
+      "id": "taylor-francis",
+      "publisher": "Taylor & Francis",
+      "url": "https://authorservices.taylorandfrancis.com/call-for-papers/",
+      "description": "官方专题征稿入口；部分筛选结果由网页动态加载。",
+      "journal_id": null
+    },
+    {
+      "id": "ieee",
+      "publisher": "IEEE",
+      "url": "https://www.computer.org/publications/author-resources/calls-for-papers",
+      "description": "Computer Society 官方征稿入口。会议和未核验的杂志不会直接进入推送。",
+      "journal_id": null
+    },
+    {
+      "id": "springer-nature",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/40299",
+      "description": "从期刊官网及专题集合发现开放征稿；跨刊专题按接收期刊分别核验。",
+      "journal_id": "135f3e2f4272"
+    },
+    {
+      "id": "nature-portfolio",
+      "publisher": "Nature Portfolio",
+      "url": "https://www.nature.com/palcomms",
+      "description": "从期刊官网及专题集合发现开放征稿；跨刊专题按接收期刊分别核验。",
+      "journal_id": "d700f66ccd30"
+    }
+  ],
+  "monitor": {
+    "last_run": "2026-10-05T02:10:55+00:00",
+    "succeeded": 37,
+    "failed": 31,
+    "sources": [
+      {
+        "id": "elsevier",
+        "status": "error",
+        "candidates": 0,
+        "error": "ValueError: Publisher robots policy disallows this path"
+      },
+      {
+        "id": "wiley",
+        "status": "error",
+        "candidates": 0,
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "id": "sage",
+        "status": "error",
+        "candidates": 0,
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "id": "taylor-francis",
+        "status": "ok",
+        "candidates": 0,
+        "error": null
+      },
+      {
+        "id": "ieee",
+        "status": "ok",
+        "candidates": 1,
+        "error": null
+      },
+      {
+        "id": "springer-nature",
+        "status": "ok",
+        "candidates": 2,
+        "error": null
+      },
+      {
+        "id": "nature-portfolio",
+        "status": "ok",
+        "candidates": 2,
+        "error": null
+      },
+      {
+        "id": "journal-4367af3b142e",
+        "status": "ok",
+        "candidates": 1,
+        "error": null
+      },
+      {
+        "id": "journal-3cd0b3a6a1b5",
+        "status": "ok",
+        "candidates": 0,
+        "error": null
+      },
+      {
+        "id": "journal-7414130f35e4",
+        "status": "error",
+        "candidates": 0,
+        "error": "HTTPError: HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nSee Other"
+      },
+      {
+        "id": "journal-0887144ec2c6",
+        "status": "ok",
+        "candidates": 2,
+        "error": null
+      },
+      {
+        "id": "journal-cc321858f321",
+        "status": "ok",
+        "candidates": 2,
+        "error": null
+      },
+      {
+        "id": "journal-97123446893c",
+        "status": "error",
+        "candidates": 0,
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "id": "journal-be9ec7ec1a62",
+        "status": "error",
+        "candidates": 0,
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "id": "journal-00f6b1458795",
+        "status": "error",
+        "candidates": 0,
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "id": "journal-4a2bb802c2a4",
+        "status": "error",
+        "candidates": 0,
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "id": "journal-b3735084cf29",
+        "status": "error",
+        "candidates": 0,
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "id": "journal-42124967cb16",
+        "status": "error",
+        "candidates": 0,
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "id": "journal-d96fde9a0b71",
+        "status": "error",
+        "candidates": 0,
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "id": "journal-bcde82688f26",
+        "status": "error",
+        "candidates": 0,
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "id": "journal-ab5169333ad2",
+        "status": "error",
+        "candidates": 0,
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "review_candidates": 4,
+    "deferred_candidates": 0,
+    "pages": [
+      {
+        "url": "https://journals.sagepub.com/home/opr",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://journals.sagepub.com/home/spq",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://journals.sagepub.com/open-call-for-papers",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://journals.sagepub.com/page/spq/call-for-papers",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://journals.sagepub.com/pb-assets/cmscontent/OPR/CFP_Reconceptualizing_Careers_in_Disruptive_Times-1776228180230.pdf",
+        "status": "error",
+        "error": "ValueError: Unsupported non-HTML document"
+      },
+      {
+        "url": "https://in.sagepub.com/en-in/sas/journal/organizational-psychology-review",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://in.sagepub.com/en-in/sas/journal/social-psychology-quarterly",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://link.springer.com/collections/bjfcebifdj",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://link.springer.com/collections/dacjgchhgh",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://link.springer.com/collections/chdfcibfje",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://link.springer.com/collections/djhaaaccge",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://link.springer.com/collections/ghadecegcd",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://link.springer.com/collections/ebeecjafif",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://authorservices.taylorandfrancis.com/call-for-papers",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://link.springer.com/collections/hacbfhdedh",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://link.springer.com/collections/hehbdefjia",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://link.springer.com/collections/hbgejjhffg",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://link.springer.com/collections/jegjjbbbeh",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://link.springer.com/journal/12144",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://link.springer.com/journal/40299",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/journal/1099050x",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/journal/13652575",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://link.springer.com/journal/40359",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/journal/13652788",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://link.springer.com/journal/40561",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/journal/14653435",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/journal/14680394",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/journal/15327795",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/page/journal/1099050x/call-for-papers/si-2026-000583",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/page/journal/1099050x/homepage/productinformation.html",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/page/journal/13652575/call-for-papers/si-2026-000747",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/page/journal/13652575/homepage/call-for-papers/si-2026-000664",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/page/journal/13652575/homepage/call-for-papers/si-2026-000678",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/page/journal/13652575/homepage/productinformation.html",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/page/journal/13652575/homepage/special_issues.htm",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/page/journal/13652788/call-for-papers/ai-and-intellectual-disabilities",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/page/journal/13652788/homepage/productinformation.html",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/page/journal/14653435/homepage/call-for-papers/si-2026-000865",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/page/journal/14653435/homepage/productinformation.html",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/page/journal/14680394/homepage/call-for-papers/si-2026-001060",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/page/journal/14680394/homepage/productinformation.html",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/page/journal/15327795/call-for-papers/si-2026-000859",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/page/journal/15327795/homepage/productinformation.html",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://www.computer.org/publications/author-resources/calls-for-papers",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://link.springer.com/journal/40594",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://www.nature.com/collections/fiigeaggcf",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://www.nature.com/collections/ddeibijijd/how-to-submit",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://www.nature.com/collections/fjadcffcid",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://www.nature.com/collections/jfijibbbah",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://www.nature.com/collections/gffbgaahgb",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://www.nature.com/npjscilearn/for-authors-and-referees/guide-to-authors/about/journal-information",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://www.nature.com/palcomms",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://www.sciencedirect.com/browse/calls-for-papers",
+        "status": "error",
+        "error": "ValueError: Publisher robots policy disallows this path"
+      },
+      {
+        "url": "https://www.tandfonline.com/journals/ujrt20",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://www.tandfonline.com/journals/ujrt20/about-this-journal",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://www.nature.com/palcomms/journal-information/indexing",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://www.nature.com/npjscilearn/for-authors-and-referees/guide-to-authors/about",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nSee Other"
+      },
+      {
+        "url": "https://think.taylorandfrancis.com/special_issues/ethics-responsibility-and-generative-ai-in-educational-research",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://link.springer.com/collections/iffhjcagac",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://www.nature.com/collections/bbeidaacgj",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://link.springer.com/collections/ajbdagfbfd",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://link.springer.com/collections/fajaaijijd",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://www.nature.com/collections/qtqsgncqqp",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://link.springer.com/collections/jejegcbbaj",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://www.computer.org/category/call-for-papers/feed",
+        "status": "error",
+        "error": "ValueError: Unsupported non-HTML document"
+      },
+      {
+        "url": "https://link.springer.com/collections/ejfjciacdi",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://link.springer.com/collections/aehdaicgca",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://link.springer.com/collections/fhacfjebjf",
+        "status": "ok",
+        "error": null
+      }
+    ]
+  }
+}

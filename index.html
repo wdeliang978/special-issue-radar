@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#292638">
+  <meta name="description" content="面向 AI、教育与心理学研究的 Special Issue 征稿雷达。仅显示经核验的 SSCI / SCIE 期刊，分别跟踪摘要与全文截止日期。">
+  <title>Call Atlas · 征稿雷达</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="alternate" type="application/rss+xml" title="Call Atlas · SSCI / SCIE 征稿" href="feed.xml">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip" href="#main">跳到征稿列表</a>
+  <aside class="sidebar">
+    <a class="brand" href="./" aria-label="Call Atlas 首页"><span class="brand-mark">a<span>✳</span></span><span>Call Atlas<small>RESEARCH OPPORTUNITIES</small></span></a>
+    <div class="workspace-label">你的研究工作台</div>
+    <nav aria-label="主要导航">
+      <button class="nav-item active" data-view="explore"><span class="nav-icon">◈</span>发现征稿<span id="nav-count" class="nav-count">—</span></button>
+      <button class="nav-item" data-view="calendar"><span class="nav-icon">▦</span>截止日期</button>
+      <button class="nav-item" data-view="saved"><span class="nav-icon">☆</span>我的收藏<span id="saved-count" class="nav-count">0</span></button>
+      <button class="nav-item" data-view="sources"><span class="nav-icon">◎</span>来源与核验</button>
+    </nav>
+    <div class="sidebar-focus"><div class="workspace-label">RESEARCH FOCUS</div><p>AI × Education</p><div>人工智能、教育与学习科学的<br>下一次研究机会。</div><span class="focus-tag">SSCI</span><span class="focus-tag">SCIE</span></div>
+    <div class="sidebar-bottom"><span class="status-dot"></span><span id="sidebar-status">正在读取数据</span><a href="https://github.com/wdeliang978/special-issue-radar" target="_blank" rel="noopener noreferrer">GitHub ↗</a></div>
+  </aside>
+  <div class="page-shell">
+    <header class="topbar"><div class="breadcrumb">研究工作台 <span>/</span> <strong id="breadcrumb">发现征稿</strong></div><div class="top-actions"><span class="today" id="today"></span><button class="button primary small" id="subscribe-top"><span aria-hidden="true">◉</span> 订阅更新</button></div></header>
+    <main id="main">
+      <section class="page-intro"><div><div class="eyebrow">SPECIAL ISSUE RADAR</div><h1 id="page-title">让下一篇研究，找到合适的专刊<span>。</span></h1><p id="page-subtitle">汇集出版社官方征稿，按你的研究方向与截止日期筛选。</p></div><button class="button" id="export-ics"><span aria-hidden="true">↗</span> 导出日历</button></section>
+      <section class="stats" aria-label="征稿概况"><div><span class="stat-label">开放与预告</span><strong id="stat-open">—</strong><small>已核验 SSCI / SCIE</small></div><div><span class="stat-label">30 天内截止</span><strong id="stat-soon">—</strong><small>含摘要与全文截止日期</small></div><div><span class="stat-label">涉及期刊</span><strong id="stat-journals">—</strong><small>匹配你的研究领域</small></div><div><span class="stat-label">最近核验</span><strong id="stat-updated" class="stat-date">—</strong><small id="stat-updated-note">数据加载中</small></div></section>
+      <section class="discovery-controls" id="controls"><div class="control-line"><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜索专题、期刊、关键词…" aria-label="搜索征稿"><kbd>/</kbd></label><select id="publisher" aria-label="出版社"><option value="all">所有出版社</option></select><select id="index-filter" aria-label="收录索引"><option value="all">SSCI + SCIE</option><option value="SSCI">仅 SSCI</option><option value="SCIE">仅 SCIE</option></select></div><div class="topic-line" id="topics" role="group" aria-label="研究方向"></div></section>
+      <section id="listing-section"><div class="results-toolbar"><div><h2 id="results-heading">为你收集的征稿</h2><span id="result-count" class="muted"></span></div><div class="list-options"><select id="status-filter" aria-label="征稿状态"><option value="open">可规划投稿</option><option value="all">全部（含已截止）</option><option value="closed">已截止</option></select><select id="sort" aria-label="排序方式"><option value="deadline">最近截止优先</option><option value="newest">最近发现优先</option><option value="abstract">摘要截止优先</option><option value="full">全文截止优先</option></select></div></div><div id="active-filters"></div><div id="results" aria-live="polite"><div class="loading">正在加载已核验的征稿…</div></div></section>
+      <section id="calendar-section" hidden></section>
+      <section id="sources-section" hidden></section>
+      <footer class="page-footer"><span>Call Atlas <span class="footer-dot">·</span> 给研究留出更多时间。</span><span>日期以出版社原文为准 <span class="footer-dot">·</span> <button id="method-button">收录与覆盖说明</button></span></footer>
+    </main>
+  </div>
+  <dialog id="detail-dialog" aria-labelledby="detail-title"><div id="detail-content"></div><button class="dialog-close" aria-label="关闭详情" data-close>×</button></dialog>
+  <dialog id="subscribe-dialog" aria-labelledby="subscribe-title"><button class="dialog-close" aria-label="关闭订阅说明" data-close>×</button><div class="eyebrow">STAY IN THE LOOP</div><h2 id="subscribe-title">把新的征稿，送到你面前。</h2><p class="muted">仅推送核验通过的 SSCI / SCIE 征稿。重复发现不会重复提醒。</p><div class="subscription-option"><span class="option-icon">◉</span><div><h3>GitHub 通知</h3><p>打开项目，点击 <b>Watch → Custom → Issues</b>。新征稿、明确的截止日期变更及临近截止提醒将生成通知；邮件送达取决于你的 GitHub 通知设置。</p><a class="button primary" href="https://github.com/wdeliang978/special-issue-radar" target="_blank" rel="noopener noreferrer">前往 GitHub 订阅 ↗</a></div></div><div class="subscription-option"><span class="option-icon rss-icon">◔</span><div><h3>RSS 订阅</h3><p>把订阅地址添加到 Feedly、Inoreader 或你的 RSS 阅读器。</p><div class="rss-row"><input id="rss-url" aria-label="RSS 订阅地址" readonly><button id="copy-rss" class="button">复制</button></div><a href="feed.xml" target="_blank" class="text-link">打开 RSS 源 ↗</a></div></div><p id="subscription-status" class="notice">每日自动检查状态见「来源与核验」。</p></dialog>
+  <div id="toast" role="status" class="toast" hidden></div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,151 @@
+{
+  "sources": [
+    {
+      "id": "elsevier",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/browse/calls-for-papers",
+      "description": "ScienceDirect 征稿入口，含 AI、计算机科学、教育与心理学专题。部分页面可能限制自动访问。",
+      "journal_id": null
+    },
+    {
+      "id": "wiley",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/page/journal/13652575/homepage/special_issues.htm",
+      "description": "通过已核验期刊的专题入口发现征稿；摘要与全文分开识别。",
+      "journal_id": null
+    },
+    {
+      "id": "sage",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/open-call-for-papers",
+      "description": "出版社开放征稿入口。普通投稿与客座编辑招募不计入专题征稿。",
+      "journal_id": null
+    },
+    {
+      "id": "taylor-francis",
+      "publisher": "Taylor & Francis",
+      "url": "https://authorservices.taylorandfrancis.com/call-for-papers/",
+      "description": "官方专题征稿入口；部分筛选结果由网页动态加载。",
+      "journal_id": null
+    },
+    {
+      "id": "ieee",
+      "publisher": "IEEE",
+      "url": "https://www.computer.org/publications/author-resources/calls-for-papers",
+      "description": "Computer Society 官方征稿入口。会议和未核验的杂志不会直接进入推送。",
+      "journal_id": null
+    },
+    {
+      "id": "springer-nature",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/40299",
+      "description": "从期刊官网及专题集合发现开放征稿；跨刊专题按接收期刊分别核验。",
+      "journal_id": "135f3e2f4272"
+    },
+    {
+      "id": "nature-portfolio",
+      "publisher": "Nature Portfolio",
+      "url": "https://www.nature.com/palcomms",
+      "description": "从期刊官网及专题集合发现开放征稿；跨刊专题按接收期刊分别核验。",
+      "journal_id": "d700f66ccd30"
+    },
+    {
+      "id": "journal-4367af3b142e",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/40561",
+      "journal_id": "4367af3b142e",
+      "description": "Smart Learning Environments"
+    },
+    {
+      "id": "journal-3cd0b3a6a1b5",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/40594",
+      "journal_id": "3cd0b3a6a1b5",
+      "description": "International Journal of STEM Education"
+    },
+    {
+      "id": "journal-7414130f35e4",
+      "publisher": "Nature Portfolio",
+      "url": "https://www.nature.com/npjscilearn/for-authors-and-referees/guide-to-authors/about",
+      "journal_id": "7414130f35e4",
+      "description": "npj Science of Learning"
+    },
+    {
+      "id": "journal-0887144ec2c6",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/40359",
+      "journal_id": "0887144ec2c6",
+      "description": "BMC Psychology"
+    },
+    {
+      "id": "journal-cc321858f321",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/12144",
+      "journal_id": "cc321858f321",
+      "description": "Current Psychology"
+    },
+    {
+      "id": "journal-97123446893c",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/14653435",
+      "journal_id": "97123446893c",
+      "description": "European Journal of Education"
+    },
+    {
+      "id": "journal-be9ec7ec1a62",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/15327795",
+      "journal_id": "be9ec7ec1a62",
+      "description": "Journal of Research on Adolescence"
+    },
+    {
+      "id": "journal-00f6b1458795",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/13652575",
+      "journal_id": "00f6b1458795",
+      "description": "Information Systems Journal"
+    },
+    {
+      "id": "journal-4a2bb802c2a4",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/13652788",
+      "journal_id": "4a2bb802c2a4",
+      "description": "Journal of Intellectual Disability Research"
+    },
+    {
+      "id": "journal-b3735084cf29",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/14680394",
+      "journal_id": "b3735084cf29",
+      "description": "Expert Systems"
+    },
+    {
+      "id": "journal-42124967cb16",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/1099050x",
+      "journal_id": "42124967cb16",
+      "description": "Human Resource Management"
+    },
+    {
+      "id": "journal-d96fde9a0b71",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/ujrt20",
+      "journal_id": "d96fde9a0b71",
+      "description": "Journal of Research on Technology in Education"
+    },
+    {
+      "id": "journal-bcde82688f26",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/spq",
+      "journal_id": "bcde82688f26",
+      "description": "Social Psychology Quarterly"
+    },
+    {
+      "id": "journal-ab5169333ad2",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/opr",
+      "journal_id": "ab5169333ad2",
+      "description": "Organizational Psychology Review"
+    }
+  ]
+}

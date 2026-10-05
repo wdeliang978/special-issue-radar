@@ -1,0 +1,7 @@
+research/
+__pycache__/
+*.pyc
+*.tmp
+_site/
+qa/
+.DS_Store
