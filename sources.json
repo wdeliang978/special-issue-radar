@@ -170,6 +170,3633 @@
       "url": "https://www.sciencedirect.com/journal/learning-and-individual-differences/about/call-for-papers",
       "journal_id": "67590b8fe54b",
       "description": "Learning and Individual Differences 官方征稿入口"
+    },
+    {
+      "id": "journal-135f3e2f4272-cfp-0",
+      "journal_id": "135f3e2f4272",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/40299/collections",
+      "description": "The Asia-Pacific Education Researcher · 征稿与专题入口"
+    },
+    {
+      "id": "journal-4367af3b142e-cfp-0",
+      "journal_id": "4367af3b142e",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/40561/collections",
+      "description": "Smart Learning Environments · 征稿与专题入口"
+    },
+    {
+      "id": "journal-3cd0b3a6a1b5-cfp-0",
+      "journal_id": "3cd0b3a6a1b5",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/40594/collections",
+      "description": "International Journal of STEM Education · 征稿与专题入口"
+    },
+    {
+      "id": "journal-0887144ec2c6-cfp-0",
+      "journal_id": "0887144ec2c6",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/40359/collections",
+      "description": "BMC Psychology · 征稿与专题入口"
+    },
+    {
+      "id": "journal-cc321858f321-cfp-0",
+      "journal_id": "cc321858f321",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/12144/collections",
+      "description": "Current Psychology · 征稿与专题入口"
+    },
+    {
+      "id": "journal-7c0472297c52",
+      "journal_id": "7c0472297c52",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/41239",
+      "description": "International Journal of Educational Technology in Higher Education"
+    },
+    {
+      "id": "journal-7c0472297c52-cfp-0",
+      "journal_id": "7c0472297c52",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/41239/collections",
+      "description": "International Journal of Educational Technology in Higher Education · 征稿与专题入口"
+    },
+    {
+      "id": "journal-4c5819c24adf",
+      "journal_id": "4c5819c24adf",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/computers-and-education",
+      "description": "COMPUTERS & EDUCATION"
+    },
+    {
+      "id": "journal-4c5819c24adf-cfp-0",
+      "journal_id": "4c5819c24adf",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/computers-and-education/about/call-for-papers",
+      "description": "COMPUTERS & EDUCATION · 征稿与专题入口"
+    },
+    {
+      "id": "journal-7fc6cdcf5633",
+      "journal_id": "7fc6cdcf5633",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/14678535",
+      "description": "BRITISH JOURNAL OF EDUCATIONAL TECHNOLOGY"
+    },
+    {
+      "id": "journal-4e6348e428eb",
+      "journal_id": "4e6348e428eb",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/the-internet-and-higher-education",
+      "description": "Internet and Higher Education"
+    },
+    {
+      "id": "journal-4e6348e428eb-cfp-0",
+      "journal_id": "4e6348e428eb",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/the-internet-and-higher-education/about/call-for-papers",
+      "description": "Internet and Higher Education · 征稿与专题入口"
+    },
+    {
+      "id": "journal-7401fc74de99",
+      "journal_id": "7401fc74de99",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/hedp20",
+      "description": "EDUCATIONAL PSYCHOLOGIST"
+    },
+    {
+      "id": "journal-1ff7a92b8032",
+      "journal_id": "1ff7a92b8032",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/educational-research-review",
+      "description": "Educational Research Review"
+    },
+    {
+      "id": "journal-1ff7a92b8032-cfp-0",
+      "journal_id": "1ff7a92b8032",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/educational-research-review/about/call-for-papers",
+      "description": "Educational Research Review · 征稿与专题入口"
+    },
+    {
+      "id": "journal-0f0b21804007",
+      "journal_id": "0f0b21804007",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rsse20",
+      "description": "Studies in Science Education"
+    },
+    {
+      "id": "journal-b159b196d9a2",
+      "journal_id": "b159b196d9a2",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/ncal20",
+      "description": "Computer Assisted Language Learning"
+    },
+    {
+      "id": "journal-c9a6be8a16f2",
+      "journal_id": "c9a6be8a16f2",
+      "publisher": "Sage",
+      "url": "https://www.sagepub.com/journals/Journal201854/title",
+      "description": "REVIEW OF EDUCATIONAL RESEARCH"
+    },
+    {
+      "id": "journal-cf39d485cf6e",
+      "journal_id": "cf39d485cf6e",
+      "publisher": "Sage",
+      "url": "https://us.sagepub.com/en-us/nam/journal-of-educational-computing-research/journal202399",
+      "description": "JOURNAL OF EDUCATIONAL COMPUTING RESEARCH"
+    },
+    {
+      "id": "journal-f0abc1180d53",
+      "journal_id": "f0abc1180d53",
+      "publisher": "Elsevier",
+      "url": "https://www.elsevier.com/wps/find/journaldescription.cws_home/335/description",
+      "description": "SYSTEM"
+    },
+    {
+      "id": "journal-8b089da60652",
+      "journal_id": "8b089da60652",
+      "publisher": "CAMBRIDGE UNIV PRESS",
+      "url": "https://www.cambridge.org/core/journals/language-teaching",
+      "description": "Language Teaching"
+    },
+    {
+      "id": "journal-e7c8f00d6b2c",
+      "journal_id": "e7c8f00d6b2c",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/the-international-journal-of-management-education",
+      "description": "International Journal of Management Education"
+    },
+    {
+      "id": "journal-e7c8f00d6b2c-cfp-0",
+      "journal_id": "e7c8f00d6b2c",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/the-international-journal-of-management-education/about/call-for-papers",
+      "description": "International Journal of Management Education · 征稿与专题入口"
+    },
+    {
+      "id": "journal-beff3c156c0c",
+      "journal_id": "beff3c156c0c",
+      "publisher": "CAMBRIDGE UNIV PRESS",
+      "url": "https://www.cambridge.org/core/journals/recall",
+      "description": "ReCALL"
+    },
+    {
+      "id": "journal-ffb541fbb692",
+      "journal_id": "ffb541fbb692",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/assessing-writing",
+      "description": "Assessing Writing"
+    },
+    {
+      "id": "journal-ffb541fbb692-cfp-0",
+      "journal_id": "ffb541fbb692",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/assessing-writing/about/call-for-papers",
+      "description": "Assessing Writing · 征稿与专题入口"
+    },
+    {
+      "id": "journal-5a9576e7a9bd",
+      "journal_id": "5a9576e7a9bd",
+      "publisher": "IEEE",
+      "url": "https://ieee-edusociety.org/publication/about-publications/tlt",
+      "description": "IEEE Transactions on Learning Technologies"
+    },
+    {
+      "id": "journal-bc20a057702c",
+      "journal_id": "bc20a057702c",
+      "publisher": "ACAD MANAGEMENT",
+      "url": "https://aom.org/amle/",
+      "description": "Academy of Management Learning & Education"
+    },
+    {
+      "id": "journal-6c2dea96f9bb",
+      "journal_id": "6c2dea96f9bb",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10639",
+      "description": "Education and Information Technologies"
+    },
+    {
+      "id": "journal-6c2dea96f9bb-cfp-0",
+      "journal_id": "6c2dea96f9bb",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10639/collections",
+      "description": "Education and Information Technologies · 征稿与专题入口"
+    },
+    {
+      "id": "journal-1e59228532be",
+      "journal_id": "1e59228532be",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/caeh20",
+      "description": "Assessment & Evaluation in Higher Education"
+    },
+    {
+      "id": "journal-8ffa0da7e057",
+      "journal_id": "8ffa0da7e057",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11412",
+      "description": "International Journal of Computer-Supported Collaborative Learning"
+    },
+    {
+      "id": "journal-8ffa0da7e057-cfp-0",
+      "journal_id": "8ffa0da7e057",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11412/collections",
+      "description": "International Journal of Computer-Supported Collaborative Learning · 征稿与专题入口"
+    },
+    {
+      "id": "journal-c054627d1c9e",
+      "journal_id": "c054627d1c9e",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/nile20",
+      "description": "INTERACTIVE LEARNING ENVIRONMENTS"
+    },
+    {
+      "id": "journal-b31bd34f607b",
+      "journal_id": "b31bd34f607b",
+      "publisher": "AUSTRALASIAN SOC COMPUTERS LEARNING TERTIARY EDUCATION-ASCILITE",
+      "url": "https://ajet.org.au/index.php/AJET",
+      "description": "Australasian Journal of Educational Technology"
+    },
+    {
+      "id": "journal-e2a7b20093cb",
+      "journal_id": "e2a7b20093cb",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/riie20",
+      "description": "INNOVATIONS IN EDUCATION AND TEACHING INTERNATIONAL"
+    },
+    {
+      "id": "journal-98d1d2a3c09b",
+      "journal_id": "98d1d2a3c09b",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/learning-and-instruction",
+      "description": "LEARNING AND INSTRUCTION"
+    },
+    {
+      "id": "journal-98d1d2a3c09b-cfp-0",
+      "journal_id": "98d1d2a3c09b",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/learning-and-instruction/about/call-for-papers",
+      "description": "LEARNING AND INSTRUCTION · 征稿与专题入口"
+    },
+    {
+      "id": "journal-2a7a32963234",
+      "journal_id": "2a7a32963234",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/13652729",
+      "description": "JOURNAL OF COMPUTER ASSISTED LEARNING"
+    },
+    {
+      "id": "journal-054bdf0cd6f9",
+      "journal_id": "054bdf0cd6f9",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11423",
+      "description": "ETR&D-EDUCATIONAL TECHNOLOGY RESEARCH AND DEVELOPMENT"
+    },
+    {
+      "id": "journal-054bdf0cd6f9-cfp-0",
+      "journal_id": "054bdf0cd6f9",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11423/collections",
+      "description": "ETR&D-EDUCATIONAL TECHNOLOGY RESEARCH AND DEVELOPMENT · 征稿与专题入口"
+    },
+    {
+      "id": "journal-31e43e1d74f3",
+      "journal_id": "31e43e1d74f3",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rill20",
+      "description": "Innovation in Language Learning and Teaching"
+    },
+    {
+      "id": "journal-78d525aa83e2",
+      "journal_id": "78d525aa83e2",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10956",
+      "description": "Journal of Science Education and Technology"
+    },
+    {
+      "id": "journal-78d525aa83e2-cfp-0",
+      "journal_id": "78d525aa83e2",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10956/collections",
+      "description": "Journal of Science Education and Technology · 征稿与专题入口"
+    },
+    {
+      "id": "journal-0232b8a4401a",
+      "journal_id": "0232b8a4401a",
+      "publisher": "Sage",
+      "url": "https://www.sagepub.com/journals/Journal201856/title",
+      "description": "Educational Researcher"
+    },
+    {
+      "id": "journal-75162812e6fd",
+      "journal_id": "75162812e6fd",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/thinking-skills-and-creativity",
+      "description": "Thinking Skills and Creativity"
+    },
+    {
+      "id": "journal-75162812e6fd-cfp-0",
+      "journal_id": "75162812e6fd",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/thinking-skills-and-creativity/about/call-for-papers",
+      "description": "Thinking Skills and Creativity · 征稿与专题入口"
+    },
+    {
+      "id": "journal-816854988865",
+      "journal_id": "816854988865",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/21689830",
+      "description": "JOURNAL OF ENGINEERING EDUCATION"
+    },
+    {
+      "id": "journal-b80d8633cbea",
+      "journal_id": "b80d8633cbea",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/15457249",
+      "description": "TESOL QUARTERLY"
+    },
+    {
+      "id": "journal-60a3bd0e4aa2",
+      "journal_id": "60a3bd0e4aa2",
+      "publisher": "Sage",
+      "url": "https://www.sagepub.com/journals/Journal200854/title",
+      "description": "EDUCATIONAL ADMINISTRATION QUARTERLY"
+    },
+    {
+      "id": "journal-47b6df13924c",
+      "journal_id": "47b6df13924c",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cshe20",
+      "description": "STUDIES IN HIGHER EDUCATION"
+    },
+    {
+      "id": "journal-31918ef7442f",
+      "journal_id": "31918ef7442f",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/10982736",
+      "description": "JOURNAL OF RESEARCH IN SCIENCE TEACHING"
+    },
+    {
+      "id": "journal-2e61828cccdb",
+      "journal_id": "2e61828cccdb",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/ltr",
+      "description": "Language Teaching Research"
+    },
+    {
+      "id": "journal-ef35e04d0d96",
+      "journal_id": "ef35e04d0d96",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/hlns20",
+      "description": "JOURNAL OF THE LEARNING SCIENCES"
+    },
+    {
+      "id": "journal-28dcd942e827",
+      "journal_id": "28dcd942e827",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/15404781",
+      "description": "MODERN LANGUAGE JOURNAL"
+    },
+    {
+      "id": "journal-81ac32ff85a5",
+      "journal_id": "81ac32ff85a5",
+      "publisher": "UNIV HAWAII, NATL FOREIGN LANGUAGE RESOURCE CENTER",
+      "url": "https://www.lltjournal.org",
+      "description": "LANGUAGE LEARNING & TECHNOLOGY"
+    },
+    {
+      "id": "journal-e33663ca4cdf",
+      "journal_id": "e33663ca4cdf",
+      "publisher": "ATHABASCA UNIV PRESS",
+      "url": "https://www.irrodl.org/",
+      "description": "International Review of Research in Open and Distributed Learning"
+    },
+    {
+      "id": "journal-806fe69ffeca",
+      "journal_id": "806fe69ffeca",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/jte",
+      "description": "JOURNAL OF TEACHER EDUCATION"
+    },
+    {
+      "id": "journal-bdd3ecf11a2b",
+      "journal_id": "bdd3ecf11a2b",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/soe",
+      "description": "SOCIOLOGY OF EDUCATION"
+    },
+    {
+      "id": "journal-51d2fde752e0",
+      "journal_id": "51d2fde752e0",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/zmeo20",
+      "description": "Medical Education Online"
+    },
+    {
+      "id": "journal-47417a969f76",
+      "journal_id": "47417a969f76",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cced20",
+      "description": "COMPARATIVE EDUCATION"
+    },
+    {
+      "id": "journal-4035e4d034e0",
+      "journal_id": "4035e4d034e0",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/12528",
+      "description": "Journal of Computing in Higher Education"
+    },
+    {
+      "id": "journal-4035e4d034e0-cfp-0",
+      "journal_id": "4035e4d034e0",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/12528/collections",
+      "description": "Journal of Computing in Higher Education · 征稿与专题入口"
+    },
+    {
+      "id": "journal-e6d45254dcd6",
+      "journal_id": "e6d45254dcd6",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10734",
+      "description": "HIGHER EDUCATION"
+    },
+    {
+      "id": "journal-e6d45254dcd6-cfp-0",
+      "journal_id": "e6d45254dcd6",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10734/collections",
+      "description": "HIGHER EDUCATION · 征稿与专题入口"
+    },
+    {
+      "id": "journal-3d1bab7b057d",
+      "journal_id": "3d1bab7b057d",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/teaching-and-teacher-education",
+      "description": "TEACHING AND TEACHER EDUCATION"
+    },
+    {
+      "id": "journal-3d1bab7b057d-cfp-0",
+      "journal_id": "3d1bab7b057d",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/teaching-and-teacher-education/about/call-for-papers",
+      "description": "TEACHING AND TEACHER EDUCATION · 征稿与专题入口"
+    },
+    {
+      "id": "journal-2e5678d2b4ab",
+      "journal_id": "2e5678d2b4ab",
+      "publisher": "Springer Nature",
+      "url": "https://bmcmededuc.biomedcentral.com/",
+      "description": "BMC Medical Education"
+    },
+    {
+      "id": "journal-1de788ff10e2",
+      "journal_id": "1de788ff10e2",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/revista-de-psicodidactica",
+      "description": "Revista de Psicodidactica"
+    },
+    {
+      "id": "journal-1de788ff10e2-cfp-0",
+      "journal_id": "1de788ff10e2",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/revista-de-psicodidactica/about/call-for-papers",
+      "description": "Revista de Psicodidactica · 征稿与专题入口"
+    },
+    {
+      "id": "journal-3899ab38f5ec",
+      "journal_id": "3899ab38f5ec",
+      "publisher": "NATL COUNCIL TEACHERS MATHEMATICS-NCTM",
+      "url": "https://www.nctm.org/publications/jrme.aspx",
+      "description": "JOURNAL FOR RESEARCH IN MATHEMATICS EDUCATION"
+    },
+    {
+      "id": "journal-3cd8e1e42a12",
+      "journal_id": "3cd8e1e42a12",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cape20",
+      "description": "Asia Pacific Journal of Education"
+    },
+    {
+      "id": "journal-f04a2a934294",
+      "journal_id": "f04a2a934294",
+      "publisher": "OXFORD UNIV PRESS",
+      "url": "https://eltj.oxfordjournals.org",
+      "description": "ELT Journal"
+    },
+    {
+      "id": "journal-aa5ce91d40b4",
+      "journal_id": "aa5ce91d40b4",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/1098237x",
+      "description": "SCIENCE EDUCATION"
+    },
+    {
+      "id": "journal-e70f23d5b7bb",
+      "journal_id": "e70f23d5b7bb",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cjem20",
+      "description": "Learning Media and Technology"
+    },
+    {
+      "id": "journal-7d645b82f11f",
+      "journal_id": "7d645b82f11f",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cthe20",
+      "description": "TEACHING IN HIGHER EDUCATION"
+    },
+    {
+      "id": "journal-2fea95bf0f91",
+      "journal_id": "2fea95bf0f91",
+      "publisher": "Sage",
+      "url": "https://www.sagepub.com/journals/Journal200888/title",
+      "description": "Educational Management Administration & Leadership"
+    },
+    {
+      "id": "journal-4cd7c9866331",
+      "journal_id": "4cd7c9866331",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/studies-in-educational-evaluation",
+      "description": "Studies in Educational Evaluation"
+    },
+    {
+      "id": "journal-4cd7c9866331-cfp-0",
+      "journal_id": "4cd7c9866331",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/studies-in-educational-evaluation/about/call-for-papers",
+      "description": "Studies in Educational Evaluation · 征稿与专题入口"
+    },
+    {
+      "id": "journal-92a5c51c2802",
+      "journal_id": "92a5c51c2802",
+      "publisher": "UNIV NACIONAL EDUCACION DISTANCIA",
+      "url": "https://revistas.uned.es/index.php/educacionXX1/index",
+      "description": "Educacion XX1"
+    },
+    {
+      "id": "journal-d7d66252829e",
+      "journal_id": "d7d66252829e",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/14734192",
+      "description": "International Journal of Applied Linguistics"
+    },
+    {
+      "id": "journal-b54c88b7bcdf",
+      "journal_id": "b54c88b7bcdf",
+      "publisher": "Sage",
+      "url": "https://www.sagepub.com/journals/Journal201851/title",
+      "description": "AMERICAN EDUCATIONAL RESEARCH JOURNAL"
+    },
+    {
+      "id": "journal-7943f6a37bfc",
+      "journal_id": "7943f6a37bfc",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/19362722",
+      "description": "READING RESEARCH QUARTERLY"
+    },
+    {
+      "id": "journal-7908ba42bedf",
+      "journal_id": "7908ba42bedf",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11858",
+      "description": "ZDM-Mathematics Education"
+    },
+    {
+      "id": "journal-7908ba42bedf-cfp-0",
+      "journal_id": "7908ba42bedf",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11858/collections",
+      "description": "ZDM-Mathematics Education · 征稿与专题入口"
+    },
+    {
+      "id": "journal-6169a3a28951",
+      "journal_id": "6169a3a28951",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cedr20",
+      "description": "EDUCATIONAL REVIEW"
+    },
+    {
+      "id": "journal-e67667077b99",
+      "journal_id": "e67667077b99",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/journal-of-english-for-academic-purposes",
+      "description": "Journal of English for Academic Purposes"
+    },
+    {
+      "id": "journal-e67667077b99-cfp-0",
+      "journal_id": "e67667077b99",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/journal-of-english-for-academic-purposes/about/call-for-papers",
+      "description": "Journal of English for Academic Purposes · 征稿与专题入口"
+    },
+    {
+      "id": "journal-1d59601713c2",
+      "journal_id": "1d59601713c2",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10993",
+      "description": "Language Policy"
+    },
+    {
+      "id": "journal-1d59601713c2-cfp-0",
+      "journal_id": "1d59601713c2",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10993/collections",
+      "description": "Language Policy · 征稿与专题入口"
+    },
+    {
+      "id": "journal-32c7765eb185",
+      "journal_id": "32c7765eb185",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cher20",
+      "description": "Higher Education Research & Development"
+    },
+    {
+      "id": "journal-a9ad8dd53b00",
+      "journal_id": "a9ad8dd53b00",
+      "publisher": "Sage",
+      "url": "https://www.sagepub.com/journals/Journal200962/title",
+      "description": "European Physical Education Review"
+    },
+    {
+      "id": "journal-a702a6030963",
+      "journal_id": "a702a6030963",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/ceer20",
+      "description": "Environmental Education Research"
+    },
+    {
+      "id": "journal-16a0e711013b",
+      "journal_id": "16a0e711013b",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/journal-of-hospitality-leisure-sport-and-tourism-education",
+      "description": "Journal of Hospitality Leisure Sport & Tourism Education"
+    },
+    {
+      "id": "journal-16a0e711013b-cfp-0",
+      "journal_id": "16a0e711013b",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/journal-of-hospitality-leisure-sport-and-tourism-education/about/call-for-papers",
+      "description": "Journal of Hospitality Leisure Sport & Tourism Education · 征稿与专题入口"
+    },
+    {
+      "id": "journal-311222201493",
+      "journal_id": "311222201493",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11409",
+      "description": "Metacognition and Learning"
+    },
+    {
+      "id": "journal-311222201493-cfp-0",
+      "journal_id": "311222201493",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11409/collections",
+      "description": "Metacognition and Learning · 征稿与专题入口"
+    },
+    {
+      "id": "journal-6182dafa22ad",
+      "journal_id": "6182dafa22ad",
+      "publisher": "ASOCIACION IBEROAMERICANA EDUCACION SUPERIOR & DISTANCIA - AIESAD",
+      "url": "https://revistas.uned.es/index.php/ried",
+      "description": "RIED-Revista Iberoamericana de Educacion a Distancia"
+    },
+    {
+      "id": "journal-e39a82dd4b93",
+      "journal_id": "e39a82dd4b93",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/14679922",
+      "description": "LANGUAGE LEARNING"
+    },
+    {
+      "id": "journal-e6ea6bb69a64",
+      "journal_id": "e6ea6bb69a64",
+      "publisher": "AMER PHYSICAL SOC",
+      "url": "https://journals.aps.org/prper",
+      "description": "Physical Review Physics Education Research"
+    },
+    {
+      "id": "journal-c24e1ecf50a0",
+      "journal_id": "c24e1ecf50a0",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/alh",
+      "description": "Active Learning in Higher Education"
+    },
+    {
+      "id": "journal-af27cf32f7ad",
+      "journal_id": "af27cf32f7ad",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10459",
+      "description": "ADVANCES IN HEALTH SCIENCES EDUCATION"
+    },
+    {
+      "id": "journal-af27cf32f7ad-cfp-0",
+      "journal_id": "af27cf32f7ad",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10459/collections",
+      "description": "ADVANCES IN HEALTH SCIENCES EDUCATION · 征稿与专题入口"
+    },
+    {
+      "id": "journal-4783e6949ad3",
+      "journal_id": "4783e6949ad3",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/14693518",
+      "description": "BRITISH EDUCATIONAL RESEARCH JOURNAL"
+    },
+    {
+      "id": "journal-44cc8e333c99",
+      "journal_id": "44cc8e333c99",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cete20",
+      "description": "European Journal of Teacher Education"
+    },
+    {
+      "id": "journal-c2f304bf87f8",
+      "journal_id": "c2f304bf87f8",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10833",
+      "description": "Journal of Educational Change"
+    },
+    {
+      "id": "journal-c2f304bf87f8-cfp-0",
+      "journal_id": "c2f304bf87f8",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10833/collections",
+      "description": "Journal of Educational Change · 征稿与专题入口"
+    },
+    {
+      "id": "journal-86d77e7b6e2d",
+      "journal_id": "86d77e7b6e2d",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/international-journal-of-educational-research",
+      "description": "International Journal of Educational Research"
+    },
+    {
+      "id": "journal-86d77e7b6e2d-cfp-0",
+      "journal_id": "86d77e7b6e2d",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/international-journal-of-educational-research/about/call-for-papers",
+      "description": "International Journal of Educational Research · 征稿与专题入口"
+    },
+    {
+      "id": "journal-a85b52497ff5",
+      "journal_id": "a85b52497ff5",
+      "publisher": "EMERALD GROUP PUBLISHING LTD",
+      "url": "https://info.emeraldinsight.com/products/journals/journals.htm?id=ijshe",
+      "description": "International Journal of Sustainability in Higher Education"
+    },
+    {
+      "id": "journal-e6ebce93ebe4",
+      "journal_id": "e6ebce93ebe4",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/tedp20",
+      "description": "JOURNAL OF EDUCATION POLICY"
+    },
+    {
+      "id": "journal-db02e95a9028",
+      "journal_id": "db02e95a9028",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rlae20",
+      "description": "Language and Education"
+    },
+    {
+      "id": "journal-0a05e54e0a75",
+      "journal_id": "0a05e54e0a75",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11165",
+      "description": "RESEARCH IN SCIENCE EDUCATION"
+    },
+    {
+      "id": "journal-0a05e54e0a75-cfp-0",
+      "journal_id": "0a05e54e0a75",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11165/collections",
+      "description": "RESEARCH IN SCIENCE EDUCATION · 征稿与专题入口"
+    },
+    {
+      "id": "journal-ebe8dcd62904",
+      "journal_id": "ebe8dcd62904",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/vjee20",
+      "description": "JOURNAL OF ENVIRONMENTAL EDUCATION"
+    },
+    {
+      "id": "journal-8b35e89576dd",
+      "journal_id": "8b35e89576dd",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/linguistics-and-education",
+      "description": "Linguistics and Education"
+    },
+    {
+      "id": "journal-8b35e89576dd-cfp-0",
+      "journal_id": "8b35e89576dd",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/linguistics-and-education/about/call-for-papers",
+      "description": "Linguistics and Education · 征稿与专题入口"
+    },
+    {
+      "id": "journal-00324892fff1",
+      "journal_id": "00324892fff1",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/hmrj20",
+      "description": "International Multilingual Research Journal"
+    },
+    {
+      "id": "journal-e245772f08e2",
+      "journal_id": "e245772f08e2",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cpes20",
+      "description": "Physical Education and Sport Pedagogy"
+    },
+    {
+      "id": "journal-d510c3e993a8",
+      "journal_id": "d510c3e993a8",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/13384",
+      "description": "AUSTRALIAN EDUCATIONAL RESEARCHER"
+    },
+    {
+      "id": "journal-d510c3e993a8-cfp-0",
+      "journal_id": "d510c3e993a8",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/13384/collections",
+      "description": "AUSTRALIAN EDUCATIONAL RESEARCHER · 征稿与专题入口"
+    },
+    {
+      "id": "journal-164a0fee40e1",
+      "journal_id": "164a0fee40e1",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rere20",
+      "description": "EDUCATIONAL RESEARCH"
+    },
+    {
+      "id": "journal-2a85f79a2764",
+      "journal_id": "2a85f79a2764",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cjhe20",
+      "description": "Journal of Higher Education Policy and Management"
+    },
+    {
+      "id": "journal-a7cf94925b7f",
+      "journal_id": "a7cf94925b7f",
+      "publisher": "Sage",
+      "url": "https://www.sagepub.com/journals/Journal201855/title",
+      "description": "Review of Research in Education"
+    },
+    {
+      "id": "journal-f2f388724216",
+      "journal_id": "f2f388724216",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11024",
+      "description": "MINERVA"
+    },
+    {
+      "id": "journal-f2f388724216-cfp-0",
+      "journal_id": "f2f388724216",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11024/collections",
+      "description": "MINERVA · 征稿与专题入口"
+    },
+    {
+      "id": "journal-ad24c375aae5",
+      "journal_id": "ad24c375aae5",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/epa",
+      "description": "EDUCATIONAL EVALUATION AND POLICY ANALYSIS"
+    },
+    {
+      "id": "journal-714e1e59c868",
+      "journal_id": "714e1e59c868",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/caie20",
+      "description": "Assessment in Education-Principles Policy & Practice"
+    },
+    {
+      "id": "journal-cafadddb8a10",
+      "journal_id": "cafadddb8a10",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rcse20",
+      "description": "Critical Studies in Education"
+    },
+    {
+      "id": "journal-f2b01e47d1d8",
+      "journal_id": "f2b01e47d1d8",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rjie20",
+      "description": "Professional Development in Education"
+    },
+    {
+      "id": "journal-40405e998f7f",
+      "journal_id": "40405e998f7f",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10798",
+      "description": "INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION"
+    },
+    {
+      "id": "journal-40405e998f7f-cfp-0",
+      "journal_id": "40405e998f7f",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10798/collections",
+      "description": "INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION · 征稿与专题入口"
+    },
+    {
+      "id": "journal-0fd336e8f3bd",
+      "journal_id": "0fd336e8f3bd",
+      "publisher": "Sage",
+      "url": "https://www.sagepub.com/journals/Journal201378/title",
+      "description": "Journal of Studies in International Education"
+    },
+    {
+      "id": "journal-496624c550a3",
+      "journal_id": "496624c550a3",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/capj20",
+      "description": "Asia-Pacific Journal of Teacher Education"
+    },
+    {
+      "id": "journal-c54fc2eb00ca",
+      "journal_id": "c54fc2eb00ca",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rlcc20",
+      "description": "Language Culture and Curriculum"
+    },
+    {
+      "id": "journal-c7fd6ea0760a",
+      "journal_id": "c7fd6ea0760a",
+      "publisher": "Sage",
+      "url": "https://us.sagepub.com/en-us/nam/journal/aera-open",
+      "description": "AERA Open"
+    },
+    {
+      "id": "journal-d57ffdb74275",
+      "journal_id": "d57ffdb74275",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10763",
+      "description": "International Journal of Science and Mathematics Education"
+    },
+    {
+      "id": "journal-d57ffdb74275-cfp-0",
+      "journal_id": "d57ffdb74275",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10763/collections",
+      "description": "International Journal of Science and Mathematics Education · 征稿与专题入口"
+    },
+    {
+      "id": "journal-6dd28bd3513f",
+      "journal_id": "6dd28bd3513f",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11092",
+      "description": "Educational Assessment Evaluation and Accountability"
+    },
+    {
+      "id": "journal-6dd28bd3513f-cfp-0",
+      "journal_id": "6dd28bd3513f",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11092/collections",
+      "description": "Educational Assessment Evaluation and Accountability · 征稿与专题入口"
+    },
+    {
+      "id": "journal-dbb2445b58e4",
+      "journal_id": "dbb2445b58e4",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/ctat20",
+      "description": "Teachers and Teaching"
+    },
+    {
+      "id": "journal-87281fbde742",
+      "journal_id": "87281fbde742",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/htip20",
+      "description": "THEORY INTO PRACTICE"
+    },
+    {
+      "id": "journal-4096c61274fb",
+      "journal_id": "4096c61274fb",
+      "publisher": "WALTER DE GRUYTER GMBH",
+      "url": "https://www.degruyterbrill.com/journal/key/iral/html",
+      "description": "IRAL-INTERNATIONAL REVIEW OF APPLIED LINGUISTICS IN LANGUAGE TEACHING"
+    },
+    {
+      "id": "journal-667aaef73fbd",
+      "journal_id": "667aaef73fbd",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/utrs20",
+      "description": "THEORY AND RESEARCH IN SOCIAL EDUCATION"
+    },
+    {
+      "id": "journal-cf7e50bbc946",
+      "journal_id": "cf7e50bbc946",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/tcus20",
+      "description": "JOURNAL OF CURRICULUM STUDIES"
+    },
+    {
+      "id": "journal-dddaf29035c1",
+      "journal_id": "dddaf29035c1",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/hssr20",
+      "description": "SCIENTIFIC STUDIES OF READING"
+    },
+    {
+      "id": "journal-5bf49b09446f",
+      "journal_id": "5bf49b09446f",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11251",
+      "description": "INSTRUCTIONAL SCIENCE"
+    },
+    {
+      "id": "journal-5bf49b09446f-cfp-0",
+      "journal_id": "5bf49b09446f",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11251/collections",
+      "description": "INSTRUCTIONAL SCIENCE · 征稿与专题入口"
+    },
+    {
+      "id": "journal-c244754bbfdd",
+      "journal_id": "c244754bbfdd",
+      "publisher": "EMERALD GROUP PUBLISHING LTD",
+      "url": "https://www.emeraldinsight.com/0957-8234.htm",
+      "description": "JOURNAL OF EDUCATIONAL ADMINISTRATION"
+    },
+    {
+      "id": "journal-b35e11dab26c",
+      "journal_id": "b35e11dab26c",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/smh",
+      "description": "Teacher Education and Special Education"
+    },
+    {
+      "id": "journal-2945252fa9fa",
+      "journal_id": "2945252fa9fa",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cses20",
+      "description": "SPORT EDUCATION AND SOCIETY"
+    },
+    {
+      "id": "journal-da80fb7ec33b",
+      "journal_id": "da80fb7ec33b",
+      "publisher": "EMERALD GROUP PUBLISHING LTD",
+      "url": "https://www.emeraldgrouppublishing.com/journal/et",
+      "description": "Education and Training"
+    },
+    {
+      "id": "journal-f34953e371af",
+      "journal_id": "f34953e371af",
+      "publisher": "ROYAL SOC CHEMISTRY",
+      "url": "https://www.rsc.org/Education/CERP/",
+      "description": "Chemistry Education Research and Practice"
+    },
+    {
+      "id": "journal-27b25072242e",
+      "journal_id": "27b25072242e",
+      "publisher": "Elsevier",
+      "url": "https://www.elsevier.com/wps/find/journaldescription.cws_home/620184/description",
+      "description": "EARLY CHILDHOOD RESEARCH QUARTERLY"
+    },
+    {
+      "id": "journal-e445320527f1",
+      "journal_id": "e445320527f1",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/uhej20",
+      "description": "JOURNAL OF HIGHER EDUCATION"
+    },
+    {
+      "id": "journal-0a31a4ea6b38",
+      "journal_id": "0a31a4ea6b38",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/international-journal-of-educational-development",
+      "description": "INTERNATIONAL JOURNAL OF EDUCATIONAL DEVELOPMENT"
+    },
+    {
+      "id": "journal-0a31a4ea6b38-cfp-0",
+      "journal_id": "0a31a4ea6b38",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/international-journal-of-educational-development/about/call-for-papers",
+      "description": "INTERNATIONAL JOURNAL OF EDUCATIONAL DEVELOPMENT · 征稿与专题入口"
+    },
+    {
+      "id": "journal-ff8d5984032c",
+      "journal_id": "ff8d5984032c",
+      "publisher": "UNIV CHICAGO PRESS",
+      "url": "https://www.journals.uchicago.edu/cer",
+      "description": "COMPARATIVE EDUCATION REVIEW"
+    },
+    {
+      "id": "journal-bde4fc5a6de0",
+      "journal_id": "bde4fc5a6de0",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/40596",
+      "description": "ACADEMIC PSYCHIATRY"
+    },
+    {
+      "id": "journal-bde4fc5a6de0-cfp-0",
+      "journal_id": "bde4fc5a6de0",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/40596/collections",
+      "description": "ACADEMIC PSYCHIATRY · 征稿与专题入口"
+    },
+    {
+      "id": "journal-35e934376dcc",
+      "journal_id": "35e934376dcc",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cedp20",
+      "description": "Educational Psychology"
+    },
+    {
+      "id": "journal-57cedb7c05f6",
+      "journal_id": "57cedb7c05f6",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11191",
+      "description": "Science & Education"
+    },
+    {
+      "id": "journal-57cedb7c05f6-cfp-0",
+      "journal_id": "57cedb7c05f6",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11191/collections",
+      "description": "Science & Education · 征稿与专题入口"
+    },
+    {
+      "id": "journal-a96ee06d251f",
+      "journal_id": "a96ee06d251f",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rtpe20",
+      "description": "Technology Pedagogy and Education"
+    },
+    {
+      "id": "journal-6502244ebdfe",
+      "journal_id": "6502244ebdfe",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10649",
+      "description": "Educational Studies in Mathematics"
+    },
+    {
+      "id": "journal-6502244ebdfe-cfp-0",
+      "journal_id": "6502244ebdfe",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10649/collections",
+      "description": "Educational Studies in Mathematics · 征稿与专题入口"
+    },
+    {
+      "id": "journal-6de9146bf18c",
+      "journal_id": "6de9146bf18c",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rbje20",
+      "description": "BRITISH JOURNAL OF EDUCATIONAL STUDIES"
+    },
+    {
+      "id": "journal-e1859d4226d4",
+      "journal_id": "e1859d4226d4",
+      "publisher": "JOHNS HOPKINS UNIV PRESS",
+      "url": "https://www.press.jhu.edu/journals/review_of_higher_education/",
+      "description": "REVIEW OF HIGHER EDUCATION"
+    },
+    {
+      "id": "journal-ea0255ea4c27",
+      "journal_id": "ea0255ea4c27",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/vjer20",
+      "description": "JOURNAL OF EDUCATIONAL RESEARCH"
+    },
+    {
+      "id": "journal-97cd4b0605c5",
+      "journal_id": "97cd4b0605c5",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/wmhe20",
+      "description": "Journal of Marketing for Higher Education"
+    },
+    {
+      "id": "journal-cf81a460495f",
+      "journal_id": "cf81a460495f",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/nses20",
+      "description": "SCHOOL EFFECTIVENESS AND SCHOOL IMPROVEMENT"
+    },
+    {
+      "id": "journal-ff6d34f284fd",
+      "journal_id": "ff6d34f284fd",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/tsed20",
+      "description": "INTERNATIONAL JOURNAL OF SCIENCE EDUCATION"
+    },
+    {
+      "id": "journal-28756917a008",
+      "journal_id": "28756917a008",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/core20",
+      "description": "OXFORD REVIEW OF EDUCATION"
+    },
+    {
+      "id": "journal-59d081602bfc",
+      "journal_id": "59d081602bfc",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cree20",
+      "description": "Race Ethnicity and Education"
+    },
+    {
+      "id": "journal-1068f96e9889",
+      "journal_id": "1068f96e9889",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cjme20",
+      "description": "JOURNAL OF MORAL EDUCATION"
+    },
+    {
+      "id": "journal-abccbd274aac",
+      "journal_id": "abccbd274aac",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cgee20",
+      "description": "GENDER AND EDUCATION"
+    },
+    {
+      "id": "journal-22171e171a08",
+      "journal_id": "22171e171a08",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11145",
+      "description": "READING AND WRITING"
+    },
+    {
+      "id": "journal-22171e171a08-cfp-0",
+      "journal_id": "22171e171a08",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11145/collections",
+      "description": "READING AND WRITING · 征稿与专题入口"
+    },
+    {
+      "id": "journal-42158ff87ba6",
+      "journal_id": "42158ff87ba6",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cjet20",
+      "description": "JOURNAL OF EDUCATION FOR TEACHING"
+    },
+    {
+      "id": "journal-77abfad6f781",
+      "journal_id": "77abfad6f781",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/raee20",
+      "description": "Journal of Agricultural Education & Extension"
+    },
+    {
+      "id": "journal-0ce0f998f27e",
+      "journal_id": "0ce0f998f27e",
+      "publisher": "UNIV GRANADA",
+      "url": "https://revistaseug.ugr.es/index.php/portalin/en",
+      "description": "Porta Linguarum"
+    },
+    {
+      "id": "journal-a9309525c441",
+      "journal_id": "a9309525c441",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rmjm20",
+      "description": "International Journal of Multilingualism"
+    },
+    {
+      "id": "journal-6016d9f6bc17",
+      "journal_id": "6016d9f6bc17",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11162",
+      "description": "RESEARCH IN HIGHER EDUCATION"
+    },
+    {
+      "id": "journal-6016d9f6bc17-cfp-0",
+      "journal_id": "6016d9f6bc17",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11162/collections",
+      "description": "RESEARCH IN HIGHER EDUCATION · 征稿与专题入口"
+    },
+    {
+      "id": "journal-5b0b7065f0ef",
+      "journal_id": "5b0b7065f0ef",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/12564",
+      "description": "Asia Pacific Education Review"
+    },
+    {
+      "id": "journal-5b0b7065f0ef-cfp-0",
+      "journal_id": "5b0b7065f0ef",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/12564/collections",
+      "description": "Asia Pacific Education Review · 征稿与专题入口"
+    },
+    {
+      "id": "journal-02e55609609e",
+      "journal_id": "02e55609609e",
+      "publisher": "APA",
+      "url": "https://www.apa.org/journals/dhe/",
+      "description": "Journal of Diversity in Higher Education"
+    },
+    {
+      "id": "journal-fbca184fc6a0",
+      "journal_id": "fbca184fc6a0",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10857",
+      "description": "Journal of Mathematics Teacher Education"
+    },
+    {
+      "id": "journal-fbca184fc6a0-cfp-0",
+      "journal_id": "fbca184fc6a0",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10857/collections",
+      "description": "Journal of Mathematics Teacher Education · 征稿与专题入口"
+    },
+    {
+      "id": "journal-345c11b18961",
+      "journal_id": "345c11b18961",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/17453992",
+      "description": "Educational Measurement-Issues and Practice"
+    },
+    {
+      "id": "journal-bb0a22b61cfa",
+      "journal_id": "bb0a22b61cfa",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/12186",
+      "description": "Vocations and Learning"
+    },
+    {
+      "id": "journal-bb0a22b61cfa-cfp-0",
+      "journal_id": "bb0a22b61cfa",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/12186/collections",
+      "description": "Vocations and Learning · 征稿与专题入口"
+    },
+    {
+      "id": "journal-79b2214dd233",
+      "journal_id": "79b2214dd233",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/epx",
+      "description": "EDUCATIONAL POLICY"
+    },
+    {
+      "id": "journal-ca078dde079f",
+      "journal_id": "ca078dde079f",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cdis20",
+      "description": "Discourse-Studies in the Cultural Politics of Education"
+    },
+    {
+      "id": "journal-34bd2673c12f",
+      "journal_id": "34bd2673c12f",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/uqst20",
+      "description": "QUEST"
+    },
+    {
+      "id": "journal-bd11f3f75b74",
+      "journal_id": "bd11f3f75b74",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cbse20",
+      "description": "BRITISH JOURNAL OF SOCIOLOGY OF EDUCATION"
+    },
+    {
+      "id": "journal-dbdc3bd80a47",
+      "journal_id": "dbdc3bd80a47",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/41307",
+      "description": "Higher Education Policy"
+    },
+    {
+      "id": "journal-dbdc3bd80a47-cfp-0",
+      "journal_id": "dbdc3bd80a47",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/41307/collections",
+      "description": "Higher Education Policy · 征稿与专题入口"
+    },
+    {
+      "id": "journal-665c9fc72c61",
+      "journal_id": "665c9fc72c61",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rred20",
+      "description": "Research Papers in Education"
+    },
+    {
+      "id": "journal-2ddf7aa1ed1b",
+      "journal_id": "2ddf7aa1ed1b",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/ccom20",
+      "description": "Compare-A Journal of Comparative and International Education"
+    },
+    {
+      "id": "journal-f96741334129",
+      "journal_id": "f96741334129",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/learning-culture-and-social-interaction",
+      "description": "Learning Culture and Social Interaction"
+    },
+    {
+      "id": "journal-f96741334129-cfp-0",
+      "journal_id": "f96741334129",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/learning-culture-and-social-interaction/about/call-for-papers",
+      "description": "Learning Culture and Social Interaction · 征稿与专题入口"
+    },
+    {
+      "id": "journal-38de138a1fd2",
+      "journal_id": "38de138a1fd2",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/heed20",
+      "description": "Early Education and Development"
+    },
+    {
+      "id": "journal-50f56bb4ad47",
+      "journal_id": "50f56bb4ad47",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/tied20",
+      "description": "International Journal of Inclusive Education"
+    },
+    {
+      "id": "journal-32e6cb55aefe",
+      "journal_id": "32e6cb55aefe",
+      "publisher": "COLEGIO OFICIAL PSICOLOGOS MADRID",
+      "url": "https://www.copmadrid.org/webcopm/resource.do?recurso=6000",
+      "description": "Psicologia Educativa"
+    },
+    {
+      "id": "journal-7690af94dea8",
+      "journal_id": "7690af94dea8",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/csed20",
+      "description": "Sex Education-Sexuality Society and Learning"
+    },
+    {
+      "id": "journal-78a65cb76bdc",
+      "journal_id": "78a65cb76bdc",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rbeb20",
+      "description": "International Journal of Bilingual Education and Bilingualism"
+    },
+    {
+      "id": "journal-96165760d098",
+      "journal_id": "96165760d098",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/17414369",
+      "description": "Literacy"
+    },
+    {
+      "id": "journal-6c8c95df4272",
+      "journal_id": "6c8c95df4272",
+      "publisher": "Sage",
+      "url": "https://us.sagepub.com/en-us/nam/journal/european-educational-research-journal",
+      "description": "European Educational Research Journal"
+    },
+    {
+      "id": "journal-e92af3c5bf1c",
+      "journal_id": "e92af3c5bf1c",
+      "publisher": "EMERALD GROUP PUBLISHING LTD",
+      "url": "https://www.emeraldinsight.com/loi/jpcc",
+      "description": "Journal of Professional Capital and Community"
+    },
+    {
+      "id": "journal-8beea9ecf78c",
+      "journal_id": "8beea9ecf78c",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/1751228x",
+      "description": "Mind Brain and Education"
+    },
+    {
+      "id": "journal-d232ee1c16e5",
+      "journal_id": "d232ee1c16e5",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/crst20",
+      "description": "Research in Science & Technological Education"
+    },
+    {
+      "id": "journal-40a1aff09e2a",
+      "journal_id": "40a1aff09e2a",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/19449720",
+      "description": "FOREIGN LANGUAGE ANNALS"
+    },
+    {
+      "id": "journal-2cc8efd46a40",
+      "journal_id": "2cc8efd46a40",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/economics-of-education-review",
+      "description": "ECONOMICS OF EDUCATION REVIEW"
+    },
+    {
+      "id": "journal-2cc8efd46a40-cfp-0",
+      "journal_id": "2cc8efd46a40",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/economics-of-education-review/about/call-for-papers",
+      "description": "ECONOMICS OF EDUCATION REVIEW · 征稿与专题入口"
+    },
+    {
+      "id": "journal-6ec092b120b8",
+      "journal_id": "6ec092b120b8",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11422",
+      "description": "Cultural Studies of Science Education"
+    },
+    {
+      "id": "journal-6ec092b120b8-cfp-0",
+      "journal_id": "6ec092b120b8",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11422/collections",
+      "description": "Cultural Studies of Science Education · 征稿与专题入口"
+    },
+    {
+      "id": "journal-ccb45ec4f743",
+      "journal_id": "ccb45ec4f743",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/hlie20",
+      "description": "Journal of Language Identity and Education"
+    },
+    {
+      "id": "journal-a950c68ecf3c",
+      "journal_id": "a950c68ecf3c",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rclp20",
+      "description": "Current Issues in Language Planning"
+    },
+    {
+      "id": "journal-2142d5fd97f7",
+      "journal_id": "2142d5fd97f7",
+      "publisher": "UNIV CHICAGO PRESS",
+      "url": "https://www.journals.uchicago.edu/aje",
+      "description": "AMERICAN JOURNAL OF EDUCATION"
+    },
+    {
+      "id": "journal-0824e1a36058",
+      "journal_id": "0824e1a36058",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/wjsv20",
+      "description": "Journal of School Violence"
+    },
+    {
+      "id": "journal-e0516a49ff8a",
+      "journal_id": "e0516a49ff8a",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10643",
+      "description": "Early Childhood Education Journal"
+    },
+    {
+      "id": "journal-e0516a49ff8a-cfp-0",
+      "journal_id": "e0516a49ff8a",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10643/collections",
+      "description": "Early Childhood Education Journal · 征稿与专题入口"
+    },
+    {
+      "id": "journal-2867ab339348",
+      "journal_id": "2867ab339348",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/csce20",
+      "description": "Studies in Continuing Education"
+    },
+    {
+      "id": "journal-d4198e917af8",
+      "journal_id": "d4198e917af8",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/ccje20",
+      "description": "Cambridge Journal of Education"
+    },
+    {
+      "id": "journal-b6803816a719",
+      "journal_id": "b6803816a719",
+      "publisher": "Sage",
+      "url": "https://www.sagepub.com/journals/Journal201853/title",
+      "description": "JOURNAL OF EDUCATIONAL AND BEHAVIORAL STATISTICS"
+    },
+    {
+      "id": "journal-2000c630bb00",
+      "journal_id": "2000c630bb00",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/ries20",
+      "description": "Irish Educational Studies"
+    },
+    {
+      "id": "journal-cb5852c175ea",
+      "journal_id": "cb5852c175ea",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/uree20",
+      "description": "Journal of Research on Educational Effectiveness"
+    },
+    {
+      "id": "journal-88f33a5d9cbf",
+      "journal_id": "88f33a5d9cbf",
+      "publisher": "Sage",
+      "url": "https://www.cambridge.org/core/journals/journal-of-psychologists-and-counsellors-in-schools",
+      "description": "Journal of Psychologists and Counsellors in Schools"
+    },
+    {
+      "id": "journal-b334d0221565",
+      "journal_id": "b334d0221565",
+      "publisher": "Sage",
+      "url": "https://www.sagepub.com/journals/Journal200963/title",
+      "description": "URBAN EDUCATION"
+    },
+    {
+      "id": "journal-b1d153424069",
+      "journal_id": "b1d153424069",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rept20",
+      "description": "Educational Philosophy and Theory"
+    },
+    {
+      "id": "journal-059b243fbcf2",
+      "journal_id": "059b243fbcf2",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/17461561",
+      "description": "JOURNAL OF SCHOOL HEALTH"
+    },
+    {
+      "id": "journal-1526aec40ff7",
+      "journal_id": "1526aec40ff7",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/uswe20",
+      "description": "JOURNAL OF SOCIAL WORK EDUCATION"
+    },
+    {
+      "id": "journal-2256b5e140b1",
+      "journal_id": "2256b5e140b1",
+      "publisher": "UNISA PRESS",
+      "url": "https://unisapressjournals.co.za/index.php/EAC",
+      "description": "Education as Change"
+    },
+    {
+      "id": "journal-7e8fa0d8f045",
+      "journal_id": "7e8fa0d8f045",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/aed",
+      "description": "AUSTRALIAN JOURNAL OF EDUCATION"
+    },
+    {
+      "id": "journal-faa7e9e91540",
+      "journal_id": "faa7e9e91540",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/hmca20",
+      "description": "Mind Culture and Activity"
+    },
+    {
+      "id": "journal-dad5c3cced33",
+      "journal_id": "dad5c3cced33",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/ceds20",
+      "description": "EDUCATIONAL STUDIES"
+    },
+    {
+      "id": "journal-948474188634",
+      "journal_id": "948474188634",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/14679817",
+      "description": "JOURNAL OF RESEARCH IN READING"
+    },
+    {
+      "id": "journal-a4e8daad9f99",
+      "journal_id": "a4e8daad9f99",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/jlr",
+      "description": "JOURNAL OF LITERACY RESEARCH"
+    },
+    {
+      "id": "journal-cd2bc73af392",
+      "journal_id": "cd2bc73af392",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/recr20",
+      "description": "European Early Childhood Education Research Journal"
+    },
+    {
+      "id": "journal-0803c5bd151b",
+      "journal_id": "0803c5bd151b",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10775",
+      "description": "International Journal for Educational and Vocational Guidance"
+    },
+    {
+      "id": "journal-0803c5bd151b-cfp-0",
+      "journal_id": "0803c5bd151b",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10775/collections",
+      "description": "International Journal for Educational and Vocational Guidance · 征稿与专题入口"
+    },
+    {
+      "id": "journal-16c28873ae39",
+      "journal_id": "16c28873ae39",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rija20",
+      "description": "International Journal for Academic Development"
+    },
+    {
+      "id": "journal-bb257314153b",
+      "journal_id": "bb257314153b",
+      "publisher": "Sage",
+      "url": "https://www.uk.sagepub.com/journals/Journal201828/title",
+      "description": "SECOND LANGUAGE RESEARCH"
+    },
+    {
+      "id": "journal-92ab0dbd4db7",
+      "journal_id": "92ab0dbd4db7",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/19362714",
+      "description": "READING TEACHER"
+    },
+    {
+      "id": "journal-8d8599790593",
+      "journal_id": "8d8599790593",
+      "publisher": "Sage",
+      "url": "https://www.sagepub.com/journals/Journal201777/title",
+      "description": "HEALTH EDUCATION JOURNAL"
+    },
+    {
+      "id": "journal-9ea0e4a335f7",
+      "journal_id": "9ea0e4a335f7",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/uedg20",
+      "description": "EDUCATIONAL GERONTOLOGY"
+    },
+    {
+      "id": "journal-252f3469f488",
+      "journal_id": "252f3469f488",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/top",
+      "description": "TEACHING OF PSYCHOLOGY"
+    },
+    {
+      "id": "journal-eac42cff4c7d",
+      "journal_id": "eac42cff4c7d",
+      "publisher": "JOHNS HOPKINS UNIV PRESS",
+      "url": "https://www.jcsdonline.org",
+      "description": "JOURNAL OF COLLEGE STUDENT DEVELOPMENT"
+    },
+    {
+      "id": "journal-0c774b3bc690",
+      "journal_id": "0c774b3bc690",
+      "publisher": "HARVARD GRADUATE SCHOOL EDUCATION",
+      "url": "https://hepg.org/her-home/home",
+      "description": "HARVARD EDUCATIONAL REVIEW"
+    },
+    {
+      "id": "journal-131c1c181c60",
+      "journal_id": "131c1c181c60",
+      "publisher": "EMERALD GROUP PUBLISHING LTD",
+      "url": "https://www.emeraldgrouppublishing.com/journal/etpc",
+      "description": "English Teaching-Practice and Critique"
+    },
+    {
+      "id": "journal-2429ea544984",
+      "journal_id": "2429ea544984",
+      "publisher": "MIT PRESS",
+      "url": "https://direct.mit.edu/edfp",
+      "description": "Education Finance and Policy"
+    },
+    {
+      "id": "journal-bf118375e491",
+      "journal_id": "bf118375e491",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/csje20",
+      "description": "Scandinavian Journal of Educational Research"
+    },
+    {
+      "id": "journal-f4bd024edd77",
+      "journal_id": "f4bd024edd77",
+      "publisher": "Sage",
+      "url": "https://www.sagepub.com/journals/Journal200765/title",
+      "description": "ADULT EDUCATION QUARTERLY"
+    },
+    {
+      "id": "journal-538a2040c8d4",
+      "journal_id": "538a2040c8d4",
+      "publisher": "HUMAN KINETICS PUBL INC",
+      "url": "https://journals.humankinetics.com/journal/jtpe",
+      "description": "JOURNAL OF TEACHING IN PHYSICAL EDUCATION"
+    },
+    {
+      "id": "journal-d48431790878",
+      "journal_id": "d48431790878",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/hmtl",
+      "description": "Mathematical Thinking and Learning"
+    },
+    {
+      "id": "journal-8f1bff6d5ccc",
+      "journal_id": "8f1bff6d5ccc",
+      "publisher": "OXFORD UNIV PRESS",
+      "url": "https://her.oxfordjournals.org",
+      "description": "HEALTH EDUCATION RESEARCH"
+    },
+    {
+      "id": "journal-f95583088e7f",
+      "journal_id": "f95583088e7f",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/hmpe20",
+      "description": "Measurement in Physical Education and Exercise Science"
+    },
+    {
+      "id": "journal-3ac8936cc47a",
+      "journal_id": "3ac8936cc47a",
+      "publisher": "Sage",
+      "url": "https://www.sagepub.com/journals/Journal201285/title",
+      "description": "Journal of Early Childhood Literacy"
+    },
+    {
+      "id": "journal-4c692af30863",
+      "journal_id": "4c692af30863",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/vjxe20",
+      "description": "JOURNAL OF EXPERIMENTAL EDUCATION"
+    },
+    {
+      "id": "journal-bb4ca6dfd1ac",
+      "journal_id": "bb4ca6dfd1ac",
+      "publisher": "NATL COUNCIL TEACHERS ENGLISH",
+      "url": "https://ncte.org/resources/journals/research-in-the-teaching-of-english/",
+      "description": "RESEARCH IN THE TEACHING OF ENGLISH"
+    },
+    {
+      "id": "journal-bb4ca6dfd1ac-cfp-0",
+      "journal_id": "bb4ca6dfd1ac",
+      "publisher": "NATL COUNCIL TEACHERS ENGLISH",
+      "url": "https://ncte.org/resources/journals/research-in-the-teaching-of-english/manuscript-call/",
+      "description": "RESEARCH IN THE TEACHING OF ENGLISH · 征稿与专题入口"
+    },
+    {
+      "id": "journal-56cd7ad2c47c",
+      "journal_id": "56cd7ad2c47c",
+      "publisher": "MINISTRY EDUCATION & SCIENCE",
+      "url": "https://recyt.fecyt.es/index.php/Redu",
+      "description": "Revista de Educacion"
+    },
+    {
+      "id": "journal-a5320b779f21",
+      "journal_id": "a5320b779f21",
+      "publisher": "UNIV INT RIOJA-UNIR",
+      "url": "https://revistas.unir.net/index.php/rep",
+      "description": "Revista Espanola de Pedagogia"
+    },
+    {
+      "id": "journal-e8213bd0bbdd",
+      "journal_id": "e8213bd0bbdd",
+      "publisher": "Sage",
+      "url": "https://www.sagepub.com/journals/Journal200780/title",
+      "description": "EDUCATION AND URBAN SOCIETY"
+    },
+    {
+      "id": "journal-ff7ef0dcfc1a",
+      "journal_id": "ff7ef0dcfc1a",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/urwl20",
+      "description": "Reading & Writing Quarterly"
+    },
+    {
+      "id": "journal-159058d70fe8",
+      "journal_id": "159058d70fe8",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/vach20",
+      "description": "JOURNAL OF AMERICAN COLLEGE HEALTH"
+    },
+    {
+      "id": "journal-267fa8adfe40",
+      "journal_id": "267fa8adfe40",
+      "publisher": "GUILFORD PUBLICATIONS INC",
+      "url": "https://guilfordjournals.com/loi/aeap",
+      "description": "AIDS EDUCATION AND PREVENTION"
+    },
+    {
+      "id": "journal-c0afddac9286",
+      "journal_id": "c0afddac9286",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/19362706",
+      "description": "JOURNAL OF ADOLESCENT & ADULT LITERACY"
+    },
+    {
+      "id": "journal-beea388c3354",
+      "journal_id": "beea388c3354",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cjbv20",
+      "description": "Journal of Beliefs & Values-Studies in Religion & Education"
+    },
+    {
+      "id": "journal-0d103cc249c1",
+      "journal_id": "0d103cc249c1",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/14768070",
+      "description": "INTERNATIONAL JOURNAL OF ART & DESIGN EDUCATION"
+    },
+    {
+      "id": "journal-2a0f6d524f87",
+      "journal_id": "2a0f6d524f87",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cjgh20",
+      "description": "JOURNAL OF GEOGRAPHY IN HIGHER EDUCATION"
+    },
+    {
+      "id": "journal-84e0d8f9a5cb",
+      "journal_id": "84e0d8f9a5cb",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11618",
+      "description": "Zeitschrift fur Erziehungswissenschaft"
+    },
+    {
+      "id": "journal-84e0d8f9a5cb-cfp-0",
+      "journal_id": "84e0d8f9a5cb",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11618/collections",
+      "description": "Zeitschrift fur Erziehungswissenschaft · 征稿与专题入口"
+    },
+    {
+      "id": "journal-4afb054538e4",
+      "journal_id": "4afb054538e4",
+      "publisher": "SCI METHODICAL CTR-SCI EDUCOLOGICA",
+      "url": "https://scientiasocialis.lt/jbse/",
+      "description": "Journal of Baltic Science Education"
+    },
+    {
+      "id": "journal-e2b723cb0ccb",
+      "journal_id": "e2b723cb0ccb",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/hame20",
+      "description": "APPLIED MEASUREMENT IN EDUCATION"
+    },
+    {
+      "id": "journal-7f74b49ea3b5",
+      "journal_id": "7f74b49ea3b5",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/gecd20",
+      "description": "Early Child Development and Care"
+    },
+    {
+      "id": "journal-c09f93a6bfc5",
+      "journal_id": "c09f93a6bfc5",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/jrm",
+      "description": "JOURNAL OF RESEARCH IN MUSIC EDUCATION"
+    },
+    {
+      "id": "journal-8107f69345df",
+      "journal_id": "8107f69345df",
+      "publisher": "Sage",
+      "url": "https://www.tcrecord.org",
+      "description": "TEACHERS COLLEGE RECORD"
+    },
+    {
+      "id": "journal-054511c80832",
+      "journal_id": "054511c80832",
+      "publisher": "Sage",
+      "url": "https://us.sagepub.com/en-us/nam/australasian-journal-of-early-childhood/journal203621",
+      "description": "Australasian Journal of Early Childhood"
+    },
+    {
+      "id": "journal-cb2e614bf32a",
+      "journal_id": "cb2e614bf32a",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/international-review-of-economics-education",
+      "description": "International Review of Economics Education"
+    },
+    {
+      "id": "journal-cb2e614bf32a-cfp-0",
+      "journal_id": "cb2e614bf32a",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/international-review-of-economics-education/about/call-for-papers",
+      "description": "International Review of Economics Education · 征稿与专题入口"
+    },
+    {
+      "id": "journal-e27715b1bba9",
+      "journal_id": "e27715b1bba9",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cmue20",
+      "description": "Music Education Research"
+    },
+    {
+      "id": "journal-5317c6180b92",
+      "journal_id": "5317c6180b92",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11217",
+      "description": "STUDIES IN PHILOSOPHY AND EDUCATION"
+    },
+    {
+      "id": "journal-5317c6180b92-cfp-0",
+      "journal_id": "5317c6180b92",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/11217/collections",
+      "description": "STUDIES IN PHILOSOPHY AND EDUCATION · 征稿与专题入口"
+    },
+    {
+      "id": "journal-f01009987d0b",
+      "journal_id": "f01009987d0b",
+      "publisher": "UNIV CHICAGO PRESS",
+      "url": "https://www.journals.uchicago.edu/esj",
+      "description": "ELEMENTARY SCHOOL JOURNAL"
+    },
+    {
+      "id": "journal-483ab7426f6b",
+      "journal_id": "483ab7426f6b",
+      "publisher": "EMERALD GROUP PUBLISHING LTD",
+      "url": "https://www.emeraldgrouppublishing.com/journal/ijlls",
+      "description": "International Journal for Lesson and Learning Studies"
+    },
+    {
+      "id": "journal-5ff1e5f745f1",
+      "journal_id": "5ff1e5f745f1",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/ceye20",
+      "description": "Early Years"
+    },
+    {
+      "id": "journal-2e2e4cad2bd0",
+      "journal_id": "2e2e4cad2bd0",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rjbe20",
+      "description": "JOURNAL OF BIOLOGICAL EDUCATION"
+    },
+    {
+      "id": "journal-71d3dae599d4",
+      "journal_id": "71d3dae599d4",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/tso",
+      "description": "TEACHING SOCIOLOGY"
+    },
+    {
+      "id": "journal-c0189aee99e1",
+      "journal_id": "c0189aee99e1",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/ijm",
+      "description": "International Journal of Music Education"
+    },
+    {
+      "id": "journal-214f7703dcb5",
+      "journal_id": "214f7703dcb5",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cbre20",
+      "description": "British Journal of Religious Education"
+    },
+    {
+      "id": "journal-9daf778abad4",
+      "journal_id": "9daf778abad4",
+      "publisher": "OXFORD UNIV PRESS",
+      "url": "https://academic.oup.com/jope",
+      "description": "JOURNAL OF PHILOSOPHY OF EDUCATION"
+    },
+    {
+      "id": "journal-96a79fcf4175",
+      "journal_id": "96a79fcf4175",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/vece20",
+      "description": "JOURNAL OF ECONOMIC EDUCATION"
+    },
+    {
+      "id": "journal-fb6ce8c44e81",
+      "journal_id": "fb6ce8c44e81",
+      "publisher": "CAMBRIDGE UNIV PRESS",
+      "url": "https://www.cambridge.org/core/journals/british-journal-of-music-education",
+      "description": "British Journal of Music Education"
+    },
+    {
+      "id": "journal-614075b31433",
+      "journal_id": "614075b31433",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/reie20",
+      "description": "English in Education"
+    },
+    {
+      "id": "journal-f7bd4a5c3d8e",
+      "journal_id": "f7bd4a5c3d8e",
+      "publisher": "UNIV AUTONOMA BARCELONA",
+      "url": "https://revistes.uab.cat/ensciencias",
+      "description": "Ensenanza de Las Ciencias"
+    },
+    {
+      "id": "journal-3c7a95db9570",
+      "journal_id": "3c7a95db9570",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/thed20",
+      "description": "History of Education"
+    },
+    {
+      "id": "journal-a3433e92d062",
+      "journal_id": "a3433e92d062",
+      "publisher": "Wiley",
+      "url": "https://anthrosource.onlinelibrary.wiley.com/journal/15481492",
+      "description": "ANTHROPOLOGY & EDUCATION QUARTERLY"
+    },
+    {
+      "id": "journal-a5f3b83321b3",
+      "journal_id": "a5f3b83321b3",
+      "publisher": "TURKISH EDUCATION ASSOC",
+      "url": "https://educationandscience.ted.org.tr/index.php/es",
+      "description": "Egitim ve Bilim-Education and Science"
+    },
+    {
+      "id": "journal-20beef1cf563",
+      "journal_id": "20beef1cf563",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/crde20",
+      "description": "RIDE-The Journal of Applied Theatre and Performance"
+    },
+    {
+      "id": "journal-a5ce73bbb62c",
+      "journal_id": "a5ce73bbb62c",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rcui20",
+      "description": "CURRICULUM INQUIRY"
+    },
+    {
+      "id": "journal-2c25c53c2f7b",
+      "journal_id": "2c25c53c2f7b",
+      "publisher": "Sage",
+      "url": "https://us.sagepub.com/en-us/nam/phi-delta-kappan/journal202327",
+      "description": "PHI DELTA KAPPAN"
+    },
+    {
+      "id": "journal-69f8e0a90855",
+      "journal_id": "69f8e0a90855",
+      "publisher": "Sage",
+      "url": "https://www.tandfonline.com/journals/rcye20",
+      "description": "Culture and Education"
+    },
+    {
+      "id": "journal-f7d1161bd27d",
+      "journal_id": "f7d1161bd27d",
+      "publisher": "EDUCATION ASSOC SOUTH AFRICA",
+      "url": "https://www.sajournalofeducation.co.za",
+      "description": "South African Journal of Education"
+    },
+    {
+      "id": "journal-9e972703e51f",
+      "journal_id": "9e972703e51f",
+      "publisher": "JMIR PUBLICATIONS, INC",
+      "url": "https://mededu.jmir.org",
+      "description": "JMIR Medical Education"
+    },
+    {
+      "id": "journal-5b5186239caf",
+      "journal_id": "5b5186239caf",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/13652923",
+      "description": "MEDICAL EDUCATION"
+    },
+    {
+      "id": "journal-bade06e4c4e0",
+      "journal_id": "bade06e4c4e0",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/19359780",
+      "description": "Anatomical Sciences Education"
+    },
+    {
+      "id": "journal-aa85e944cf1c",
+      "journal_id": "aa85e944cf1c",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/nurse-education-today",
+      "description": "NURSE EDUCATION TODAY"
+    },
+    {
+      "id": "journal-aa85e944cf1c-cfp-0",
+      "journal_id": "aa85e944cf1c",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/nurse-education-today/about/call-for-papers",
+      "description": "NURSE EDUCATION TODAY · 征稿与专题入口"
+    },
+    {
+      "id": "journal-835e6cb0bfd2",
+      "journal_id": "835e6cb0bfd2",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/education-for-chemical-engineers",
+      "description": "Education for Chemical Engineers"
+    },
+    {
+      "id": "journal-835e6cb0bfd2-cfp-0",
+      "journal_id": "835e6cb0bfd2",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/education-for-chemical-engineers/about/call-for-papers",
+      "description": "Education for Chemical Engineers · 征稿与专题入口"
+    },
+    {
+      "id": "journal-d56db290361d",
+      "journal_id": "d56db290361d",
+      "publisher": "OXFORD UNIV PRESS",
+      "url": "https://academic.oup.com/academicmedicine",
+      "description": "ACADEMIC MEDICINE"
+    },
+    {
+      "id": "journal-5fa52bb8aef4",
+      "journal_id": "5fa52bb8aef4",
+      "publisher": "ASSOC COMPUTING MACHINERY",
+      "url": "https://dl.acm.org/journal/toce",
+      "description": "ACM Transactions on Computing Education"
+    },
+    {
+      "id": "journal-cb98bade3d35",
+      "journal_id": "cb98bade3d35",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/imte20",
+      "description": "MEDICAL TEACHER"
+    },
+    {
+      "id": "journal-655005e2eb99",
+      "journal_id": "655005e2eb99",
+      "publisher": "AMER SOC HEMATOLOGY",
+      "url": "https://ashpublications.org/hematology",
+      "description": "Hematology-American Society of Hematology Education Program"
+    },
+    {
+      "id": "journal-319e51fea7f6",
+      "journal_id": "319e51fea7f6",
+      "publisher": "AMER SOC CELL BIOLOGY",
+      "url": "https://www.lifescied.org",
+      "description": "CBE-Life Sciences Education"
+    },
+    {
+      "id": "journal-83d9f76e1f59",
+      "journal_id": "83d9f76e1f59",
+      "publisher": "UBIQUITY PRESS LTD",
+      "url": "https://link.springer.com/journal/40037",
+      "description": "Perspectives on Medical Education"
+    },
+    {
+      "id": "journal-83d9f76e1f59-cfp-0",
+      "journal_id": "83d9f76e1f59",
+      "publisher": "UBIQUITY PRESS LTD",
+      "url": "https://link.springer.com/journal/40037/collections",
+      "description": "Perspectives on Medical Education · 征稿与专题入口"
+    },
+    {
+      "id": "journal-14187b587d42",
+      "journal_id": "14187b587d42",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/american-journal-of-pharmaceutical-education",
+      "description": "AMERICAN JOURNAL OF PHARMACEUTICAL EDUCATION"
+    },
+    {
+      "id": "journal-14187b587d42-cfp-0",
+      "journal_id": "14187b587d42",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/american-journal-of-pharmaceutical-education/about/call-for-papers",
+      "description": "AMERICAN JOURNAL OF PHARMACEUTICAL EDUCATION · 征稿与专题入口"
+    },
+    {
+      "id": "journal-497bd7322cf3",
+      "journal_id": "497bd7322cf3",
+      "publisher": "AMER CHEMICAL SOC",
+      "url": "https://pubs.acs.org/journal/jceda8",
+      "description": "JOURNAL OF CHEMICAL EDUCATION"
+    },
+    {
+      "id": "journal-52b728882075",
+      "journal_id": "52b728882075",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/16000579",
+      "description": "European Journal of Dental Education"
+    },
+    {
+      "id": "journal-b87077e29020",
+      "journal_id": "b87077e29020",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/journal-of-nutrition-education-and-behavior",
+      "description": "JOURNAL OF NUTRITION EDUCATION AND BEHAVIOR"
+    },
+    {
+      "id": "journal-b87077e29020-cfp-0",
+      "journal_id": "b87077e29020",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/journal-of-nutrition-education-and-behavior/about/call-for-papers",
+      "description": "JOURNAL OF NUTRITION EDUCATION AND BEHAVIOR · 征稿与专题入口"
+    },
+    {
+      "id": "journal-b314f37b8489",
+      "journal_id": "b314f37b8489",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/10990542",
+      "description": "COMPUTER APPLICATIONS IN ENGINEERING EDUCATION"
+    },
+    {
+      "id": "journal-1b9533806c2e",
+      "journal_id": "1b9533806c2e",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/test20",
+      "description": "Engineering Studies"
+    },
+    {
+      "id": "journal-d915ebd5df28",
+      "journal_id": "d915ebd5df28",
+      "publisher": "IEEE",
+      "url": "https://ieee-edusociety.org/publication/about-publications/toe",
+      "description": "IEEE TRANSACTIONS ON EDUCATION"
+    },
+    {
+      "id": "journal-da709dd270ef",
+      "journal_id": "da709dd270ef",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/htlm20",
+      "description": "TEACHING AND LEARNING IN MEDICINE"
+    },
+    {
+      "id": "journal-4486d3d77a95",
+      "journal_id": "4486d3d77a95",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/journal-of-surgical-education",
+      "description": "Journal of Surgical Education"
+    },
+    {
+      "id": "journal-4486d3d77a95-cfp-0",
+      "journal_id": "4486d3d77a95",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/journal-of-surgical-education/about/call-for-papers",
+      "description": "Journal of Surgical Education · 征稿与专题入口"
+    },
+    {
+      "id": "journal-87a6a12846df",
+      "journal_id": "87a6a12846df",
+      "publisher": "ASCE-AMER SOC CIVIL ENGINEERS",
+      "url": "https://ascelibrary.org/journal/jceecd",
+      "description": "Journal of Civil Engineering Education"
+    },
+    {
+      "id": "journal-12e469ec6e65",
+      "journal_id": "12e469ec6e65",
+      "publisher": "AMER PHYSIOLOGICAL SOC",
+      "url": "https://advan.physiology.org",
+      "description": "ADVANCES IN PHYSIOLOGY EDUCATION"
+    },
+    {
+      "id": "journal-349d4e3eef88",
+      "journal_id": "349d4e3eef88",
+      "publisher": "LIPPINCOTT WILLIAMS & WILKINS",
+      "url": "https://journals.lww.com/jcehp/Pages/default.aspx",
+      "description": "JOURNAL OF CONTINUING EDUCATION IN THE HEALTH PROFESSIONS"
+    },
+    {
+      "id": "journal-c82164ea9011",
+      "journal_id": "c82164ea9011",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/13187",
+      "description": "JOURNAL OF CANCER EDUCATION"
+    },
+    {
+      "id": "journal-c82164ea9011-cfp-0",
+      "journal_id": "c82164ea9011",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/13187/collections",
+      "description": "JOURNAL OF CANCER EDUCATION · 征稿与专题入口"
+    },
+    {
+      "id": "journal-51c6dd14d0aa",
+      "journal_id": "51c6dd14d0aa",
+      "publisher": "UNIV TORONTO PRESS INC",
+      "url": "https://utppublishing.com/loi/jvme",
+      "description": "JOURNAL OF VETERINARY MEDICAL EDUCATION"
+    },
+    {
+      "id": "journal-80eed07b304c",
+      "journal_id": "80eed07b304c",
+      "publisher": "Wiley",
+      "url": "https://iubmb.onlinelibrary.wiley.com/journal/15393429",
+      "description": "BIOCHEMISTRY AND MOLECULAR BIOLOGY EDUCATION"
+    },
+    {
+      "id": "journal-40140d7dc99e",
+      "journal_id": "40140d7dc99e",
+      "publisher": "IOP Publishing Ltd",
+      "url": "https://iopscience.org/ejp",
+      "description": "EUROPEAN JOURNAL OF PHYSICS"
+    },
+    {
+      "id": "journal-007a144bf21c",
+      "journal_id": "007a144bf21c",
+      "publisher": "AIP Publishing",
+      "url": "https://ajp.aapt.org/",
+      "description": "AMERICAN JOURNAL OF PHYSICS"
+    },
+    {
+      "id": "journal-057afe0eb81f",
+      "journal_id": "057afe0eb81f",
+      "publisher": "ASSOC PHARMACEUTICAL TEACHERS INDIA",
+      "url": "https://www.ijper.org",
+      "description": "Indian Journal of Pharmaceutical Education and Research"
+    },
+    {
+      "id": "journal-b2b3526ca84b",
+      "journal_id": "b2b3526ca84b",
+      "publisher": "TEMPUS PUBLICATIONS",
+      "url": "https://www.ijee.ie/",
+      "description": "INTERNATIONAL JOURNAL OF ENGINEERING EDUCATION"
+    },
+    {
+      "id": "journal-0e99033e4208",
+      "journal_id": "0e99033e4208",
+      "publisher": "AMER ASSN PHYSICS TEACHERS",
+      "url": "https://scitation.aip.org/content/aapt/journal/tpt",
+      "description": "PHYSICS TEACHER"
+    },
+    {
+      "id": "journal-39e75234d0ab",
+      "journal_id": "39e75234d0ab",
+      "publisher": "NATL ASSOC BIOLOGY TEACHERS INC",
+      "url": "https://abt.ucpress.edu",
+      "description": "AMERICAN BIOLOGY TEACHER"
+    },
+    {
+      "id": "journal-02f6e12a59e6",
+      "journal_id": "02f6e12a59e6",
+      "publisher": "ANNUAL REVIEWS",
+      "url": "https://www.annualreviews.org/journal/psych",
+      "description": "Annual Review of Psychology"
+    },
+    {
+      "id": "journal-e726d685da0c",
+      "journal_id": "e726d685da0c",
+      "publisher": "Nature Portfolio",
+      "url": "https://www.nature.com/nrpsychol/",
+      "description": "Nature Reviews Psychology"
+    },
+    {
+      "id": "journal-f18b14665e55",
+      "journal_id": "f18b14665e55",
+      "publisher": "APA",
+      "url": "https://www.apa.org/pubs/journals/bul/index.aspx",
+      "description": "PSYCHOLOGICAL BULLETIN"
+    },
+    {
+      "id": "journal-10f0a5fbeca7",
+      "journal_id": "10f0a5fbeca7",
+      "publisher": "Sage",
+      "url": "https://www.sagepub.com/journals/Journal201965/title",
+      "description": "Psychological Science in the Public Interest"
+    },
+    {
+      "id": "journal-005e49c9bed3",
+      "journal_id": "005e49c9bed3",
+      "publisher": "Sage",
+      "url": "https://us.sagepub.com/en-us/nam/advances-in-methods-and-practices-in-psychological-science/journal203415",
+      "description": "Advances in Methods and Practices in Psychological Science"
+    },
+    {
+      "id": "journal-cacba408208a",
+      "journal_id": "cacba408208a",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/computers-in-human-behavior",
+      "description": "COMPUTERS IN HUMAN BEHAVIOR"
+    },
+    {
+      "id": "journal-cacba408208a-cfp-0",
+      "journal_id": "cacba408208a",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/computers-in-human-behavior/about/call-for-papers",
+      "description": "COMPUTERS IN HUMAN BEHAVIOR · 征稿与专题入口"
+    },
+    {
+      "id": "journal-b214e11596c0",
+      "journal_id": "b214e11596c0",
+      "publisher": "Sage",
+      "url": "https://www.sagepub.com/journals/Journal201964/title",
+      "description": "Perspectives on Psychological Science"
+    },
+    {
+      "id": "journal-6bdac54fae2f",
+      "journal_id": "6bdac54fae2f",
+      "publisher": "APA",
+      "url": "https://www.apa.org/pubs/journals/met/index.aspx",
+      "description": "PSYCHOLOGICAL METHODS"
+    },
+    {
+      "id": "journal-4e4a95cb3868",
+      "journal_id": "4e4a95cb3868",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/current-opinion-in-psychology",
+      "description": "Current Opinion in Psychology"
+    },
+    {
+      "id": "journal-4e4a95cb3868-cfp-0",
+      "journal_id": "4e4a95cb3868",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/current-opinion-in-psychology/about/call-for-papers",
+      "description": "Current Opinion in Psychology · 征稿与专题入口"
+    },
+    {
+      "id": "journal-e0a6be19eaf6",
+      "journal_id": "e0a6be19eaf6",
+      "publisher": "Elsevier",
+      "url": "https://www.elsevier.com/wps/find/journaldescription.cws_home/622872/description",
+      "description": "JOURNAL OF ENVIRONMENTAL PSYCHOLOGY"
+    },
+    {
+      "id": "journal-4635e1ac0fa7",
+      "journal_id": "4635e1ac0fa7",
+      "publisher": "COLEGIO OFICIAL PSICOLOGOS MADRID",
+      "url": "https://journals.copmadrid.org/ejpalc/",
+      "description": "European Journal of Psychology Applied to Legal Context"
+    },
+    {
+      "id": "journal-0459fb940619",
+      "journal_id": "0459fb940619",
+      "publisher": "APA",
+      "url": "https://www.apa.org/pubs/journals/amp/index.aspx",
+      "description": "AMERICAN PSYCHOLOGIST"
+    },
+    {
+      "id": "journal-cb939d9c0dbe",
+      "journal_id": "cb939d9c0dbe",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/body-image",
+      "description": "Body Image"
+    },
+    {
+      "id": "journal-cb939d9c0dbe-cfp-0",
+      "journal_id": "cb939d9c0dbe",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/body-image/about/call-for-papers",
+      "description": "Body Image · 征稿与专题入口"
+    },
+    {
+      "id": "journal-d0ec7fdad1d2",
+      "journal_id": "d0ec7fdad1d2",
+      "publisher": "COLEGIO OFICIAL PSICOLOGOS MADRID",
+      "url": "https://journals.copmadrid.org/pi",
+      "description": "Psychosocial Intervention"
+    },
+    {
+      "id": "journal-f21fe45aeadd",
+      "journal_id": "f21fe45aeadd",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies",
+      "description": "INTERNATIONAL JOURNAL OF HUMAN-COMPUTER STUDIES"
+    },
+    {
+      "id": "journal-f21fe45aeadd-cfp-0",
+      "journal_id": "f21fe45aeadd",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies/about/call-for-papers",
+      "description": "INTERNATIONAL JOURNAL OF HUMAN-COMPUTER STUDIES · 征稿与专题入口"
+    },
+    {
+      "id": "journal-45b4077c6d06",
+      "journal_id": "45b4077c6d06",
+      "publisher": "APA",
+      "url": "https://www.apa.org/pubs/journals/rev/",
+      "description": "PSYCHOLOGICAL REVIEW"
+    },
+    {
+      "id": "journal-bd8a30df300d",
+      "journal_id": "bd8a30df300d",
+      "publisher": "Sage",
+      "url": "https://us.sagepub.com/en-us/nam/journal/current-directions-psychological-science",
+      "description": "CURRENT DIRECTIONS IN PSYCHOLOGICAL SCIENCE"
+    },
+    {
+      "id": "journal-c60a7161b1a5",
+      "journal_id": "c60a7161b1a5",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/pss",
+      "description": "PSYCHOLOGICAL SCIENCE"
+    },
+    {
+      "id": "journal-0cbfe9f4699c",
+      "journal_id": "0cbfe9f4699c",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/uqrp20",
+      "description": "Qualitative Research in Psychology"
+    },
+    {
+      "id": "journal-94ff4dc33164",
+      "journal_id": "94ff4dc33164",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/hcrj20",
+      "description": "CREATIVITY RESEARCH JOURNAL"
+    },
+    {
+      "id": "journal-22da173f9a3d",
+      "journal_id": "22da173f9a3d",
+      "publisher": "Sage",
+      "url": "https://www.sagepub.com/journals/Journal200783/title",
+      "description": "ENVIRONMENT AND BEHAVIOR"
+    },
+    {
+      "id": "journal-8be2f33c3b65",
+      "journal_id": "8be2f33c3b65",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.dovepress.com/psychology-research-and-behavior-management-journal",
+      "description": "Psychology Research and Behavior Management"
+    },
+    {
+      "id": "journal-f007ba3d28b6",
+      "journal_id": "f007ba3d28b6",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/aggression-and-violent-behavior",
+      "description": "AGGRESSION AND VIOLENT BEHAVIOR"
+    },
+    {
+      "id": "journal-f007ba3d28b6-cfp-0",
+      "journal_id": "f007ba3d28b6",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/aggression-and-violent-behavior/about/call-for-papers",
+      "description": "AGGRESSION AND VIOLENT BEHAVIOR · 征稿与专题入口"
+    },
+    {
+      "id": "journal-42972832bf88",
+      "journal_id": "42972832bf88",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/hpli20",
+      "description": "PSYCHOLOGICAL INQUIRY"
+    },
+    {
+      "id": "journal-082b0664bd69",
+      "journal_id": "082b0664bd69",
+      "publisher": "Colegio Oficial de Psicologia del Principado de Asturias",
+      "url": "https://www.psicothema.com",
+      "description": "PSICOTHEMA"
+    },
+    {
+      "id": "journal-275c86383eb4",
+      "journal_id": "275c86383eb4",
+      "publisher": "HOGREFE PUBLISHING CORP",
+      "url": "https://www.hogrefe.com/eu/journal/european-psychologist",
+      "description": "EUROPEAN PSYCHOLOGIST"
+    },
+    {
+      "id": "journal-c17369ce39d3",
+      "journal_id": "c17369ce39d3",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/new-ideas-in-psychology",
+      "description": "NEW IDEAS IN PSYCHOLOGY"
+    },
+    {
+      "id": "journal-c17369ce39d3-cfp-0",
+      "journal_id": "c17369ce39d3",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/new-ideas-in-psychology/about/call-for-papers",
+      "description": "NEW IDEAS IN PSYCHOLOGY · 征稿与专题入口"
+    },
+    {
+      "id": "journal-bcf1f4741f61",
+      "journal_id": "bcf1f4741f61",
+      "publisher": "OXFORD UNIV PRESS INC",
+      "url": "https://academic.oup.com/abm",
+      "description": "ANNALS OF BEHAVIORAL MEDICINE"
+    },
+    {
+      "id": "journal-21d157f45e4a",
+      "journal_id": "21d157f45e4a",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/10991611",
+      "description": "PSYCHO-ONCOLOGY"
+    },
+    {
+      "id": "journal-45cfd5c7cf07",
+      "journal_id": "45cfd5c7cf07",
+      "publisher": "MDPI",
+      "url": "https://www.mdpi.com/journal/jintelligence",
+      "description": "Journal of Intelligence"
+    },
+    {
+      "id": "journal-d782aee79247",
+      "journal_id": "d782aee79247",
+      "publisher": "FRONTIERS MEDIA SA",
+      "url": "https://www.frontiersin.org/psychology",
+      "description": "Frontiers in Psychology"
+    },
+    {
+      "id": "journal-183dafb98736",
+      "journal_id": "183dafb98736",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10902",
+      "description": "Journal of Happiness Studies"
+    },
+    {
+      "id": "journal-183dafb98736-cfp-0",
+      "journal_id": "183dafb98736",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10902/collections",
+      "description": "Journal of Happiness Studies · 征稿与专题入口"
+    },
+    {
+      "id": "journal-9fcb37e1f316",
+      "journal_id": "9fcb37e1f316",
+      "publisher": "Sage",
+      "url": "https://us.sagepub.com/en-us/nam/journal/emotion-review",
+      "description": "Emotion Review"
+    },
+    {
+      "id": "journal-27574e3c5cde",
+      "journal_id": "27574e3c5cde",
+      "publisher": "Wiley",
+      "url": "https://bpspsychub.onlinelibrary.wiley.com/journal/20448295",
+      "description": "BRITISH JOURNAL OF PSYCHOLOGY"
+    },
+    {
+      "id": "journal-797c105f2122",
+      "journal_id": "797c105f2122",
+      "publisher": "OXFORD UNIV PRESS INC",
+      "url": "https://academic.oup.com/psychsocgerontology",
+      "description": "JOURNALS OF GERONTOLOGY SERIES B-PSYCHOLOGICAL SCIENCES AND SOCIAL SCIENCES"
+    },
+    {
+      "id": "journal-6f7d464e712d",
+      "journal_id": "6f7d464e712d",
+      "publisher": "APA",
+      "url": "https://www.apa.org/pubs/journals/mot/",
+      "description": "Motivation Science"
+    },
+    {
+      "id": "journal-165c5e32ec48",
+      "journal_id": "165c5e32ec48",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rpos20",
+      "description": "Journal of Positive Psychology"
+    },
+    {
+      "id": "journal-a45f8a7d1c88",
+      "journal_id": "a45f8a7d1c88",
+      "publisher": "Sage",
+      "url": "https://www.sagepub.com/journals/Journal202010/title",
+      "description": "PSYCHOLOGY OF WOMEN QUARTERLY"
+    },
+    {
+      "id": "journal-33ba729cdd52",
+      "journal_id": "33ba729cdd52",
+      "publisher": "APA",
+      "url": "https://www.apa.org/journals/sgd",
+      "description": "Psychology of Sexual Orientation and Gender Diversity"
+    },
+    {
+      "id": "journal-4b361c6285ea",
+      "journal_id": "4b361c6285ea",
+      "publisher": "Sage",
+      "url": "https://us.sagepub.com/en-us/nam/journal-of-pacific-rim-psychology/journal203703",
+      "description": "Journal of Pacific Rim Psychology"
+    },
+    {
+      "id": "journal-1c1caede06c4",
+      "journal_id": "1c1caede06c4",
+      "publisher": "MDPI",
+      "url": "https://www.mdpi.com/journal/behavsci",
+      "description": "Behavioral Sciences"
+    },
+    {
+      "id": "journal-992bbc9c7659",
+      "journal_id": "992bbc9c7659",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/jbp",
+      "description": "Journal of Black Psychology"
+    },
+    {
+      "id": "journal-077e60262dbf",
+      "journal_id": "077e60262dbf",
+      "publisher": "Elsevier",
+      "url": "https://www.elsevier.com/locate/issn/01602896",
+      "description": "INTELLIGENCE"
+    },
+    {
+      "id": "journal-953ab6abbd3a",
+      "journal_id": "953ab6abbd3a",
+      "publisher": "HOGREFE PUBLISHING CORP",
+      "url": "https://www.hogrefe.com/us/journal/crisis",
+      "description": "Crisis-The Journal of Crisis Intervention and Suicide Prevention"
+    },
+    {
+      "id": "journal-0e9bd6870d90",
+      "journal_id": "0e9bd6870d90",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/rgpa",
+      "description": "REVIEW OF GENERAL PSYCHOLOGY"
+    },
+    {
+      "id": "journal-6b0414f96343",
+      "journal_id": "6b0414f96343",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/15732770",
+      "description": "AMERICAN JOURNAL OF COMMUNITY PSYCHOLOGY"
+    },
+    {
+      "id": "journal-780d1ba3e0bc",
+      "journal_id": "780d1ba3e0bc",
+      "publisher": "APA",
+      "url": "https://www.apa.org/pubs/journals/adb/index.aspx",
+      "description": "PSYCHOLOGY OF ADDICTIVE BEHAVIORS"
+    },
+    {
+      "id": "journal-6b539c189d03",
+      "journal_id": "6b539c189d03",
+      "publisher": "CAMBRIDGE UNIV PRESS",
+      "url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology",
+      "description": "Spanish Journal of Psychology"
+    },
+    {
+      "id": "journal-564b690de55f",
+      "journal_id": "564b690de55f",
+      "publisher": "UNIV CALIFORNIA PRESS",
+      "url": "https://www.collabra.org",
+      "description": "Collabra-Psychology"
+    },
+    {
+      "id": "journal-0706486cc4ed",
+      "journal_id": "0706486cc4ed",
+      "publisher": "MASARYKOVA UNIV, FAC SOCIAL STUDIES",
+      "url": "https://www.cyberpsychology.eu",
+      "description": "Cyberpsychology-Journal of Psychosocial Research on Cyberspace"
+    },
+    {
+      "id": "journal-de09829123c6",
+      "journal_id": "de09829123c6",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/gasc20",
+      "description": "ANXIETY STRESS AND COPING"
+    },
+    {
+      "id": "journal-b650408c16e4",
+      "journal_id": "b650408c16e4",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/1943278x",
+      "description": "SUICIDE AND LIFE-THREATENING BEHAVIOR"
+    },
+    {
+      "id": "journal-3545a814c205",
+      "journal_id": "3545a814c205",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/vjrl20",
+      "description": "JOURNAL OF PSYCHOLOGY"
+    },
+    {
+      "id": "journal-019b3572215a",
+      "journal_id": "019b3572215a",
+      "publisher": "CAMBRIDGE UNIV PRESS",
+      "url": "https://www.cambridge.org/core/journals/judgment-and-decision-making",
+      "description": "Judgment and Decision Making"
+    },
+    {
+      "id": "journal-300722621d3f",
+      "journal_id": "300722621d3f",
+      "publisher": "Springer Nature",
+      "url": "https://prc.springeropen.com/",
+      "description": "Psicologia-Reflexao e Critica"
+    },
+    {
+      "id": "journal-1a270e73ce5a",
+      "journal_id": "1a270e73ce5a",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/plat20",
+      "description": "LATERALITY"
+    },
+    {
+      "id": "journal-22c0f9f8ade0",
+      "journal_id": "22c0f9f8ade0",
+      "publisher": "HOGREFE PUBLISHING CORP",
+      "url": "https://www.hogrefe.com/uk/journal/zeitschrift-fuer-psychologie",
+      "description": "Zeitschrift fur Psychologie-Journal of Psychology"
+    },
+    {
+      "id": "journal-22c0f9f8ade0-cfp-0",
+      "journal_id": "22c0f9f8ade0",
+      "publisher": "HOGREFE PUBLISHING CORP",
+      "url": "https://www.hogrefe.com/eu/journals/zfp/calls-for-papers",
+      "description": "Zeitschrift fur Psychologie-Journal of Psychology · 征稿与专题入口"
+    },
+    {
+      "id": "journal-51ea29b86cbc",
+      "journal_id": "51ea29b86cbc",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10899",
+      "description": "JOURNAL OF GAMBLING STUDIES"
+    },
+    {
+      "id": "journal-51ea29b86cbc-cfp-0",
+      "journal_id": "51ea29b86cbc",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10899/collections",
+      "description": "JOURNAL OF GAMBLING STUDIES · 征稿与专题入口"
+    },
+    {
+      "id": "journal-868537cbbc5c",
+      "journal_id": "868537cbbc5c",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/1464066x",
+      "description": "INTERNATIONAL JOURNAL OF PSYCHOLOGY"
+    },
+    {
+      "id": "journal-a9b379f5c0be",
+      "journal_id": "a9b379f5c0be",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10519",
+      "description": "BEHAVIOR GENETICS"
+    },
+    {
+      "id": "journal-a9b379f5c0be-cfp-0",
+      "journal_id": "a9b379f5c0be",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/10519/collections",
+      "description": "BEHAVIOR GENETICS · 征稿与专题入口"
+    },
+    {
+      "id": "journal-05024abac5a1",
+      "journal_id": "05024abac5a1",
+      "publisher": "CANADIAN PSYCHOLOGICAL ASSOC",
+      "url": "https://www.cpa.ca/membership/membershipbenefitsandservices/cpajournals/canadianpsychology",
+      "description": "CANADIAN PSYCHOLOGY-PSYCHOLOGIE CANADIENNE"
+    },
+    {
+      "id": "journal-54b243e38c46",
+      "journal_id": "54b243e38c46",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/10982337",
+      "description": "AGGRESSIVE BEHAVIOR"
+    },
+    {
+      "id": "journal-28513044dcdf",
+      "journal_id": "28513044dcdf",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/hebh20",
+      "description": "ETHICS & BEHAVIOR"
+    },
+    {
+      "id": "journal-bef046920110",
+      "journal_id": "bef046920110",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cjri20",
+      "description": "JOURNAL OF REPRODUCTIVE AND INFANT PSYCHOLOGY"
+    },
+    {
+      "id": "journal-3f19fe4ac56a",
+      "journal_id": "3f19fe4ac56a",
+      "publisher": "Sage",
+      "url": "https://www.sagepub.com/journalsProdDesc.nav?prodId=Journal200868",
+      "description": "FEMINISM & PSYCHOLOGY"
+    },
+    {
+      "id": "journal-a79bf48e7090",
+      "journal_id": "a79bf48e7090",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/15206629",
+      "description": "JOURNAL OF COMMUNITY PSYCHOLOGY"
+    },
+    {
+      "id": "journal-a5111c3f3d17",
+      "journal_id": "a5111c3f3d17",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/journal-of-economic-psychology",
+      "description": "JOURNAL OF ECONOMIC PSYCHOLOGY"
+    },
+    {
+      "id": "journal-a5111c3f3d17-cfp-0",
+      "journal_id": "a5111c3f3d17",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/journal-of-economic-psychology/about/call-for-papers",
+      "description": "JOURNAL OF ECONOMIC PSYCHOLOGY · 征稿与专题入口"
+    },
+    {
+      "id": "journal-962a329e00f4",
+      "journal_id": "962a329e00f4",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/wjhm20",
+      "description": "JOURNAL OF HOMOSEXUALITY"
+    },
+    {
+      "id": "journal-4cedb2cc70f1",
+      "journal_id": "4cedb2cc70f1",
+      "publisher": "APA",
+      "url": "https://www.apa.org/pubs/journals/ppm/",
+      "description": "Psychology of Popular Media"
+    },
+    {
+      "id": "journal-7c6e8d7c6ada",
+      "journal_id": "7c6e8d7c6ada",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/usui20",
+      "description": "ARCHIVES OF SUICIDE RESEARCH"
+    },
+    {
+      "id": "journal-cb4b77fe4bf3",
+      "journal_id": "cb4b77fe4bf3",
+      "publisher": "APA",
+      "url": "https://www.apa.org/journals/aap/",
+      "description": "Asian American Journal of Psychology"
+    },
+    {
+      "id": "journal-7d0eb968c252",
+      "journal_id": "7d0eb968c252",
+      "publisher": "Wiley",
+      "url": "https://anthrosource.onlinelibrary.wiley.com/journal/15481352",
+      "description": "ETHOS"
+    },
+    {
+      "id": "journal-56a26d450164",
+      "journal_id": "56a26d450164",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/neurobiology-of-learning-and-memory",
+      "description": "NEUROBIOLOGY OF LEARNING AND MEMORY"
+    },
+    {
+      "id": "journal-56a26d450164-cfp-0",
+      "journal_id": "56a26d450164",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/neurobiology-of-learning-and-memory/about/call-for-papers",
+      "description": "NEUROBIOLOGY OF LEARNING AND MEMORY · 征稿与专题入口"
+    },
+    {
+      "id": "journal-f59e7f2778d4",
+      "journal_id": "f59e7f2778d4",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/udst20",
+      "description": "DEATH STUDIES"
+    },
+    {
+      "id": "journal-4c2701007c82",
+      "journal_id": "4c2701007c82",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/13030",
+      "description": "BioPsychoSocial Medicine"
+    },
+    {
+      "id": "journal-4c2701007c82-cfp-0",
+      "journal_id": "4c2701007c82",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/13030/collections",
+      "description": "BioPsychoSocial Medicine · 征稿与专题入口"
+    },
+    {
+      "id": "journal-b0b87ec4d6ff",
+      "journal_id": "b0b87ec4d6ff",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/20448333",
+      "description": "LEGAL AND CRIMINOLOGICAL PSYCHOLOGY"
+    },
+    {
+      "id": "journal-64c9b3a7c10a",
+      "journal_id": "64c9b3a7c10a",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/gpcl20",
+      "description": "PSYCHOLOGY CRIME & LAW"
+    },
+    {
+      "id": "journal-8ed4cea6cab3",
+      "journal_id": "8ed4cea6cab3",
+      "publisher": "COLEGIO OFICIAL PSICOLOGOS MADRID",
+      "url": "https://journals.copmadrid.org/apj/",
+      "description": "Anuario De Psicologia Juridica"
+    },
+    {
+      "id": "journal-50aaebecf01a",
+      "journal_id": "50aaebecf01a",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/14679450",
+      "description": "SCANDINAVIAN JOURNAL OF PSYCHOLOGY"
+    },
+    {
+      "id": "journal-47ca4fd997f4",
+      "journal_id": "47ca4fd997f4",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/gpsh20",
+      "description": "PSYCHOLOGY & HEALTH"
+    },
+    {
+      "id": "journal-9e3fca3f5b82",
+      "journal_id": "9e3fca3f5b82",
+      "publisher": "Sage",
+      "url": "https://sagepub.com/en-us/nam/discourse-society/journal200873",
+      "description": "DISCOURSE & SOCIETY"
+    },
+    {
+      "id": "journal-236c105e20ad",
+      "journal_id": "236c105e20ad",
+      "publisher": "HOGREFE PUBLISHING CORP",
+      "url": "https://www.hogrefe.com/ch/zeitschrift/journal-of-media-psychology",
+      "description": "Journal of Media Psychology-Theories Methods and Applications"
+    },
+    {
+      "id": "journal-9d237a774e2a",
+      "journal_id": "9d237a774e2a",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/prx",
+      "description": "PSYCHOLOGICAL REPORTS"
+    },
+    {
+      "id": "journal-4ee1840c70f0",
+      "journal_id": "4ee1840c70f0",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rapy20",
+      "description": "AUSTRALIAN PSYCHOLOGIST"
+    },
+    {
+      "id": "journal-95c7d33cedcc",
+      "journal_id": "95c7d33cedcc",
+      "publisher": "APA",
+      "url": "https://www.apa.org/pubs/journals/rel/index.aspx",
+      "description": "Psychology of Religion and Spirituality"
+    },
+    {
+      "id": "journal-e629ade107f7",
+      "journal_id": "e629ade107f7",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/hjpr20",
+      "description": "International Journal for the Psychology of Religion"
+    },
+    {
+      "id": "journal-132474a3f5a7",
+      "journal_id": "132474a3f5a7",
+      "publisher": "UBIQUITY PRESS LTD",
+      "url": "https://www.psychologicabelgica.com/",
+      "description": "PSYCHOLOGICA BELGICA"
+    },
+    {
+      "id": "journal-701e1532f76a",
+      "journal_id": "701e1532f76a",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/tap",
+      "description": "THEORY & PSYCHOLOGY"
+    },
+    {
+      "id": "journal-dfbeb1a36016",
+      "journal_id": "dfbeb1a36016",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/vgnt20",
+      "description": "JOURNAL OF GENETIC PSYCHOLOGY"
+    },
+    {
+      "id": "journal-bfa26d58fd07",
+      "journal_id": "bfa26d58fd07",
+      "publisher": "UNIV MURCIA",
+      "url": "https://revistas.um.es/analesps",
+      "description": "Anales de Psicologia"
+    },
+    {
+      "id": "journal-af612e50becd",
+      "journal_id": "af612e50becd",
+      "publisher": "APA",
+      "url": "https://www.apa.org/pubs/journals/pro/",
+      "description": "PROFESSIONAL PSYCHOLOGY-RESEARCH AND PRACTICE"
+    },
+    {
+      "id": "journal-6c8bc937b74b",
+      "journal_id": "6c8bc937b74b",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/ebx",
+      "description": "JOURNAL OF EMOTIONAL AND BEHAVIORAL DISORDERS"
+    },
+    {
+      "id": "journal-c3960311bb89",
+      "journal_id": "c3960311bb89",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cphp20",
+      "description": "PHILOSOPHICAL PSYCHOLOGY"
+    },
+    {
+      "id": "journal-786bdc97c25a",
+      "journal_id": "786bdc97c25a",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/vgen20",
+      "description": "JOURNAL OF GENERAL PSYCHOLOGY"
+    },
+    {
+      "id": "journal-b9e7ca1e1f47",
+      "journal_id": "b9e7ca1e1f47",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.apa.org/pubs/journals/mil",
+      "description": "MILITARY PSYCHOLOGY"
+    },
+    {
+      "id": "journal-4e82a4e82b82",
+      "journal_id": "4e82a4e82b82",
+      "publisher": "Sage",
+      "url": "https://us.sagepub.com/en-us/nam/archive-for-the-psychology-of-religion/journal203533",
+      "description": "Archive for the Psychology of Religion-Archiv fur Religionspsychologie"
+    },
+    {
+      "id": "journal-3d34f2523c00",
+      "journal_id": "3d34f2523c00",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/tppl20",
+      "description": "Psychiatry Psychology and Law"
+    },
+    {
+      "id": "journal-aec9dae317c9",
+      "journal_id": "aec9dae317c9",
+      "publisher": "APA",
+      "url": "https://www.apa.org/pubs/journals/lat",
+      "description": "Journal of Latinx Psychology"
+    },
+    {
+      "id": "journal-f5527c3e87a7",
+      "journal_id": "f5527c3e87a7",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rpse20",
+      "description": "Psychology & Sexuality"
+    },
+    {
+      "id": "journal-42a67e7db3e2",
+      "journal_id": "42a67e7db3e2",
+      "publisher": "ASSOC SERBIAN PSYCHOLOGISTS",
+      "url": "https://www.doiserbia.nb.rs/Journal.aspx?ISSN=0048-5705",
+      "description": "Psihologija"
+    },
+    {
+      "id": "journal-20e4ca9c912b",
+      "journal_id": "20e4ca9c912b",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/raup20",
+      "description": "AUSTRALIAN JOURNAL OF PSYCHOLOGY"
+    },
+    {
+      "id": "journal-0e421922d573",
+      "journal_id": "0e421922d573",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/ptj",
+      "description": "JOURNAL OF PSYCHOLOGY AND THEOLOGY"
+    },
+    {
+      "id": "journal-abf518c7c176",
+      "journal_id": "abf518c7c176",
+      "publisher": "Sage",
+      "url": "https://us.sagepub.com/en-us/nam/journal/empirical-studies-arts",
+      "description": "Empirical Studies of the Arts"
+    },
+    {
+      "id": "journal-06a74099f3bf",
+      "journal_id": "06a74099f3bf",
+      "publisher": "APA",
+      "url": "https://www.apa.org/journals/law/",
+      "description": "PSYCHOLOGY PUBLIC POLICY AND LAW"
+    },
+    {
+      "id": "journal-db5f0e3a399d",
+      "journal_id": "db5f0e3a399d",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/caic20",
+      "description": "AIDS CARE-PSYCHOLOGICAL AND SOCIO-MEDICAL ASPECTS OF AIDS/HIV"
+    },
+    {
+      "id": "journal-1486e8e94f2e",
+      "journal_id": "1486e8e94f2e",
+      "publisher": "Sage",
+      "url": "https://us.sagepub.com/en-us/nam/journal/omega-journal-death-and-dying",
+      "description": "OMEGA-JOURNAL OF DEATH AND DYING"
+    },
+    {
+      "id": "journal-9bcd3e52e5f3",
+      "journal_id": "9bcd3e52e5f3",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/20460260",
+      "description": "PsyCh Journal"
+    },
+    {
+      "id": "journal-2937861c7b96",
+      "journal_id": "2937861c7b96",
+      "publisher": "APA",
+      "url": "https://www.apa.org/journals/pubs/npe/",
+      "description": "Journal of Neuroscience Psychology and Economics"
+    },
+    {
+      "id": "journal-eccb82bd2814",
+      "journal_id": "eccb82bd2814",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/rnpy20",
+      "description": "Nordic Psychology"
+    },
+    {
+      "id": "journal-f97c5cca32dc",
+      "journal_id": "f97c5cca32dc",
+      "publisher": "Sage",
+      "url": "https://www.sagepub.com/journalsProdDesc.nav?prodId=Journal200766",
+      "description": "CULTURE & PSYCHOLOGY"
+    },
+    {
+      "id": "journal-1bbae5812163",
+      "journal_id": "1bbae5812163",
+      "publisher": "HOGREFE VERLAG",
+      "url": "https://www.hogrefe.com/de/zeitschrift/psychologische-rundschau",
+      "description": "PSYCHOLOGISCHE RUNDSCHAU"
+    },
+    {
+      "id": "journal-63a8ad148dfc",
+      "journal_id": "63a8ad148dfc",
+      "publisher": "DE GRUYTER MOUTON",
+      "url": "https://www.degruyter.com/view/j/humr",
+      "description": "HUMOR-INTERNATIONAL JOURNAL OF HUMOR RESEARCH"
+    },
+    {
+      "id": "journal-dd1819b521bb",
+      "journal_id": "dd1819b521bb",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/wwat20",
+      "description": "WOMEN & THERAPY"
+    },
+    {
+      "id": "journal-d3cfe90d736c",
+      "journal_id": "d3cfe90d736c",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/jhp",
+      "description": "JOURNAL OF HUMANISTIC PSYCHOLOGY"
+    },
+    {
+      "id": "journal-9f5407ad9926",
+      "journal_id": "9f5407ad9926",
+      "publisher": "UNIV SAN BUENAVENTURA, MEDELLIN",
+      "url": "https://revistas.usb.edu.co/index.php/IJPR/index",
+      "description": "International Journal of Psychological Research"
+    },
+    {
+      "id": "journal-4e139d58e443",
+      "journal_id": "4e139d58e443",
+      "publisher": "APA",
+      "url": "https://www.apa.org/pubs/journals/com",
+      "description": "JOURNAL OF COMPARATIVE PSYCHOLOGY"
+    },
+    {
+      "id": "journal-03eed7164b96",
+      "journal_id": "03eed7164b96",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/sap",
+      "description": "SOUTH AFRICAN JOURNAL OF PSYCHOLOGY"
+    },
+    {
+      "id": "journal-1c102fff33aa",
+      "journal_id": "1c102fff33aa",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/40732",
+      "description": "PSYCHOLOGICAL RECORD"
+    },
+    {
+      "id": "journal-1c102fff33aa-cfp-0",
+      "journal_id": "1c102fff33aa",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/40732/collections",
+      "description": "PSYCHOLOGICAL RECORD · 征稿与专题入口"
+    },
+    {
+      "id": "journal-df0a19df7462",
+      "journal_id": "df0a19df7462",
+      "publisher": "TECH SCIENCE PRESS",
+      "url": "https://www.tandfonline.com/journals/rpia20",
+      "description": "Journal of Psychology in Africa"
+    },
+    {
+      "id": "journal-ebed73e3dbe0",
+      "journal_id": "ebed73e3dbe0",
+      "publisher": "FOUNDATION ADVANCEMENT PSYCHOLOGY",
+      "url": "https://revistalatinoamericanadepsicologia.konradlorenz.edu.co/",
+      "description": "REVISTA LATINOAMERICANA DE PSICOLOGIA"
+    },
+    {
+      "id": "journal-27a48a0adbd7",
+      "journal_id": "27a48a0adbd7",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/wfpp21",
+      "description": "Journal of Forensic Psychology Research and Practice"
+    },
+    {
+      "id": "journal-23f9d253e7f8",
+      "journal_id": "23f9d253e7f8",
+      "publisher": "APA",
+      "url": "https://www.apa.org/journals/hop/",
+      "description": "History of Psychology"
+    },
+    {
+      "id": "journal-d1817bf7408e",
+      "journal_id": "d1817bf7408e",
+      "publisher": "CANADIAN PSYCHOLOGICAL ASSOC",
+      "url": "https://www.cpa.ca/membership/membershipbenefitsandservices/cpajournals/CJBS",
+      "description": "CANADIAN JOURNAL OF BEHAVIOURAL SCIENCE-REVUE CANADIENNE DES SCIENCES DU COMPORTEMENT"
+    },
+    {
+      "id": "journal-f692026ebb9c",
+      "journal_id": "f692026ebb9c",
+      "publisher": "HOGREFE AG-HOGREFE AG SUISSE",
+      "url": "https://www.hogrefe.com/us/journal/european-journal-of-psychology-open",
+      "description": "European Journal of Psychology Open"
+    },
+    {
+      "id": "journal-4ee39f8056c0",
+      "journal_id": "4ee39f8056c0",
+      "publisher": "EDIZIONI LUIGI POZZI",
+      "url": "https://ijsp-online.com/",
+      "description": "INTERNATIONAL JOURNAL OF SPORT PSYCHOLOGY"
+    },
+    {
+      "id": "journal-7c28e69e2236",
+      "journal_id": "7c28e69e2236",
+      "publisher": "Sage",
+      "url": "https://www.tandfonline.com/journals/redp20",
+      "description": "Studies in Psychology"
+    },
+    {
+      "id": "journal-18147283808e",
+      "journal_id": "18147283808e",
+      "publisher": "SLOVAK ACAD SCIENCES, CTR SOCIAL & PSYCHOLOGICAL SCIENCES, IEP",
+      "url": "https://www.studiapsychologica.com/",
+      "description": "STUDIA PSYCHOLOGICA"
+    },
+    {
+      "id": "journal-23322d50727d",
+      "journal_id": "23322d50727d",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/home/hjb",
+      "description": "HISPANIC JOURNAL OF BEHAVIORAL SCIENCES"
+    },
+    {
+      "id": "journal-a436de0e8fb0",
+      "journal_id": "a436de0e8fb0",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/psychologie-francaise",
+      "description": "Psychologie Francaise"
+    },
+    {
+      "id": "journal-a436de0e8fb0-cfp-0",
+      "journal_id": "a436de0e8fb0",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/psychologie-francaise/about/call-for-papers",
+      "description": "Psychologie Francaise · 征稿与专题入口"
+    },
+    {
+      "id": "journal-da532a34ba0a",
+      "journal_id": "da532a34ba0a",
+      "publisher": "Russian Acad Sciences, State Acad Univ Humanities (GAUGN)",
+      "url": "https://journals.rcsi.science/0205-9592",
+      "description": "PSIKHOLOGICHESKII ZHURNAL"
+    },
+    {
+      "id": "journal-7f7441305282",
+      "journal_id": "7f7441305282",
+      "publisher": "Brill Deutschland GmbH",
+      "url": "https://www.vandenhoeck-ruprecht-verlage.com/zeitschriften-und-kapitel/9497/zeitschrift-fuer-psychosomatische-medizin-und-psychotherapie",
+      "description": "ZEITSCHRIFT FUR PSYCHOSOMATISCHE MEDIZIN UND PSYCHOTHERAPIE"
+    },
+    {
+      "id": "journal-a825777e21f6",
+      "journal_id": "a825777e21f6",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/14685884",
+      "description": "JAPANESE PSYCHOLOGICAL RESEARCH"
+    },
+    {
+      "id": "journal-db5b61e040ec",
+      "journal_id": "db5b61e040ec",
+      "publisher": "ACADEMIA",
+      "url": "https://cspsych.psu.cas.cz",
+      "description": "CESKOSLOVENSKA PSYCHOLOGIE"
+    },
+    {
+      "id": "journal-cd8be509311c",
+      "journal_id": "cd8be509311c",
+      "publisher": "APA",
+      "url": "https://www.apa.org/pubs/journals/drm/index.aspx",
+      "description": "DREAMING"
+    },
+    {
+      "id": "journal-314e16abc243",
+      "journal_id": "314e16abc243",
+      "publisher": "Psychologia Editorial Office",
+      "url": "https://psychologia.ifohs.kyoto-u.ac.jp/",
+      "description": "PSYCHOLOGIA"
+    },
+    {
+      "id": "journal-6217cc69152c",
+      "journal_id": "6217cc69152c",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/pratiques-psychologiques",
+      "description": "Pratiques Psychologiques"
+    },
+    {
+      "id": "journal-6217cc69152c-cfp-0",
+      "journal_id": "6217cc69152c",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/pratiques-psychologiques/about/call-for-papers",
+      "description": "Pratiques Psychologiques · 征稿与专题入口"
+    },
+    {
+      "id": "journal-5ee3305833cc",
+      "journal_id": "5ee3305833cc",
+      "publisher": "PRESSES UNIV FRANCE",
+      "url": "https://shs.cairn.info/revue-l-annee-psychologique?lang=en",
+      "description": "ANNEE PSYCHOLOGIQUE"
+    },
+    {
+      "id": "journal-e81f72487dcd",
+      "journal_id": "e81f72487dcd",
+      "publisher": "UNIV ILLINOIS PRESS",
+      "url": "https://www.press.uillinois.edu/journals/ajp.html",
+      "description": "AMERICAN JOURNAL OF PSYCHOLOGY"
+    },
+    {
+      "id": "journal-7c25026c62f8",
+      "journal_id": "7c25026c62f8",
+      "publisher": "PONTIFICA UNIV JAVERIANA, FAC PSYCH",
+      "url": "https://universitaspsychologica.javeriana.edu.co/",
+      "description": "Universitas Psychologica"
+    },
+    {
+      "id": "journal-d4833dc37862",
+      "journal_id": "d4833dc37862",
+      "publisher": "TURKISH PSYCHOLOGISTS ASSOC",
+      "url": "https://dergipark.org.tr/tr/pub/turkpsikoloji",
+      "description": "TURK PSIKOLOJI DERGISI"
+    },
+    {
+      "id": "journal-5e9604ad24dc",
+      "journal_id": "5e9604ad24dc",
+      "publisher": "BRITISH PSYCHOLOGICAL SOC",
+      "url": "https://www.bps.org.uk/psychologist",
+      "description": "PSYCHOLOGIST"
+    },
+    {
+      "id": "journal-8dad63785e18",
+      "journal_id": "8dad63785e18",
+      "publisher": "LIPPINCOTT WILLIAMS & WILKINS",
+      "url": "https://www.psychosomaticmedicine.org/",
+      "description": "Biopsychosocial Science and Medicine"
+    },
+    {
+      "id": "journal-beff3c156c0c-cfp-0",
+      "journal_id": "beff3c156c0c",
+      "publisher": "CAMBRIDGE UNIV PRESS",
+      "url": "https://www.cambridge.org/core/journals/recall/announcements",
+      "description": "ReCALL · 征稿与专题入口"
     }
+  ],
+  "allowed_hosts": [
+    "abt.ucpress.edu",
+    "academic.oup.com",
+    "advan.physiology.org",
+    "ajet.org.au",
+    "ajp.aapt.org",
+    "anthrosource.onlinelibrary.wiley.com",
+    "aom.org",
+    "ascelibrary.org",
+    "ashpublications.org",
+    "authorservices.taylorandfrancis.com",
+    "bmcmededuc.biomedcentral.com",
+    "bpspsychub.onlinelibrary.wiley.com",
+    "cspsych.psu.cas.cz",
+    "dergipark.org.tr",
+    "direct.mit.edu",
+    "dl.acm.org",
+    "econtent.hogrefe.com",
+    "educationandscience.ted.org.tr",
+    "eltj.oxfordjournals.org",
+    "guilfordjournals.com",
+    "hepg.org",
+    "her.oxfordjournals.org",
+    "ieee-edusociety.org",
+    "ijsp-online.com",
+    "info.emeraldinsight.com",
+    "iopscience.org",
+    "iubmb.onlinelibrary.wiley.com",
+    "journals.aps.org",
+    "journals.copmadrid.org",
+    "journals.humankinetics.com",
+    "journals.lww.com",
+    "journals.rcsi.science",
+    "journals.sagepub.com",
+    "link.springer.com",
+    "mededu.jmir.org",
+    "ncte.org",
+    "ojs.psychologica-belgica.com",
+    "online.ucpress.edu",
+    "onlinelibrary.wiley.com",
+    "prc.springeropen.com",
+    "psychologia.ifohs.kyoto-u.ac.jp",
+    "pubs.acs.org",
+    "pubs.aip.org",
+    "pubs.rsc.org",
+    "recyt.fecyt.es",
+    "revistalatinoamericanadepsicologia.konradlorenz.edu.co",
+    "revistas.um.es",
+    "revistas.uned.es",
+    "revistas.unir.net",
+    "revistas.usb.edu.co",
+    "revistaseug.ugr.es",
+    "revistes.uab.cat",
+    "sagepub.com",
+    "scientiasocialis.lt",
+    "scitation.aip.org",
+    "shs.cairn.info",
+    "unisapressjournals.co.za",
+    "universitaspsychologica.javeriana.edu.co",
+    "us.sagepub.com",
+    "utppublishing.com",
+    "www.annualreviews.org",
+    "www.apa.org",
+    "www.bps.org.uk",
+    "www.cambridge.org",
+    "www.collabra.org",
+    "www.computer.org",
+    "www.copmadrid.org",
+    "www.cpa.ca",
+    "www.cyberpsychology.eu",
+    "www.degruyter.com",
+    "www.degruyterbrill.com",
+    "www.doiserbia.nb.rs",
+    "www.dovepress.com",
+    "www.elsevier.com",
+    "www.emeraldgrouppublishing.com",
+    "www.emeraldinsight.com",
+    "www.frontiersin.org",
+    "www.hogrefe.com",
+    "www.ijee.ie",
+    "www.ijper.org",
+    "www.ijsp-online.com",
+    "www.irrodl.org",
+    "www.j-ets.net",
+    "www.jcsdonline.org",
+    "www.journals.uchicago.edu",
+    "www.lifescied.org",
+    "www.lltjournal.org",
+    "www.mdpi.com",
+    "www.nature.com",
+    "www.nctm.org",
+    "www.press.jhu.edu",
+    "www.press.uillinois.edu",
+    "www.psicothema.com",
+    "www.psychologicabelgica.com",
+    "www.psychosomaticmedicine.org",
+    "www.rsc.org",
+    "www.sagepub.com",
+    "www.sajournalofeducation.co.za",
+    "www.sciencedirect.com",
+    "www.studiapsychologica.com",
+    "www.tandfonline.com",
+    "www.tcrecord.org",
+    "www.uk.sagepub.com",
+    "www.vandenhoeck-ruprecht-verlage.com"
   ]
 }
