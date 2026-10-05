@@ -13,7 +13,7 @@
       ],
       "evidence_url": "https://link.springer.com/journal/40299",
       "evidence_excerpt": "Social Science Citation Index",
-      "checked_at": "2026-10-04",
+      "checked_at": "2026-10-05",
       "verified": true,
       "journal_url": "https://link.springer.com/journal/40299"
     },
@@ -29,7 +29,7 @@
       ],
       "evidence_url": "https://www.nature.com/palcomms/journal-information/indexing",
       "evidence_excerpt": "Social Science Citation Index (SSCI) (Clarivate)",
-      "checked_at": "2026-10-04",
+      "checked_at": "2026-10-05",
       "verified": true,
       "journal_url": "https://www.nature.com/palcomms"
     },
@@ -45,7 +45,7 @@
       ],
       "evidence_url": "https://link.springer.com/journal/40561",
       "evidence_excerpt": "Social Science Citation Index",
-      "checked_at": "2026-10-04",
+      "checked_at": "2026-10-05",
       "verified": true,
       "journal_url": "https://link.springer.com/journal/40561"
     },
@@ -62,7 +62,7 @@
       ],
       "evidence_url": "https://link.springer.com/journal/40594",
       "evidence_excerpt": "Science Citation Index Expanded (SCIE); Social Science Citation Index",
-      "checked_at": "2026-10-04",
+      "checked_at": "2026-10-05",
       "verified": true,
       "journal_url": "https://link.springer.com/journal/40594"
     },
@@ -79,7 +79,7 @@
       ],
       "evidence_url": "https://www.nature.com/npjscilearn/for-authors-and-referees/guide-to-authors/about/journal-information",
       "evidence_excerpt": "Science Citation Index Expanded (SCIE); Social Science Citation Index",
-      "checked_at": "2026-10-04",
+      "checked_at": "2026-10-05",
       "verified": true,
       "journal_url": "https://www.nature.com/npjscilearn/for-authors-and-referees/guide-to-authors/about"
     },
@@ -95,7 +95,7 @@
       ],
       "evidence_url": "https://link.springer.com/journal/40359",
       "evidence_excerpt": "Social Science Citation Index",
-      "checked_at": "2026-10-04",
+      "checked_at": "2026-10-05",
       "verified": true,
       "journal_url": "https://link.springer.com/journal/40359"
     },
@@ -112,7 +112,7 @@
       ],
       "evidence_url": "https://link.springer.com/journal/12144",
       "evidence_excerpt": "Social Science Citation Index",
-      "checked_at": "2026-10-04",
+      "checked_at": "2026-10-05",
       "verified": true,
       "journal_url": "https://link.springer.com/journal/12144"
     },
@@ -256,6 +256,60 @@
       "checked_at": "2026-10-05",
       "verified": true,
       "journal_url": "https://journals.sagepub.com/home/opr"
+    },
+    {
+      "id": "84bd7efcfa8a",
+      "name": "Distance Education",
+      "publisher": "Taylor & Francis",
+      "issns": [
+        "0158-7919",
+        "1475-0198"
+      ],
+      "indexing": [
+        "SSCI"
+      ],
+      "evidence_url": "https://www.tandfonline.com/journals/cdie20/about-this-journal",
+      "evidence_excerpt": "Social Science Citation Index",
+      "checked_at": "2026-10-05",
+      "verified": true,
+      "journal_url": "https://www.tandfonline.com/journals/cdie20"
+    },
+    {
+      "id": "8f6887bfd440",
+      "name": "Educational Technology & Society",
+      "publisher": "IFETS",
+      "issns": [
+        "1436-4522",
+        "1176-3647"
+      ],
+      "indexing": [
+        "SSCI"
+      ],
+      "evidence_url": "https://www.j-ets.net/journal_info/indexing",
+      "evidence_excerpt": "Social Science Citation Index",
+      "checked_at": "2026-10-05",
+      "verified": true,
+      "journal_url": "https://www.j-ets.net/",
+      "identity_aliases": [
+        "ET&S"
+      ]
+    },
+    {
+      "id": "67590b8fe54b",
+      "name": "Learning and Individual Differences",
+      "publisher": "Elsevier",
+      "issns": [
+        "1041-6080",
+        "1873-3425"
+      ],
+      "indexing": [
+        "SSCI"
+      ],
+      "evidence_url": "https://www.sciencedirect.com/journal/learning-and-individual-differences/about/insights",
+      "evidence_excerpt": "Social Sciences Citation Index (SSCI)",
+      "checked_at": "2026-10-05",
+      "verified": true,
+      "journal_url": "https://www.sciencedirect.com/journal/learning-and-individual-differences"
     }
   ]
 }

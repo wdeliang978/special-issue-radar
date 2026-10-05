@@ -146,6 +146,30 @@
       "url": "https://journals.sagepub.com/home/opr",
       "journal_id": "ab5169333ad2",
       "description": "Organizational Psychology Review"
+    },
+    {
+      "id": "journal-84bd7efcfa8a",
+      "publisher": "Taylor & Francis",
+      "url": "https://www.tandfonline.com/journals/cdie20",
+      "journal_id": "84bd7efcfa8a",
+      "description": "Distance Education 官方征稿入口"
+    },
+    {
+      "id": "journal-8f6887bfd440",
+      "publisher": "IFETS",
+      "url": "https://www.j-ets.net/",
+      "journal_id": "8f6887bfd440",
+      "description": "Educational Technology & Society 官方征稿入口",
+      "document_hosts": [
+        "drive.google.com"
+      ]
+    },
+    {
+      "id": "journal-67590b8fe54b",
+      "publisher": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/learning-and-individual-differences/about/call-for-papers",
+      "journal_id": "67590b8fe54b",
+      "description": "Learning and Individual Differences 官方征稿入口"
     }
   ]
 }

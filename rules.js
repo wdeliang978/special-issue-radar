@@ -7,7 +7,7 @@ export function isEligible(r, today=todayISO()) {
 export function statusFor(r,today=todayISO()) {
   if (r.review_required) return 'review';
   if (r.status==='closed' || (r.full_paper_deadline && r.full_paper_deadline<today)) return 'closed';
-  if (r.abstract_required===true && r.abstract_deadline && r.abstract_deadline<today) return 'invitation';
+  if (r.abstract_required!==false && r.abstract_deadline && r.abstract_deadline<today) return 'invitation';
   if (r.submission_opens && r.submission_opens>today) return 'upcoming';
   if ((r.full_paper_deadline && r.full_paper_deadline>=today) || (r.abstract_deadline && r.abstract_deadline>=today) || r.status==='rolling') return 'open';
   return 'unknown';

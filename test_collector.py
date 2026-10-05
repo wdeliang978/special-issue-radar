@@ -1,5 +1,5 @@
 import unittest
-from collector import Document,parse_date,extract_dates,eligible,open_call,notifiable,allowed,refresh_record,event_key,events,update_index,relevant,discover_record
+from collector import Document,parse_date,extract_dates,eligible,open_call,notifiable,allowed,refresh_record,event_key,events,update_index,relevant,discover_record,discover_candidates,coverage,pdf_document
 
 class CollectorTests(unittest.TestCase):
     def setUp(self):
@@ -46,5 +46,50 @@ class CollectorTests(unittest.TestCase):
         doc=Document('<h1>Interdisciplinary approaches to antiquity</h1><p>Test Journal</p><p>Editor researches psychology and AI in education</p><p>Submission deadline: 1 January 2027</p>')
         record,reason=discover_record('https://www.nature.com/collections/test',doc,[self.journal],self.today)
         self.assertIsNone(record);self.assertIn('relevance',reason)
+    def test_pdf_timetable_ignores_revision_and_final_copy_deadlines(self):
+        dates=extract_dates('Manuscript Submission Due Date January 31, 2027 1st round Revision Submission Due Date June 1, 2027 Final Camera-ready Manuscript Due Date November 15, 2027 Estimated Publication Date April 1, 2028')
+        self.assertEqual(dates,{'abstract':[],'full':['2027-01-31']})
+    def test_journal_linked_external_pdf_is_not_silently_discarded(self):
+        source={'url':'https://www.j-ets.net/','publisher':'IFETS','journal_id':'ets','document_hosts':['drive.google.com']}
+        url='https://drive.google.com/file/d/abc123/view'
+        doc=Document(f'<p>Call for papers for a special issue on <a href="{url}">Generative AI in Education</a></p><p><a href="https://drive.google.com/file/d/scam/view">scam emails</a></p>')
+        candidates=discover_candidates(source,doc,set())
+        self.assertEqual(len(candidates),1);self.assertEqual(candidates[0]['journal_id'],'ets');self.assertEqual(candidates[0]['format'],'external-pdf')
+        self.assertEqual(discover_candidates(source,doc,{url}),[])
+        self.assertFalse(allowed(url))
+    def test_sciencedirect_h1_journal_name_does_not_replace_call_title(self):
+        journal={**self.journal,'id':'lid','name':'Learning and Individual Differences','publisher':'Elsevier','evidence_url':'https://www.sciencedirect.com/insights'}
+        title='Evaluating Teachers’ Digital Competence: Instruments and Interventions'
+        doc=Document(f'<h1>{journal["name"]}</h1><h3>{title}</h3><p>Submission deadline: 02 April 2027</p>')
+        r,reason=discover_record('https://www.sciencedirect.com/special-issue/336575/test',doc,[journal],self.today,{'title':title,'journal_id':'lid'})
+        self.assertIsNone(reason);self.assertEqual(r['title'],title)
+    def test_pdf_with_references_to_other_journals_uses_verified_source_identity(self):
+        j={**self.journal,'id':'ets','name':'Educational Technology & Society','publisher':'IFETS','evidence_url':'https://www.j-ets.net/journal_info/indexing'}
+        doc=Document('<p>Educational Technology &amp; Society</p><p>Generative AI in Education</p><p>Manuscript Submission Due Date January 31, 2027</p><p>References: Test Journal</p>');doc.format='pdf'
+        r,reason=discover_record('https://www.j-ets.net/call.pdf',doc,[j,self.journal],self.today,{'title':'Generative AI in Education','journal_id':'ets'})
+        self.assertIsNone(reason);self.assertEqual(r['journal_id'],'ets')
+    def test_unknown_abstract_requirement_pauses_after_abstract_deadline(self):
+        self.assertFalse(open_call({**self.record,'abstract_required':None,'abstract_deadline':'2026-10-03'},self.today))
+    def test_journal_official_abbreviation_and_monitor_registry(self):
+        j={**self.journal,'id':'ets','name':'Educational Technology & Society','identity_aliases':['ET&S'],'publisher':'IFETS','journal_url':'https://www.j-ets.net/'}
+        update_index(j,Document('<h1>ET&amp;S - Abstracting and Indexing</h1><p>Social Science Citation Index</p>'),'2026-10-05')
+        self.assertEqual(j['checked_at'],'2026-10-05')
+        self.assertEqual(coverage([j],[{'id':'ets-source','journal_id':'ets'}])[0]['source_ids'],['ets-source'])
+    def test_direct_pdf_extraction(self):
+        # A generated one-page PDF exercises the actual reader without a network fixture.
+        from pypdf import PdfWriter
+        from pypdf.generic import DecodedStreamObject,DictionaryObject,NameObject
+        import io
+        writer=PdfWriter();page=writer.add_blank_page(width=500,height=500)
+        font=DictionaryObject({NameObject('/Type'):NameObject('/Font'),NameObject('/Subtype'):NameObject('/Type1'),NameObject('/BaseFont'):NameObject('/Helvetica')})
+        page[NameObject('/Resources')]=DictionaryObject({NameObject('/Font'):DictionaryObject({NameObject('/F1'):writer._add_object(font)})})
+        stream=DecodedStreamObject();stream.set_data(b'BT /F1 12 Tf 20 400 Td (Manuscript deadline: January 31, 2027) Tj ET')
+        page[NameObject('/Contents')]=writer._add_object(stream);output=io.BytesIO();writer.write(output)
+        doc=pdf_document(output.getvalue());self.assertEqual(extract_dates(doc.text)['full'],['2027-01-31'])
+    def test_past_or_undated_prescreen_is_not_mistaken_for_open_submission(self):
+        j={**self.journal,'id':'test','publisher':'Test','evidence_url':'https://www.nature.com/info'}
+        doc=Document('<h1>AI in Education</h1><p>Test Journal</p><p>Submission deadline: 1 November 2026</p><p>Submit for pre-submission evaluation no later than 1st September. Invited full manuscripts should be submitted later.</p>')
+        r,reason=discover_record('https://www.nature.com/collections/test',doc,[j],self.today)
+        self.assertIsNone(r);self.assertIn('pre-screening',reason)
 
 if __name__=='__main__':unittest.main()

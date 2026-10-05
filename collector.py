@@ -1,6 +1,6 @@
 """Conservative official-source CFP collection. Uncertain records never alert."""
 from __future__ import annotations
-import argparse, concurrent.futures, datetime as dt, email.utils, hashlib, html, json, os, re, time, urllib.error, urllib.parse, urllib.request, urllib.robotparser
+import argparse, concurrent.futures, datetime as dt, email.utils, hashlib, html, io, json, os, re, time, urllib.error, urllib.parse, urllib.request, urllib.robotparser
 from html.parser import HTMLParser
 from pathlib import Path
 from difflib import SequenceMatcher
@@ -8,7 +8,7 @@ from xml.etree import ElementTree as ET
 
 ROOT=Path(__file__).resolve().parent
 AGENT='CallAtlas/1.0 (+https://github.com/wdeliang978/special-issue-radar; academic CFP monitor)'
-DOMAINS=('springer.com','springernature.com','nature.com','biomedcentral.com','sciencedirect.com','elsevier.com','wiley.com','sagepub.com','tandfonline.com','taylorandfrancis.com','ieee.org','computer.org')
+DOMAINS=('springer.com','springernature.com','nature.com','biomedcentral.com','sciencedirect.com','elsevier.com','wiley.com','sagepub.com','tandfonline.com','taylorandfrancis.com','ieee.org','computer.org','j-ets.net')
 CFP_PATH=re.compile(r'/(?:collections/[^/?#]+|calls?-for-papers/[^/?#]+|special[_-]issues/[^/?#]+|special-issue/[^/?#]+|publications/author-resources/calls-for-papers/[^/?#]+)',re.I)
 INDEX_TERMS={'SSCI':r'\bSocial Sciences? Citation Index\b|\bSSCI\b','SCIE':r'\bScience Citation Index Expanded\b|\bSCIE\b'}
 MONTHS={m.lower():i for i,m in enumerate(['January','February','March','April','May','June','July','August','September','October','November','December'],1)}
@@ -35,7 +35,7 @@ def canonical(url):
 
 class Document(HTMLParser):
     def __init__(self,source):
-        super().__init__(convert_charrefs=True);self.parts=[];self.links=[];self.meta={};self.stack=[];self.ignored=0;self.anchor=None;self.headings=[];self.heading=None;self.feed(source)
+        super().__init__(convert_charrefs=True);self.parts=[];self.links=[];self.link_context={};self.meta={};self.stack=[];self.ignored=0;self.anchor=None;self.headings=[];self.heading=None;self.format='html';self.feed(source)
         self.text=re.sub(r'[ \t]+',' ',' '.join(self.parts));self.text=re.sub(r'\n\s*\n','\n',self.text).strip()
     def handle_starttag(self,tag,attrs):
         a=dict(attrs)
@@ -48,7 +48,8 @@ class Document(HTMLParser):
     def handle_endtag(self,tag):
         if tag in ('script','style','nav','footer','noscript','svg') and self.ignored:self.ignored-=1;return
         if self.ignored:return
-        if tag=='a' and self.anchor:self.links.append((self.anchor[0],' '.join(self.anchor[1]).strip()));self.anchor=None
+        if tag=='a' and self.anchor:
+            self.links.append((self.anchor[0],' '.join(self.anchor[1]).strip()));self.link_context[self.anchor[0]]=' '.join(self.parts)[-700:];self.anchor=None
         if tag=='h1' and self.heading is not None:self.headings.append(' '.join(self.heading).strip());self.heading=None
         if tag in ('p','div','section','h1','h2','h3','li','tr','dt','dd'):self.parts.append('\n')
     def handle_data(self,data):
@@ -56,6 +57,27 @@ class Document(HTMLParser):
             self.parts.append(data)
             if self.anchor is not None:self.anchor[1].append(data)
             if self.heading is not None:self.heading.append(data)
+
+def pdf_document(raw):
+    from pypdf import PdfReader
+    reader=PdfReader(io.BytesIO(raw))
+    if len(reader.pages)>30:raise ValueError('PDF exceeds 30 page limit')
+    doc=Document('');doc.format='pdf';doc.text='\n'.join(page.extract_text() or '' for page in reader.pages)
+    return doc
+
+def discover_candidates(source,doc,known):
+    """Journal-owned document links are retained even when their host needs review."""
+    out=[]
+    for path,label in doc.links:
+        url=canonical(urllib.parse.urljoin(source['url'],path));p=urllib.parse.urlsplit(url)
+        if url in known:continue
+        context=doc.link_context.get(path,label)
+        is_call=bool(re.search(r'call for papers|special[ -]issue|themed issue',context,re.I))
+        external_pdf=(p.scheme=='https' and p.hostname in source.get('document_hosts',[]) and bool(re.fullmatch(r'/file/d/[\w-]+/view',p.path)) and is_call and bool(relevant(label)))
+        direct_pdf=allowed(url) and p.path.lower().endswith('.pdf') and is_call
+        if (allowed(url) and CFP_PATH.search(p.path)) or direct_pdf or external_pdf:
+            out.append({'url':url,'title':label,'publisher':source['publisher'],'journal_id':source.get('journal_id'),'discovery_source_url':source['url'],'format':'external-pdf' if external_pdf else 'pdf' if direct_pdf else 'html'})
+    return out
 
 class SafeRedirect(urllib.request.HTTPRedirectHandler):
     def redirect_request(self,req,fp,code,msg,headers,newurl):
@@ -65,11 +87,12 @@ class SafeRedirect(urllib.request.HTTPRedirectHandler):
 class Fetcher:
     def __init__(self): self.cache={};self.robots={};self.reports=[]
     def _get(self,url):
-        req=urllib.request.Request(url,headers={'User-Agent':AGENT,'Accept':'text/html,application/xhtml+xml'})
+        req=urllib.request.Request(url,headers={'User-Agent':AGENT,'Accept':'text/html,application/xhtml+xml,application/pdf'})
         with urllib.request.build_opener(SafeRedirect()).open(req,timeout=22) as response:
-            if 'text/' not in response.headers.get('Content-Type',''):raise ValueError('Unsupported non-HTML document')
             raw=response.read(4_000_001)
             if len(raw)>4_000_000:raise ValueError('Document exceeds 4 MB limit')
+            if raw.startswith(b'%PDF'):return pdf_document(raw)
+            if 'text/' not in response.headers.get('Content-Type',''):raise ValueError('Unsupported document type')
             return raw.decode(response.headers.get_content_charset() or 'utf-8',errors='replace')
     def prime_robots(self,urls):
         origins={urllib.parse.urlsplit(u).scheme+'://'+urllib.parse.urlsplit(u).netloc for u in urls if allowed(u)}
@@ -88,7 +111,7 @@ class Fetcher:
             p=urllib.parse.urlsplit(url);origin=p.scheme+'://'+p.netloc
             robot=self.robots.get(origin)
             if robot is False or (robot and not robot.can_fetch(AGENT,url)):raise ValueError('Publisher robots policy disallows this path')
-            source=self._get(url);doc=Document(source)
+            source=self._get(url);doc=source if isinstance(source,Document) else Document(source)
             if len(doc.text)<180 or re.search(r'^(?:Access Denied|Just a moment|Robot Challenge|Forbidden)',doc.text,re.I):raise ValueError('Page unavailable or access challenge')
             result=(doc,None)
         except Exception as e:result=(None,type(e).__name__+': '+str(e)[:180])
@@ -112,6 +135,10 @@ def extract_dates(text):
       'full':r'(?:(?:full[ -]?(?:paper|manuscript)s?|manuscripts?|papers?|submissions?)(?: submission)?\s*(?:deadline|due|by)|(?:deadline|due date)\s*(?:for|of)?\s*(?:full[ -]?)?(?:paper|manuscript|submission)s?|submission deadline\s*:)' }
     for kind,pat in patterns.items():
         for match in re.finditer(pat,text,re.I):
+            # CFP timetables also list revision and camera-ready dates. These are
+            # not first-submission deadlines, including in single-line PDF text.
+            before=text[max(0,match.start()-45):match.start()]
+            if re.search(r'(?:revis(?:ion|ed)|camera[ -]?ready|proof|editorial)\s+(?:\w+\s+){0,3}$',before,re.I):continue
             snippet=text[match.end():match.end()+100]
             stop=re.search(r'\b(?:publication|notification|revis(?:ion|ed)|abstract|submission opens?)\b',snippet,re.I)
             if stop:snippet=snippet[:stop.start()]
@@ -127,7 +154,10 @@ def extract_dates(text):
             if d:found['abstract'].add(d)
     return {k:sorted(v) for k,v in found.items()}
 
-def relevant(text):return [name for name,pat in TOPIC_PATTERNS if re.search(pat,text,re.I)]
+def relevant(text):
+    tags=[name for name,pat in TOPIC_PATTERNS if re.search(pat,text,re.I)]
+    if re.search(r'digital competenc|technology[ -]enhanced|adaptive teach',text,re.I) and '教育技术' not in tags:tags.append('教育技术')
+    return tags
 def eligible(r,asof):
     try:age=(dt.date.fromisoformat(asof)-dt.date.fromisoformat(r.get('indexing_checked_at',''))).days
     except ValueError:return False
@@ -135,7 +165,7 @@ def eligible(r,asof):
 def open_call(r,asof):
     if r.get('review_required') or r.get('status')=='closed':return False
     if r.get('full_paper_deadline') and r['full_paper_deadline']<asof:return False
-    if r.get('abstract_required') is True and r.get('abstract_deadline') and r['abstract_deadline']<asof:return False
+    if r.get('abstract_required') is not False and r.get('abstract_deadline') and r['abstract_deadline']<asof:return False
     return any(r.get(k,'') and r[k]>=asof for k in ('abstract_deadline','full_paper_deadline')) or r.get('status')=='rolling'
 def notifiable(r,asof):
     try:fresh=(dt.date.fromisoformat(asof)-dt.date.fromisoformat(r.get('checked_at',''))).days<=7
@@ -146,7 +176,7 @@ def update_index(j,doc,asof):
     if not doc:return
     text=doc.text
     # Scope to a single journal evidence page with its exact name or verified ISSN.
-    identity=j['name'].casefold() in text.casefold() or any(issn in text for issn in j.get('issns',[]))
+    identity=j['name'].casefold() in text.casefold() or any(issn in text for issn in j.get('issns',[])) or any(re.search(r'(?<!\w)'+re.escape(alias)+r'(?!\w)',text[:500],re.I) for alias in j.get('identity_aliases',[]))
     found=[i for i,pat in INDEX_TERMS.items() if re.search(pat,text,re.I)]
     if identity and found:j.update(indexing=found,verified=True,checked_at=asof)
     elif identity and re.search(r'Emerging Sources Citation Index|\bESCI\b',text,re.I):j.update(indexing=['ESCI'],verified=False,checked_at=asof)
@@ -171,12 +201,24 @@ def refresh_record(r,j,doc,asof):
         elif r.get(key) and r[key] not in visible_dates:r['review_required']=True;return
     if updates:r.update(updates);r.update(checked_at=asof,review_required=False)
 
-def discover_record(url,doc,journals,asof):
+def discover_record(url,doc,journals,asof,context=None):
+    context=context or {}
     title=(doc.headings[0] if doc.headings else doc.meta.get('og:title','')).strip()
+    linked_title=context.get('title','').strip()
+    normalized=lambda s:re.sub(r'\W+',' ',s).casefold().strip()
+    # Elsevier uses the journal name as h1 and the CFP title as h3. The link
+    # on its journal CFP page identifies the title, but must occur in the page.
+    if len(linked_title)>15 and normalized(linked_title) in normalized(doc.text):title=linked_title
     if not title or len(title)<10 or re.search(r'guest editor|propos(?:e|als?).{0,30}special issue',title,re.I):return None,'not a manuscript call'
     matches=[j for j in journals if j['name'].casefold() in doc.text.casefold() or any(issn in doc.meta.get('citation_issn','') for issn in j.get('issns',[]))]
+    if context.get('journal_id'):
+        # PDF references/editors can name many journals; only use a bound source
+        # when the destination journal identifies itself at the document start.
+        bound=next((j for j in journals if j['id']==context['journal_id']),None)
+        if bound and (bound['name'].casefold() in doc.text[:2500].casefold() or any(v in doc.text[:2500] for v in bound.get('issns',[]))):matches=[bound]
     if len(matches)!=1:return None,'journal identity not unambiguous or not in verified registry'
     if re.search(r'Multiple participating journals',doc.text,re.I):return None,'multi-journal collection requires specific destination review'
+    if re.search(r'pre[ -](?:submission evaluation|screening process)|invited (?:full )?manuscripts',doc.text,re.I):return None,'invitation or pre-screening stage requires deadline review'
     j=matches[0]
     # Titles and journal scope prevent keywords in editors' bios or article lists from
     # turning an unrelated humanities collection into an AI/education opportunity.
@@ -192,9 +234,14 @@ def discover_record(url,doc,journals,asof):
     if abstract:
         if re.search(r'(?:optional|not required).{0,70}abstract|abstract.{0,70}(?:optional|not required)',doc.text,re.I):required=False
         elif re.search(r'(?:must|required|invited).{0,70}abstract|abstract.{0,70}(?:must|required|invited)',doc.text,re.I):required=True
-        else:return None,'abstract requirement needs review'
+        # A future, dated abstract stage can be displayed with an unknown
+        # requirement; after it passes, open_call pauses recommendations.
     r={'id':'auto-'+hashlib.sha256((canonical(url)+j['id']).encode()).hexdigest()[:16],'title':title,'journal':j['name'],'journal_id':j['id'],'publisher':j['publisher'],'cfp_url':url,'abstract_deadline':abstract,'abstract_required':required,'full_paper_deadline':full,'deadline_notes_zh':'自动识别的官方征稿。请在投稿前查看原文中关于格式、资格及截止时区的要求。','topics':tags,'keywords':tags,'summary_zh':'新发现的官方专题征稿。点击查看官方页面了解完整研究范围与投稿要求。','indexing':j['indexing'],'indexing_verified':j['verified'],'indexing_evidence_url':j['evidence_url'],'indexing_checked_at':j['checked_at'],'status':'open','checked_at':asof,'first_seen':asof,'review_required':False}
+    r['discovery_source_url']=context.get('discovery_source_url');r['source_format']=doc.format
     return (r,None) if notifiable(r,asof) else (None,'not open or index not verified')
+
+def coverage(journals,sources):
+    return [{**{k:j[k] for k in ('id','name','publisher','indexing','verified','checked_at','journal_url')},'source_ids':[s['id'] for s in sources if s.get('journal_id')==j['id']]} for j in journals]
 
 def rss(catalog,base_url,asof):
     ET.register_namespace('atom','http://www.w3.org/2005/Atom')
@@ -275,16 +322,16 @@ def main():
         for s in sources:
             doc,error=fetcher.fetch(s['url']);links=[]
             if doc:
-                for path,label in doc.links:
-                    url=canonical(urllib.parse.urljoin(s['url'],path))
-                    if allowed(url) and CFP_PATH.search(urllib.parse.urlsplit(url).path) and url not in known:
-                        links.append(url);candidates.setdefault(url,{'url':url,'title':label,'publisher':s['publisher']})
+                for candidate in discover_candidates(s,doc,known):
+                    links.append(candidate['url']);candidates.setdefault(candidate['url'],candidate)
             reports.append({'id':s['id'],'status':'ok' if doc else 'error','candidates':len(set(links)),'error':error})
         candidate_list=list(candidates.values())[:args.max_candidates];fetcher.prime_robots([c['url'] for c in candidate_list])
-        with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:list(pool.map(fetcher.fetch,[c['url'] for c in candidate_list]))
+        with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:list(pool.map(fetcher.fetch,[c['url'] for c in candidate_list if c['format']!='external-pdf']))
         reviewed=[]
         for c in candidate_list:
-            doc,error=fetcher.fetch(c['url']);r,reason=discover_record(c['url'],doc,journals,asof) if doc else (None,error)
+            if c['format']=='external-pdf':
+                reviewed.append({**c,'reason':'Official journal links an external PDF; deadline verification requires a permitted document source.','discovered_at':asof});continue
+            doc,error=fetcher.fetch(c['url']);r,reason=discover_record(c['url'],doc,journals,asof,c) if doc else (None,error)
             if r:catalog['records'].append(r)
             else:reviewed.append({**c,'reason':reason,'discovered_at':asof})
         # Keep only latest bounded operational queue, without alerting unverified candidates.
@@ -293,6 +340,7 @@ def main():
         catalog['monitor']={'last_run':utcnow(),'succeeded':succeeded,'failed':failed,'sources':reports,'review_candidates':len(reviewed),'deferred_candidates':queue['unchecked_due_to_limit'],'pages':fetcher.reports}
         catalog['updated_at']=utcnow();write('journals.json',registry)
     base='https://wdeliang978.github.io/special-issue-radar/'
+    catalog['journal_coverage']=coverage(journals,sources)
     rss(catalog,base,asof);write('data.json',catalog)
     if args.notify:
         delivered=notify(catalog,previous,asof);print(f'{delivered} notification events delivered or recovered.')
