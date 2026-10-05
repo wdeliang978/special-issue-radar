@@ -4,7 +4,10 @@
       "url": "https://www.computer.org/category/call-for-papers/feed",
       "title": "",
       "publisher": "IEEE",
-      "reason": "ValueError: Unsupported non-HTML document",
+      "journal_id": null,
+      "discovery_source_url": "https://www.computer.org/publications/author-resources/calls-for-papers",
+      "format": "html",
+      "reason": "ValueError: Unsupported document type",
       "discovered_at": "2026-10-05"
     }
   ],

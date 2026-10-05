@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-05T04:41:04+00:00",
+  "updated_at": "2026-10-05T04:45:03+00:00",
   "records": [
     {
       "id": "sn-djhaaaccge",
@@ -1375,8 +1375,8 @@
     }
   ],
   "monitor": {
-    "last_run": "2026-10-05T04:41:04+00:00",
-    "succeeded": 41,
+    "last_run": "2026-10-05T04:45:03+00:00",
+    "succeeded": 36,
     "failed": 38,
     "sources": [
       {
@@ -1412,19 +1412,19 @@
       {
         "id": "springer-nature",
         "status": "ok",
-        "candidates": 1,
+        "candidates": 0,
         "error": null
       },
       {
         "id": "nature-portfolio",
         "status": "ok",
-        "candidates": 2,
+        "candidates": 0,
         "error": null
       },
       {
         "id": "journal-4367af3b142e",
         "status": "ok",
-        "candidates": 1,
+        "candidates": 0,
         "error": null
       },
       {
@@ -1435,9 +1435,9 @@
       },
       {
         "id": "journal-7414130f35e4",
-        "status": "error",
+        "status": "ok",
         "candidates": 0,
-        "error": "HTTPError: HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nSee Other"
+        "error": null
       },
       {
         "id": "journal-0887144ec2c6",
@@ -1448,7 +1448,7 @@
       {
         "id": "journal-cc321858f321",
         "status": "ok",
-        "candidates": 1,
+        "candidates": 0,
         "error": null
       },
       {
@@ -1524,7 +1524,7 @@
         "error": "ValueError: Publisher robots policy disallows this path"
       }
     ],
-    "review_candidates": 5,
+    "review_candidates": 1,
     "deferred_candidates": 0,
     "pages": [
       {
@@ -1548,17 +1548,7 @@
         "error": "HTTPError: HTTP Error 403: Forbidden"
       },
       {
-        "url": "https://journals.sagepub.com/open-call-for-papers",
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://journals.sagepub.com/page/spq/call-for-papers",
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://journals.sagepub.com/pb-assets/cmscontent/OPR/CFP_Reconceptualizing_Careers_in_Disruptive_Times-1776228180230.pdf",
+        "url": "https://in.sagepub.com/en-in/sas/journal/organizational-psychology-review",
         "status": "ok",
         "error": null
       },
@@ -1568,17 +1558,22 @@
         "error": null
       },
       {
+        "url": "https://journals.sagepub.com/page/spq/call-for-papers",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://journals.sagepub.com/open-call-for-papers",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://journals.sagepub.com/pb-assets/cmscontent/OPR/CFP_Reconceptualizing_Careers_in_Disruptive_Times-1776228180230.pdf",
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
         "url": "https://link.springer.com/collections/ajbdagfbfd",
-        "status": "ok",
-        "error": null
-      },
-      {
-        "url": "https://in.sagepub.com/en-in/sas/journal/organizational-psychology-review",
-        "status": "ok",
-        "error": null
-      },
-      {
-        "url": "https://link.springer.com/collections/bjfcebifdj",
         "status": "ok",
         "error": null
       },
@@ -1588,7 +1583,7 @@
         "error": null
       },
       {
-        "url": "https://link.springer.com/collections/dacjgchhgh",
+        "url": "https://link.springer.com/collections/bjfcebifdj",
         "status": "ok",
         "error": null
       },
@@ -1603,12 +1598,12 @@
         "error": null
       },
       {
-        "url": "https://link.springer.com/collections/ejfjciacdi",
+        "url": "https://link.springer.com/collections/dacjgchhgh",
         "status": "ok",
         "error": null
       },
       {
-        "url": "https://authorservices.taylorandfrancis.com/call-for-papers",
+        "url": "https://link.springer.com/collections/ejfjciacdi",
         "status": "ok",
         "error": null
       },
@@ -1623,12 +1618,12 @@
         "error": null
       },
       {
-        "url": "https://link.springer.com/collections/hbgejjhffg",
+        "url": "https://link.springer.com/collections/hacbfhdedh",
         "status": "ok",
         "error": null
       },
       {
-        "url": "https://link.springer.com/collections/hacbfhdedh",
+        "url": "https://link.springer.com/collections/hbgejjhffg",
         "status": "ok",
         "error": null
       },
@@ -1638,12 +1633,12 @@
         "error": null
       },
       {
-        "url": "https://link.springer.com/collections/jejegcbbaj",
+        "url": "https://link.springer.com/collections/jegjjbbbeh",
         "status": "ok",
         "error": null
       },
       {
-        "url": "https://link.springer.com/collections/jegjjbbbeh",
+        "url": "https://link.springer.com/collections/jejegcbbaj",
         "status": "ok",
         "error": null
       },
@@ -1653,7 +1648,17 @@
         "error": null
       },
       {
+        "url": "https://link.springer.com/journal/40359",
+        "status": "ok",
+        "error": null
+      },
+      {
         "url": "https://link.springer.com/journal/40299",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://link.springer.com/journal/40561",
         "status": "ok",
         "error": null
       },
@@ -1666,6 +1671,11 @@
         "url": "https://onlinelibrary.wiley.com/journal/13652575",
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://link.springer.com/journal/40594",
+        "status": "ok",
+        "error": null
       },
       {
         "url": "https://onlinelibrary.wiley.com/journal/13652788",
@@ -1698,17 +1708,12 @@
         "error": "HTTPError: HTTP Error 403: Forbidden"
       },
       {
-        "url": "https://onlinelibrary.wiley.com/page/journal/13652575/call-for-papers/si-2026-000747",
+        "url": "https://onlinelibrary.wiley.com/page/journal/13652575/homepage/call-for-papers/si-2026-000664",
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden"
       },
       {
-        "url": "https://link.springer.com/journal/40359",
-        "status": "ok",
-        "error": null
-      },
-      {
-        "url": "https://onlinelibrary.wiley.com/page/journal/13652575/homepage/call-for-papers/si-2026-000664",
+        "url": "https://onlinelibrary.wiley.com/page/journal/13652575/call-for-papers/si-2026-000747",
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden"
       },
@@ -1721,11 +1726,6 @@
         "url": "https://onlinelibrary.wiley.com/page/journal/13652575/homepage/productinformation.html",
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://link.springer.com/journal/40561",
-        "status": "ok",
-        "error": null
       },
       {
         "url": "https://onlinelibrary.wiley.com/page/journal/13652575/homepage/special_issues.htm",
@@ -1741,11 +1741,6 @@
         "url": "https://onlinelibrary.wiley.com/page/journal/13652788/homepage/productinformation.html",
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden"
-      },
-      {
-        "url": "https://link.springer.com/journal/40594",
-        "status": "ok",
-        "error": null
       },
       {
         "url": "https://onlinelibrary.wiley.com/page/journal/14653435/homepage/call-for-papers/si-2026-000865",
@@ -1778,12 +1773,7 @@
         "error": "HTTPError: HTTP Error 403: Forbidden"
       },
       {
-        "url": "https://think.taylorandfrancis.com/special_issues/ethics-responsibility-and-generative-ai-in-educational-research",
-        "status": "ok",
-        "error": null
-      },
-      {
-        "url": "https://www.computer.org/publications/author-resources/calls-for-papers",
+        "url": "https://authorservices.taylorandfrancis.com/call-for-papers",
         "status": "ok",
         "error": null
       },
@@ -1798,6 +1788,16 @@
         "error": null
       },
       {
+        "url": "https://www.computer.org/publications/author-resources/calls-for-papers",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://www.nature.com/collections/ddeibijijd/how-to-submit",
+        "status": "ok",
+        "error": null
+      },
+      {
         "url": "https://www.nature.com/collections/fiigeaggcf",
         "status": "ok",
         "error": null
@@ -1808,17 +1808,17 @@
         "error": null
       },
       {
-        "url": "https://www.nature.com/collections/ddeibijijd/how-to-submit",
-        "status": "ok",
-        "error": null
-      },
-      {
         "url": "https://www.nature.com/collections/gffbgaahgb",
         "status": "ok",
         "error": null
       },
       {
         "url": "https://www.nature.com/collections/jfijibbbah",
+        "status": "ok",
+        "error": null
+      },
+      {
+        "url": "https://www.nature.com/npjscilearn/for-authors-and-referees/guide-to-authors/about",
         "status": "ok",
         "error": null
       },
@@ -1858,6 +1858,11 @@
         "error": "ValueError: Publisher robots policy disallows this path"
       },
       {
+        "url": "https://www.nature.com/palcomms/journal-information/indexing",
+        "status": "ok",
+        "error": null
+      },
+      {
         "url": "https://www.tandfonline.com/journals/cdie20",
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden"
@@ -1878,42 +1883,12 @@
         "error": "HTTPError: HTTP Error 403: Forbidden"
       },
       {
-        "url": "https://www.nature.com/palcomms/journal-information/indexing",
+        "url": "https://think.taylorandfrancis.com/special_issues/ethics-responsibility-and-generative-ai-in-educational-research",
         "status": "ok",
         "error": null
-      },
-      {
-        "url": "https://www.nature.com/npjscilearn/for-authors-and-referees/guide-to-authors/about",
-        "status": "error",
-        "error": "HTTPError: HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nSee Other"
       },
       {
         "url": "https://think.taylorandfrancis.com/special_issues/reimagining-distance-education-age-generative-ai",
-        "status": "ok",
-        "error": null
-      },
-      {
-        "url": "https://link.springer.com/collections/iffhjcagac",
-        "status": "ok",
-        "error": null
-      },
-      {
-        "url": "https://www.nature.com/collections/bbeidaacgj",
-        "status": "ok",
-        "error": null
-      },
-      {
-        "url": "https://www.nature.com/collections/qtqsgncqqp",
-        "status": "ok",
-        "error": null
-      },
-      {
-        "url": "https://link.springer.com/collections/fajaaijijd",
-        "status": "ok",
-        "error": null
-      },
-      {
-        "url": "https://link.springer.com/collections/aehdaicgca",
         "status": "ok",
         "error": null
       },
