@@ -44,9 +44,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python collector.py --notify
-      - name: Build website without another network scan
+      - name: Publish already checked updates without another source scan
         if: github.event_name == 'push'
-        run: python collector.py --offline
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python collector.py --offline --notify
       - name: Preserve checked data and notification receipts
         if: always()
         run: |
