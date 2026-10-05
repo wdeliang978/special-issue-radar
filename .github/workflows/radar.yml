@@ -4,7 +4,7 @@ on:
     branches: [main]
   workflow_dispatch:
   schedule:
-    - cron: '17 13 * * *'
+    - cron: '17 13 * * 1'
 
 concurrency:
   group: call-atlas
@@ -16,7 +16,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 40
     permissions:
       contents: write
       issues: write
@@ -37,12 +37,16 @@ jobs:
         run: python -m pip install pypdf==6.10.0
       - name: Check filtering and deadline rules
         run: |
-          python -m unittest test_collector.py
+          python -m unittest
           node --test rules.test.js
       - name: Check official sources and send verified updates
+        if: github.event_name != 'push'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python collector.py --notify
+      - name: Build website without another network scan
+        if: github.event_name == 'push'
+        run: python collector.py --offline
       - name: Preserve checked data and notification receipts
         if: always()
         run: |
