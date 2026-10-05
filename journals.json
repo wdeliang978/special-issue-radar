@@ -157,7 +157,7 @@
       "evidence_excerpt": "Science Citation Index Expanded (SCIE); Social Science Citation Index",
       "checked_at": "2026-10-05",
       "verified": true,
-      "journal_url": "https://www.nature.com/npjscilearn/for-authors-and-referees/guide-to-authors/about",
+      "journal_url": "https://www.nature.com/npjscilearn/",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -934,7 +934,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.sagepub.com/journals/Journal201854/title",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/review-of-educational-research-201854",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -963,7 +963,7 @@
         "raw_homepage": "http://www.sagepub.com/journals/Journal201854/title"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.sagepub.com/journals/Journal201854/title"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/review-of-educational-research-201854"
     },
     {
       "id": "cf39d485cf6e",
@@ -980,7 +980,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://us.sagepub.com/en-us/nam/journal-of-educational-computing-research/journal202399",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-educational-computing-research-202399",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -1009,7 +1009,7 @@
         "raw_homepage": "https://us.sagepub.com/en-us/nam/journal-of-educational-computing-research/journal202399"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://us.sagepub.com/en-us/nam/journal-of-educational-computing-research/journal202399"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-educational-computing-research-202399"
     },
     {
       "id": "f0abc1180d53",
@@ -1026,7 +1026,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.elsevier.com/wps/find/journaldescription.cws_home/335/description",
+      "journal_url": "https://www.sciencedirect.com/science/journal/0346251X",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -1055,7 +1055,7 @@
         "raw_homepage": "http://www.elsevier.com/wps/find/journaldescription.cws_home/335/description#description"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.elsevier.com/wps/find/journaldescription.cws_home/335/description"
+      "evidence_candidate_url": "https://www.sciencedirect.com/science/journal/0346251X"
     },
     {
       "id": "8b089da60652",
@@ -1322,7 +1322,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://aom.org/amle/",
+      "journal_url": "https://www.aom.org/publications/journals/learning-and-education/",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -1351,7 +1351,8 @@
         "raw_homepage": "http://aom.org/amle/"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://aom.org/amle/"
+      "evidence_candidate_url": "https://www.aom.org/publications/journals/learning-and-education/",
+      "publisher_journal_code": "amle"
     },
     {
       "id": "6c2dea96f9bb",
@@ -1889,7 +1890,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.sagepub.com/journals/Journal201856/title",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/educational-researcher-201856",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -1918,7 +1919,7 @@
         "raw_homepage": "http://www.sagepub.com/journals/Journal201856/title"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.sagepub.com/journals/Journal201856/title"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/educational-researcher-201856"
     },
     {
       "id": "75162812e6fd",
@@ -2081,7 +2082,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.sagepub.com/journals/Journal200854/title",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/educational-administration-quarterly-200854",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -2110,7 +2111,7 @@
         "raw_homepage": "http://www.sagepub.com/journals/Journal200854/title"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.sagepub.com/journals/Journal200854/title"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/educational-administration-quarterly-200854"
     },
     {
       "id": "47b6df13924c",
@@ -2876,7 +2877,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.nctm.org/publications/jrme.aspx",
+      "journal_url": "https://pubs.nctm.org/view/journals/jrme/jrme-overview.xml",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -2905,7 +2906,7 @@
         "raw_homepage": "http://www.nctm.org/publications/jrme.aspx"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.nctm.org/publications/jrme.aspx"
+      "evidence_candidate_url": "https://pubs.nctm.org/view/journals/jrme/jrme-overview.xml"
     },
     {
       "id": "3cd8e1e42a12",
@@ -3152,7 +3153,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.sagepub.com/journals/Journal200888/title",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/educational-management-administration-leadership-200888",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -3181,7 +3182,7 @@
         "raw_homepage": "http://www.sagepub.com/journals/Journal200888/title"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.sagepub.com/journals/Journal200888/title"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/educational-management-administration-leadership-200888"
     },
     {
       "id": "4cd7c9866331",
@@ -3337,7 +3338,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.sagepub.com/journals/Journal201851/title",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/american-educational-research-journal-201851",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -3366,7 +3367,7 @@
         "raw_homepage": "http://www.sagepub.com/journals/Journal201851/title"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.sagepub.com/journals/Journal201851/title"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/american-educational-research-journal-201851"
     },
     {
       "id": "7943f6a37bfc",
@@ -3661,7 +3662,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.sagepub.com/journals/Journal200962/title",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/european-physical-education-review-200962",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -3690,7 +3691,7 @@
         "raw_homepage": "http://www.sagepub.com/journals/Journal200962/title"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.sagepub.com/journals/Journal200962/title"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/european-physical-education-review-200962"
     },
     {
       "id": "a702a6030963",
@@ -4275,7 +4276,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://info.emeraldinsight.com/products/journals/journals.htm?id=ijshe",
+      "journal_url": "https://www.emerald.com/ijshe",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -4304,7 +4305,7 @@
         "raw_homepage": "http://info.emeraldinsight.com/products/journals/journals.htm?id=ijshe"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://info.emeraldinsight.com/products/journals/journals.htm?id=ijshe"
+      "evidence_candidate_url": "https://www.emerald.com/ijshe"
     },
     {
       "id": "e6ebce93ebe4",
@@ -4785,7 +4786,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.sagepub.com/journals/Journal201855/title",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/review-of-research-in-education-201855",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -4814,7 +4815,7 @@
         "raw_homepage": "http://www.sagepub.com/journals/Journal201855/title"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.sagepub.com/journals/Journal201855/title"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/review-of-research-in-education-201855"
     },
     {
       "id": "f2f388724216",
@@ -5115,7 +5116,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.sagepub.com/journals/Journal201378/title",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-studies-in-international-education-201378",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -5144,7 +5145,7 @@
         "raw_homepage": "http://www.sagepub.com/journals/Journal201378/title"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.sagepub.com/journals/Journal201378/title"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-studies-in-international-education-201378"
     },
     {
       "id": "496624c550a3",
@@ -5252,7 +5253,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://us.sagepub.com/en-us/nam/journal/aera-open",
+      "journal_url": "https://journals.sagepub.com/home/ero",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -5281,7 +5282,7 @@
         "raw_homepage": "https://us.sagepub.com/en-us/nam/journal/aera-open"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://us.sagepub.com/en-us/nam/journal/aera-open"
+      "evidence_candidate_url": "https://journals.sagepub.com/home/ero"
     },
     {
       "id": "d57ffdb74275",
@@ -5718,7 +5719,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.emeraldinsight.com/0957-8234.htm",
+      "journal_url": "https://www.emerald.com/jea",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -5747,7 +5748,7 @@
         "raw_homepage": "http://www.emeraldinsight.com/0957-8234.htm"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.emeraldinsight.com/0957-8234.htm"
+      "evidence_candidate_url": "https://www.emerald.com/jea"
     },
     {
       "id": "b35e11dab26c",
@@ -5764,7 +5765,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://journals.sagepub.com/home/smh",
+      "journal_url": "https://journals.sagepub.com/home/TES",
       "aliases": [
         "Teacher Education and Special Education The Journal of the Teacher Education Division of the Council for Exceptional Children"
       ],
@@ -5795,7 +5796,7 @@
         "raw_homepage": "http://smh.sagepub.com/"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://journals.sagepub.com/home/smh"
+      "evidence_candidate_url": "https://journals.sagepub.com/home/TES"
     },
     {
       "id": "2945252fa9fa",
@@ -5858,7 +5859,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.emeraldgrouppublishing.com/journal/et",
+      "journal_url": "https://www.emerald.com/et",
       "aliases": [
         "Education + Training"
       ],
@@ -5889,7 +5890,7 @@
         "raw_homepage": "http://jet.macrothink.org"
       },
       "directory_status": "official_link_confirmed",
-      "evidence_candidate_url": "https://www.emeraldgrouppublishing.com/journal/et",
+      "evidence_candidate_url": "https://www.emerald.com/et",
       "homepage_provenance": {
         "url": "https://www.emeraldgrouppublishing.com/journal/et",
         "checked_at": "2026-10-05",
@@ -5913,7 +5914,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.rsc.org/Education/CERP/",
+      "journal_url": "https://www.rsc.org/publishing/journals/chemistry-education-research-and-practice",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -5949,7 +5950,7 @@
         "raw_homepage": "http://www.rsc.org/Education/CERP/"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.rsc.org/Education/CERP/"
+      "evidence_candidate_url": "https://www.rsc.org/publishing/journals/chemistry-education-research-and-practice"
     },
     {
       "id": "27b25072242e",
@@ -5966,7 +5967,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.elsevier.com/wps/find/journaldescription.cws_home/620184/description",
+      "journal_url": "https://www.sciencedirect.com/science/journal/08852006",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -5995,7 +5996,7 @@
         "raw_homepage": "http://www.elsevier.com/wps/find/journaldescription.cws_home/620184/description#description"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.elsevier.com/wps/find/journaldescription.cws_home/620184/description"
+      "evidence_candidate_url": "https://www.sciencedirect.com/science/journal/08852006"
     },
     {
       "id": "e445320527f1",
@@ -7179,7 +7180,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.apa.org/journals/dhe/",
+      "journal_url": "https://www.apa.org/pubs/journals/dhe/index",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -7208,7 +7209,7 @@
         "raw_homepage": "http://www.apa.org/journals/dhe/"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.apa.org/journals/dhe/"
+      "evidence_candidate_url": "https://www.apa.org/pubs/journals/dhe/index"
     },
     {
       "id": "fbca184fc6a0",
@@ -7832,9 +7833,10 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.copmadrid.org/webcopm/resource.do?recurso=6000",
+      "journal_url": "https://journals.copmadrid.org/psed/",
       "aliases": [
-        "Psicologí a Educativa"
+        "Psicologí a Educativa",
+        "Psicología Educativa"
       ],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -7870,7 +7872,7 @@
         "raw_homepage": "http://www.copmadrid.org/webcopm/resource.do?recurso=6000"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.copmadrid.org/webcopm/resource.do?recurso=6000"
+      "evidence_candidate_url": "https://journals.copmadrid.org/psed/"
     },
     {
       "id": "7690af94dea8",
@@ -8026,7 +8028,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://us.sagepub.com/en-us/nam/journal/european-educational-research-journal",
+      "journal_url": "https://journals.sagepub.com/home/eer",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -8055,7 +8057,7 @@
         "raw_homepage": "https://us.sagepub.com/en-us/nam/journal/european-educational-research-journal"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://us.sagepub.com/en-us/nam/journal/european-educational-research-journal"
+      "evidence_candidate_url": "https://journals.sagepub.com/home/eer"
     },
     {
       "id": "e92af3c5bf1c",
@@ -8072,7 +8074,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.emeraldinsight.com/loi/jpcc",
+      "journal_url": "https://www.emerald.com/jpcc",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -8101,7 +8103,7 @@
         "raw_homepage": "http://www.emeraldinsight.com/loi/jpcc"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.emeraldinsight.com/loi/jpcc"
+      "evidence_candidate_url": "https://www.emerald.com/jpcc"
     },
     {
       "id": "8beea9ecf78c",
@@ -8670,7 +8672,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.sagepub.com/journals/Journal201853/title",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-educational-and-behavioral-statistics-201853",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -8699,7 +8701,7 @@
         "raw_homepage": "http://www.sagepub.com/journals/Journal201853/title"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.sagepub.com/journals/Journal201853/title"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-educational-and-behavioral-statistics-201853"
     },
     {
       "id": "2000c630bb00",
@@ -8854,7 +8856,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.sagepub.com/journals/Journal200963/title",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/urban-education-200963",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -8883,7 +8885,7 @@
         "raw_homepage": "http://www.sagepub.com/journals/Journal200963/title"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.sagepub.com/journals/Journal200963/title"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/urban-education-200963"
     },
     {
       "id": "b1d153424069",
@@ -9467,7 +9469,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.uk.sagepub.com/journals/Journal201828/title",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/second-language-research-201828",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -9496,7 +9498,7 @@
         "raw_homepage": "http://www.uk.sagepub.com/journals/Journal201828/title"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.uk.sagepub.com/journals/Journal201828/title"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/second-language-research-201828"
     },
     {
       "id": "92ab0dbd4db7",
@@ -9561,7 +9563,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.sagepub.com/journals/Journal201777/title",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/health-education-journal-201777",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -9590,7 +9592,7 @@
         "raw_homepage": "http://www.sagepub.com/journals/Journal201777/title"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.sagepub.com/journals/Journal201777/title"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/health-education-journal-201777"
     },
     {
       "id": "9ea0e4a335f7",
@@ -9706,7 +9708,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.jcsdonline.org",
+      "journal_url": "https://www.press.jhu.edu/journals/journal-college-student-development",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -9735,7 +9737,7 @@
         "raw_homepage": "http://www.jcsdonline.org"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.jcsdonline.org"
+      "evidence_candidate_url": "https://www.press.jhu.edu/journals/journal-college-student-development"
     },
     {
       "id": "0c774b3bc690",
@@ -9797,7 +9799,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.emeraldgrouppublishing.com/journal/etpc",
+      "journal_url": "https://www.emerald.com/etpc",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -9832,7 +9834,7 @@
         "method": "resolved"
       },
       "cfp_hub_url": "https://www.emeraldgrouppublishing.com/journal/etpc",
-      "evidence_candidate_url": "https://www.emeraldgrouppublishing.com/journal/etpc"
+      "evidence_candidate_url": "https://www.emerald.com/etpc"
     },
     {
       "id": "2429ea544984",
@@ -9946,7 +9948,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.sagepub.com/journals/Journal200765/title",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/adult-education-quarterly-200765",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -9975,7 +9977,7 @@
         "raw_homepage": "http://www.sagepub.com/journals/Journal200765/title"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.sagepub.com/journals/Journal200765/title"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/adult-education-quarterly-200765"
     },
     {
       "id": "538a2040c8d4",
@@ -10176,7 +10178,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.sagepub.com/journals/Journal201285/title",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-early-childhood-literacy-201285",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -10205,7 +10207,7 @@
         "raw_homepage": "http://www.sagepub.com/journals/Journal201285/title"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.sagepub.com/journals/Journal201285/title"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-early-childhood-literacy-201285"
     },
     {
       "id": "4c692af30863",
@@ -10421,7 +10423,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.sagepub.com/journals/Journal200780/title",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/education-and-urban-society-200780",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -10450,7 +10452,7 @@
         "raw_homepage": "http://www.sagepub.com/journals/Journal200780/title"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.sagepub.com/journals/Journal200780/title"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/education-and-urban-society-200780"
     },
     {
       "id": "ff7ef0dcfc1a",
@@ -11075,7 +11077,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://us.sagepub.com/en-us/nam/australasian-journal-of-early-childhood/journal203621",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/australasian-journal-of-early-childhood-203621",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -11104,7 +11106,7 @@
         "raw_homepage": "https://us.sagepub.com/en-us/nam/australasian-journal-of-early-childhood/journal203621"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://us.sagepub.com/en-us/nam/australasian-journal-of-early-childhood/journal203621"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/australasian-journal-of-early-childhood-203621"
     },
     {
       "id": "cb2e614bf32a",
@@ -11307,7 +11309,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.emeraldgrouppublishing.com/journal/ijlls",
+      "journal_url": "https://www.emerald.com/ijlls",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -11342,7 +11344,7 @@
         "method": "resolved"
       },
       "cfp_hub_url": "https://www.emeraldgrouppublishing.com/journal/ijlls",
-      "evidence_candidate_url": "https://www.emeraldgrouppublishing.com/journal/ijlls"
+      "evidence_candidate_url": "https://www.emerald.com/ijlls"
     },
     {
       "id": "5ff1e5f745f1",
@@ -12071,7 +12073,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://us.sagepub.com/en-us/nam/phi-delta-kappan/journal202327",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/phi-delta-kappan-202327",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -12100,7 +12102,7 @@
         "raw_homepage": "https://us.sagepub.com/en-us/nam/phi-delta-kappan/journal202327"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://us.sagepub.com/en-us/nam/phi-delta-kappan/journal202327"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/phi-delta-kappan-202327"
     },
     {
       "id": "69f8e0a90855",
@@ -12590,7 +12592,9 @@
       "evidence_url": null,
       "evidence_type": "user_jcr",
       "journal_url": "https://ashpublications.org/hematology",
-      "aliases": [],
+      "aliases": [
+        "Hematology, ASH Education Program"
+      ],
       "registry_provenance": {
         "kind": "user_jcr",
         "file": "SSCI_JCR_JournalResults_06_2026.xlsx",
@@ -13202,7 +13206,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://advan.physiology.org",
+      "journal_url": "https://journals.physiology.org/journal/advances",
       "aliases": [
         "AJP Advances in Physiology Education"
       ],
@@ -13233,7 +13237,7 @@
         "raw_homepage": "http://advan.physiology.org"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://advan.physiology.org"
+      "evidence_candidate_url": "https://journals.physiology.org/journal/advances"
     },
     {
       "id": "349d4e3eef88",
@@ -13250,7 +13254,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://journals.lww.com/jcehp/Pages/default.aspx",
+      "journal_url": "https://www.ovid.com/jnls/jcehp",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -13279,7 +13283,7 @@
         "raw_homepage": "https://journals.lww.com/jcehp/Pages/default.aspx"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://journals.lww.com/jcehp/Pages/default.aspx"
+      "evidence_candidate_url": "https://www.ovid.com/jnls/jcehp"
     },
     {
       "id": "c82164ea9011",
@@ -13439,7 +13443,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://iopscience.org/ejp",
+      "journal_url": "https://iopscience.iop.org/journal/0143-0807",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -13468,7 +13472,7 @@
         "raw_homepage": "http://iopscience.org/ejp"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://iopscience.org/ejp"
+      "evidence_candidate_url": "https://iopscience.iop.org/journal/0143-0807"
     },
     {
       "id": "007a144bf21c",
@@ -13485,7 +13489,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://ajp.aapt.org/",
+      "journal_url": "https://www.aapt.org/publications/ajp/index.cfm",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -13514,7 +13518,7 @@
         "raw_homepage": "http://ajp.aapt.org/"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://ajp.aapt.org/"
+      "evidence_candidate_url": "https://www.aapt.org/publications/ajp/index.cfm"
     },
     {
       "id": "057afe0eb81f",
@@ -13680,7 +13684,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://abt.ucpress.edu",
+      "journal_url": "https://online.ucpress.edu/abt",
       "aliases": [
         "The American Biology Teacher"
       ],
@@ -13711,7 +13715,7 @@
         "raw_homepage": "http://abt.ucpress.edu"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://abt.ucpress.edu"
+      "evidence_candidate_url": "https://online.ucpress.edu/abt"
     },
     {
       "id": "02f6e12a59e6",
@@ -13865,7 +13869,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.sagepub.com/journals/Journal201965/title",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/psychological-science-in-the-public-interest-201965",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -13894,7 +13898,7 @@
         "raw_homepage": "http://www.sagepub.com/journals/Journal201965/title"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.sagepub.com/journals/Journal201965/title"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/psychological-science-in-the-public-interest-201965"
     },
     {
       "id": "005e49c9bed3",
@@ -13911,7 +13915,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://us.sagepub.com/en-us/nam/advances-in-methods-and-practices-in-psychological-science/journal203415",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/advances-in-methods-and-practices-in-psychological-science-203415",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -13940,7 +13944,7 @@
         "raw_homepage": "https://us.sagepub.com/en-us/nam/advances-in-methods-and-practices-in-psychological-science/journal203415"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://us.sagepub.com/en-us/nam/advances-in-methods-and-practices-in-psychological-science/journal203415"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/advances-in-methods-and-practices-in-psychological-science-203415"
     },
     {
       "id": "cacba408208a",
@@ -14003,7 +14007,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.sagepub.com/journals/Journal201964/title",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/perspectives-on-psychological-science-201964",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -14032,7 +14036,7 @@
         "raw_homepage": "http://www.sagepub.com/journals/Journal201964/title"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.sagepub.com/journals/Journal201964/title"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/perspectives-on-psychological-science-201964"
     },
     {
       "id": "6bdac54fae2f",
@@ -14141,7 +14145,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.elsevier.com/wps/find/journaldescription.cws_home/622872/description",
+      "journal_url": "https://www.sciencedirect.com/science/journal/02724944",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -14170,7 +14174,7 @@
         "raw_homepage": "http://www.elsevier.com/wps/find/journaldescription.cws_home/622872/description"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.elsevier.com/wps/find/journaldescription.cws_home/622872/description"
+      "evidence_candidate_url": "https://www.sciencedirect.com/science/journal/02724944"
     },
     {
       "id": "4635e1ac0fa7",
@@ -14465,7 +14469,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://us.sagepub.com/en-us/nam/journal/current-directions-psychological-science",
+      "journal_url": "https://journals.sagepub.com/home/cdp",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -14494,7 +14498,7 @@
         "raw_homepage": "https://us.sagepub.com/en-us/nam/journal/current-directions-psychological-science"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://us.sagepub.com/en-us/nam/journal/current-directions-psychological-science"
+      "evidence_candidate_url": "https://journals.sagepub.com/home/cdp"
     },
     {
       "id": "c60a7161b1a5",
@@ -14649,7 +14653,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.sagepub.com/journals/Journal200783/title",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/environment-and-behavior-200783",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -14678,7 +14682,7 @@
         "raw_homepage": "http://www.sagepub.com/journals/Journal200783/title"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.sagepub.com/journals/Journal200783/title"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/environment-and-behavior-200783"
     },
     {
       "id": "8be2f33c3b65",
@@ -15116,7 +15120,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.frontiersin.org/psychology",
+      "journal_url": "https://www.frontiersin.org/journals/psychology",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -15145,7 +15149,7 @@
         "raw_homepage": "http://www.frontiersin.org/psychology"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.frontiersin.org/psychology"
+      "evidence_candidate_url": "https://www.frontiersin.org/journals/psychology"
     },
     {
       "id": "183dafb98736",
@@ -15208,7 +15212,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://us.sagepub.com/en-us/nam/journal/emotion-review",
+      "journal_url": "https://journals.sagepub.com/home/emr",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -15237,7 +15241,7 @@
         "raw_homepage": "https://us.sagepub.com/en-us/nam/journal/emotion-review"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://us.sagepub.com/en-us/nam/journal/emotion-review"
+      "evidence_candidate_url": "https://journals.sagepub.com/home/emr"
     },
     {
       "id": "27574e3c5cde",
@@ -15447,7 +15451,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.sagepub.com/journals/Journal202010/title",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/psychology-of-women-quarterly-202010",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -15476,7 +15480,7 @@
         "raw_homepage": "http://www.sagepub.com/journals/Journal202010/title"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.sagepub.com/journals/Journal202010/title"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/psychology-of-women-quarterly-202010"
     },
     {
       "id": "33ba729cdd52",
@@ -15493,7 +15497,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.apa.org/journals/sgd",
+      "journal_url": "https://www.apa.org/pubs/journals/sgd/index",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -15522,7 +15526,7 @@
         "raw_homepage": "http://www.apa.org/journals/sgd"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.apa.org/journals/sgd"
+      "evidence_candidate_url": "https://www.apa.org/pubs/journals/sgd/index"
     },
     {
       "id": "4b361c6285ea",
@@ -15538,7 +15542,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://us.sagepub.com/en-us/nam/journal-of-pacific-rim-psychology/journal203703",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-pacific-rim-psychology-203703",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -15567,7 +15571,7 @@
         "raw_homepage": "https://us.sagepub.com/en-us/nam/journal-of-pacific-rim-psychology/journal203703"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://us.sagepub.com/en-us/nam/journal-of-pacific-rim-psychology/journal203703"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-pacific-rim-psychology-203703"
     },
     {
       "id": "1c1caede06c4",
@@ -15962,7 +15966,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.collabra.org",
+      "journal_url": "https://online.ucpress.edu/collabra",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -15991,7 +15995,7 @@
         "raw_homepage": "http://www.collabra.org"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.collabra.org"
+      "evidence_candidate_url": "https://online.ucpress.edu/collabra"
     },
     {
       "id": "0706486cc4ed",
@@ -16335,7 +16339,9 @@
       "evidence_url": null,
       "evidence_type": "user_jcr",
       "journal_url": "https://www.hogrefe.com/uk/journal/zeitschrift-fuer-psychologie",
-      "aliases": [],
+      "aliases": [
+        "Zeitschrift für Psychologie"
+      ],
       "registry_provenance": {
         "kind": "user_jcr",
         "file": "SSCI_JCR_JournalResults_06_2026.xlsx",
@@ -16525,8 +16531,11 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.cpa.ca/membership/membershipbenefitsandservices/cpajournals/canadianpsychology",
-      "aliases": [],
+      "journal_url": "https://cpa.ca/membership/cpajournals/canadianpsychology/",
+      "aliases": [
+        "Canadian Psychology/Psychologie canadienne",
+        "Canadian Psychology"
+      ],
       "registry_provenance": {
         "kind": "user_jcr",
         "file": "SSCI_JCR_JournalResults_06_2026.xlsx",
@@ -16554,7 +16563,7 @@
         "raw_homepage": "http://www.cpa.ca/membership/membershipbenefitsandservices/cpajournals/canadianpsychology"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.cpa.ca/membership/membershipbenefitsandservices/cpajournals/canadianpsychology"
+      "evidence_candidate_url": "https://cpa.ca/membership/cpajournals/canadianpsychology/"
     },
     {
       "id": "54b243e38c46",
@@ -17456,7 +17465,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://sagepub.com/en-us/nam/discourse-society/journal200873",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/discourse-society-200873",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -17485,7 +17494,7 @@
         "raw_homepage": "http://sagepub.com/en-us/nam/discourse-society/journal200873"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://sagepub.com/en-us/nam/discourse-society/journal200873"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/discourse-society-200873"
     },
     {
       "id": "236c105e20ad",
@@ -17747,8 +17756,10 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.psychologicabelgica.com/",
-      "aliases": [],
+      "journal_url": "https://psychologicabelgica.com/",
+      "aliases": [
+        "Psychologica Belgica"
+      ],
       "registry_provenance": {
         "kind": "user_jcr",
         "file": "SSCI_JCR_JournalResults_06_2026.xlsx",
@@ -17776,7 +17787,7 @@
         "raw_homepage": "http://www.psychologicabelgica.com/"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.psychologicabelgica.com/"
+      "evidence_candidate_url": "https://psychologicabelgica.com/"
     },
     {
       "id": "701e1532f76a",
@@ -18167,7 +18178,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://us.sagepub.com/en-us/nam/archive-for-the-psychology-of-religion/journal203533",
+      "journal_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/archive-for-the-psychology-of-religion-203533",
       "aliases": [
         "Archive for the Psychology of Religion"
       ],
@@ -18198,7 +18209,7 @@
         "raw_homepage": "https://us.sagepub.com/en-us/nam/archive-for-the-psychology-of-religion/journal203533"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://us.sagepub.com/en-us/nam/archive-for-the-psychology-of-religion/journal203533"
+      "evidence_candidate_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/archive-for-the-psychology-of-religion-203533"
     },
     {
       "id": "3d34f2523c00",
@@ -18352,7 +18363,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.doiserbia.nb.rs/Journal.aspx?ISSN=0048-5705",
+      "journal_url": "https://psihologijajournal.dps.org.rs/",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -18381,7 +18392,7 @@
         "raw_homepage": "http://www.doiserbia.nb.rs/Journal.aspx?ISSN=0048-5705"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.doiserbia.nb.rs/Journal.aspx?ISSN=0048-5705"
+      "evidence_candidate_url": "https://psihologijajournal.dps.org.rs/"
     },
     {
       "id": "20e4ca9c912b",
@@ -18495,7 +18506,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://us.sagepub.com/en-us/nam/journal/empirical-studies-arts",
+      "journal_url": "https://journals.sagepub.com/home/art",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -18524,7 +18535,7 @@
         "raw_homepage": "https://us.sagepub.com/en-us/nam/journal/empirical-studies-arts"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://us.sagepub.com/en-us/nam/journal/empirical-studies-arts"
+      "evidence_candidate_url": "https://journals.sagepub.com/home/art"
     },
     {
       "id": "06a74099f3bf",
@@ -18635,7 +18646,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://us.sagepub.com/en-us/nam/journal/omega-journal-death-and-dying",
+      "journal_url": "https://journals.sagepub.com/home/ome",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -18664,7 +18675,7 @@
         "raw_homepage": "https://us.sagepub.com/en-us/nam/journal/omega-journal-death-and-dying"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://us.sagepub.com/en-us/nam/journal/omega-journal-death-and-dying"
+      "evidence_candidate_url": "https://journals.sagepub.com/home/ome"
     },
     {
       "id": "9bcd3e52e5f3",
@@ -18727,7 +18738,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.apa.org/journals/pubs/npe/",
+      "journal_url": "https://www.apa.org/pubs/journals/npe/calls-for-papers",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -18756,7 +18767,7 @@
         "raw_homepage": "http://www.apa.org/journals/pubs/npe/"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.apa.org/journals/pubs/npe/"
+      "evidence_candidate_url": "https://www.apa.org/pubs/journals/npe/calls-for-papers"
     },
     {
       "id": "eccb82bd2814",
@@ -19435,8 +19446,10 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.cpa.ca/membership/membershipbenefitsandservices/cpajournals/CJBS",
-      "aliases": [],
+      "journal_url": "https://cpa.ca/membership/cpajournals/CJBS/",
+      "aliases": [
+        "Canadian Journal of Behavioural Science"
+      ],
       "registry_provenance": {
         "kind": "user_jcr",
         "file": "SSCI_JCR_JournalResults_06_2026.xlsx",
@@ -19464,7 +19477,7 @@
         "raw_homepage": "http://www.cpa.ca/membership/membershipbenefitsandservices/cpajournals/CJBS"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.cpa.ca/membership/membershipbenefitsandservices/cpajournals/CJBS"
+      "evidence_candidate_url": "https://cpa.ca/membership/cpajournals/CJBS/"
     },
     {
       "id": "f692026ebb9c",
@@ -19916,8 +19929,10 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://cspsych.psu.cas.cz",
-      "aliases": [],
+      "journal_url": "https://ceskoslovenskapsychologie.cz/index.php/csps",
+      "aliases": [
+        "Československá psychologie"
+      ],
       "registry_provenance": {
         "kind": "user_jcr",
         "file": "SSCI_JCR_JournalResults_06_2026.xlsx",
@@ -19945,7 +19960,7 @@
         "raw_homepage": "http://cspsych.psu.cas.cz"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://cspsych.psu.cas.cz"
+      "evidence_candidate_url": "https://ceskoslovenskapsychologie.cz/index.php/csps"
     },
     {
       "id": "cd8be509311c",
@@ -20204,7 +20219,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://universitaspsychologica.javeriana.edu.co/",
+      "journal_url": "https://revistas.javeriana.edu.co/index.php/revPsycho",
       "aliases": [],
       "registry_provenance": {
         "kind": "user_jcr",
@@ -20233,7 +20248,7 @@
         "raw_homepage": "http://universitaspsychologica.javeriana.edu.co/"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://universitaspsychologica.javeriana.edu.co/"
+      "evidence_candidate_url": "https://revistas.javeriana.edu.co/index.php/revPsycho"
     },
     {
       "id": "d4833dc37862",
@@ -20350,7 +20365,7 @@
       "checked_at": "2026-10-05",
       "evidence_url": null,
       "evidence_type": "user_jcr",
-      "journal_url": "https://www.psychosomaticmedicine.org/",
+      "journal_url": "https://www.ovid.com/jnls/bsam",
       "aliases": [
         "Psychosomatic Medicine"
       ],
@@ -20381,7 +20396,7 @@
         "raw_homepage": "http://www.psychosomaticmedicine.org/"
       },
       "directory_status": "issn_matched",
-      "evidence_candidate_url": "https://www.psychosomaticmedicine.org/"
+      "evidence_candidate_url": "https://www.ovid.com/jnls/bsam"
     }
   ],
   "import_summary": {

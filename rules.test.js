@@ -1,8 +1,19 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {isEligible,statusFor,matches,toICS} from './rules.js';
+import {isEligible,statusFor,matches,toICS,registryAccess} from './rules.js';
 const now='2026-10-04';
 const base={id:'sample',title:'AI in learning',journal:'Example Journal',publisher:'Example',summary_zh:'人工智能学习',topics:['AI in Education'],indexing:['SSCI'],indexing_verified:true,indexing_evidence_url:'https://example.com/indexing',indexing_checked_at:now,checked_at:now,abstract_deadline:'2026-10-01',full_paper_deadline:'2027-03-01',cfp_url:'https://example.com/cfp',abstract_required:true};
+
+test('a complete publisher directory is separate from a readable journal homepage',()=>{
+  const j={id:'x',source_ids:['home']},sources=[{id:'home',journal_id:'x',status:'error',error_code:'access_denied'}];
+  const directories=[{scope_journal_ids:['x'],status:'ok',complete:true}];
+  assert.equal(registryAccess(j,{sources,directories}).status,'directory');
+  assert.equal(registryAccess(j,{sources,directories:[{...directories[0],complete:false}]}).status,'error');
+  assert.equal(registryAccess(j,{sources,directories:[{...directories[0],scope_journal_ids:['other']}]}).status,'error');
+  assert.equal(registryAccess(j,{sources:[{...sources[0],status:'ok'}],directories}).status,'ok');
+  assert.equal(registryAccess(j,{sources:[{...sources[0],status:'ok',purpose:'identity_only'}]}).status,'error');
+  assert.ok(registryAccess(j,{sources:[{...sources[0],status:'ok',purpose:'identity_only'}]}).errors.includes('cfp_unchecked'));
+});
 test('ESCI, missing proof, and stale indexing never pass',()=>{assert.equal(isEligible({...base,indexing:['ESCI']},now),false);assert.equal(isEligible({...base,indexing_verified:false},now),false);assert.equal(isEligible({...base,indexing_checked_at:'2026-01-01'},now),false);assert.equal(isEligible(base,now),true);});
 test('imported JCR evidence is explicit, edition-specific and time-bounded',()=>{
   const r={...base,indexing_evidence_url:null,indexing_evidence_type:'user_jcr',indexing_provenance:{kind:'user_jcr',file:'list.xlsx',period:'2026-06',rows:[{sheet:'education-ssci',row:2,edition:'SSCI'}]}};

@@ -25,8 +25,9 @@
       "id": "taylor-francis",
       "publisher": "Taylor & Francis",
       "url": "https://authorservices.taylorandfrancis.com/call-for-papers/",
-      "description": "官方专题征稿入口；部分筛选结果由网页动态加载。",
-      "journal_id": null
+      "description": "每周分页读取官方公开专题与文章合集目录；候选再核对 SSCI / SCIE、方向及摘要／全文截止。",
+      "journal_id": null,
+      "directory_adapter": "taylor-francis-public-directory"
     },
     {
       "id": "ieee",
@@ -66,9 +67,10 @@
     {
       "id": "journal-7414130f35e4",
       "publisher": "Nature Portfolio",
-      "url": "https://www.nature.com/npjscilearn/for-authors-and-referees/guide-to-authors/about",
+      "url": "https://www.nature.com/npjscilearn/",
       "journal_id": "7414130f35e4",
-      "description": "npj Science of Learning"
+      "description": "npj Science of Learning",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-0887144ec2c6",
@@ -294,22 +296,27 @@
       "id": "journal-c9a6be8a16f2",
       "journal_id": "c9a6be8a16f2",
       "publisher": "Sage",
-      "url": "https://www.sagepub.com/journals/Journal201854/title",
-      "description": "REVIEW OF EDUCATIONAL RESEARCH"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/review-of-educational-research-201854",
+      "description": "REVIEW OF EDUCATIONAL RESEARCH",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-cf39d485cf6e",
       "journal_id": "cf39d485cf6e",
       "publisher": "Sage",
-      "url": "https://us.sagepub.com/en-us/nam/journal-of-educational-computing-research/journal202399",
-      "description": "JOURNAL OF EDUCATIONAL COMPUTING RESEARCH"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-educational-computing-research-202399",
+      "description": "JOURNAL OF EDUCATIONAL COMPUTING RESEARCH",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-f0abc1180d53",
       "journal_id": "f0abc1180d53",
       "publisher": "Elsevier",
-      "url": "https://www.elsevier.com/wps/find/journaldescription.cws_home/335/description",
-      "description": "SYSTEM"
+      "url": "https://www.sciencedirect.com/science/journal/0346251X",
+      "description": "SYSTEM",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-8b089da60652",
@@ -364,8 +371,9 @@
       "id": "journal-bc20a057702c",
       "journal_id": "bc20a057702c",
       "publisher": "ACAD MANAGEMENT",
-      "url": "https://aom.org/amle/",
-      "description": "Academy of Management Learning & Education"
+      "url": "https://www.aom.org/publications/journals/learning-and-education/",
+      "description": "Academy of Management Learning & Education",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-6c2dea96f9bb",
@@ -483,8 +491,10 @@
       "id": "journal-0232b8a4401a",
       "journal_id": "0232b8a4401a",
       "publisher": "Sage",
-      "url": "https://www.sagepub.com/journals/Journal201856/title",
-      "description": "Educational Researcher"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/educational-researcher-201856",
+      "description": "Educational Researcher",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-75162812e6fd",
@@ -518,8 +528,10 @@
       "id": "journal-60a3bd0e4aa2",
       "journal_id": "60a3bd0e4aa2",
       "publisher": "Sage",
-      "url": "https://www.sagepub.com/journals/Journal200854/title",
-      "description": "EDUCATIONAL ADMINISTRATION QUARTERLY"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/educational-administration-quarterly-200854",
+      "description": "EDUCATIONAL ADMINISTRATION QUARTERLY",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-47b6df13924c",
@@ -665,8 +677,9 @@
       "id": "journal-3899ab38f5ec",
       "journal_id": "3899ab38f5ec",
       "publisher": "NATL COUNCIL TEACHERS MATHEMATICS-NCTM",
-      "url": "https://www.nctm.org/publications/jrme.aspx",
-      "description": "JOURNAL FOR RESEARCH IN MATHEMATICS EDUCATION"
+      "url": "https://pubs.nctm.org/view/journals/jrme/jrme-overview.xml",
+      "description": "JOURNAL FOR RESEARCH IN MATHEMATICS EDUCATION",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-3cd8e1e42a12",
@@ -707,8 +720,10 @@
       "id": "journal-2fea95bf0f91",
       "journal_id": "2fea95bf0f91",
       "publisher": "Sage",
-      "url": "https://www.sagepub.com/journals/Journal200888/title",
-      "description": "Educational Management Administration & Leadership"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/educational-management-administration-leadership-200888",
+      "description": "Educational Management Administration & Leadership",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-4cd7c9866331",
@@ -742,8 +757,10 @@
       "id": "journal-b54c88b7bcdf",
       "journal_id": "b54c88b7bcdf",
       "publisher": "Sage",
-      "url": "https://www.sagepub.com/journals/Journal201851/title",
-      "description": "AMERICAN EDUCATIONAL RESEARCH JOURNAL"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/american-educational-research-journal-201851",
+      "description": "AMERICAN EDUCATIONAL RESEARCH JOURNAL",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-7943f6a37bfc",
@@ -758,13 +775,6 @@
       "publisher": "Springer Nature",
       "url": "https://link.springer.com/journal/11858",
       "description": "ZDM-Mathematics Education"
-    },
-    {
-      "id": "journal-7908ba42bedf-cfp-0",
-      "journal_id": "7908ba42bedf",
-      "publisher": "Springer Nature",
-      "url": "https://link.springer.com/journal/11858/collections",
-      "description": "ZDM-Mathematics Education · 征稿与专题入口"
     },
     {
       "id": "journal-6169a3a28951",
@@ -812,8 +822,10 @@
       "id": "journal-a9ad8dd53b00",
       "journal_id": "a9ad8dd53b00",
       "publisher": "Sage",
-      "url": "https://www.sagepub.com/journals/Journal200962/title",
-      "description": "European Physical Education Review"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/european-physical-education-review-200962",
+      "description": "European Physical Education Review",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-a702a6030963",
@@ -938,8 +950,9 @@
       "id": "journal-a85b52497ff5",
       "journal_id": "a85b52497ff5",
       "publisher": "EMERALD GROUP PUBLISHING LTD",
-      "url": "https://info.emeraldinsight.com/products/journals/journals.htm?id=ijshe",
-      "description": "International Journal of Sustainability in Higher Education"
+      "url": "https://www.emerald.com/ijshe",
+      "description": "International Journal of Sustainability in Higher Education",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-e6ebce93ebe4",
@@ -1036,8 +1049,10 @@
       "id": "journal-a7cf94925b7f",
       "journal_id": "a7cf94925b7f",
       "publisher": "Sage",
-      "url": "https://www.sagepub.com/journals/Journal201855/title",
-      "description": "Review of Research in Education"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/review-of-research-in-education-201855",
+      "description": "Review of Research in Education",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-f2f388724216",
@@ -1089,18 +1104,13 @@
       "description": "INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION"
     },
     {
-      "id": "journal-40405e998f7f-cfp-0",
-      "journal_id": "40405e998f7f",
-      "publisher": "Springer Nature",
-      "url": "https://link.springer.com/journal/10798/collections",
-      "description": "INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION · 征稿与专题入口"
-    },
-    {
       "id": "journal-0fd336e8f3bd",
       "journal_id": "0fd336e8f3bd",
       "publisher": "Sage",
-      "url": "https://www.sagepub.com/journals/Journal201378/title",
-      "description": "Journal of Studies in International Education"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-studies-in-international-education-201378",
+      "description": "Journal of Studies in International Education",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-496624c550a3",
@@ -1120,7 +1130,7 @@
       "id": "journal-c7fd6ea0760a",
       "journal_id": "c7fd6ea0760a",
       "publisher": "Sage",
-      "url": "https://us.sagepub.com/en-us/nam/journal/aera-open",
+      "url": "https://journals.sagepub.com/home/ero",
       "description": "AERA Open"
     },
     {
@@ -1211,14 +1221,15 @@
       "id": "journal-c244754bbfdd",
       "journal_id": "c244754bbfdd",
       "publisher": "EMERALD GROUP PUBLISHING LTD",
-      "url": "https://www.emeraldinsight.com/0957-8234.htm",
-      "description": "JOURNAL OF EDUCATIONAL ADMINISTRATION"
+      "url": "https://www.emerald.com/jea",
+      "description": "JOURNAL OF EDUCATIONAL ADMINISTRATION",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-b35e11dab26c",
       "journal_id": "b35e11dab26c",
       "publisher": "Sage",
-      "url": "https://journals.sagepub.com/home/smh",
+      "url": "https://journals.sagepub.com/home/TES",
       "description": "Teacher Education and Special Education"
     },
     {
@@ -1232,22 +1243,24 @@
       "id": "journal-da80fb7ec33b",
       "journal_id": "da80fb7ec33b",
       "publisher": "EMERALD GROUP PUBLISHING LTD",
-      "url": "https://www.emeraldgrouppublishing.com/journal/et",
-      "description": "Education and Training"
+      "url": "https://www.emerald.com/et",
+      "description": "Education and Training",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-f34953e371af",
       "journal_id": "f34953e371af",
       "publisher": "ROYAL SOC CHEMISTRY",
-      "url": "https://www.rsc.org/Education/CERP/",
+      "url": "https://www.rsc.org/publishing/journals/chemistry-education-research-and-practice",
       "description": "Chemistry Education Research and Practice"
     },
     {
       "id": "journal-27b25072242e",
       "journal_id": "27b25072242e",
       "publisher": "Elsevier",
-      "url": "https://www.elsevier.com/wps/find/journaldescription.cws_home/620184/description",
-      "description": "EARLY CHILDHOOD RESEARCH QUARTERLY"
+      "url": "https://www.sciencedirect.com/science/journal/08852006",
+      "description": "EARLY CHILDHOOD RESEARCH QUARTERLY",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-e445320527f1",
@@ -1477,8 +1490,9 @@
       "id": "journal-02e55609609e",
       "journal_id": "02e55609609e",
       "publisher": "APA",
-      "url": "https://www.apa.org/journals/dhe/",
-      "description": "Journal of Diversity in Higher Education"
+      "url": "https://www.apa.org/pubs/journals/dhe/index",
+      "description": "Journal of Diversity in Higher Education",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-fbca184fc6a0",
@@ -1507,13 +1521,6 @@
       "publisher": "Springer Nature",
       "url": "https://link.springer.com/journal/12186",
       "description": "Vocations and Learning"
-    },
-    {
-      "id": "journal-bb0a22b61cfa-cfp-0",
-      "journal_id": "bb0a22b61cfa",
-      "publisher": "Springer Nature",
-      "url": "https://link.springer.com/journal/12186/collections",
-      "description": "Vocations and Learning · 征稿与专题入口"
     },
     {
       "id": "journal-79b2214dd233",
@@ -1603,8 +1610,9 @@
       "id": "journal-32e6cb55aefe",
       "journal_id": "32e6cb55aefe",
       "publisher": "COLEGIO OFICIAL PSICOLOGOS MADRID",
-      "url": "https://www.copmadrid.org/webcopm/resource.do?recurso=6000",
-      "description": "Psicologia Educativa"
+      "url": "https://journals.copmadrid.org/psed/",
+      "description": "Psicologia Educativa",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-7690af94dea8",
@@ -1631,15 +1639,16 @@
       "id": "journal-6c8c95df4272",
       "journal_id": "6c8c95df4272",
       "publisher": "Sage",
-      "url": "https://us.sagepub.com/en-us/nam/journal/european-educational-research-journal",
+      "url": "https://journals.sagepub.com/home/eer",
       "description": "European Educational Research Journal"
     },
     {
       "id": "journal-e92af3c5bf1c",
       "journal_id": "e92af3c5bf1c",
       "publisher": "EMERALD GROUP PUBLISHING LTD",
-      "url": "https://www.emeraldinsight.com/loi/jpcc",
-      "description": "Journal of Professional Capital and Community"
+      "url": "https://www.emerald.com/jpcc",
+      "description": "Journal of Professional Capital and Community",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-8beea9ecf78c",
@@ -1750,8 +1759,10 @@
       "id": "journal-b6803816a719",
       "journal_id": "b6803816a719",
       "publisher": "Sage",
-      "url": "https://www.sagepub.com/journals/Journal201853/title",
-      "description": "JOURNAL OF EDUCATIONAL AND BEHAVIORAL STATISTICS"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-educational-and-behavioral-statistics-201853",
+      "description": "JOURNAL OF EDUCATIONAL AND BEHAVIORAL STATISTICS",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-2000c630bb00",
@@ -1778,8 +1789,10 @@
       "id": "journal-b334d0221565",
       "journal_id": "b334d0221565",
       "publisher": "Sage",
-      "url": "https://www.sagepub.com/journals/Journal200963/title",
-      "description": "URBAN EDUCATION"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/urban-education-200963",
+      "description": "URBAN EDUCATION",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-b1d153424069",
@@ -1859,13 +1872,6 @@
       "description": "International Journal for Educational and Vocational Guidance"
     },
     {
-      "id": "journal-0803c5bd151b-cfp-0",
-      "journal_id": "0803c5bd151b",
-      "publisher": "Springer Nature",
-      "url": "https://link.springer.com/journal/10775/collections",
-      "description": "International Journal for Educational and Vocational Guidance · 征稿与专题入口"
-    },
-    {
       "id": "journal-16c28873ae39",
       "journal_id": "16c28873ae39",
       "publisher": "Taylor & Francis",
@@ -1876,8 +1882,10 @@
       "id": "journal-bb257314153b",
       "journal_id": "bb257314153b",
       "publisher": "Sage",
-      "url": "https://www.uk.sagepub.com/journals/Journal201828/title",
-      "description": "SECOND LANGUAGE RESEARCH"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/second-language-research-201828",
+      "description": "SECOND LANGUAGE RESEARCH",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-92ab0dbd4db7",
@@ -1890,8 +1898,10 @@
       "id": "journal-8d8599790593",
       "journal_id": "8d8599790593",
       "publisher": "Sage",
-      "url": "https://www.sagepub.com/journals/Journal201777/title",
-      "description": "HEALTH EDUCATION JOURNAL"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/health-education-journal-201777",
+      "description": "HEALTH EDUCATION JOURNAL",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-9ea0e4a335f7",
@@ -1911,8 +1921,9 @@
       "id": "journal-eac42cff4c7d",
       "journal_id": "eac42cff4c7d",
       "publisher": "JOHNS HOPKINS UNIV PRESS",
-      "url": "https://www.jcsdonline.org",
-      "description": "JOURNAL OF COLLEGE STUDENT DEVELOPMENT"
+      "url": "https://www.press.jhu.edu/journals/journal-college-student-development",
+      "description": "JOURNAL OF COLLEGE STUDENT DEVELOPMENT",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-0c774b3bc690",
@@ -1925,8 +1936,9 @@
       "id": "journal-131c1c181c60",
       "journal_id": "131c1c181c60",
       "publisher": "EMERALD GROUP PUBLISHING LTD",
-      "url": "https://www.emeraldgrouppublishing.com/journal/etpc",
-      "description": "English Teaching-Practice and Critique"
+      "url": "https://www.emerald.com/etpc",
+      "description": "English Teaching-Practice and Critique",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-2429ea544984",
@@ -1946,8 +1958,10 @@
       "id": "journal-f4bd024edd77",
       "journal_id": "f4bd024edd77",
       "publisher": "Sage",
-      "url": "https://www.sagepub.com/journals/Journal200765/title",
-      "description": "ADULT EDUCATION QUARTERLY"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/adult-education-quarterly-200765",
+      "description": "ADULT EDUCATION QUARTERLY",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-538a2040c8d4",
@@ -1981,8 +1995,10 @@
       "id": "journal-3ac8936cc47a",
       "journal_id": "3ac8936cc47a",
       "publisher": "Sage",
-      "url": "https://www.sagepub.com/journals/Journal201285/title",
-      "description": "Journal of Early Childhood Literacy"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-early-childhood-literacy-201285",
+      "description": "Journal of Early Childhood Literacy",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-4c692af30863",
@@ -2023,8 +2039,10 @@
       "id": "journal-e8213bd0bbdd",
       "journal_id": "e8213bd0bbdd",
       "publisher": "Sage",
-      "url": "https://www.sagepub.com/journals/Journal200780/title",
-      "description": "EDUCATION AND URBAN SOCIETY"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/education-and-urban-society-200780",
+      "description": "EDUCATION AND URBAN SOCIETY",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-ff7ef0dcfc1a",
@@ -2128,8 +2146,10 @@
       "id": "journal-054511c80832",
       "journal_id": "054511c80832",
       "publisher": "Sage",
-      "url": "https://us.sagepub.com/en-us/nam/australasian-journal-of-early-childhood/journal203621",
-      "description": "Australasian Journal of Early Childhood"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/australasian-journal-of-early-childhood-203621",
+      "description": "Australasian Journal of Early Childhood",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-cb2e614bf32a",
@@ -2177,8 +2197,9 @@
       "id": "journal-483ab7426f6b",
       "journal_id": "483ab7426f6b",
       "publisher": "EMERALD GROUP PUBLISHING LTD",
-      "url": "https://www.emeraldgrouppublishing.com/journal/ijlls",
-      "description": "International Journal for Lesson and Learning Studies"
+      "url": "https://www.emerald.com/ijlls",
+      "description": "International Journal for Lesson and Learning Studies",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-5ff1e5f745f1",
@@ -2289,8 +2310,10 @@
       "id": "journal-2c25c53c2f7b",
       "journal_id": "2c25c53c2f7b",
       "publisher": "Sage",
-      "url": "https://us.sagepub.com/en-us/nam/phi-delta-kappan/journal202327",
-      "description": "PHI DELTA KAPPAN"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/phi-delta-kappan-202327",
+      "description": "PHI DELTA KAPPAN",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-69f8e0a90855",
@@ -2401,8 +2424,9 @@
       "id": "journal-83d9f76e1f59-cfp-0",
       "journal_id": "83d9f76e1f59",
       "publisher": "UBIQUITY PRESS LTD",
-      "url": "https://link.springer.com/journal/40037/collections",
-      "description": "Perspectives on Medical Education · 征稿与专题入口"
+      "url": "https://pmejournal.org/",
+      "description": "Perspectives on Medical Education · 征稿与专题入口",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-14187b587d42",
@@ -2499,15 +2523,18 @@
       "id": "journal-12e469ec6e65",
       "journal_id": "12e469ec6e65",
       "publisher": "AMER PHYSIOLOGICAL SOC",
-      "url": "https://advan.physiology.org",
-      "description": "ADVANCES IN PHYSIOLOGY EDUCATION"
+      "url": "https://journals.physiology.org/journal/advances",
+      "description": "ADVANCES IN PHYSIOLOGY EDUCATION",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-349d4e3eef88",
       "journal_id": "349d4e3eef88",
       "publisher": "LIPPINCOTT WILLIAMS & WILKINS",
-      "url": "https://journals.lww.com/jcehp/Pages/default.aspx",
-      "description": "JOURNAL OF CONTINUING EDUCATION IN THE HEALTH PROFESSIONS"
+      "url": "https://www.ovid.com/jnls/jcehp",
+      "description": "JOURNAL OF CONTINUING EDUCATION IN THE HEALTH PROFESSIONS",
+      "entry_checked_at": "2026-10-05",
+      "purpose": "identity_only"
     },
     {
       "id": "journal-c82164ea9011",
@@ -2541,15 +2568,17 @@
       "id": "journal-40140d7dc99e",
       "journal_id": "40140d7dc99e",
       "publisher": "IOP Publishing Ltd",
-      "url": "https://iopscience.org/ejp",
-      "description": "EUROPEAN JOURNAL OF PHYSICS"
+      "url": "https://iopscience.iop.org/journal/0143-0807",
+      "description": "EUROPEAN JOURNAL OF PHYSICS",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-007a144bf21c",
       "journal_id": "007a144bf21c",
       "publisher": "AIP Publishing",
-      "url": "https://ajp.aapt.org/",
-      "description": "AMERICAN JOURNAL OF PHYSICS"
+      "url": "https://www.aapt.org/publications/ajp/index.cfm",
+      "description": "AMERICAN JOURNAL OF PHYSICS",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-057afe0eb81f",
@@ -2576,8 +2605,9 @@
       "id": "journal-39e75234d0ab",
       "journal_id": "39e75234d0ab",
       "publisher": "NATL ASSOC BIOLOGY TEACHERS INC",
-      "url": "https://abt.ucpress.edu",
-      "description": "AMERICAN BIOLOGY TEACHER"
+      "url": "https://online.ucpress.edu/abt",
+      "description": "AMERICAN BIOLOGY TEACHER",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-02f6e12a59e6",
@@ -2604,15 +2634,19 @@
       "id": "journal-10f0a5fbeca7",
       "journal_id": "10f0a5fbeca7",
       "publisher": "Sage",
-      "url": "https://www.sagepub.com/journals/Journal201965/title",
-      "description": "Psychological Science in the Public Interest"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/psychological-science-in-the-public-interest-201965",
+      "description": "Psychological Science in the Public Interest",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-005e49c9bed3",
       "journal_id": "005e49c9bed3",
       "publisher": "Sage",
-      "url": "https://us.sagepub.com/en-us/nam/advances-in-methods-and-practices-in-psychological-science/journal203415",
-      "description": "Advances in Methods and Practices in Psychological Science"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/advances-in-methods-and-practices-in-psychological-science-203415",
+      "description": "Advances in Methods and Practices in Psychological Science",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-cacba408208a",
@@ -2632,8 +2666,10 @@
       "id": "journal-b214e11596c0",
       "journal_id": "b214e11596c0",
       "publisher": "Sage",
-      "url": "https://www.sagepub.com/journals/Journal201964/title",
-      "description": "Perspectives on Psychological Science"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/perspectives-on-psychological-science-201964",
+      "description": "Perspectives on Psychological Science",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-6bdac54fae2f",
@@ -2660,8 +2696,9 @@
       "id": "journal-e0a6be19eaf6",
       "journal_id": "e0a6be19eaf6",
       "publisher": "Elsevier",
-      "url": "https://www.elsevier.com/wps/find/journaldescription.cws_home/622872/description",
-      "description": "JOURNAL OF ENVIRONMENTAL PSYCHOLOGY"
+      "url": "https://www.sciencedirect.com/science/journal/02724944",
+      "description": "JOURNAL OF ENVIRONMENTAL PSYCHOLOGY",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-4635e1ac0fa7",
@@ -2723,7 +2760,7 @@
       "id": "journal-bd8a30df300d",
       "journal_id": "bd8a30df300d",
       "publisher": "Sage",
-      "url": "https://us.sagepub.com/en-us/nam/journal/current-directions-psychological-science",
+      "url": "https://journals.sagepub.com/home/cdp",
       "description": "CURRENT DIRECTIONS IN PSYCHOLOGICAL SCIENCE"
     },
     {
@@ -2751,8 +2788,10 @@
       "id": "journal-22da173f9a3d",
       "journal_id": "22da173f9a3d",
       "publisher": "Sage",
-      "url": "https://www.sagepub.com/journals/Journal200783/title",
-      "description": "ENVIRONMENT AND BEHAVIOR"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/environment-and-behavior-200783",
+      "description": "ENVIRONMENT AND BEHAVIOR",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-8be2f33c3b65",
@@ -2835,8 +2874,9 @@
       "id": "journal-d782aee79247",
       "journal_id": "d782aee79247",
       "publisher": "FRONTIERS MEDIA SA",
-      "url": "https://www.frontiersin.org/psychology",
-      "description": "Frontiers in Psychology"
+      "url": "https://www.frontiersin.org/journals/psychology",
+      "description": "Frontiers in Psychology",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-183dafb98736",
@@ -2856,7 +2896,7 @@
       "id": "journal-9fcb37e1f316",
       "journal_id": "9fcb37e1f316",
       "publisher": "Sage",
-      "url": "https://us.sagepub.com/en-us/nam/journal/emotion-review",
+      "url": "https://journals.sagepub.com/home/emr",
       "description": "Emotion Review"
     },
     {
@@ -2891,22 +2931,26 @@
       "id": "journal-a45f8a7d1c88",
       "journal_id": "a45f8a7d1c88",
       "publisher": "Sage",
-      "url": "https://www.sagepub.com/journals/Journal202010/title",
-      "description": "PSYCHOLOGY OF WOMEN QUARTERLY"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/psychology-of-women-quarterly-202010",
+      "description": "PSYCHOLOGY OF WOMEN QUARTERLY",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-33ba729cdd52",
       "journal_id": "33ba729cdd52",
       "publisher": "APA",
-      "url": "https://www.apa.org/journals/sgd",
+      "url": "https://www.apa.org/pubs/journals/sgd/index",
       "description": "Psychology of Sexual Orientation and Gender Diversity"
     },
     {
       "id": "journal-4b361c6285ea",
       "journal_id": "4b361c6285ea",
       "publisher": "Sage",
-      "url": "https://us.sagepub.com/en-us/nam/journal-of-pacific-rim-psychology/journal203703",
-      "description": "Journal of Pacific Rim Psychology"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-pacific-rim-psychology-203703",
+      "description": "Journal of Pacific Rim Psychology",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-1c1caede06c4",
@@ -2968,8 +3012,9 @@
       "id": "journal-564b690de55f",
       "journal_id": "564b690de55f",
       "publisher": "UNIV CALIFORNIA PRESS",
-      "url": "https://www.collabra.org",
-      "description": "Collabra-Psychology"
+      "url": "https://online.ucpress.edu/collabra",
+      "description": "Collabra-Psychology",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-0706486cc4ed",
@@ -3042,13 +3087,6 @@
       "description": "JOURNAL OF GAMBLING STUDIES"
     },
     {
-      "id": "journal-51ea29b86cbc-cfp-0",
-      "journal_id": "51ea29b86cbc",
-      "publisher": "Springer Nature",
-      "url": "https://link.springer.com/journal/10899/collections",
-      "description": "JOURNAL OF GAMBLING STUDIES · 征稿与专题入口"
-    },
-    {
       "id": "journal-868537cbbc5c",
       "journal_id": "868537cbbc5c",
       "publisher": "Wiley",
@@ -3073,8 +3111,9 @@
       "id": "journal-05024abac5a1",
       "journal_id": "05024abac5a1",
       "publisher": "CANADIAN PSYCHOLOGICAL ASSOC",
-      "url": "https://www.cpa.ca/membership/membershipbenefitsandservices/cpajournals/canadianpsychology",
-      "description": "CANADIAN PSYCHOLOGY-PSYCHOLOGIE CANADIENNE"
+      "url": "https://cpa.ca/membership/cpajournals/canadianpsychology/",
+      "description": "CANADIAN PSYCHOLOGY-PSYCHOLOGIE CANADIENNE",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-54b243e38c46",
@@ -3234,8 +3273,10 @@
       "id": "journal-9e3fca3f5b82",
       "journal_id": "9e3fca3f5b82",
       "publisher": "Sage",
-      "url": "https://sagepub.com/en-us/nam/discourse-society/journal200873",
-      "description": "DISCOURSE & SOCIETY"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/discourse-society-200873",
+      "description": "DISCOURSE & SOCIETY",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-236c105e20ad",
@@ -3276,8 +3317,9 @@
       "id": "journal-132474a3f5a7",
       "journal_id": "132474a3f5a7",
       "publisher": "UBIQUITY PRESS LTD",
-      "url": "https://www.psychologicabelgica.com/",
-      "description": "PSYCHOLOGICA BELGICA"
+      "url": "https://psychologicabelgica.com/",
+      "description": "PSYCHOLOGICA BELGICA",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-701e1532f76a",
@@ -3339,8 +3381,10 @@
       "id": "journal-4e82a4e82b82",
       "journal_id": "4e82a4e82b82",
       "publisher": "Sage",
-      "url": "https://us.sagepub.com/en-us/nam/archive-for-the-psychology-of-religion/journal203533",
-      "description": "Archive for the Psychology of Religion-Archiv fur Religionspsychologie"
+      "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/archive-for-the-psychology-of-religion-203533",
+      "description": "Archive for the Psychology of Religion-Archiv fur Religionspsychologie",
+      "purpose": "identity_only",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-3d34f2523c00",
@@ -3367,8 +3411,9 @@
       "id": "journal-42a67e7db3e2",
       "journal_id": "42a67e7db3e2",
       "publisher": "ASSOC SERBIAN PSYCHOLOGISTS",
-      "url": "https://www.doiserbia.nb.rs/Journal.aspx?ISSN=0048-5705",
-      "description": "Psihologija"
+      "url": "https://psihologijajournal.dps.org.rs/",
+      "description": "Psihologija",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-20e4ca9c912b",
@@ -3388,7 +3433,7 @@
       "id": "journal-abf518c7c176",
       "journal_id": "abf518c7c176",
       "publisher": "Sage",
-      "url": "https://us.sagepub.com/en-us/nam/journal/empirical-studies-arts",
+      "url": "https://journals.sagepub.com/home/art",
       "description": "Empirical Studies of the Arts"
     },
     {
@@ -3409,7 +3454,7 @@
       "id": "journal-1486e8e94f2e",
       "journal_id": "1486e8e94f2e",
       "publisher": "Sage",
-      "url": "https://us.sagepub.com/en-us/nam/journal/omega-journal-death-and-dying",
+      "url": "https://journals.sagepub.com/home/ome",
       "description": "OMEGA-JOURNAL OF DEATH AND DYING"
     },
     {
@@ -3423,8 +3468,9 @@
       "id": "journal-2937861c7b96",
       "journal_id": "2937861c7b96",
       "publisher": "APA",
-      "url": "https://www.apa.org/journals/pubs/npe/",
-      "description": "Journal of Neuroscience Psychology and Economics"
+      "url": "https://www.apa.org/pubs/journals/npe/calls-for-papers",
+      "description": "Journal of Neuroscience Psychology and Economics",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-eccb82bd2814",
@@ -3535,8 +3581,9 @@
       "id": "journal-d1817bf7408e",
       "journal_id": "d1817bf7408e",
       "publisher": "CANADIAN PSYCHOLOGICAL ASSOC",
-      "url": "https://www.cpa.ca/membership/membershipbenefitsandservices/cpajournals/CJBS",
-      "description": "CANADIAN JOURNAL OF BEHAVIOURAL SCIENCE-REVUE CANADIENNE DES SCIENCES DU COMPORTEMENT"
+      "url": "https://cpa.ca/membership/cpajournals/CJBS/",
+      "description": "CANADIAN JOURNAL OF BEHAVIOURAL SCIENCE-REVUE CANADIENNE DES SCIENCES DU COMPORTEMENT",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-f692026ebb9c",
@@ -3612,8 +3659,9 @@
       "id": "journal-db5b61e040ec",
       "journal_id": "db5b61e040ec",
       "publisher": "ACADEMIA",
-      "url": "https://cspsych.psu.cas.cz",
-      "description": "CESKOSLOVENSKA PSYCHOLOGIE"
+      "url": "https://ceskoslovenskapsychologie.cz/index.php/csps",
+      "description": "CESKOSLOVENSKA PSYCHOLOGIE",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-cd8be509311c",
@@ -3661,8 +3709,9 @@
       "id": "journal-7c25026c62f8",
       "journal_id": "7c25026c62f8",
       "publisher": "PONTIFICA UNIV JAVERIANA, FAC PSYCH",
-      "url": "https://universitaspsychologica.javeriana.edu.co/",
-      "description": "Universitas Psychologica"
+      "url": "https://revistas.javeriana.edu.co/index.php/revPsycho",
+      "description": "Universitas Psychologica",
+      "entry_checked_at": "2026-10-05"
     },
     {
       "id": "journal-d4833dc37862",
@@ -3682,8 +3731,10 @@
       "id": "journal-8dad63785e18",
       "journal_id": "8dad63785e18",
       "publisher": "LIPPINCOTT WILLIAMS & WILKINS",
-      "url": "https://www.psychosomaticmedicine.org/",
-      "description": "Biopsychosocial Science and Medicine"
+      "url": "https://www.ovid.com/jnls/bsam",
+      "description": "Biopsychosocial Science and Medicine",
+      "entry_checked_at": "2026-10-05",
+      "purpose": "identity_only"
     },
     {
       "id": "journal-beff3c156c0c-cfp-0",
@@ -3691,6 +3742,69 @@
       "publisher": "CAMBRIDGE UNIV PRESS",
       "url": "https://www.cambridge.org/core/journals/recall/announcements",
       "description": "ReCALL · 征稿与专题入口"
+    },
+    {
+      "id": "journal-7fc6cdcf5633-catalogue",
+      "url": "https://www.wiley.com/en-us/journal-finder/journal/bjet",
+      "publisher": "Wiley",
+      "journal_id": "7fc6cdcf5633",
+      "description": "BRITISH JOURNAL OF EDUCATIONAL TECHNOLOGY 官方期刊介绍；不代表征稿栏目可读",
+      "purpose": "identity_only"
+    },
+    {
+      "id": "journal-2a7a32963234-catalogue",
+      "url": "https://www.wiley.com/en-us/journal-finder/journal/jcal",
+      "publisher": "Wiley",
+      "journal_id": "2a7a32963234",
+      "description": "JOURNAL OF COMPUTER ASSISTED LEARNING 官方期刊介绍；不代表征稿栏目可读",
+      "purpose": "identity_only"
+    },
+    {
+      "id": "journal-00f6b1458795-catalogue",
+      "url": "https://www.wiley.com/en-us/journal-finder/journal/isj",
+      "publisher": "Wiley",
+      "journal_id": "00f6b1458795",
+      "description": "Information Systems Journal 官方期刊介绍；不代表征稿栏目可读",
+      "purpose": "identity_only"
+    },
+    {
+      "id": "journal-00f6b1458795-cfp-verified",
+      "url": "https://onlinelibrary.wiley.com/page/journal/13652575/homepage/special_issues.htm",
+      "publisher": "Wiley",
+      "journal_id": "00f6b1458795",
+      "description": "Information Systems Journal 官方征稿栏目",
+      "purpose": "discovery"
+    },
+    {
+      "id": "journal-97123446893c-catalogue",
+      "url": "https://www.wiley.com/en-us/journal-finder/journal/ejed",
+      "publisher": "Wiley",
+      "journal_id": "97123446893c",
+      "description": "European Journal of Education 官方期刊介绍；不代表征稿栏目可读",
+      "purpose": "identity_only"
+    },
+    {
+      "id": "journal-97123446893c-cfp-verified",
+      "url": "https://onlinelibrary.wiley.com/page/journal/14653435/homepage/call-for-papers",
+      "publisher": "Wiley",
+      "journal_id": "97123446893c",
+      "description": "European Journal of Education 官方征稿栏目",
+      "purpose": "discovery"
+    },
+    {
+      "id": "sage-special-issues",
+      "publisher": "Sage",
+      "url": "https://journals.sagepub.com/special-issue-calls-for-papers",
+      "description": "Sage 专题征稿目录；与普通开放投稿分开检查。",
+      "journal_id": null
+    },
+    {
+      "id": "sgd-official-calls",
+      "journal_id": "33ba729cdd52",
+      "publisher": "APA",
+      "url": "https://www.apa.org/pubs/journals/sgd/calls-for-papers",
+      "purpose": "discovery",
+      "description": "官方专题征稿栏目"
     }
   ],
   "allowed_hosts": [
@@ -3706,6 +3820,8 @@
     "authorservices.taylorandfrancis.com",
     "bmcmededuc.biomedcentral.com",
     "bpspsychub.onlinelibrary.wiley.com",
+    "ceskoslovenskapsychologie.cz",
+    "cpa.ca",
     "cspsych.psu.cas.cz",
     "dergipark.org.tr",
     "direct.mit.edu",
@@ -3719,12 +3835,14 @@
     "ieee-edusociety.org",
     "ijsp-online.com",
     "info.emeraldinsight.com",
+    "iopscience.iop.org",
     "iopscience.org",
     "iubmb.onlinelibrary.wiley.com",
     "journals.aps.org",
     "journals.copmadrid.org",
     "journals.humankinetics.com",
     "journals.lww.com",
+    "journals.physiology.org",
     "journals.rcsi.science",
     "journals.sagepub.com",
     "link.springer.com",
@@ -3733,13 +3851,18 @@
     "ojs.psychologica-belgica.com",
     "online.ucpress.edu",
     "onlinelibrary.wiley.com",
+    "pmejournal.org",
     "prc.springeropen.com",
+    "psihologijajournal.dps.org.rs",
     "psychologia.ifohs.kyoto-u.ac.jp",
+    "psychologicabelgica.com",
     "pubs.acs.org",
     "pubs.aip.org",
+    "pubs.nctm.org",
     "pubs.rsc.org",
     "recyt.fecyt.es",
     "revistalatinoamericanadepsicologia.konradlorenz.edu.co",
+    "revistas.javeriana.edu.co",
     "revistas.um.es",
     "revistas.uned.es",
     "revistas.unir.net",
@@ -3754,7 +3877,9 @@
     "universitaspsychologica.javeriana.edu.co",
     "us.sagepub.com",
     "utppublishing.com",
+    "www.aapt.org",
     "www.annualreviews.org",
+    "www.aom.org",
     "www.apa.org",
     "www.bps.org.uk",
     "www.cambridge.org",
@@ -3768,6 +3893,7 @@
     "www.doiserbia.nb.rs",
     "www.dovepress.com",
     "www.elsevier.com",
+    "www.emerald.com",
     "www.emeraldgrouppublishing.com",
     "www.emeraldinsight.com",
     "www.frontiersin.org",
@@ -3777,13 +3903,13 @@
     "www.ijsp-online.com",
     "www.irrodl.org",
     "www.j-ets.net",
-    "www.jcsdonline.org",
     "www.journals.uchicago.edu",
     "www.lifescied.org",
     "www.lltjournal.org",
     "www.mdpi.com",
     "www.nature.com",
     "www.nctm.org",
+    "www.ovid.com",
     "www.press.jhu.edu",
     "www.press.uillinois.edu",
     "www.psicothema.com",
@@ -3797,6 +3923,10 @@
     "www.tandfonline.com",
     "www.tcrecord.org",
     "www.uk.sagepub.com",
-    "www.vandenhoeck-ruprecht-verlage.com"
-  ]
+    "www.vandenhoeck-ruprecht-verlage.com",
+    "www.wiley.com"
+  ],
+  "publisher_directories": {
+    "taylor_francis": true
+  }
 }

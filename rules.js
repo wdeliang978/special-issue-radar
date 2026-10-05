@@ -1,6 +1,22 @@
 export const TOPICS = ['全部方向','AI in Education','AI / NLP','Explainable AI','教育技术','教育学','心理学','STEM Education','Language Education'];
 export const dayNumber = s => s && /^\d{4}-\d{2}-\d{2}$/.test(s) ? Date.parse(s+'T00:00:00Z')/86400000 : null;
 export const todayISO = () => new Intl.DateTimeFormat('sv-SE',{timeZone:'America/New_York'}).format(new Date());
+export const ACCESS_REASONS = {
+  access_denied:'网站拒绝自动访问', robots_unavailable:'抓取规则暂时无法读取', robots_disallowed:'网站规则禁止抓取此入口',
+  challenge:'网站要求访问验证', dynamic_content:'网页需要动态加载', not_found:'入口已失效或迁移', redirect_domain:'跳转域名待核实',
+  identity_unconfirmed:'页面与期刊身份待核对', certificate:'网站证书链无法验证', dns:'域名无法连接', timeout:'读取超时',
+  redirect_loop:'页面反复跳转', rate_limited:'网站要求降低访问频率', network_error:'网络或页面读取异常',
+  directory_incomplete:'出版社目录未完整读取', cfp_unchecked:'已找到期刊介绍，征稿入口待接通', content_encoding:'网页编码待适配', document_type:'文档格式待适配', document_limit:'文档超过读取上限'
+};
+export function registryAccess(j, monitor={}) {
+  const reports=(monitor.sources||[]).filter(s=>s.journal_id===j.id||(j.source_ids||[]).includes(s.id));
+  const directories=(monitor.directories||[]).filter(d=>(d.scope_journal_ids||[]).includes(j.id));
+  const direct=reports.some(s=>s.status==='ok'&&s.purpose!=='identity_only');
+  const directory=directories.some(d=>d.status==='ok'&&d.complete===true);
+  const errors=[...new Set([...reports,...directories].filter(s=>s.status!=='ok').map(s=>s.error_code||'network_error'))];
+  if(!direct&&!directory&&reports.some(s=>s.status==='ok'&&s.purpose==='identity_only'))errors.unshift('cfp_unchecked');
+  return {status:direct?'ok':directory?'directory':reports.length||directories.length?'error':'pending',reports,directories,errors};
+}
 export function isEligible(r, today=todayISO()) {
   if(r.indexing_verified!==true || !Array.isArray(r.indexing) || !r.indexing.some(i=>['SSCI','SCIE'].includes(i))) return false;
   if(r.indexing_evidence_type==='user_jcr') {

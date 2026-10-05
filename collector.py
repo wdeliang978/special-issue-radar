@@ -1,19 +1,21 @@
 """Conservative official-source CFP collection. Uncertain records never alert."""
 from __future__ import annotations
-import argparse, concurrent.futures, datetime as dt, email.utils, hashlib, html, io, json, os, re, time, urllib.error, urllib.parse, urllib.request, urllib.robotparser
+import argparse, concurrent.futures, datetime as dt, email.utils, gzip, hashlib, html, http.cookiejar, io, json, os, re, time, unicodedata, urllib.error, urllib.parse, urllib.request, zlib
 from html.parser import HTMLParser
 from pathlib import Path
 from difflib import SequenceMatcher
+from copy import copy
 from xml.etree import ElementTree as ET
 from collections import defaultdict
 import threading
+from protego import Protego
 
 ROOT=Path(__file__).resolve().parent
 AGENT='CallAtlas/1.0 (+https://github.com/wdeliang978/special-issue-radar; academic CFP monitor)'
 DOMAINS=('springer.com','springernature.com','nature.com','biomedcentral.com','sciencedirect.com','elsevier.com','wiley.com','sagepub.com','tandfonline.com','taylorandfrancis.com','ieee.org','computer.org','j-ets.net')
 EXTRA_HOSTS=set()
 SOURCE_FRESH_DAYS=8
-CFP_PATH=re.compile(r'/(?:collections/[^/?#]+|calls?-for-papers/[^/?#]+|special[_-]issues/[^/?#]+|special-issue/[^/?#]+|publications/author-resources/calls-for-papers/[^/?#]+)',re.I)
+CFP_PATH=re.compile(r'/(?:collections/[^/?#]+|calls?-for-(?:papers|submissions)/[^/?#]+|special[_-]issues/[^/?#]+|special-issue/[^/?#]+|publications/author-resources/calls-for-papers/[^/?#]+)',re.I)
 INDEX_TERMS={'SSCI':r'\bSocial Sciences? Citation Index\b|\bSSCI\b','SCIE':r'\bScience Citation Index Expanded\b|\bSCIE\b'}
 MONTHS={m.lower():i for i,m in enumerate(['January','February','March','April','May','June','July','August','September','October','November','December'],1)}
 MONTH_PATTERN='(?:'+ '|'.join(MONTHS)+r'|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)'
@@ -88,8 +90,11 @@ def pdf_document(raw):
 def discover_candidates(source,doc,known):
     """Journal-owned document links are retained even when their host needs review."""
     out=[]
-    for path,label in doc.links:
-        url=canonical(urllib.parse.urljoin(source['url'],path));p=urllib.parse.urlsplit(url)
+    links=list(doc.links)
+    for path,label in doc.navigation_links:
+        if (path,label) not in links and re.search(r'call for papers|special[ -]issue|themed issue',label,re.I):links.append((path,label))
+    for path,label in links:
+        url=canonical(urllib.parse.urljoin(getattr(doc,'url',source['url']),path));p=urllib.parse.urlsplit(url)
         if url in known:continue
         context=doc.link_context.get(path,label)
         is_call=bool(re.search(r'call for papers|special[ -]issue|themed issue',context,re.I))
@@ -103,49 +108,121 @@ def discover_candidates(source,doc,known):
 def discover_hubs(source,doc):
     out=[]
     for path,label in doc.navigation_links:
-        url=canonical(urllib.parse.urljoin(source['url'],path))
-        if allowed(url) and url!=canonical(source['url']) and re.fullmatch(r'(?:view |see |all |open )?(?:calls? for papers|special issues?(?: and collections)?|collections|journal updates|updates)(?:[ ›»↗]+)?',label,re.I):
-            out.append({**source,'id':source['id']+'-hub-'+hashlib.sha256(url.encode()).hexdigest()[:8],'url':url,'parent_source_id':source['id']})
+        url=canonical(urllib.parse.urljoin(getattr(doc,'url',source['url']),path))
+        if allowed(url) and url!=canonical(source['url']) and re.fullmatch(r'(?:view |see |all |open |browse )?(?:calls? for papers|special issues?(?: and collections)?|collections|journal updates|updates|announcements)(?:[ ›»↗]+)?',label,re.I):
+            out.append({**source,'id':source['id']+'-hub-'+hashlib.sha256(url.encode()).hexdigest()[:8],'url':url,'parent_source_id':source['id'],'purpose':'discovery'})
     return list({h['url']:h for h in out}.values())[:3]
 
 class SafeRedirect(urllib.request.HTTPRedirectHandler):
     def redirect_request(self,req,fp,code,msg,headers,newurl):
-        if not allowed(newurl):raise ValueError('Redirect outside official publisher domains')
+        if not allowed(newurl):raise AccessError('redirect_domain','Redirect outside verified publisher domains: '+newurl)
         return super().redirect_request(req,fp,code,msg,headers,newurl)
 
+class AccessError(ValueError):
+    def __init__(self,code,message):self.code=code;super().__init__(message)
+
+def error_code(error):
+    if isinstance(error,AccessError):return error.code
+    text=str(error or '')
+    for pattern,code in [(r'HTTP Error (401|403)','access_denied'),(r'HTTP Error (404|410)','not_found'),(r'HTTP Error 429','rate_limited'),(r'robots.txt unavailable','robots_unavailable'),(r'robots policy','robots_disallowed'),(r'Redirect outside','redirect_domain'),(r'identity could not','identity_unconfirmed'),(r'access challenge','challenge'),(r'content too short','dynamic_content'),(r'CERTIFICATE_VERIFY_FAILED','certificate'),(r'infinite loop','redirect_loop'),(r'getaddrinfo|Name or service not known','dns'),(r'timed out|timeout|10060','timeout')]:
+        if re.search(pattern,text,re.I):return code
+    return 'network_error' if error else None
+
+def decode_response(raw,headers,is_robots=False):
+    """Some journal servers gzip even without Accept-Encoding; never parse bytes as text."""
+    encoding=headers.get('Content-Encoding','').lower()
+    if encoding=='gzip' or raw.startswith(b'\x1f\x8b'):
+        with gzip.GzipFile(fileobj=io.BytesIO(raw)) as stream:raw=stream.read(4_000_001)
+    elif encoding=='deflate':raw=zlib.decompressobj().decompress(raw,4_000_001)
+    elif encoding and encoding!='identity':raise AccessError('content_encoding','Unsupported content encoding: '+encoding)
+    if len(raw)>4_000_000:raise AccessError('document_limit','Document exceeds 4 MB limit')
+    if is_robots:
+        text=raw.decode('utf-8-sig',errors='replace')
+        if re.search(r'<(?:!doctype|html)|_Incapsula_Resource',text,re.I):raise AccessError('robots_unavailable','robots.txt returned an HTML page instead of crawl rules')
+        if not text.strip() or re.search(r'^\s*(?:user-agent|sitemap|allow|disallow)\s*:',text,re.M|re.I) or all(not line.strip() or line.lstrip().startswith('#') for line in text.splitlines()):return text
+        raise AccessError('robots_unavailable','robots.txt response could not be recognized as crawl rules')
+    if raw.startswith(b'%PDF'):return pdf_document(raw)
+    content_type=headers.get('Content-Type','')
+    if not any(t in content_type for t in ('text/','json','xml')):raise AccessError('document_type','Unsupported document type: '+content_type)
+    charset=headers.get_content_charset() or 'utf-8'
+    return raw.decode(charset,errors='replace')
+
 class Fetcher:
-    def __init__(self): self.cache={};self.robots={};self.reports=[];self.host_slots=defaultdict(lambda:threading.Semaphore(2))
-    def _get(self,url):
-        req=urllib.request.Request(url,headers={'User-Agent':AGENT,'Accept':'text/html,application/xhtml+xml,application/pdf'})
-        with urllib.request.build_opener(SafeRedirect()).open(req,timeout=22) as response:
-            raw=response.read(4_000_001)
-            if len(raw)>4_000_000:raise ValueError('Document exceeds 4 MB limit')
-            if raw.startswith(b'%PDF'):return pdf_document(raw)
-            if 'text/' not in response.headers.get('Content-Type',''):raise ValueError('Unsupported document type')
-            return raw.decode(response.headers.get_content_charset() or 'utf-8',errors='replace')
+    def __init__(self):
+        self.cache={};self.robots={};self.robots_errors={};self.reports=[];self.host_slots=defaultdict(lambda:threading.Semaphore(2));self.final_urls={};self.response_meta={}
+        self.host_clocks=defaultdict(threading.Lock);self.last_request={}
+        self.opener=urllib.request.build_opener(SafeRedirect(),urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
+    def _get(self,url,extra_headers=None,timeout=22):
+        req=urllib.request.Request(url,headers={'User-Agent':AGENT,'Accept':'text/html,application/xhtml+xml,application/pdf,application/json','Accept-Encoding':'gzip, deflate',**(extra_headers or {})})
+        for attempt in range(2):
+            try:
+                self.wait_turn(url)
+                with self.opener.open(req,timeout=timeout) as response:
+                    self.final_urls[url]=response.url
+                    self.response_meta[url]={key:response.headers.get(key) for key in ('X-WP-TotalPages','X-WP-Total')}
+                    return decode_response(response.read(4_000_001),response.headers,is_robots=urllib.parse.urlsplit(url).path=='/robots.txt')
+            except urllib.error.HTTPError as e:
+                if attempt or e.code not in (502,503,504):raise
+            except (TimeoutError,urllib.error.URLError) as e:
+                if attempt or not re.search(r'timed out|timeout|10060',str(e),re.I):raise
+            time.sleep(1)
+    def wait_turn(self,url):
+        p=urllib.parse.urlsplit(url);origin=p.scheme+'://'+p.netloc;robot=self.robots.get(origin)
+        delay=(robot.crawl_delay('CallAtlas') or 0) if robot else 0
+        rate=robot.request_rate('CallAtlas') if robot else None
+        if rate and rate.requests:delay=max(delay,rate.seconds/rate.requests)
+        if delay>60:raise AccessError('rate_limited','Publisher requires a crawl interval beyond this run budget')
+        if delay:
+            with self.host_clocks[p.hostname]:
+                wait=delay-(time.monotonic()-self.last_request.get(p.hostname,0))
+                if wait>0:time.sleep(wait)
+                self.last_request[p.hostname]=time.monotonic()
+        else:self.last_request[p.hostname]=time.monotonic()
+    def check_permission(self,url):
+        if not allowed(url):raise AccessError('redirect_domain','URL is outside verified publisher allowlist')
+        p=urllib.parse.urlsplit(url);origin=p.scheme+'://'+p.netloc
+        robot=self.robots.get(origin)
+        if robot is False:raise AccessError('robots_unavailable','robots.txt unavailable; access permission could not be checked: '+self.robots_errors.get(origin,''))
+        if robot and not robot.can_fetch(url,'CallAtlas'):raise AccessError('robots_disallowed','Publisher robots policy disallows this path')
     def prime_robots(self,urls):
         origins={urllib.parse.urlsplit(u).scheme+'://'+urllib.parse.urlsplit(u).netloc for u in urls if allowed(u)}-set(self.robots)
         def one(origin):
             try:
-                body=self._get(origin+'/robots.txt');robot=urllib.robotparser.RobotFileParser();robot.parse(body.splitlines());return origin,robot
-            except urllib.error.HTTPError as e:return origin,False if e.code in (401,403) else None
-            except Exception:return origin,None
+                body=self._get(origin+'/robots.txt');return origin,Protego.parse(body)
+            except urllib.error.HTTPError as e:
+                if e.code in (401,403,429) or e.code>=500:self.robots_errors[origin]=str(e);return origin,False
+                return origin,None
+            except Exception as e:self.robots_errors[origin]=str(e);return origin,False
         with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
             for origin,robot in pool.map(one,sorted(origins)):self.robots[origin]=robot
+    def fetch_json(self,url,extra_headers=None):
+        """Read an explicitly configured public publisher endpoint with the same access rules."""
+        code=None
+        try:
+            self.check_permission(url)
+            with self.host_slots[urllib.parse.urlsplit(url).hostname]:body=self._get(url,extra_headers,timeout=55)
+            data=json.loads(body)
+            if not isinstance(data,(list,dict)):raise AccessError('directory_incomplete','Unexpected publisher directory response')
+            error=None
+        except Exception as e:data=None;error=type(e).__name__+': '+str(e)[:180];code=error_code(e)
+        self.reports.append({'url':url,'status':'ok' if data is not None else 'error','error':error,'error_code':code,'format':'publisher-json'})
+        return data,self.response_meta.get(url,{}),error
     def fetch(self,url):
         url=canonical(url)
         if url in self.cache:return self.cache[url]
+        failure_code=None
         try:
-            if not allowed(url):raise ValueError('URL is outside official publisher allowlist')
-            p=urllib.parse.urlsplit(url);origin=p.scheme+'://'+p.netloc
-            robot=self.robots.get(origin)
-            if robot is False or (robot and not robot.can_fetch(AGENT,url)):raise ValueError('Publisher robots policy disallows this path')
+            self.check_permission(url)
+            p=urllib.parse.urlsplit(url)
             with self.host_slots[p.hostname]:source=self._get(url)
+            if isinstance(source,str) and re.search(r'_Incapsula_Resource\?|<title>\s*(?:Just a moment|Access Denied)|id=["\']challenge-form',source,re.I):raise AccessError('challenge','Publisher returned an access challenge')
             doc=source if isinstance(source,Document) else Document(source)
-            if len(doc.text)<180 or re.search(r'^(?:Access Denied|Just a moment|Robot Challenge|Forbidden)',doc.text,re.I):raise ValueError('Page unavailable or access challenge')
+            doc.url=self.final_urls.get(url,url)
+            if re.search(r'^(?:Access Denied|Just a moment|Robot Challenge|Forbidden)|enable JavaScript and cookies to continue|verify (?:that )?you are (?:a )?human',doc.text[:1500],re.I):raise AccessError('challenge','Publisher returned an access challenge')
+            if len(doc.text)<180:raise AccessError('dynamic_content','Page content too short; JavaScript or another entry may be required')
             result=(doc,None)
-        except Exception as e:result=(None,type(e).__name__+': '+str(e)[:180])
-        self.cache[url]=result;self.reports.append({'url':url,'status':'ok' if result[0] else 'error','error':result[1]});return result
+        except Exception as e:failure_code=error_code(e);result=(None,type(e).__name__+': '+str(e)[:180])
+        self.cache[url]=result;self.reports.append({'url':url,'final_url':self.final_urls.get(url),'status':'ok' if result[0] else 'error','error':result[1],'error_code':failure_code});return result
 
 def parse_date(text):
     try:
@@ -157,40 +234,65 @@ def parse_date(text):
         return dt.date(year,number,day).isoformat()
     except (ValueError,TypeError,StopIteration):return None
 
+def submission_windows(text):
+    pattern=r'(?:full (?:manuscript|paper)s?|special issue) submissions?\s+(?:(?:to )?occur\s+)?between\s+('+DATE_RE.pattern+r')\s+and\s+('+DATE_RE.pattern+r')'
+    return [(parse_date(m[1]),parse_date(m[2])) for m in re.finditer(pattern,text,re.I)]
+
+def submission_document(url,doc):
+    host=urllib.parse.urlsplit(url).hostname or ''
+    if (host=='aom.org' or host.endswith('.aom.org')) and '/event/' in urllib.parse.urlsplit(url).path:
+        doc=copy(doc)
+        # AOM appends other journals' events, including their own deadlines.
+        doc.text=re.split(r'\n\s*(?:Add to calendar|Upcoming Events)\s*\n',doc.text,maxsplit=1,flags=re.I)[0]
+    return doc
+
 def extract_dates(text):
+    text=re.sub(r'(\d)\s+(st|nd|rd|th)\b',r'\1\2',text.replace('\r','\n').replace('\xa0',' '),flags=re.I)
     found={'abstract':set(),'full':set()}
     # Only attach a date to an explicit deadline label, never publication/opening dates.
     patterns={
-      'abstract':r'(?:abstracts?(?: submission)?(?:s)?\s*(?:deadline|due|by)|(?:deadline|due date)\s*(?:for|of)?\s*(?:submission of )?(?:extended )?abstracts?|(?:submission of )?abstracts?\s*:)',
+      'abstract':r'(?:abstracts?(?: submissions?)?(?:\s*\([^)]{0,60}\))?\s*(?:are\s+)?(?:deadline|due|by)|(?:deadline|due date)\s*(?:for|of)?\s*(?:the )?(?:submission of )?(?:extended )?abstracts?|(?:submission of )?abstracts?\s*:)',
       'full':r'(?:(?:full[ -]?(?:paper|manuscript)s?|manuscripts?|papers?|submissions?)(?: submission)?\s*(?:deadline|due|by)|(?:deadline|due date)\s*(?:for|of)?\s*(?:full[ -]?)?(?:paper|manuscript|submission)s?|submission deadline\s*:)' }
+    abstract_labels=[m.span() for m in re.finditer(patterns['abstract'],text,re.I)]
     for kind,pat in patterns.items():
         for match in re.finditer(pat,text,re.I):
+            if kind=='full' and any(a<match.end() and b>match.start() for a,b in abstract_labels):continue
             # CFP timetables also list revision and camera-ready dates. These are
             # not first-submission deadlines, including in single-line PDF text.
             before=text[max(0,match.start()-45):match.start()]
             if re.search(r'(?:revis(?:ion|ed)|camera[ -]?ready|proof|editorial)\s+(?:\w+\s+){0,3}$',before,re.I):continue
+            if re.search(r'(?:feedback|notification|invitation)\s+(?:\w+\s+){0,8}$',before,re.I):continue
+            if kind=='abstract' and re.search(r'(?:accepted|acceptance of|announcement of|notification of)\s*$',before,re.I):continue
             snippet=text[match.end():match.end()+100]
+            if kind=='full' and re.match(r'\s*(?:(?:of|for)\s+)?(?:abstracts?|revised|final version)\b',snippet,re.I):continue
+            # Do not take the following timetable row's date when this row has
+            # its own date before the label. A date-only next line is allowed.
+            line=snippet.split('\n',1)[0]
+            if line.strip():snippet=line
+            else:
+                prefix=text[:match.start()].rsplit('\n',1)[-1]
+                snippet='' if DATE_RE.search(prefix) else snippet.lstrip().split('\n',1)[0]
             stop=re.search(r'\b(?:publication|notification|revis(?:ion|ed)|abstract|submission opens?)\b',snippet,re.I)
             if stop:snippet=snippet[:stop.start()]
             dates=DATE_RE.findall(snippet)
             if dates:
                 d=parse_date(dates[0])
                 if d:found[kind].add(d)
-    # A bare submission deadline beside abstract text is not a manuscript date.
-    for m in re.finditer(r'(?:abstract.{0,50}submission deadline|submission deadline.{0,40}abstract)',text,re.I):
-        ds=DATE_RE.findall(text[m.start():m.end()+100])
-        if ds:
-            d=parse_date(ds[0]);found['full'].discard(d)
-            if d:found['abstract'].add(d)
     # Publisher timetables often put the date before the stage label.
     for m in DATE_RE.finditer(text):
         tail=text[m.end():m.end()+150].split('\n')[0]
-        if re.match(r'\s*[:–—-]\s*(?:(?:extended )?abstracts?(?: submissions?)?\s+(?:submitted|due|deadline)|submission of (?:extended )?abstracts?)',tail,re.I):found['abstract'].add(parse_date(m.group()))
-        if re.match(r'\s*[:–—-]\s*(?:full (?:papers?|manuscripts?)\s+(?:submitted|due)|submission of (?:full (?:papers?|manuscripts?)|first draft))',tail,re.I):found['full'].add(parse_date(m.group()))
+        if re.match(r'\s*[:–—-]\s*(?:(?:extended )?abstracts?(?: submissions?)?\s+(?:submitted|due|deadline)|submission of (?:extended )?abstracts?|deadline for (?:submission of )?(?:extended )?abstracts?)',tail,re.I):found['abstract'].add(parse_date(m.group()))
+        if re.match(r'\s*[:–—-]\s*(?:full (?:papers?|manuscripts?|articles?)(?: submissions?)?\s+(?:submitted|due|deadline)|submission of (?:full (?:papers?|manuscripts?)|first draft)|deadline for (?:submission of )?full (?:papers?|manuscripts?))',tail,re.I):found['full'].add(parse_date(m.group()))
     for m in re.finditer(r'submit\s+(?:(?:an?|your)\s+)?(?:single\s+)?(?:extended\s+)?abstracts?\b',text,re.I):
-        due=re.search(r'\b(?:by|before)\s+('+DATE_RE.pattern+')',text[m.end():m.end()+350],re.I)
+        due=re.search(r'\b(?:by|before)\s+('+DATE_RE.pattern+')',text[m.end():m.end()+350].split('\n',1)[0],re.I)
         if due:found['abstract'].add(parse_date(due[1]))
+    for line in text.splitlines():
+        if re.search(r'abstracts?[^\n]{0,120}(?:submitted|sent|emailed)',line,re.I):
+            due=re.search(r'\b(?:by|before)\s+(?:(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\s+)?('+DATE_RE.pattern+')',line,re.I)
+            if due:found['abstract'].add(parse_date(due[1]))
     for dates in found.values():dates.discard(None)
+    for _,deadline in submission_windows(text):
+        if deadline:found['full'].add(deadline)
     return {k:sorted(v) for k,v in found.items()}
 
 def abstract_stage(text):
@@ -222,7 +324,7 @@ def notifiable(r,asof):
     return eligible(r,asof) and open_call(r,asof) and fresh
 
 def journal_identity(j,text):
-    normalize=lambda s:re.sub(r'\W+',' ',s.casefold().replace('&',' and ')).strip()
+    normalize=lambda s:re.sub(r'\W+',' ',''.join(c for c in unicodedata.normalize('NFKD',s.casefold().replace('&',' and ')) if not unicodedata.combining(c))).strip()
     normalized=normalize(text)
     return any((' '+normalize(name)+' ') in (' '+normalized+' ') for name in [j['name']]+j.get('aliases',[]) if name) or any(issn in text for issn in j.get('issns',[])) or any(re.search(r'(?<!\w)'+re.escape(alias)+r'(?!\w)',text[:500],re.I) for alias in j.get('identity_aliases',[]))
 
@@ -231,6 +333,10 @@ def destination_journals(url,doc,journals,context):
     participant=re.search(r'Participating journal\s*:\s*([^\n]+)',doc.text,re.I)
     if participant:
         return [j for j in journals if any(normalize(name)==normalize(participant[1]) for name in [j['name']]+j.get('aliases',[]))]
+    # AOM event pages link other AOM journals in shared surrounding content.
+    # The explicit journal acronym in an event URL must agree with the registry.
+    aom=re.search(r'/event/([a-z]+)-call-for-',urllib.parse.urlsplit(url).path,re.I) if (urllib.parse.urlsplit(url).hostname or '').endswith('aom.org') else None
+    if aom:return [j for j in journals if j.get('publisher_journal_code')==aom[1].lower()]
     linked={canonical(urllib.parse.urljoin(url,path)) for path,_ in doc.links}
     destinations=[j for j in journals if j.get('journal_url') and canonical(j['journal_url']) in linked]
     if destinations:return destinations
@@ -266,17 +372,23 @@ def update_index(j,doc,asof,evidence_url=None):
 def refresh_record(r,j,doc,asof):
     r.update(index_fields(j))
     if not doc:return
+    doc=submission_document(r.get('cfp_url',''),doc)
     normalized=lambda s:re.sub(r'\W+',' ',s).strip().casefold()
     title_matches=normalized(r['title']) in normalized(doc.text) or any(SequenceMatcher(None,normalized(r['title']),normalized(h)).ratio()>.88 for h in doc.headings)
     if not title_matches:return
+    if getattr(doc,'verification_url',None):r['verification_url']=doc.verification_url
     if re.search(r'closed for submissions|submissions? (?:are |is )?closed|no longer accepting (?:submissions|manuscripts)',doc.text,re.I):r.update(status='closed',checked_at=asof);return
     parsed=extract_dates(doc.text)
+    extra_dates=[parse_date(v) for v in getattr(doc,'additional_deadlines',[])]
+    existing_dates=[r[k] for k in ('abstract_deadline','full_paper_deadline') if r.get(k)]
+    # An unchanged API date may corroborate a previously verified stage. New
+    # records still need an explicit stage label; never guess from field order.
+    if any(d is None or d not in parsed['abstract']+parsed['full']+existing_dates for d in extra_dates):r['review_required']=True;return
     if any(len(v)>1 for v in parsed.values()) or (abstract_stage(doc.text) and not parsed['abstract'] and not r.get('abstract_deadline')):
         r['review_required']=True;return
     if parsed['abstract'] and r.get('abstract_deadline') not in parsed['abstract']:
         r['review_required']=True;return
-    existing_dates=[r[k] for k in ('abstract_deadline','full_paper_deadline') if r.get(k)]
-    visible_dates={parse_date(s) for s in DATE_RE.findall(doc.text)}
+    visible_dates={parse_date(s) for s in DATE_RE.findall(doc.text)}|set(extra_dates)
     # Keep human-reviewed details if their exact dates remain present.
     if existing_dates and all(d in visible_dates for d in existing_dates):r['checked_at']=asof;return
     updates={}
@@ -289,6 +401,7 @@ def refresh_record(r,j,doc,asof):
 
 def discover_record(url,doc,journals,asof,context=None):
     context=context or {}
+    doc=submission_document(url,doc)
     if re.search(r'closed for submissions|submissions? (?:are |is )?closed|no longer accepting (?:submissions|manuscripts)',doc.text,re.I):return None,'official call is closed'
     title=(doc.headings[0] if doc.headings else doc.meta.get('og:title','')).strip()
     linked_title=context.get('title','').strip()
@@ -310,21 +423,26 @@ def discover_record(url,doc,journals,asof,context=None):
     tags=list(dict.fromkeys(tags+[t for t in scope_tags if t in ('心理学','教育学','STEM Education','教育技术','Language Education')]))
     if not tags:return None,'research relevance needs review'
     parsed=extract_dates(doc.text)
+    extra_dates=[parse_date(v) for v in getattr(doc,'additional_deadlines',[])]
+    if any(d is None or d not in parsed['abstract']+parsed['full'] for d in extra_dates):return None,'additional publisher deadline requires submission-stage review'
     if any(len(v)>1 for v in parsed.values()):return None,'multiple conflicting stage deadlines'
     abstract=next(iter(parsed['abstract']),None);full=next(iter(parsed['full']),None)
     if re.search(r'abstract submissions? (?:are )?closed',doc.text,re.I) or (abstract_stage(doc.text) and not abstract):return None,'abstract prerequisite deadline requires review'
     if not full:return None,'no unambiguous full manuscript deadline'
     required=None
     if abstract:
-        if re.search(r'(?:optional|not required).{0,70}abstract|abstract.{0,70}(?:optional|not required)',doc.text,re.I):required=False
+        if re.search(r'(?:optional|not required).{0,70}abstract|abstract.{0,70}(?:optional|not required)|without (?:previous )?submission of an? abstract',doc.text,re.I):required=False
         elif re.search(r'(?:must|required|invited).{0,70}abstract|abstract.{0,70}(?:must|required|invited)',doc.text,re.I):required=True
         if re.search(r'abstract[ -]first|abstracts?[\s\S]{0,350}invited to submit (?:a )?full',doc.text,re.I):required=True
         # A future, dated abstract stage can be displayed with an unknown
         # requirement; after it passes, open_call pauses recommendations.
     r={'id':'auto-'+hashlib.sha256((canonical(url)+j['id']).encode()).hexdigest()[:16],'title':title,'journal':j['name'],'journal_id':j['id'],'publisher':j['publisher'],'cfp_url':url,'abstract_deadline':abstract,'abstract_required':required,'full_paper_deadline':full,'deadline_notes_zh':'自动识别的官方征稿。请在投稿前查看原文中关于格式、资格及截止时区的要求。','topics':tags,'keywords':tags,'summary_zh':'新发现的官方专题征稿。点击查看官方页面了解完整研究范围与投稿要求。','indexing':j['indexing'],'indexing_verified':j['verified'],'indexing_evidence_url':j['evidence_url'],'indexing_checked_at':j['checked_at'],'status':'open','checked_at':asof,'first_seen':asof,'review_required':False}
     r['discovery_source_url']=context.get('discovery_source_url');r['source_format']=doc.format
+    if getattr(doc,'verification_url',None):r['verification_url']=doc.verification_url
     opening=re.search(r'Submissions? open(?:s)?\s+(?:on\s+|from\s+)?('+DATE_RE.pattern+')',doc.text,re.I)
     if opening:r['submission_opens']=parse_date(opening[1])
+    windows=submission_windows(doc.text)
+    if len(windows)==1 and windows[0][1]==full:r['submission_opens']=windows[0][0]
     r.update(index_fields(j))
     return (r,None) if notifiable(r,asof) else (None,'not open or index not verified')
 
@@ -332,7 +450,7 @@ def coverage(journals,sources):
     return [{**{k:j.get(k) for k in ('id','name','publisher','issns','indexing','verified','checked_at','journal_url','evidence_type','registry_provenance','directory_status')},'source_ids':[s['id'] for s in sources if s.get('journal_id')==j['id']]} for j in journals]
 
 def record_identity(r):
-    title=re.sub(r'^(?:(?:call for papers|special issue)\s*[:–—-]\s*)+','',r['title'],flags=re.I)
+    title=re.sub(r'^(?:(?:call for papers|special issue|collection)\s*[:–—-]\s*)+','',r['title'],flags=re.I)
     return r['journal_id']+'|'+re.sub(r'\W+',' ',title.casefold()).strip()
 
 def candidate_batch(candidates,previous,limit):
@@ -416,12 +534,24 @@ def notify(catalog,previous,asof):
     return len(pending)
 
 def main():
-    parser=argparse.ArgumentParser();parser.add_argument('--offline',action='store_true');parser.add_argument('--notify',action='store_true');parser.add_argument('--max-candidates',type=int,default=400);args=parser.parse_args();asof=today()
+    parser=argparse.ArgumentParser();parser.add_argument('--offline',action='store_true');parser.add_argument('--notify',action='store_true');parser.add_argument('--max-candidates',type=int,default=400);parser.add_argument('--audit-dir');args=parser.parse_args();asof=today()
+    audit_dir=Path(args.audit_dir) if args.audit_dir else None
+    if audit_dir:audit_dir.mkdir(parents=True,exist_ok=True)
     catalog=read('data.json',{'records':[]});previous=json.loads(json.dumps(catalog));registry=read('journals.json',{'journals':[]});journals=registry['journals'];config=read('sources.json',{'sources':[]});sources=config['sources'];queue=read('review-queue.json',{'candidates':[]})
     EXTRA_HOSTS.update(config.get('allowed_hosts',[]))
     byid={j['id']:j for j in journals}
     if not args.offline:
         fetcher=Fetcher();index_urls={j['id']:j.get('evidence_url') or j.get('evidence_candidate_url') or j.get('journal_url') for j in journals}
+        known={canonical(u) for r in catalog['records'] for u in [r['cfp_url']]+r.get('alternate_cfp_urls',[])}
+        directory_reports=[];directory_candidates=[]
+        if config.get('publisher_directories',{}).get('taylor_francis'):
+            from publisher_directories import collect_taylor_francis
+            print('Reading the official Taylor & Francis CFP directory, respecting its crawl interval.',flush=True)
+            report,items,documents=collect_taylor_francis(fetcher,journals,known)
+            if audit_dir:(audit_dir/'publisher-documents.json').write_text(json.dumps({url:{'text':doc.text,'headings':doc.headings,'links':doc.links,'format':doc.format,'additional_deadlines':doc.additional_deadlines,'verification_url':doc.verification_url} for url,doc in documents.items()},ensure_ascii=False,indent=2),encoding='utf-8')
+            directory_reports.append(report);directory_candidates.extend(items)
+            for url,doc in documents.items():fetcher.cache[canonical(url)]=(doc,None)
+            print(f'Publisher directory: {report["items"]} entries; complete={report["complete"]}; {len(items)} registered-journal candidates.',flush=True)
         urls=[u for u in index_urls.values() if u]+[r['cfp_url'] for r in catalog['records']]+[s['url'] for s in sources]
         print(f'Checking {len(journals)} registered journals, {len(set(urls))} configured pages.',flush=True)
         fetcher.prime_robots(urls)
@@ -433,7 +563,7 @@ def main():
             if url:update_index(j,fetcher.fetch(url)[0],asof,url)
         for r in catalog['records']:
             if r.get('journal_id') in byid:refresh_record(r,byid[r['journal_id']],fetcher.fetch(r['cfp_url'])[0],asof)
-        candidates={};reports=[];known={canonical(u) for r in catalog['records'] for u in [r['cfp_url']]+r.get('alternate_cfp_urls',[])}
+        candidates={c['url']:c for c in directory_candidates};reports=[]
         # Follow a single level of explicitly linked CFP hubs, never an entire site.
         hubs=[];seen={canonical(s['url']) for s in sources}
         for s in sources:
@@ -444,6 +574,7 @@ def main():
         fetcher.prime_robots([s['url'] for s in hubs])
         with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:list(pool.map(fetcher.fetch,[s['url'] for s in hubs]))
         all_sources=sources+hubs
+        page_reports={r['url']:r for r in fetcher.reports}
         for s in all_sources:
             doc,error=fetcher.fetch(s['url']);links=[]
             if doc and s.get('journal_id') and not journal_identity(byid[s['journal_id']],doc.text):
@@ -451,7 +582,8 @@ def main():
             if doc:
                 for candidate in discover_candidates(s,doc,known):
                     links.append(candidate['url']);candidates.setdefault(candidate['url'],candidate)
-            reports.append({'id':s['id'],'journal_id':s.get('journal_id'),'url':s['url'],'status':'ok' if doc else 'error','candidates':len(set(links)),'error':error})
+            page_report=page_reports.get(canonical(s['url']),{})
+            reports.append({'id':s['id'],'journal_id':s.get('journal_id'),'url':s['url'],'purpose':s.get('purpose','discovery'),'final_url':page_report.get('final_url'),'status':'ok' if doc else 'error','candidates':len(set(links)),'error':error,'error_code':None if doc else 'identity_unconfirmed' if error and 'identity could not' in error else page_report.get('error_code') or error_code(error)})
         # A source outage must not erase previously discovered candidates.
         history={c['url']:c for c in queue['candidates'] if c['url'] not in known}
         for url,c in history.items():candidates.setdefault(url,c)
@@ -469,6 +601,7 @@ def main():
                 reviewed[c['url']]={**c,'reason':'Official journal links an external PDF; deadline verification requires a permitted document source.'};continue
             doc,error=fetcher.fetch(c['url']);r,reason=discover_record(c['url'],doc,journals,asof,c) if doc else (None,error)
             if r:
+                if audit_dir:(audit_dir/(r['id']+'.json')).write_text(json.dumps({'record':r,'text':doc.text,'links':doc.links,'context':c},ensure_ascii=False,indent=2),encoding='utf-8')
                 identity=record_identity(r)
                 if identity in identities:
                     aliases=identities[identity].setdefault('alternate_cfp_urls',[])
@@ -478,7 +611,7 @@ def main():
             else:reviewed[c['url']]={**c,'reason':reason}
         queue['candidates']=list(reviewed.values());queue['unchecked_due_to_limit']=max(0,len(candidates)-len(candidate_list));write('review-queue.json',queue)
         succeeded=sum(r['status']=='ok' for r in fetcher.reports);failed=len(fetcher.reports)-succeeded
-        catalog['monitor']={'last_run':utcnow(),'succeeded':succeeded,'failed':failed,'sources':reports,'review_candidates':len(reviewed),'deferred_candidates':queue['unchecked_due_to_limit'],'pages':fetcher.reports}
+        catalog['monitor']={'last_run':utcnow(),'succeeded':succeeded,'failed':failed,'sources':reports,'directories':directory_reports,'review_candidates':len(reviewed),'deferred_candidates':queue['unchecked_due_to_limit'],'pages':fetcher.reports}
         catalog['updated_at']=utcnow();write('journals.json',registry)
     base='https://wdeliang978.github.io/special-issue-radar/'
     catalog['journal_coverage']=coverage(journals,sources)

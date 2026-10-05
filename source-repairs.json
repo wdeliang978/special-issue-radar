@@ -1,0 +1,1004 @@
+{
+  "checked_at": "2026-10-05",
+  "repairs": [
+    {
+      "journal_id": "7908ba42bedf",
+      "old_url": "https://link.springer.com/journal/11858/collections",
+      "verified_url": "https://link.springer.com/journal/11858",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://link.springer.com/journal/11858",
+        "note": "Registered /collections endpoint returns 404; the current publisher homepage returns HTTP 200 with the exact journal name. Discover actual Journal updates links from the homepage rather than synthesizing /collections endpoints.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "40405e998f7f",
+      "old_url": "https://link.springer.com/journal/10798/collections",
+      "verified_url": "https://link.springer.com/journal/10798",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://link.springer.com/journal/10798",
+        "note": "Registered /collections endpoint returns 404; the current publisher homepage returns HTTP 200 with the exact journal name. Discover actual Journal updates links from the homepage rather than synthesizing /collections endpoints.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "bb0a22b61cfa",
+      "old_url": "https://link.springer.com/journal/12186/collections",
+      "verified_url": "https://link.springer.com/journal/12186",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://link.springer.com/journal/12186",
+        "note": "Registered /collections endpoint returns 404; the current publisher homepage returns HTTP 200 with the exact journal name. Discover actual Journal updates links from the homepage rather than synthesizing /collections endpoints.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "0803c5bd151b",
+      "old_url": "https://link.springer.com/journal/10775/collections",
+      "verified_url": "https://link.springer.com/journal/10775",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://link.springer.com/journal/10775",
+        "note": "Registered /collections endpoint returns 404; the current publisher homepage returns HTTP 200 with the exact journal name. Discover actual Journal updates links from the homepage rather than synthesizing /collections endpoints.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "51ea29b86cbc",
+      "old_url": "https://link.springer.com/journal/10899/collections",
+      "verified_url": "https://link.springer.com/journal/10899",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://link.springer.com/journal/10899",
+        "note": "Registered /collections endpoint returns 404; the current publisher homepage returns HTTP 200 with the exact journal name. Discover actual Journal updates links from the homepage rather than synthesizing /collections endpoints.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "7414130f35e4",
+      "old_url": "https://www.nature.com/npjscilearn/for-authors-and-referees/guide-to-authors/about",
+      "verified_url": "https://www.nature.com/npjscilearn/",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.nature.com/npjscilearn/",
+        "note": "Clean official journal homepage returned HTTP 200 and exact journal name following only normal publisher redirects. It links the journal collections hub and two actual collections. The stale nested guide-to-authors/about path loops. No session or challenge parameters are retained.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "bc20a057702c",
+      "old_url": "https://aom.org/amle/",
+      "verified_url": "https://www.aom.org/publications/journals/learning-and-education/",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.aom.org/publications/journals/learning-and-education/",
+        "note": "Old aom.org/amle/ officially redirects to this www.aom.org homepage; final HTTP 200 identifies Academy of Management Learning & Education (AMLE).",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "3899ab38f5ec",
+      "old_url": "https://www.nctm.org/publications/jrme.aspx",
+      "verified_url": "https://pubs.nctm.org/view/journals/jrme/jrme-overview.xml",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.nctm.org/publications/jrme.aspx",
+        "note": "Observed official redirect chain from old nctm.org/publications/jrme.aspx via /publications/journal-for-research-in-mathematics-education/ to pubs.nctm.org journal overview. Final ordinary request is HTTP 403. Correct the domain/address but retain access-restricted status.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "a85b52497ff5",
+      "old_url": "https://info.emeraldinsight.com/products/journals/journals.htm?id=ijshe",
+      "verified_url": "https://www.emerald.com/ijshe",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.emeraldgrouppublishing.com/journal/ijshe",
+        "note": "Official emeraldgrouppublishing.com/journal/ijshe redirects to the corresponding journal on www.emerald.com. Old Emerald hosts are retired or redirect. Normal script GET to the new homepage returns HTTP 403; journal-homepage identity for IJSHE and JEA also read through primary web retrieval. Do not count web-tool readability as script coverage.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "c244754bbfdd",
+      "old_url": "https://www.emeraldinsight.com/0957-8234.htm",
+      "verified_url": "https://www.emerald.com/jea",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.emeraldgrouppublishing.com/journal/jea",
+        "note": "Official emeraldgrouppublishing.com/journal/jea redirects to the corresponding journal on www.emerald.com. Old Emerald hosts are retired or redirect. Normal script GET to the new homepage returns HTTP 403; journal-homepage identity for IJSHE and JEA also read through primary web retrieval. Do not count web-tool readability as script coverage.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "da80fb7ec33b",
+      "old_url": "https://www.emeraldgrouppublishing.com/journal/et",
+      "verified_url": "https://www.emerald.com/et",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.emeraldgrouppublishing.com/journal/et",
+        "note": "Official emeraldgrouppublishing.com/journal/et redirects to the corresponding journal on www.emerald.com. Old Emerald hosts are retired or redirect. Normal script GET to the new homepage returns HTTP 403; journal-homepage identity for IJSHE and JEA also read through primary web retrieval. Do not count web-tool readability as script coverage.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "e92af3c5bf1c",
+      "old_url": "https://www.emeraldinsight.com/loi/jpcc",
+      "verified_url": "https://www.emerald.com/jpcc",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.emeraldgrouppublishing.com/journal/jpcc",
+        "note": "Official emeraldgrouppublishing.com/journal/jpcc redirects to the corresponding journal on www.emerald.com. Old Emerald hosts are retired or redirect. Normal script GET to the new homepage returns HTTP 403; journal-homepage identity for IJSHE and JEA also read through primary web retrieval. Do not count web-tool readability as script coverage.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "131c1c181c60",
+      "old_url": "https://www.emeraldgrouppublishing.com/journal/etpc",
+      "verified_url": "https://www.emerald.com/etpc",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.emeraldgrouppublishing.com/journal/etpc",
+        "note": "Official emeraldgrouppublishing.com/journal/etpc redirects to the corresponding journal on www.emerald.com. Old Emerald hosts are retired or redirect. Normal script GET to the new homepage returns HTTP 403; journal-homepage identity for IJSHE and JEA also read through primary web retrieval. Do not count web-tool readability as script coverage.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "483ab7426f6b",
+      "old_url": "https://www.emeraldgrouppublishing.com/journal/ijlls",
+      "verified_url": "https://www.emerald.com/ijlls",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.emeraldgrouppublishing.com/journal/ijlls",
+        "note": "Official emeraldgrouppublishing.com/journal/ijlls redirects to the corresponding journal on www.emerald.com. Old Emerald hosts are retired or redirect. Normal script GET to the new homepage returns HTTP 403; journal-homepage identity for IJSHE and JEA also read through primary web retrieval. Do not count web-tool readability as script coverage.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "f0abc1180d53",
+      "old_url": "https://www.elsevier.com/wps/find/journaldescription.cws_home/335/description",
+      "verified_url": "https://www.sciencedirect.com/science/journal/0346251X",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://shop.elsevier.com/journals/system/0346-251X",
+        "note": "The old Elsevier /wps/find URL now redirects to a generic journals catalog and cannot establish journal identity. Current official Elsevier Shop entry names the journal, states its ISSN, and its ScienceDirect link explicitly targets this ISSN-based journal URL. The official ScienceDirect target is access-restricted; no current CFP content is asserted.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "27b25072242e",
+      "old_url": "https://www.elsevier.com/wps/find/journaldescription.cws_home/620184/description",
+      "verified_url": "https://www.sciencedirect.com/science/journal/08852006",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://shop.elsevier.com/journals/early-childhood-research-quarterly/0885-2006",
+        "note": "The old Elsevier /wps/find URL now redirects to a generic journals catalog and cannot establish journal identity. Current official Elsevier Shop entry names the journal, states its ISSN, and its ScienceDirect link explicitly targets this ISSN-based journal URL. The official ScienceDirect target is access-restricted; no current CFP content is asserted.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "e0a6be19eaf6",
+      "old_url": "https://www.elsevier.com/wps/find/journaldescription.cws_home/622872/description",
+      "verified_url": "https://www.sciencedirect.com/science/journal/02724944",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://shop.elsevier.com/journals/journal-of-environmental-psychology/0272-4944",
+        "note": "The old Elsevier /wps/find URL now redirects to a generic journals catalog and cannot establish journal identity. Current official Elsevier Shop entry names the journal, states its ISSN, and its ScienceDirect link explicitly targets this ISSN-based journal URL. The official ScienceDirect target is access-restricted; no current CFP content is asserted.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "32e6cb55aefe",
+      "old_url": "https://www.copmadrid.org/webcopm/resource.do?recurso=6000",
+      "verified_url": "https://journals.copmadrid.org/psed/",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://journals.copmadrid.org/psed/",
+        "note": "Current official Colegio journal homepage gives the journal title, publisher, and ISSN 1135-755X / eISSN 2174-0526; HTTP 200. Replaces deleted resource.do page.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "83d9f76e1f59",
+      "old_url": "https://link.springer.com/journal/40037/collections",
+      "verified_url": "https://pmejournal.org/",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://pmejournal.org/",
+        "note": "Current official homepage identifies Perspectives on Medical Education and the Netherlands Association of Medical Education; Ubiquity Press footer and current articles. HTTP 200. Retired Springer /40037/collections endpoint is not current publishing site.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "2256b5e140b1",
+      "old_url": "https://unisapressjournals.co.za/index.php/EAC",
+      "verified_url": "https://unisapressjournals.co.za/index.php/EAC",
+      "action": "keep_url_fix_gzip_decoding",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://unisapressjournals.co.za/index.php/EAC",
+        "note": "Address is already correct. Response is gzip bytes despite absent Content-Encoding header; magic-byte gzip decompression reveals exact Education as Change title and readable OJS content. This is a decoder failure, not identity mismatch.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "eac42cff4c7d",
+      "old_url": "https://www.jcsdonline.org",
+      "verified_url": "https://www.press.jhu.edu/journals/journal-college-student-development",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.press.jhu.edu/journals/journal-college-student-development",
+        "note": "Current official Johns Hopkins University Press page names Journal of College Student Development, print ISSN 0897-5264 and online 1543-3382, and describes it as the official ACPA journal (primary web page retrieved). Ordinary GET is HTTP 403. Old www.jcsdonline.org returns unrelated pharmacological-probe content and must lose official-host trust.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "007a144bf21c",
+      "old_url": "https://ajp.aapt.org/",
+      "verified_url": "https://www.aapt.org/publications/ajp/index.cfm",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.aapt.org/publications/ajp/index.cfm",
+        "note": "Old ajp.aapt.org officially redirects to this current AAPT American Journal of Physics landing page; ordinary request returns HTTP 200.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "40140d7dc99e",
+      "old_url": "https://iopscience.org/ejp",
+      "verified_url": "https://iopscience.iop.org/journal/0143-0807",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://iopscience.org/ejp",
+        "note": "Old official iopscience.org/ejp first redirects to this journal URL. Ordinary requests then encounter a perfdrive CAPTCHA; do not follow or whitelist the challenge host. Address verified by publisher redirect, access remains restricted.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "d782aee79247",
+      "old_url": "https://www.frontiersin.org/psychology",
+      "verified_url": "https://www.frontiersin.org/journals/psychology",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.frontiersin.org/journals/psychology",
+        "note": "Current Frontiers homepage returns HTTP 200 and exact Frontiers in Psychology title; old /psychology route is obsolete.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "22c0f9f8ade0",
+      "old_url": "https://www.hogrefe.com/eu/journals/zfp/calls-for-papers",
+      "verified_url": "https://www.hogrefe.com/eu/journals/zfp/calls-for-papers",
+      "action": "keep_url_add_identity_alias",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.hogrefe.com/eu/journals/zfp/calls-for-papers",
+        "note": "Official CFP page already works over normal HTTP. It uses the title Zeitschrift für Psychologie, while the registry uses unaccented fur plus a Journal of Psychology suffix. Add explicit official title alias; do not weaken identity checking globally.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "05024abac5a1",
+      "old_url": "https://www.cpa.ca/membership/membershipbenefitsandservices/cpajournals/canadianpsychology",
+      "verified_url": "https://cpa.ca/membership/cpajournals/canadianpsychology/",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://cpa.ca/membership/cpajournals/canadianpsychology/",
+        "note": "Old www.cpa.ca/.../membershipbenefitsandservices/... official URL redirects to current non-www CPA page; HTTP 200 and bilingual journal title.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "d1817bf7408e",
+      "old_url": "https://www.cpa.ca/membership/membershipbenefitsandservices/cpajournals/CJBS",
+      "verified_url": "https://cpa.ca/membership/cpajournals/CJBS/",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://cpa.ca/membership/cpajournals/CJBS/",
+        "note": "Old www.cpa.ca/.../membershipbenefitsandservices/... official URL redirects to current non-www CPA page; HTTP 200 identifies Canadian Journal of Behavioural Science (CJBS).",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "132474a3f5a7",
+      "old_url": "https://www.psychologicabelgica.com/",
+      "verified_url": "https://psychologicabelgica.com/",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://psychologicabelgica.com/",
+        "note": "Official www.psychologicabelgica.com redirects to non-www host; HTTP 200 journal page and active announcements navigation.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "db5b61e040ec",
+      "old_url": "https://cspsych.psu.cas.cz",
+      "verified_url": "https://ceskoslovenskapsychologie.cz/index.php/csps",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://ceskoslovenskapsychologie.cz/index.php/csps/about",
+        "note": "Current official journal homepage and About page identify Československá psychologie with 2026 volume 70 and Institute of Psychology publishing relationship. Primary web retrieval confirms identity. Standard local TLS validation fails (issuer chain unavailable); do not disable TLS verification.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "7c25026c62f8",
+      "old_url": "https://universitaspsychologica.javeriana.edu.co/",
+      "verified_url": "https://revistas.javeriana.edu.co/index.php/revPsycho",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://revistas.javeriana.edu.co/index.php/revPsycho",
+        "note": "Current official Pontificia Universidad Javeriana OJS homepage returns HTTP 200 with exact Universitas Psychologica title, ISSNs 2011-2777 and 1657-9267, and 2026 volume 25. Old journal subdomain times out.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "8dad63785e18",
+      "old_url": "https://www.psychosomaticmedicine.org/",
+      "verified_url": "https://www.ovid.com/jnls/bsam",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.ovid.com/jnls/bsam",
+        "note": "Old psychosomaticmedicine.org official domain redirects to current Ovid journal homepage. HTTP 200 with exact Biopsychosocial Science and Medicine name and journal collections navigation.",
+        "method": "Direct standard HTTP response and/or current primary publisher page; details distinguished in note"
+      }
+    },
+    {
+      "journal_id": "39e75234d0ab",
+      "old_url": "https://abt.ucpress.edu",
+      "verified_url": "https://online.ucpress.edu/abt",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://online.ucpress.edu/abt",
+        "note": "Current official University of California Press page read by web retrieval names The American Biology Teacher, print ISSN 0002-7685 and eISSN 1938-4211. Old abt.ucpress.edu does not resolve. New homepage script GET is HTTP 403; do not count web readability as script coverage.",
+        "method": "Current official publisher page; normal HTTP probe"
+      }
+    },
+    {
+      "journal_id": "564b690de55f",
+      "old_url": "https://www.collabra.org",
+      "verified_url": "https://online.ucpress.edu/collabra",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://online.ucpress.edu/collabra",
+        "note": "Current official University of California Press page read by web retrieval identifies Collabra: Psychology, its SIPS relationship, eISSN 2474-7394 and Special Collections navigation. Old www.collabra.org does not resolve. Script GET is HTTP 403.",
+        "method": "Current official publisher page; normal HTTP probe"
+      }
+    },
+    {
+      "journal_id": "12e469ec6e65",
+      "old_url": "https://advan.physiology.org",
+      "verified_url": "https://journals.physiology.org/journal/advances",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.physiology.org/docs/default-source/tphysmag2019/the-physiologist-magazine-january-2025.pdf?sfvrsn=c8fed297_1",
+        "note": "American Physiological Society official magazine names Advances in Physiology Education and explicitly cites this journal URL. Current APS About page at https://journals.physiology.org/advances/about also confirms exact title and ISSNs 1043-4046 / 1522-1229 in primary web search. Script requests return HTTP 403; replacing old advan.physiology.org fixes DNS/connection failure but not access restriction.",
+        "method": "Publisher official PDF exact homepage citation plus current primary journal metadata, script GET"
+      }
+    },
+    {
+      "journal_id": "42a67e7db3e2",
+      "old_url": "https://www.doiserbia.nb.rs/Journal.aspx?ISSN=0048-5705",
+      "verified_url": "https://psihologijajournal.dps.org.rs/",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.dps.org.rs/en/psihologija-2025-05-12-instructions-for-authors-2025-pdf/",
+        "note": "Serbian Psychologists Society official page links this exact address as journal website. Both society page and journal site return normal HTTP 200. Keep DOI Serbia as optional archive, use current society journal site for discovery.",
+        "method": "Current official publisher page; normal HTTP probe"
+      }
+    },
+    {
+      "journal_id": "349d4e3eef88",
+      "old_url": "https://journals.lww.com/jcehp/Pages/default.aspx",
+      "verified_url": "https://www.ovid.com/jnls/jcehp",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.ovid.com/jnls/jcehp",
+        "note": "Current official Wolters Kluwer/Ovid journal page returns HTTP 200 with exact journal title, print ISSN 0894-1912, online ISSN 1554-558X, editor Simon Kitto and 2026 copyright. Old LWW address returns HTTP 403. This is a public publisher homepage, no access restriction bypass.",
+        "method": "Current official publisher page; normal HTTP probe"
+      }
+    },
+    {
+      "journal_id": "02e55609609e",
+      "old_url": "https://www.apa.org/journals/dhe/",
+      "verified_url": "https://www.apa.org/pubs/journals/dhe/index",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.apa.org/pubs/journals/dhe/index",
+        "note": "Current official APA metadata in primary web search identifies Journal of Diversity in Higher Education, ISSN 1938-8926 / eISSN 1938-8934, and lists its CFP navigation. Script GET returns an Incapsula challenge, not journal content. Address verified from official indexed metadata only; no CFP is verified or inferred.",
+        "method": "Official-domain page identity in primary web search; normal GET confirms access challenge"
+      }
+    },
+    {
+      "journal_id": "2937861c7b96",
+      "old_url": "https://www.apa.org/journals/pubs/npe/",
+      "verified_url": "https://www.apa.org/pubs/journals/npe/calls-for-papers",
+      "action": "replace_source_url",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.apa.org/pubs/journals/npe/calls-for-papers",
+        "note": "Current official APA journal-specific Calls for papers hub is present under /pubs/journals/npe/calls-for-papers. Official /pubs/journals/npe/about identifies the exact journal and ISSNs 1937-321X / 2151-318X. The old /journals/pubs/npe/ ordering is stale. All tested APA requests return an Incapsula challenge; primary search is used only to verify the official entry URL, not confirm current CFP contents.",
+        "method": "Official-domain current page metadata in primary web search; normal GET confirms access challenge"
+      }
+    },
+    {
+      "journal_id": "c9a6be8a16f2",
+      "old_url": "https://www.sagepub.com/journals/Journal201854/title",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/review-of-educational-research-201854",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 201854 present in official publisher sitemap; current page title separately verified."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "cf39d485cf6e",
+      "old_url": "https://us.sagepub.com/en-us/nam/journal-of-educational-computing-research/journal202399",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-educational-computing-research-202399",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 202399 present in official publisher sitemap; current page title separately verified."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "0232b8a4401a",
+      "old_url": "https://www.sagepub.com/journals/Journal201856/title",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/educational-researcher-201856",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 201856 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "60a3bd0e4aa2",
+      "old_url": "https://www.sagepub.com/journals/Journal200854/title",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/educational-administration-quarterly-200854",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 200854 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "2fea95bf0f91",
+      "old_url": "https://www.sagepub.com/journals/Journal200888/title",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/educational-management-administration-leadership-200888",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 200888 present in official publisher sitemap; current page title separately verified."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "b54c88b7bcdf",
+      "old_url": "https://www.sagepub.com/journals/Journal201851/title",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/american-educational-research-journal-201851",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 201851 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "a9ad8dd53b00",
+      "old_url": "https://www.sagepub.com/journals/Journal200962/title",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/european-physical-education-review-200962",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 200962 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "a7cf94925b7f",
+      "old_url": "https://www.sagepub.com/journals/Journal201855/title",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/review-of-research-in-education-201855",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 201855 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "0fd336e8f3bd",
+      "old_url": "https://www.sagepub.com/journals/Journal201378/title",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-studies-in-international-education-201378",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 201378 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "b6803816a719",
+      "old_url": "https://www.sagepub.com/journals/Journal201853/title",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-educational-and-behavioral-statistics-201853",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 201853 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "b334d0221565",
+      "old_url": "https://www.sagepub.com/journals/Journal200963/title",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/urban-education-200963",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 200963 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "bb257314153b",
+      "old_url": "https://www.uk.sagepub.com/journals/Journal201828/title",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/second-language-research-201828",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 201828 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "8d8599790593",
+      "old_url": "https://www.sagepub.com/journals/Journal201777/title",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/health-education-journal-201777",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 201777 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "f4bd024edd77",
+      "old_url": "https://www.sagepub.com/journals/Journal200765/title",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/adult-education-quarterly-200765",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 200765 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "3ac8936cc47a",
+      "old_url": "https://www.sagepub.com/journals/Journal201285/title",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-early-childhood-literacy-201285",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 201285 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "e8213bd0bbdd",
+      "old_url": "https://www.sagepub.com/journals/Journal200780/title",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/education-and-urban-society-200780",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 200780 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "054511c80832",
+      "old_url": "https://us.sagepub.com/en-us/nam/australasian-journal-of-early-childhood/journal203621",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/australasian-journal-of-early-childhood-203621",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 203621 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "2c25c53c2f7b",
+      "old_url": "https://us.sagepub.com/en-us/nam/phi-delta-kappan/journal202327",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/phi-delta-kappan-202327",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 202327 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "10f0a5fbeca7",
+      "old_url": "https://www.sagepub.com/journals/Journal201965/title",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/psychological-science-in-the-public-interest-201965",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 201965 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "005e49c9bed3",
+      "old_url": "https://us.sagepub.com/en-us/nam/advances-in-methods-and-practices-in-psychological-science/journal203415",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/advances-in-methods-and-practices-in-psychological-science-203415",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 203415 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "b214e11596c0",
+      "old_url": "https://www.sagepub.com/journals/Journal201964/title",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/perspectives-on-psychological-science-201964",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 201964 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "22da173f9a3d",
+      "old_url": "https://www.sagepub.com/journals/Journal200783/title",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/environment-and-behavior-200783",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 200783 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "a45f8a7d1c88",
+      "old_url": "https://www.sagepub.com/journals/Journal202010/title",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/psychology-of-women-quarterly-202010",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 202010 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "4b361c6285ea",
+      "old_url": "https://us.sagepub.com/en-us/nam/journal-of-pacific-rim-psychology/journal203703",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-pacific-rim-psychology-203703",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 203703 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "9e3fca3f5b82",
+      "old_url": "https://sagepub.com/en-us/nam/discourse-society/journal200873",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/discourse-society-200873",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 200873 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "4e82a4e82b82",
+      "old_url": "https://us.sagepub.com/en-us/nam/archive-for-the-psychology-of-religion/journal203533",
+      "verified_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/archive-for-the-psychology-of-religion-203533",
+      "action": "catalogue_address_repair",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.sagepub.com/sitemap/sitemap.gz",
+        "note": "stable Sage product ID 203533 present in official publisher sitemap; individual page title not checked."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "7fc6cdcf5633",
+      "old_url": "https://onlinelibrary.wiley.com/journal/14678535",
+      "verified_url": "https://www.wiley.com/en-us/journal-finder/journal/bjet",
+      "action": "add_catalogue_alternate",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.wiley.com/en-us/journal-finder/journal/bjet",
+        "note": "Official Journal Finder page title matches registry journal; outgoing official WOL journal URL contains the registry electronic ISSN without hyphen."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "2a7a32963234",
+      "old_url": "https://onlinelibrary.wiley.com/journal/13652729",
+      "verified_url": "https://www.wiley.com/en-us/journal-finder/journal/jcal",
+      "action": "add_catalogue_alternate",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.wiley.com/en-us/journal-finder/journal/jcal",
+        "note": "Official Journal Finder page title matches registry journal; outgoing official WOL journal URL contains the registry electronic ISSN without hyphen."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "00f6b1458795",
+      "old_url": "https://onlinelibrary.wiley.com/journal/13652575",
+      "verified_url": "https://www.wiley.com/en-us/journal-finder/journal/isj",
+      "action": "add_catalogue_alternate",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.wiley.com/en-us/journal-finder/journal/isj",
+        "note": "Official Journal Finder page title matches registry journal; outgoing official WOL journal URL contains the registry electronic ISSN without hyphen."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "97123446893c",
+      "old_url": "https://onlinelibrary.wiley.com/journal/14653435",
+      "verified_url": "https://www.wiley.com/en-us/journal-finder/journal/ejed",
+      "action": "add_catalogue_alternate",
+      "purpose": "identity_only",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.wiley.com/en-us/journal-finder/journal/ejed",
+        "note": "Official Journal Finder page title matches registry journal; outgoing official WOL journal URL contains the registry electronic ISSN without hyphen."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "c7fd6ea0760a",
+      "old_url": "https://us.sagepub.com/en-us/nam/journal/aera-open",
+      "verified_url": "https://journals.sagepub.com/home/ero",
+      "action": "replace_wrong_or_retired_entry",
+      "purpose": "discovery",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://journals.sagepub.com/home/ero",
+        "note": "Title-specific official publisher page; journal identity matched the registry. Automated access status is reported separately."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "b35e11dab26c",
+      "old_url": "https://journals.sagepub.com/home/smh",
+      "verified_url": "https://journals.sagepub.com/home/TES",
+      "action": "replace_wrong_or_retired_entry",
+      "purpose": "discovery",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://journals.sagepub.com/home/TES",
+        "note": "Title-specific official publisher page; journal identity matched the registry. Automated access status is reported separately."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "f34953e371af",
+      "old_url": "https://www.rsc.org/Education/CERP/",
+      "verified_url": "https://www.rsc.org/publishing/journals/chemistry-education-research-and-practice",
+      "action": "replace_wrong_or_retired_entry",
+      "purpose": "discovery",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.rsc.org/publishing/journals/chemistry-education-research-and-practice",
+        "note": "Title-specific official publisher page; journal identity matched the registry. Automated access status is reported separately."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "6c8c95df4272",
+      "old_url": "https://us.sagepub.com/en-us/nam/journal/european-educational-research-journal",
+      "verified_url": "https://journals.sagepub.com/home/eer",
+      "action": "replace_wrong_or_retired_entry",
+      "purpose": "discovery",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://journals.sagepub.com/home/eer",
+        "note": "Title-specific official publisher page; journal identity matched the registry. Automated access status is reported separately."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "655005e2eb99",
+      "old_url": "https://ashpublications.org/hematology",
+      "verified_url": "https://ashpublications.org/hematology",
+      "action": "verified_title_alias",
+      "purpose": "discovery",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://ashpublications.org/hematology",
+        "note": "Title-specific official publisher page; journal identity matched the registry. Automated access status is reported separately."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "bd8a30df300d",
+      "old_url": "https://us.sagepub.com/en-us/nam/journal/current-directions-psychological-science",
+      "verified_url": "https://journals.sagepub.com/home/cdp",
+      "action": "replace_wrong_or_retired_entry",
+      "purpose": "discovery",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://journals.sagepub.com/home/cdp",
+        "note": "Title-specific official publisher page; journal identity matched the registry. Automated access status is reported separately."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "9fcb37e1f316",
+      "old_url": "https://us.sagepub.com/en-us/nam/journal/emotion-review",
+      "verified_url": "https://journals.sagepub.com/home/emr",
+      "action": "replace_wrong_or_retired_entry",
+      "purpose": "discovery",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://journals.sagepub.com/home/emr",
+        "note": "Title-specific official publisher page; journal identity matched the registry. Automated access status is reported separately."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "33ba729cdd52",
+      "old_url": "https://www.apa.org/journals/sgd",
+      "verified_url": "https://www.apa.org/pubs/journals/sgd/index",
+      "action": "replace_wrong_or_retired_entry",
+      "purpose": "discovery",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://www.apa.org/pubs/journals/sgd/index",
+        "note": "Title-specific official publisher page; journal identity matched the registry. Automated access status is reported separately."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "abf518c7c176",
+      "old_url": "https://us.sagepub.com/en-us/nam/journal/empirical-studies-arts",
+      "verified_url": "https://journals.sagepub.com/home/art",
+      "action": "replace_wrong_or_retired_entry",
+      "purpose": "discovery",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://journals.sagepub.com/home/art",
+        "note": "Title-specific official publisher page; journal identity matched the registry. Automated access status is reported separately."
+      },
+      "cfp_coverage_restored": false
+    },
+    {
+      "journal_id": "1486e8e94f2e",
+      "old_url": "https://us.sagepub.com/en-us/nam/journal/omega-journal-death-and-dying",
+      "verified_url": "https://journals.sagepub.com/home/ome",
+      "action": "replace_wrong_or_retired_entry",
+      "purpose": "discovery",
+      "verified_on": "2026-10-05",
+      "official_evidence": {
+        "url": "https://journals.sagepub.com/home/ome",
+        "note": "Title-specific official publisher page; journal identity matched the registry. Automated access status is reported separately."
+      },
+      "cfp_coverage_restored": false
+    }
+  ],
+  "removed_hosts": [
+    {
+      "hosts": [
+        "jcsdonline.org",
+        "www.jcsdonline.org"
+      ],
+      "journal_id": "eac42cff4c7d",
+      "reason": "2026-10-05 ordinary HTTP 200 returns unrelated pharmacological-probe articles; no journal identity. Replace with current official JHU Press source, preserve journal registry record.",
+      "observed_title": "Mechanistic Signatures of Targeted Pharmacological Probes",
+      "evidence_url": "https://www.jcsdonline.org"
+    }
+  ],
+  "validation": {
+    "checked_at": "2026-10-05T13:59:11+00:00",
+    "previous_unavailable": 347,
+    "journals": 441,
+    "journal_pages_readable": 164,
+    "official_directory_supplement": 129,
+    "still_unavailable": 148,
+    "new_verified_calls": 21,
+    "records": 70,
+    "open_or_upcoming": 69
+  }
+}
