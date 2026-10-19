@@ -494,7 +494,7 @@
       ],
       "evidence_url": "https://www.j-ets.net/journal_info/indexing",
       "evidence_excerpt": "Social Science Citation Index",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "verified": true,
       "journal_url": "https://www.j-ets.net/",
       "identity_aliases": [
@@ -1550,7 +1550,7 @@
         "SSCI"
       ],
       "verified": true,
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "evidence_url": "https://ajet.org.au/index.php/AJET",
       "evidence_type": "official",
       "journal_url": "https://ajet.org.au/index.php/AJET",
@@ -2404,7 +2404,7 @@
         "SSCI"
       ],
       "verified": true,
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "evidence_url": "https://www.irrodl.org/",
       "evidence_type": "official",
       "journal_url": "https://www.irrodl.org/",
@@ -5910,7 +5910,7 @@
         "SCIE"
       ],
       "verified": true,
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "evidence_url": "https://www.rsc.org/publishing/journals/chemistry-education-research-and-practice",
       "evidence_type": "official",
       "journal_url": "https://www.rsc.org/publishing/journals/chemistry-education-research-and-practice",
@@ -6990,9 +6990,9 @@
         "SSCI"
       ],
       "verified": true,
-      "checked_at": "2026-10-05",
-      "evidence_url": null,
-      "evidence_type": "user_jcr",
+      "checked_at": "2026-10-19",
+      "evidence_url": "https://revistaseug.ugr.es/index.php/portalin/en",
+      "evidence_type": "official",
       "journal_url": "https://revistaseug.ugr.es/index.php/portalin/en",
       "aliases": [
         "Porta Linguarum Revista Interuniversitaria de Didáctica de las Lenguas Extranjeras"

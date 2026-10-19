@@ -2,6 +2,8 @@
   "sent": [
     "022f3088f5be16b5598f2290",
     "035ca3da7b4b0f1a4a3157cb",
+    "0412d892752a8e1b2b909700",
+    "096d2f8d4288503fa1a39695",
     "09bbdd4a9ae70abed67eb4b6",
     "0b9fbd1475a0d6475bdd0203",
     "0d4c7a150356f56a5c0f7629",
@@ -37,6 +39,7 @@
     "677630d9eac28c7a7a338c2d",
     "68261ec7baf15367dd559f4a",
     "6882268229e7669ab6941286",
+    "68b0dbe15e070fd289d3e585",
     "6a1e8ce51dade1eca107ba01",
     "6b8c3408b9c678c41ca0183d",
     "6bc1d0c7b17eceb10a684c1d",
@@ -46,6 +49,7 @@
     "6d9c98d9fc9210594bedbd39",
     "6de2eba4dfaf91c8320698c7",
     "714ee9926069fefc7d5691ff",
+    "72e9dedd9090ff64f1021878",
     "7df3ceea93d6a568b69bda78",
     "8088e4cef5bab1ba9f1d807d",
     "8227f5d7098baecdafd73633",
@@ -55,10 +59,12 @@
     "8d8205c257ac6989058afe25",
     "91a84cccd1a9c007d1e3a26f",
     "93796b31a016ab39ff21395d",
+    "9a09a6e95d6a84b50fdabf62",
     "9c57d3b96392f3f132422021",
     "9c81a7817d26b062a20192e8",
     "9fc72a74e500e6edb8cce010",
     "a65ce2c1a93222ddfe9e840d",
+    "a88352fdb816221005c99897",
     "a99bb737dc9c4a3cb7db485f",
     "ad03e70362e48eef6620c140",
     "b02efe39976bafe0d118890c",
@@ -72,6 +78,7 @@
     "bc047129e22f185fa3813222",
     "bd9599b0c742da1eca5d48cd",
     "bde15d39cbd75d7ecff2c8f5",
+    "bf76b0e8547864f82016d412",
     "c652685ee5d90452547a588b",
     "c7d9f29ddfe92e0ba335cd9d",
     "d5257825caabcaba54015e5b",
@@ -82,6 +89,7 @@
     "e1d532a473b7026f5c6a52e1",
     "e6ae269fe9e20bbf4a2ec273",
     "e7303dece7d050520af4b8f5",
+    "e777c7b43fcfb1e0cc0e8b23",
     "ea392b6322c1ead80dca3e22",
     "eb0538f57d4d845dfd68f373",
     "ebdac1629981350d27aca75b",
@@ -89,5 +97,5 @@
     "faf4f2197860e8b6e6afff26"
   ],
   "pending": [],
-  "last_success": "2026-10-12T14:01:45+00:00"
+  "last_success": "2026-10-19T14:14:41+00:00"
 }

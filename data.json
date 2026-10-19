@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-12T14:01:44+00:00",
+  "updated_at": "2026-10-19T14:14:40+00:00",
   "records": [
     {
       "id": "sn-djhaaaccge",
@@ -939,7 +939,7 @@
       "indexing_status": "verified_publisher",
       "indexing_evidence_excerpt": "Social Sciences Citation Index",
       "status": "open",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "id": "tf-jrte-ethics-generative-ai",
       "title": "Ethics, Responsibility, and Generative AI in Educational Research",
       "journal": "Journal of Research on Technology in Education",
@@ -1208,7 +1208,7 @@
       "indexing_verified": true,
       "indexing_evidence_url": "https://www.tandfonline.com/journals/cdie20/about-this-journal",
       "indexing_checked_at": "2026-10-05",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "first_seen": "2026-10-05",
       "review_required": false,
       "status": "open",
@@ -1250,7 +1250,7 @@
       ],
       "indexing_verified": true,
       "indexing_evidence_url": "https://www.j-ets.net/journal_info/indexing",
-      "indexing_checked_at": "2026-10-12",
+      "indexing_checked_at": "2026-10-19",
       "checked_at": "2026-10-05",
       "first_seen": "2026-10-05",
       "review_required": false,
@@ -1292,7 +1292,7 @@
       ],
       "indexing_verified": true,
       "indexing_evidence_url": "https://www.j-ets.net/journal_info/indexing",
-      "indexing_checked_at": "2026-10-12",
+      "indexing_checked_at": "2026-10-19",
       "checked_at": "2026-10-05",
       "first_seen": "2026-10-05",
       "review_required": false,
@@ -1840,7 +1840,7 @@
         "Bryan Weisheng Chiu"
       ],
       "status": "open",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "first_seen": "2026-10-05",
       "review_required": false,
       "abstract_requirement": "unknown",
@@ -1928,7 +1928,7 @@
         "Michael Bošnjak"
       ],
       "status": "open",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "first_seen": "2026-10-05",
       "review_required": false,
       "abstract_requirement": "required",
@@ -2147,7 +2147,7 @@
       "indexing_evidence_url": null,
       "indexing_checked_at": "2026-10-05",
       "status": "open",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "first_seen": "2026-10-05",
       "review_required": false,
       "discovery_source_url": "https://www.aom.org/publications/journals/learning-and-education/",
@@ -2295,7 +2295,7 @@
       "indexing_evidence_url": null,
       "indexing_checked_at": "2026-10-05",
       "status": "open",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "first_seen": "2026-10-05",
       "review_required": false,
       "discovery_source_url": "https://authorservices.taylorandfrancis.com/call-for-papers/",
@@ -2342,7 +2342,7 @@
       "indexing_evidence_url": null,
       "indexing_checked_at": "2026-10-05",
       "status": "open",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "first_seen": "2026-10-05",
       "review_required": false,
       "discovery_source_url": "https://authorservices.taylorandfrancis.com/call-for-papers/",
@@ -2391,7 +2391,7 @@
       "indexing_evidence_url": null,
       "indexing_checked_at": "2026-10-05",
       "status": "open",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "first_seen": "2026-10-05",
       "review_required": false,
       "discovery_source_url": "https://authorservices.taylorandfrancis.com/call-for-papers/",
@@ -2438,7 +2438,7 @@
       "indexing_evidence_url": null,
       "indexing_checked_at": "2026-10-05",
       "status": "open",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "first_seen": "2026-10-05",
       "review_required": false,
       "discovery_source_url": "https://authorservices.taylorandfrancis.com/call-for-papers/",
@@ -2487,7 +2487,7 @@
       "indexing_evidence_url": null,
       "indexing_checked_at": "2026-10-05",
       "status": "open",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "first_seen": "2026-10-05",
       "review_required": false,
       "discovery_source_url": "https://authorservices.taylorandfrancis.com/call-for-papers/",
@@ -2540,7 +2540,7 @@
       "indexing_evidence_url": null,
       "indexing_checked_at": "2026-10-05",
       "status": "open",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "first_seen": "2026-10-05",
       "review_required": false,
       "discovery_source_url": "https://authorservices.taylorandfrancis.com/call-for-papers/",
@@ -2587,7 +2587,7 @@
       "indexing_evidence_url": null,
       "indexing_checked_at": "2026-10-05",
       "status": "open",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "first_seen": "2026-10-05",
       "review_required": false,
       "discovery_source_url": "https://authorservices.taylorandfrancis.com/call-for-papers/",
@@ -2634,7 +2634,7 @@
       "indexing_evidence_url": null,
       "indexing_checked_at": "2026-10-05",
       "status": "open",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "first_seen": "2026-10-05",
       "review_required": false,
       "discovery_source_url": "https://authorservices.taylorandfrancis.com/call-for-papers/",
@@ -2681,7 +2681,7 @@
       "indexing_evidence_url": null,
       "indexing_checked_at": "2026-10-05",
       "status": "open",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "first_seen": "2026-10-05",
       "review_required": false,
       "discovery_source_url": "https://authorservices.taylorandfrancis.com/call-for-papers/",
@@ -2824,7 +2824,7 @@
       "indexing_evidence_url": null,
       "indexing_checked_at": "2026-10-05",
       "status": "open",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "first_seen": "2026-10-05",
       "review_required": false,
       "discovery_source_url": "https://authorservices.taylorandfrancis.com/call-for-papers/",
@@ -2871,7 +2871,7 @@
       "indexing_evidence_url": null,
       "indexing_checked_at": "2026-10-05",
       "status": "open",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "first_seen": "2026-10-05",
       "review_required": false,
       "discovery_source_url": "https://authorservices.taylorandfrancis.com/call-for-papers/",
@@ -2920,7 +2920,7 @@
       "indexing_evidence_url": null,
       "indexing_checked_at": "2026-10-05",
       "status": "open",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "first_seen": "2026-10-12",
       "review_required": false,
       "discovery_source_url": "https://authorservices.taylorandfrancis.com/call-for-papers/",
@@ -2938,6 +2938,55 @@
             "row": 71,
             "edition": "SSCI",
             "category": "PSYCHOLOGY, MULTIDISCIPLINARY"
+          }
+        ]
+      }
+    },
+    {
+      "id": "auto-b79b7fa0aed15824",
+      "title": "Language and Literacy in Refugee Education: An Asia-Pacific Perspective",
+      "journal": "Language and Education",
+      "journal_id": "db02e95a9028",
+      "publisher": "Taylor & Francis",
+      "cfp_url": "https://callforpapers.taylorandfrancis.com/special_issues/language-and-literacy-in-refugee-education-an-asia-pacific-perspective",
+      "abstract_deadline": "2027-01-05",
+      "abstract_required": true,
+      "full_paper_deadline": "2027-05-30",
+      "deadline_notes_zh": "自动识别的官方征稿。请在投稿前查看原文中关于格式、资格及截止时区的要求。",
+      "topics": [
+        "教育学",
+        "Language Education"
+      ],
+      "keywords": [
+        "教育学",
+        "Language Education"
+      ],
+      "summary_zh": "新发现的官方专题征稿。点击查看官方页面了解完整研究范围与投稿要求。",
+      "indexing": [
+        "SSCI"
+      ],
+      "indexing_verified": true,
+      "indexing_evidence_url": null,
+      "indexing_checked_at": "2026-10-05",
+      "status": "open",
+      "checked_at": "2026-10-19",
+      "first_seen": "2026-10-19",
+      "review_required": false,
+      "discovery_source_url": "https://authorservices.taylorandfrancis.com/call-for-papers/",
+      "source_format": "publisher-api",
+      "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/66032?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
+      "indexing_evidence_type": "user_jcr",
+      "indexing_provenance": {
+        "kind": "user_jcr",
+        "file": "SSCI_JCR_JournalResults_06_2026.xlsx",
+        "period": "2026-06",
+        "imported_at": "2026-10-05",
+        "rows": [
+          {
+            "sheet": "education-ssci",
+            "row": 90,
+            "edition": "SSCI",
+            "category": "EDUCATION & EDUCATIONAL RESEARCH"
           }
         ]
       }
@@ -6752,9 +6801,9 @@
     }
   ],
   "monitor": {
-    "last_run": "2026-10-12T14:01:44+00:00",
-    "succeeded": 242,
-    "failed": 971,
+    "last_run": "2026-10-19T14:14:40+00:00",
+    "succeeded": 239,
+    "failed": 973,
     "sources": [
       {
         "id": "elsevier",
@@ -7005,7 +7054,7 @@
         "purpose": "discovery",
         "final_url": "https://www.j-ets.net",
         "status": "ok",
-        "candidates": 0,
+        "candidates": 1,
         "error": null,
         "error_code": null
       },
@@ -8983,11 +9032,11 @@
         "journal_id": "0ce0f998f27e",
         "url": "https://revistaseug.ugr.es/index.php/portalin/en",
         "purpose": "discovery",
-        "final_url": null,
-        "status": "error",
+        "final_url": "https://revistaseug.ugr.es/index.php/portalin/en",
+        "status": "ok",
         "candidates": 0,
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_",
-        "error_code": "robots_unavailable"
+        "error": null,
+        "error_code": null
       },
       {
         "id": "journal-a9309525c441",
@@ -10337,10 +10386,10 @@
         "url": "https://mededu.jmir.org",
         "purpose": "discovery",
         "final_url": "https://mededu.jmir.org",
-        "status": "ok",
+        "status": "error",
         "candidates": 0,
-        "error": null,
-        "error_code": null
+        "error": "AccessError: Page content too short; JavaScript or another entry may be required",
+        "error_code": "dynamic_content"
       },
       {
         "id": "journal-5b5186239caf",
@@ -11625,7 +11674,7 @@
         "purpose": "discovery",
         "final_url": "https://www.apa.org/pubs/journals/ppm",
         "status": "ok",
-        "candidates": 1,
+        "candidates": 2,
         "error": null,
         "error_code": null
       },
@@ -12297,7 +12346,7 @@
         "final_url": null,
         "status": "error",
         "candidates": 0,
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: <urlopen error _ssl.c:993: The handshake operation timed out>",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_",
         "error_code": "robots_unavailable"
       },
       {
@@ -12437,11 +12486,11 @@
         "journal_id": "e81f72487dcd",
         "url": "https://www.press.uillinois.edu/journals/ajp.html",
         "purpose": "discovery",
-        "final_url": "https://www.press.uillinois.edu/journals/?id=ajp",
-        "status": "ok",
-        "candidates": 1,
-        "error": null,
-        "error_code": null
+        "final_url": null,
+        "status": "error",
+        "candidates": 0,
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: <urlopen error timed out>",
+        "error_code": "robots_unavailable"
       },
       {
         "id": "journal-7c25026c62f8",
@@ -12593,7 +12642,7 @@
         "purpose": "discovery",
         "final_url": "https://www.j-ets.net/announce",
         "status": "ok",
-        "candidates": 0,
+        "candidates": 1,
         "error": null,
         "error_code": null
       },
@@ -12912,7 +12961,7 @@
         "purpose": "discovery",
         "final_url": "https://www.apa.org/pubs/journals/ppm/calls-for-papers",
         "status": "ok",
-        "candidates": 0,
+        "candidates": 1,
         "error": null,
         "error_code": null
       },
@@ -13115,17 +13164,6 @@
         "error_code": null
       },
       {
-        "id": "journal-e81f72487dcd-hub-ec31b2e6",
-        "journal_id": "e81f72487dcd",
-        "url": "https://www.press.uillinois.edu/journals?id=ajp",
-        "purpose": "discovery",
-        "final_url": "https://www.press.uillinois.edu/journals/?id=ajp",
-        "status": "ok",
-        "candidates": 1,
-        "error": null,
-        "error_code": null
-      },
-      {
         "id": "journal-8dad63785e18-hub-e0004b7c",
         "journal_id": "8dad63785e18",
         "url": "https://www.ovid.com/jnls/bsam/collections",
@@ -13153,7 +13191,7 @@
         "id": "taylor-francis-public-directory",
         "publisher": "Taylor & Francis",
         "url": "https://authorservices.taylorandfrancis.com/call-for-papers/",
-        "checked_at": "2026-10-12T13:49:07+00:00",
+        "checked_at": "2026-10-19T14:01:44+00:00",
         "status": "ok",
         "complete": true,
         "scope_journal_ids": [
@@ -13288,10 +13326,12 @@
           "27a48a0adbd7",
           "7c28e69e2236"
         ],
-        "items": 969,
-        "pages": 10,
-        "candidates": 32,
+        "items": 987,
+        "pages": 11,
+        "candidates": 33,
         "journal_counts": {
+          "db02e95a9028": 1,
+          "e245772f08e2": 1,
           "962a329e00f4": 1,
           "2945252fa9fa": 3,
           "16c28873ae39": 2,
@@ -13317,7 +13357,6 @@
           "6169a3a28951": 1,
           "214f7703dcb5": 1,
           "165c5e32ec48": 1,
-          "db02e95a9028": 1,
           "beea388c3354": 1,
           "8be2f33c3b65": 3,
           "20e4ca9c912b": 3
@@ -13327,21 +13366,21 @@
         "endpoints": [
           {
             "type": "special_issues",
-            "expected": 569,
-            "read": 569,
+            "expected": 576,
+            "read": 576,
             "pages": 6
           },
           {
             "type": "article_collections",
-            "expected": 400,
-            "read": 400,
-            "pages": 4
+            "expected": 411,
+            "read": 411,
+            "pages": 5
           }
         ]
       }
     ],
-    "review_candidates": 618,
-    "deferred_candidates": 219,
+    "review_candidates": 621,
+    "deferred_candidates": 222,
     "pages": [
       {
         "url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues?per_page=100&page=1&_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
@@ -13414,21 +13453,28 @@
         "format": "publisher-json"
       },
       {
-        "url": "https://anthrosource.onlinelibrary.wiley.com/journal/15481352",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
-      },
-      {
-        "url": "https://ascelibrary.org/journal/jceecd",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
+        "url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/article_collections?per_page=100&page=5&_fields=id%2Clink%2Carticle_collections._article_collections_journal_select%2Carticle_collections._article_collections_journal_title%2Carticle_collections._article_collections_title%2Carticle_collections._article_collections_copy%2Carticle_collections._article_collections_submissions_instructions%2Carticle_collections._article_collections_deadline%2Carticle_collections._article_collections_deadline2",
+        "status": "ok",
+        "error": null,
+        "error_code": null,
+        "format": "publisher-json"
       },
       {
         "url": "https://academic.oup.com/abm",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden",
+        "error_code": "access_denied"
+      },
+      {
+        "url": "https://academic.oup.com/academicmedicine",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden",
+        "error_code": "access_denied"
+      },
+      {
+        "url": "https://anthrosource.onlinelibrary.wiley.com/journal/15481352",
         "final_url": null,
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -13442,25 +13488,11 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://academic.oup.com/academicmedicine",
+        "url": "https://ascelibrary.org/journal/jceecd",
         "final_url": null,
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
         "error_code": "access_denied"
-      },
-      {
-        "url": "https://bpspsychub.onlinelibrary.wiley.com/journal/20448295",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
-      },
-      {
-        "url": "https://ceskoslovenskapsychologie.cz/index.php/csps",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_",
-        "error_code": "robots_unavailable"
       },
       {
         "url": "https://academic.oup.com/psychsocgerontology",
@@ -13477,11 +13509,32 @@
         "error_code": "access_denied"
       },
       {
+        "url": "https://ceskoslovenskapsychologie.cz/index.php/csps",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://bpspsychub.onlinelibrary.wiley.com/journal/20448295",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden",
+        "error_code": "access_denied"
+      },
+      {
         "url": "https://ashpublications.org/hematology",
         "final_url": null,
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
         "error_code": "access_denied"
+      },
+      {
+        "url": "https://ajet.org.au/index.php/AJET",
+        "final_url": "https://ajet.org.au/index.php/AJET",
+        "status": "ok",
+        "error": null,
+        "error_code": null
       },
       {
         "url": "https://direct.mit.edu/edfp",
@@ -13512,11 +13565,11 @@
         "error_code": "redirect_domain"
       },
       {
-        "url": "https://dergipark.org.tr/tr/pub/turkpsikoloji",
-        "final_url": "https://dergipark.org.tr/tr/pub/turkpsikoloji",
-        "status": "ok",
-        "error": null,
-        "error_code": null
+        "url": "https://anthrosource.onlinelibrary.wiley.com/journal/15481492",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden",
+        "error_code": "access_denied"
       },
       {
         "url": "https://eltj.oxfordjournals.org",
@@ -13547,20 +13600,6 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://ajet.org.au/index.php/AJET",
-        "final_url": "https://ajet.org.au/index.php/AJET",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://anthrosource.onlinelibrary.wiley.com/journal/15481492",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
-      },
-      {
         "url": "https://authorservices.taylorandfrancis.com/call-for-papers",
         "final_url": "https://authorservices.taylorandfrancis.com/call-for-papers/",
         "status": "ok",
@@ -13568,8 +13607,22 @@
         "error_code": null
       },
       {
-        "url": "https://ijsp-online.com",
-        "final_url": "https://ijsp-online.com",
+        "url": "https://ieee-edusociety.org/publication/about-publications/tlt",
+        "final_url": "https://ieee-edusociety.org/publication/about-publications/tlt",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://ieee-edusociety.org/publication/about-publications/toe",
+        "final_url": "https://ieee-edusociety.org/publication/about-publications/toe",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://dergipark.org.tr/tr/pub/turkpsikoloji",
+        "final_url": "https://dergipark.org.tr/tr/pub/turkpsikoloji",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -13596,6 +13649,20 @@
         "error_code": "access_denied"
       },
       {
+        "url": "https://ijsp-online.com",
+        "final_url": "https://ijsp-online.com",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://in.sagepub.com/en-in/sas/journal/organizational-psychology-review",
+        "final_url": "https://in.sagepub.com/en-in/sas/journal/organizational-psychology-review",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
         "url": "https://cpa.ca/membership/cpajournals/CJBS",
         "final_url": "https://cpa.ca/membership/cpajournals/CJBS/",
         "status": "ok",
@@ -13605,27 +13672,6 @@
       {
         "url": "https://cpa.ca/membership/cpajournals/canadianpsychology",
         "final_url": "https://cpa.ca/membership/cpajournals/canadianpsychology/",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://callforpapers.taylorandfrancis.com/article_collections/australian-journal-of-psychology-pleasure-desire-and-sexual-well-being-across-diverse-communities",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 404: Not Found",
-        "error_code": "not_found"
-      },
-      {
-        "url": "https://ieee-edusociety.org/publication/about-publications/tlt",
-        "final_url": "https://ieee-edusociety.org/publication/about-publications/tlt",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://ieee-edusociety.org/publication/about-publications/toe",
-        "final_url": "https://ieee-edusociety.org/publication/about-publications/toe",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -13652,6 +13698,13 @@
         "error_code": "access_denied"
       },
       {
+        "url": "https://journals.copmadrid.org/apj",
+        "final_url": "https://journals.copmadrid.org/apj/",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
         "url": "https://journals.sagepub.com/home/TES",
         "final_url": null,
         "status": "error",
@@ -13659,8 +13712,15 @@
         "error_code": "access_denied"
       },
       {
-        "url": "https://in.sagepub.com/en-in/sas/journal/organizational-psychology-review",
-        "final_url": "https://in.sagepub.com/en-in/sas/journal/organizational-psychology-review",
+        "url": "https://journals.rcsi.science/0205-9592",
+        "final_url": "https://journals.rcsi.science/0205-9592",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://journals.copmadrid.org/ejpalc",
+        "final_url": "https://journals.copmadrid.org/ejpalc/",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -13673,22 +13733,8 @@
         "error_code": "access_denied"
       },
       {
-        "url": "https://journals.copmadrid.org/ejpalc",
-        "final_url": "https://journals.copmadrid.org/ejpalc/",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://journals.copmadrid.org/apj",
-        "final_url": "https://journals.copmadrid.org/apj/",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://journals.rcsi.science/0205-9592",
-        "final_url": "https://journals.rcsi.science/0205-9592",
+        "url": "https://journals.copmadrid.org/pi",
+        "final_url": "https://journals.copmadrid.org/pi/",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -13699,13 +13745,6 @@
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
         "error_code": "access_denied"
-      },
-      {
-        "url": "https://journals.copmadrid.org/pi",
-        "final_url": "https://journals.copmadrid.org/pi/",
-        "status": "ok",
-        "error": null,
-        "error_code": null
       },
       {
         "url": "https://journals.copmadrid.org/psed",
@@ -13750,6 +13789,13 @@
         "error_code": "access_denied"
       },
       {
+        "url": "https://in.sagepub.com/en-in/sas/journal/social-psychology-quarterly",
+        "final_url": "https://in.sagepub.com/en-in/sas/journal/social-psychology-quarterly",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
         "url": "https://journals.sagepub.com/home/epa",
         "final_url": null,
         "status": "error",
@@ -13764,11 +13810,11 @@
         "error_code": "access_denied"
       },
       {
-        "url": "https://in.sagepub.com/en-in/sas/journal/social-psychology-quarterly",
-        "final_url": "https://in.sagepub.com/en-in/sas/journal/social-psychology-quarterly",
-        "status": "ok",
-        "error": null,
-        "error_code": null
+        "url": "https://callforpapers.taylorandfrancis.com/special_issues/beyond-the-l2-multilingual-writing-in-education-2",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 404: Not Found",
+        "error_code": "not_found"
       },
       {
         "url": "https://journals.sagepub.com/home/ero",
@@ -13776,6 +13822,13 @@
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
         "error_code": "access_denied"
+      },
+      {
+        "url": "https://callforpapers.taylorandfrancis.com/article_collections/australian-journal-of-psychology-pleasure-desire-and-sexual-well-being-across-diverse-communities",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 404: Not Found",
+        "error_code": "not_found"
       },
       {
         "url": "https://journals.sagepub.com/home/hjb",
@@ -14676,6 +14729,13 @@
       {
         "url": "https://mededu.jmir.org",
         "final_url": "https://mededu.jmir.org",
+        "status": "error",
+        "error": "AccessError: Page content too short; JavaScript or another entry may be required",
+        "error_code": "dynamic_content"
+      },
+      {
+        "url": "https://ncte.org/resources/journals/research-in-the-teaching-of-english",
+        "final_url": "https://ncte.org/resources/journals/research-in-the-teaching-of-english/",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -14686,13 +14746,6 @@
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
         "error_code": "access_denied"
-      },
-      {
-        "url": "https://ncte.org/resources/journals/research-in-the-teaching-of-english",
-        "final_url": "https://ncte.org/resources/journals/research-in-the-teaching-of-english/",
-        "status": "ok",
-        "error": null,
-        "error_code": null
       },
       {
         "url": "https://online.ucpress.edu/abt",
@@ -15353,13 +15406,6 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://psihologijajournal.dps.org.rs",
-        "final_url": "https://psihologijajournal.dps.org.rs",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
         "url": "https://onlinelibrary.wiley.com/page/journal/19362714/homepage/productinformation.html",
         "final_url": null,
         "status": "error",
@@ -15367,18 +15413,18 @@
         "error_code": "access_denied"
       },
       {
+        "url": "https://psihologijajournal.dps.org.rs",
+        "final_url": "https://psihologijajournal.dps.org.rs",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
         "url": "https://psychologicabelgica.com",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: <urlopen error timed out>",
         "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://onlinelibrary.wiley.com/page/journal/19362722/homepage/productinformation.html",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
       },
       {
         "url": "https://pubs.acs.org/journal/jceda8",
@@ -15395,6 +15441,13 @@
         "error_code": "network_error"
       },
       {
+        "url": "https://psychologia.ifohs.kyoto-u.ac.jp",
+        "final_url": "https://psychologia.ifohs.kyoto-u.ac.jp",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
         "url": "https://revistalatinoamericanadepsicologia.konradlorenz.edu.co",
         "final_url": null,
         "status": "error",
@@ -15402,15 +15455,15 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://revistas.javeriana.edu.co/index.php/revPsycho",
-        "final_url": "https://revistas.javeriana.edu.co/index.php/revPsycho",
-        "status": "ok",
-        "error": null,
-        "error_code": null
+        "url": "https://onlinelibrary.wiley.com/page/journal/19362722/homepage/productinformation.html",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden",
+        "error_code": "access_denied"
       },
       {
-        "url": "https://psychologia.ifohs.kyoto-u.ac.jp",
-        "final_url": "https://psychologia.ifohs.kyoto-u.ac.jp",
+        "url": "https://revistas.javeriana.edu.co/index.php/revPsycho",
+        "final_url": "https://revistas.javeriana.edu.co/index.php/revPsycho",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -15444,11 +15497,11 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://revistaseug.ugr.es/index.php/portalin/en",
+        "url": "https://onlinelibrary.wiley.com/page/journal/19449720/homepage/productinformation.html",
         "final_url": null,
         "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_",
-        "error_code": "robots_unavailable"
+        "error": "HTTPError: HTTP Error 403: Forbidden",
+        "error_code": "access_denied"
       },
       {
         "url": "https://revistes.uab.cat/ensciencias",
@@ -15458,8 +15511,8 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://revistas.um.es/analesps",
-        "final_url": "https://revistas.um.es/analesps",
+        "url": "https://revistaseug.ugr.es/index.php/portalin/en",
+        "final_url": "https://revistaseug.ugr.es/index.php/portalin/en",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -15479,8 +15532,15 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://unisapressjournals.co.za/index.php/EAC",
-        "final_url": "https://unisapressjournals.co.za/index.php/EAC",
+        "url": "https://onlinelibrary.wiley.com/page/journal/20448333/homepage/productinformation.html",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden",
+        "error_code": "access_denied"
+      },
+      {
+        "url": "https://revistas.um.es/analesps",
+        "final_url": "https://revistas.um.es/analesps",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -15493,18 +15553,25 @@
         "error_code": "access_denied"
       },
       {
-        "url": "https://onlinelibrary.wiley.com/page/journal/19449720/homepage/productinformation.html",
+        "url": "https://www.annualreviews.org/journal/psych",
         "final_url": null,
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
         "error_code": "access_denied"
       },
       {
-        "url": "https://www.annualreviews.org/journal/psych",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
+        "url": "https://revistas.uned.es/index.php/educacionXX1/index",
+        "final_url": "https://revistas.uned.es/index.php/educacionXX1/index",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://unisapressjournals.co.za/index.php/EAC",
+        "final_url": "https://unisapressjournals.co.za/index.php/EAC",
+        "status": "ok",
+        "error": null,
+        "error_code": null
       },
       {
         "url": "https://scientiasocialis.lt/jbse",
@@ -15528,11 +15595,11 @@
         "error_code": null
       },
       {
-        "url": "https://onlinelibrary.wiley.com/page/journal/20448333/homepage/productinformation.html",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
+        "url": "https://www.aom.org/event/amle-call-for-special-issue-papers-rethinking-business-school-structures-standards-and-success-for-neuroinclusive-management-learning-and-education",
+        "final_url": "https://www.aom.org/event/amle-call-for-special-issue-papers-rethinking-business-school-structures-standards-and-success-for-neuroinclusive-management-learning-and-education/",
+        "status": "ok",
+        "error": null,
+        "error_code": null
       },
       {
         "url": "https://onlinelibrary.wiley.com/page/journal/20460260/homepage/productinformation.html",
@@ -15540,13 +15607,6 @@
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
         "error_code": "access_denied"
-      },
-      {
-        "url": "https://www.aom.org/event/amle-call-for-special-issue-papers-rethinking-business-school-structures-standards-and-success-for-neuroinclusive-management-learning-and-education",
-        "final_url": "https://www.aom.org/event/amle-call-for-special-issue-papers-rethinking-business-school-structures-standards-and-success-for-neuroinclusive-management-learning-and-education/",
-        "status": "ok",
-        "error": null,
-        "error_code": null
       },
       {
         "url": "https://onlinelibrary.wiley.com/page/journal/21689830/homepage/productinformation.html",
@@ -15563,6 +15623,13 @@
         "error_code": null
       },
       {
+        "url": "https://www.apa.org/journals/hop",
+        "final_url": "https://www.apa.org/pubs/journals/hop",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
         "url": "https://www.apa.org/journals/law",
         "final_url": "https://www.apa.org/pubs/journals/law",
         "status": "ok",
@@ -15570,8 +15637,8 @@
         "error_code": null
       },
       {
-        "url": "https://revistas.uned.es/index.php/educacionXX1/index",
-        "final_url": "https://revistas.uned.es/index.php/educacionXX1/index",
+        "url": "https://revistas.uned.es/index.php/ried",
+        "final_url": "https://revistas.uned.es/index.php/ried",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -15591,15 +15658,8 @@
         "error_code": null
       },
       {
-        "url": "https://www.apa.org/journals/hop",
-        "final_url": "https://www.apa.org/pubs/journals/hop",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://revistas.uned.es/index.php/ried",
-        "final_url": "https://revistas.uned.es/index.php/ried",
+        "url": "https://www.apa.org/pubs/journals/bul/index.aspx",
+        "final_url": "https://www.apa.org/pubs/journals/bul/index",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -15619,6 +15679,13 @@
         "error_code": null
       },
       {
+        "url": "https://www.apa.org/pubs/journals/lat",
+        "final_url": "https://www.apa.org/pubs/journals/lat",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
         "url": "https://www.apa.org/pubs/journals/drm/index.aspx",
         "final_url": "https://www.apa.org/pubs/journals/drm/index",
         "status": "ok",
@@ -15626,11 +15693,11 @@
         "error_code": null
       },
       {
-        "url": "https://www.apa.org/pubs/journals/lat",
-        "final_url": "https://www.apa.org/pubs/journals/lat",
-        "status": "ok",
-        "error": null,
-        "error_code": null
+        "url": "https://www.apa.org/pubs/journals/mil",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 404: Not Found",
+        "error_code": "not_found"
       },
       {
         "url": "https://www.apa.org/pubs/journals/met/index.aspx",
@@ -15640,22 +15707,8 @@
         "error_code": null
       },
       {
-        "url": "https://www.apa.org/pubs/journals/bul/index.aspx",
-        "final_url": "https://www.apa.org/pubs/journals/bul/index",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
         "url": "https://www.apa.org/pubs/journals/mot",
         "final_url": "https://www.apa.org/pubs/journals/mot",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.apa.org/pubs/journals/npe/calls-for-papers",
-        "final_url": "https://www.apa.org/pubs/journals/npe/calls-for-papers",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -15675,8 +15728,15 @@
         "error_code": null
       },
       {
-        "url": "https://www.apa.org/pubs/journals/ppm",
-        "final_url": "https://www.apa.org/pubs/journals/ppm",
+        "url": "https://www.cambridge.org/core/journals/journal-of-psychologists-and-counsellors-in-schools",
+        "final_url": "https://www.cambridge.org/core/journals/journal-of-psychologists-and-counsellors-in-schools",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://www.apa.org/pubs/journals/npe/calls-for-papers",
+        "final_url": "https://www.apa.org/pubs/journals/npe/calls-for-papers",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -15689,13 +15749,6 @@
         "error_code": null
       },
       {
-        "url": "https://www.cambridge.org/core/journals/language-teaching",
-        "final_url": "https://www.cambridge.org/core/journals/language-teaching",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
         "url": "https://www.cambridge.org/core/journals/recall",
         "final_url": "https://www.cambridge.org/core/journals/recall",
         "status": "ok",
@@ -15703,15 +15756,22 @@
         "error_code": null
       },
       {
-        "url": "https://www.apa.org/pubs/journals/pro",
-        "final_url": "https://www.apa.org/pubs/journals/pro",
+        "url": "https://www.apa.org/pubs/journals/ppm",
+        "final_url": "https://www.apa.org/pubs/journals/ppm",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://www.apa.org/pubs/journals/rel/index.aspx",
-        "final_url": "https://www.apa.org/pubs/journals/rel/index",
+        "url": "https://www.cambridge.org/core/journals/language-teaching",
+        "final_url": "https://www.cambridge.org/core/journals/language-teaching",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://www.cambridge.org/core/journals/recall/announcements",
+        "final_url": "https://www.cambridge.org/core/journals/recall/announcements",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -15724,15 +15784,8 @@
         "error_code": null
       },
       {
-        "url": "https://www.cyberpsychology.eu",
-        "final_url": "https://www.cyberpsychology.eu",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.apa.org/pubs/journals/rev",
-        "final_url": "https://www.apa.org/pubs/journals/rev",
+        "url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology",
+        "final_url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -15745,6 +15798,27 @@
         "error_code": "network_error"
       },
       {
+        "url": "https://www.dovepress.com/psychology-research-and-behavior-management-journal",
+        "final_url": "https://www.dovepress.com/psychology-research-and-behavior-management-journal",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://www.apa.org/pubs/journals/pro",
+        "final_url": "https://www.apa.org/pubs/journals/pro",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://www.elsevier.com/locate/issn/01602896",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden",
+        "error_code": "access_denied"
+      },
+      {
         "url": "https://www.degruyter.com/view/j/humr",
         "final_url": null,
         "status": "error",
@@ -15752,7 +15826,7 @@
         "error_code": "network_error"
       },
       {
-        "url": "https://www.elsevier.com/locate/issn/01602896",
+        "url": "https://www.emerald.com/etpc",
         "final_url": null,
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -15766,7 +15840,7 @@
         "error_code": "access_denied"
       },
       {
-        "url": "https://www.emerald.com/etpc",
+        "url": "https://www.emerald.com/ijshe",
         "final_url": null,
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -15780,7 +15854,7 @@
         "error_code": "access_denied"
       },
       {
-        "url": "https://www.emerald.com/ijshe",
+        "url": "https://www.emerald.com/jpcc",
         "final_url": null,
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -15794,15 +15868,8 @@
         "error_code": "access_denied"
       },
       {
-        "url": "https://www.emerald.com/jpcc",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
-      },
-      {
-        "url": "https://www.dovepress.com/psychology-research-and-behavior-management-journal",
-        "final_url": "https://www.dovepress.com/psychology-research-and-behavior-management-journal",
+        "url": "https://www.cyberpsychology.eu",
+        "final_url": "https://www.cyberpsychology.eu",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -15810,6 +15877,13 @@
       {
         "url": "https://www.frontiersin.org/journals/psychology",
         "final_url": "https://www.frontiersin.org/journals/psychology",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://www.apa.org/pubs/journals/rev",
+        "final_url": "https://www.apa.org/pubs/journals/rev",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -15836,36 +15910,8 @@
         "error_code": null
       },
       {
-        "url": "https://www.apa.org/pubs/journals/sgd/index",
-        "final_url": "https://www.apa.org/pubs/journals/sgd/index",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.apa.org/pubs/journals/mil",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 404: Not Found",
-        "error_code": "not_found"
-      },
-      {
-        "url": "https://www.hogrefe.com/eu/journal/european-psychologist",
-        "final_url": "https://www.hogrefe.com/eu/journal/european-psychologist",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.cambridge.org/core/journals/journal-of-psychologists-and-counsellors-in-schools",
-        "final_url": "https://www.cambridge.org/core/journals/journal-of-psychologists-and-counsellors-in-schools",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.cambridge.org/core/journals/recall/announcements",
-        "final_url": "https://www.cambridge.org/core/journals/recall/announcements",
+        "url": "https://www.apa.org/pubs/journals/rel/index.aspx",
+        "final_url": "https://www.apa.org/pubs/journals/rel/index",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -15878,36 +15924,15 @@
         "error_code": null
       },
       {
-        "url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology",
-        "final_url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology",
+        "url": "https://www.ijper.org",
+        "final_url": "https://www.ijper.org",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://www.j-ets.net",
-        "final_url": "https://www.j-ets.net",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.j-ets.net/journal_info/indexing",
-        "final_url": "https://www.j-ets.net/journal_info/indexing",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.journals.uchicago.edu/aje",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
-      },
-      {
-        "url": "https://www.hogrefe.com/eu/journals/zfp/calls-for-papers",
-        "final_url": "https://www.hogrefe.com/eu/journals/zfp/calls-for-papers",
+        "url": "https://www.apa.org/pubs/journals/sgd/index",
+        "final_url": "https://www.apa.org/pubs/journals/sgd/index",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -15920,6 +15945,34 @@
         "error_code": null
       },
       {
+        "url": "https://www.j-ets.net/journal_info/indexing",
+        "final_url": "https://www.j-ets.net/journal_info/indexing",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://www.j-ets.net",
+        "final_url": "https://www.j-ets.net",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://www.journals.uchicago.edu/aje",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden",
+        "error_code": "access_denied"
+      },
+      {
+        "url": "https://www.hogrefe.com/eu/journal/european-psychologist",
+        "final_url": "https://www.hogrefe.com/eu/journal/european-psychologist",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
         "url": "https://www.lifescied.org",
         "final_url": null,
         "status": "error",
@@ -15927,11 +15980,11 @@
         "error_code": "access_denied"
       },
       {
-        "url": "https://www.ijper.org",
-        "final_url": "https://www.ijper.org",
-        "status": "ok",
-        "error": null,
-        "error_code": null
+        "url": "https://www.journals.uchicago.edu/cer",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden",
+        "error_code": "access_denied"
       },
       {
         "url": "https://www.mdpi.com/journal/behavsci",
@@ -16060,15 +16113,15 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.ovid.com/jnls/bsam",
-        "final_url": "https://www.ovid.com/jnls/bsam",
+        "url": "https://www.lltjournal.org",
+        "final_url": "https://www.lltjournal.org",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://www.ovid.com/jnls/jcehp",
-        "final_url": "https://www.ovid.com/jnls/jcehp",
+        "url": "https://www.ovid.com/jnls/bsam",
+        "final_url": "https://www.ovid.com/jnls/bsam",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -16088,36 +16141,15 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.journals.uchicago.edu/cer",
+        "url": "https://www.press.uillinois.edu/journals/ajp.html",
         "final_url": null,
         "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: <urlopen error timed out>",
+        "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.press.uillinois.edu/journals/ajp.html",
-        "final_url": "https://www.press.uillinois.edu/journals/?id=ajp",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.psicothema.com",
-        "final_url": "https://www.psicothema.com",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.rsc.org/publishing/journals/chemistry-education-research-and-practice",
-        "final_url": "https://www.rsc.org/publishing/journals/chemistry-education-research-and-practice",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.lltjournal.org",
-        "final_url": "https://www.lltjournal.org",
+        "url": "https://www.ovid.com/jnls/jcehp",
+        "final_url": "https://www.ovid.com/jnls/jcehp",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -16130,15 +16162,36 @@
         "error_code": "access_denied"
       },
       {
-        "url": "https://www.sagepub.com/journalsProdDesc.nav?prodId=Journal200766",
-        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/culture-psychology-200766",
+        "url": "https://www.rsc.org/publishing/journals/chemistry-education-research-and-practice",
+        "final_url": "https://www.rsc.org/publishing/journals/chemistry-education-research-and-practice",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://www.psicothema.com",
+        "final_url": "https://www.psicothema.com",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://www.sagepub.com/journalsProdDesc.nav?prodId=Journal200868",
+        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/feminism-psychology-200868",
         "status": "error",
         "error": "AccessError: Page content too short; JavaScript or another entry may be required",
         "error_code": "dynamic_content"
       },
       {
-        "url": "https://www.sagepub.com/journalsProdDesc.nav?prodId=Journal200868",
-        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/feminism-psychology-200868",
+        "url": "https://www.hogrefe.com/eu/journals/zfp/calls-for-papers",
+        "final_url": "https://www.hogrefe.com/eu/journals/zfp/calls-for-papers",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://www.sagepub.com/journalsProdDesc.nav?prodId=Journal200766",
+        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/culture-psychology-200766",
         "status": "error",
         "error": "AccessError: Page content too short; JavaScript or another entry may be required",
         "error_code": "dynamic_content"
@@ -16149,13 +16202,6 @@
         "status": "error",
         "error": "AccessError: Page content too short; JavaScript or another entry may be required",
         "error_code": "dynamic_content"
-      },
-      {
-        "url": "https://www.hogrefe.com/index.php?eID=dumpFile&f=20701&t=f&token=2bd8a5c728b3ec941180f29ae66c38ee6ceb3991",
-        "final_url": "https://www.hogrefe.com/index.php?eID=dumpFile&f=20701&t=f&token=2bd8a5c728b3ec941180f29ae66c38ee6ceb3991",
-        "status": "ok",
-        "error": null,
-        "error_code": null
       },
       {
         "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/adult-education-quarterly-200765",
@@ -16172,15 +16218,15 @@
         "error_code": "dynamic_content"
       },
       {
-        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/american-educational-research-journal-201851",
-        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/american-educational-research-journal-201851",
+        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/australasian-journal-of-early-childhood-203621",
+        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/australasian-journal-of-early-childhood-203621",
         "status": "error",
         "error": "AccessError: Page content too short; JavaScript or another entry may be required",
         "error_code": "dynamic_content"
       },
       {
-        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/australasian-journal-of-early-childhood-203621",
-        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/australasian-journal-of-early-childhood-203621",
+        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/american-educational-research-journal-201851",
+        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/american-educational-research-journal-201851",
         "status": "error",
         "error": "AccessError: Page content too short; JavaScript or another entry may be required",
         "error_code": "dynamic_content"
@@ -16193,8 +16239,15 @@
         "error_code": "dynamic_content"
       },
       {
-        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/education-and-urban-society-200780",
-        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/education-and-urban-society-200780",
+        "url": "https://www.hogrefe.com/index.php?eID=dumpFile&f=20701&t=f&token=2bd8a5c728b3ec941180f29ae66c38ee6ceb3991",
+        "final_url": "https://www.hogrefe.com/index.php?eID=dumpFile&f=20701&t=f&token=2bd8a5c728b3ec941180f29ae66c38ee6ceb3991",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/educational-management-administration-leadership-200888",
+        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/educational-management-administration-leadership-200888",
         "status": "error",
         "error": "AccessError: Page content too short; JavaScript or another entry may be required",
         "error_code": "dynamic_content"
@@ -16207,8 +16260,15 @@
         "error_code": "dynamic_content"
       },
       {
-        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/educational-management-administration-leadership-200888",
-        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/educational-management-administration-leadership-200888",
+        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/education-and-urban-society-200780",
+        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/education-and-urban-society-200780",
+        "status": "error",
+        "error": "AccessError: Page content too short; JavaScript or another entry may be required",
+        "error_code": "dynamic_content"
+      },
+      {
+        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/educational-researcher-201856",
+        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/educational-researcher-201856",
         "status": "error",
         "error": "AccessError: Page content too short; JavaScript or another entry may be required",
         "error_code": "dynamic_content"
@@ -16221,15 +16281,8 @@
         "error_code": "dynamic_content"
       },
       {
-        "url": "https://www.hogrefe.com/uk/journal/zeitschrift-fuer-psychologie",
-        "final_url": "https://www.hogrefe.com/uk/journal/zeitschrift-fuer-psychologie",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/educational-researcher-201856",
-        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/educational-researcher-201856",
+        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/european-physical-education-review-200962",
+        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/european-physical-education-review-200962",
         "status": "error",
         "error": "AccessError: Page content too short; JavaScript or another entry may be required",
         "error_code": "dynamic_content"
@@ -16237,13 +16290,6 @@
       {
         "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/health-education-journal-201777",
         "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/health-education-journal-201777",
-        "status": "error",
-        "error": "AccessError: Page content too short; JavaScript or another entry may be required",
-        "error_code": "dynamic_content"
-      },
-      {
-        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/european-physical-education-review-200962",
-        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/european-physical-education-review-200962",
         "status": "error",
         "error": "AccessError: Page content too short; JavaScript or another entry may be required",
         "error_code": "dynamic_content"
@@ -16270,15 +16316,15 @@
         "error_code": "dynamic_content"
       },
       {
-        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-pacific-rim-psychology-203703",
-        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-pacific-rim-psychology-203703",
-        "status": "error",
-        "error": "AccessError: Page content too short; JavaScript or another entry may be required",
-        "error_code": "dynamic_content"
+        "url": "https://www.hogrefe.com/uk/journal/zeitschrift-fuer-psychologie",
+        "final_url": "https://www.hogrefe.com/uk/journal/zeitschrift-fuer-psychologie",
+        "status": "ok",
+        "error": null,
+        "error_code": null
       },
       {
-        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/perspectives-on-psychological-science-201964",
-        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/perspectives-on-psychological-science-201964",
+        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-pacific-rim-psychology-203703",
+        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/journal-of-pacific-rim-psychology-203703",
         "status": "error",
         "error": "AccessError: Page content too short; JavaScript or another entry may be required",
         "error_code": "dynamic_content"
@@ -16291,11 +16337,18 @@
         "error_code": "dynamic_content"
       },
       {
-        "url": "https://www.hogrefe.com/us/journal/crisis",
-        "final_url": "https://www.hogrefe.com/us/journal/crisis",
-        "status": "ok",
-        "error": null,
-        "error_code": null
+        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/perspectives-on-psychological-science-201964",
+        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/perspectives-on-psychological-science-201964",
+        "status": "error",
+        "error": "AccessError: Page content too short; JavaScript or another entry may be required",
+        "error_code": "dynamic_content"
+      },
+      {
+        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/psychological-science-in-the-public-interest-201965",
+        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/psychological-science-in-the-public-interest-201965",
+        "status": "error",
+        "error": "AccessError: Page content too short; JavaScript or another entry may be required",
+        "error_code": "dynamic_content"
       },
       {
         "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/phi-delta-kappan-202327",
@@ -16305,8 +16358,8 @@
         "error_code": "dynamic_content"
       },
       {
-        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/second-language-research-201828",
-        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/second-language-research-201828",
+        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/psychology-of-women-quarterly-202010",
+        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/psychology-of-women-quarterly-202010",
         "status": "error",
         "error": "AccessError: Page content too short; JavaScript or another entry may be required",
         "error_code": "dynamic_content"
@@ -17064,7 +17117,7 @@
         "url": "https://www.studiapsychologica.com",
         "final_url": null,
         "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: <urlopen error _ssl.c:993: The handshake operation timed out>",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_",
         "error_code": "robots_unavailable"
       },
       {
@@ -17075,8 +17128,29 @@
         "error_code": "access_denied"
       },
       {
-        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/psychology-of-women-quarterly-202010",
-        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/psychology-of-women-quarterly-202010",
+        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/review-of-research-in-education-201855",
+        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/review-of-research-in-education-201855",
+        "status": "error",
+        "error": "AccessError: Page content too short; JavaScript or another entry may be required",
+        "error_code": "dynamic_content"
+      },
+      {
+        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/second-language-research-201828",
+        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/second-language-research-201828",
+        "status": "error",
+        "error": "AccessError: Page content too short; JavaScript or another entry may be required",
+        "error_code": "dynamic_content"
+      },
+      {
+        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/review-of-educational-research-201854",
+        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/review-of-educational-research-201854",
+        "status": "error",
+        "error": "AccessError: Page content too short; JavaScript or another entry may be required",
+        "error_code": "dynamic_content"
+      },
+      {
+        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/urban-education-200963",
+        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/urban-education-200963",
         "status": "error",
         "error": "AccessError: Page content too short; JavaScript or another entry may be required",
         "error_code": "dynamic_content"
@@ -17089,29 +17163,8 @@
         "error_code": "access_denied"
       },
       {
-        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/review-of-educational-research-201854",
-        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/review-of-educational-research-201854",
-        "status": "error",
-        "error": "AccessError: Page content too short; JavaScript or another entry may be required",
-        "error_code": "dynamic_content"
-      },
-      {
-        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/review-of-research-in-education-201855",
-        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/review-of-research-in-education-201855",
-        "status": "error",
-        "error": "AccessError: Page content too short; JavaScript or another entry may be required",
-        "error_code": "dynamic_content"
-      },
-      {
-        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/psychological-science-in-the-public-interest-201965",
-        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/psychological-science-in-the-public-interest-201965",
-        "status": "error",
-        "error": "AccessError: Page content too short; JavaScript or another entry may be required",
-        "error_code": "dynamic_content"
-      },
-      {
-        "url": "https://www.sajournalofeducation.co.za",
-        "final_url": "https://www.sajournalofeducation.co.za/index.php/saje",
+        "url": "https://www.hogrefe.com/us/journal/crisis",
+        "final_url": "https://www.hogrefe.com/us/journal/crisis",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -17124,18 +17177,11 @@
         "error_code": "access_denied"
       },
       {
-        "url": "https://www.hogrefe.com/us/journal/european-journal-of-psychology-open",
-        "final_url": "https://www.hogrefe.com/us/journal/european-journal-of-psychology-open",
+        "url": "https://www.sajournalofeducation.co.za",
+        "final_url": "https://www.sajournalofeducation.co.za/index.php/saje",
         "status": "ok",
         "error": null,
         "error_code": null
-      },
-      {
-        "url": "https://www.sagepub.com/shop/subscribe-to-a-journal/urban-education-200963",
-        "final_url": "https://www.sagepub.com/shop/subscribe-to-a-journal/urban-education-200963",
-        "status": "error",
-        "error": "AccessError: Page content too short; JavaScript or another entry may be required",
-        "error_code": "dynamic_content"
       },
       {
         "url": "https://www.tandfonline.com/journals/caic20/about-this-journal",
@@ -17150,6 +17196,13 @@
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
         "error_code": "access_denied"
+      },
+      {
+        "url": "https://www.hogrefe.com/us/journal/european-journal-of-psychology-open",
+        "final_url": "https://www.hogrefe.com/us/journal/european-journal-of-psychology-open",
+        "status": "ok",
+        "error": null,
+        "error_code": null
       },
       {
         "url": "https://www.tandfonline.com/journals/caie20/about-this-journal",
@@ -18783,7 +18836,7 @@
         "error_code": "access_denied"
       },
       {
-        "url": "https://www.tandfonline.com/journals/vjer20",
+        "url": "https://www.tandfonline.com/journals/wfpp21",
         "final_url": null,
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -18825,7 +18878,7 @@
         "error_code": "access_denied"
       },
       {
-        "url": "https://www.tandfonline.com/journals/wfpp21",
+        "url": "https://www.tandfonline.com/journals/vjer20",
         "final_url": null,
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -18916,6 +18969,13 @@
         "error_code": "access_denied"
       },
       {
+        "url": "https://www.vandenhoeck-ruprecht-verlage.com/zeitschriften-und-kapitel/9497/zeitschrift-fuer-psychosomatische-medizin-und-psychotherapie",
+        "final_url": "https://www.vandenhoeck-ruprecht-verlage.com/journal-zeitschrift-fuer-psychosomatische-medizin-und-psychotherapie",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
         "url": "https://www.tandfonline.com/journals/wwat20",
         "final_url": null,
         "status": "error",
@@ -18944,15 +19004,8 @@
         "error_code": "access_denied"
       },
       {
-        "url": "https://www.vandenhoeck-ruprecht-verlage.com/zeitschriften-und-kapitel/9497/zeitschrift-fuer-psychosomatische-medizin-und-psychotherapie",
-        "final_url": "https://www.vandenhoeck-ruprecht-verlage.com/journal-zeitschrift-fuer-psychosomatische-medizin-und-psychotherapie",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://journals.aps.org/prper/collections",
-        "final_url": "https://journals.aps.org/prper/collections",
+        "url": "https://www.j-ets.net/announce",
+        "final_url": "https://www.j-ets.net/announce",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -18965,15 +19018,8 @@
         "error_code": null
       },
       {
-        "url": "https://www.j-ets.net/announce",
-        "final_url": "https://www.j-ets.net/announce",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.aom.org/events/calls-for-papers",
-        "final_url": "https://www.aom.org/events/calls-for-papers/",
+        "url": "https://journals.aps.org/prper/collections",
+        "final_url": "https://journals.aps.org/prper/collections",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -18986,20 +19032,6 @@
         "error_code": null
       },
       {
-        "url": "https://unisapressjournals.co.za/index.php/EAC/announcement",
-        "final_url": "https://unisapressjournals.co.za/index.php/EAC/announcement",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.aapt.org/Publications/AJP/Readers/readers_general_information.cfm",
-        "final_url": "https://www.aapt.org/Publications/AJP/Readers/readers_general_information.cfm",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
         "url": "https://www.lltjournal.org/post-archive",
         "final_url": "https://www.lltjournal.org/post-archive/",
         "status": "ok",
@@ -19007,8 +19039,8 @@
         "error_code": null
       },
       {
-        "url": "https://www.apa.org/pubs/journals/dhe/special-issues",
-        "final_url": "https://www.apa.org/pubs/journals/dhe/special-issues",
+        "url": "https://unisapressjournals.co.za/index.php/EAC/announcement",
+        "final_url": "https://unisapressjournals.co.za/index.php/EAC/announcement",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -19021,8 +19053,29 @@
         "error_code": null
       },
       {
-        "url": "https://www.apa.org/pubs/journals/bul/special-issues",
-        "final_url": "https://www.apa.org/pubs/journals/bul/special-issues",
+        "url": "https://www.aapt.org/Publications/AJP/Readers/readers_general_information.cfm",
+        "final_url": "https://www.aapt.org/Publications/AJP/Readers/readers_general_information.cfm",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://www.apa.org/pubs/journals/dhe/special-issues",
+        "final_url": "https://www.apa.org/pubs/journals/dhe/special-issues",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://www.apa.org/pubs/journals/dhe/calls-for-papers",
+        "final_url": "https://www.apa.org/pubs/journals/dhe/calls-for-papers",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://www.aom.org/events/calls-for-papers",
+        "final_url": "https://www.aom.org/events/calls-for-papers/",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -19056,6 +19109,13 @@
         "error_code": null
       },
       {
+        "url": "https://www.apa.org/pubs/journals/bul/special-issues",
+        "final_url": "https://www.apa.org/pubs/journals/bul/special-issues",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
         "url": "https://www.apa.org/pubs/journals/met/calls-for-papers",
         "final_url": "https://www.apa.org/pubs/journals/met/calls-for-papers",
         "status": "ok",
@@ -19070,15 +19130,8 @@
         "error_code": null
       },
       {
-        "url": "https://www.apa.org/pubs/journals/dhe/calls-for-papers",
-        "final_url": "https://www.apa.org/pubs/journals/dhe/calls-for-papers",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.apa.org/pubs/journals/rev/special-issues",
-        "final_url": "https://www.apa.org/pubs/journals/rev/special-issues",
+        "url": "https://www.apa.org/pubs/journals/amp/calls-for-papers",
+        "final_url": "https://www.apa.org/pubs/journals/amp/calls-for-papers",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -19105,8 +19158,8 @@
         "error_code": null
       },
       {
-        "url": "https://www.apa.org/pubs/journals/mot/special-issues",
-        "final_url": "https://www.apa.org/pubs/journals/mot/special-issues",
+        "url": "https://www.apa.org/pubs/journals/rev/special-issues",
+        "final_url": "https://www.apa.org/pubs/journals/rev/special-issues",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -19114,6 +19167,13 @@
       {
         "url": "https://www.apa.org/pubs/journals/mot/calls-for-papers",
         "final_url": "https://www.apa.org/pubs/journals/mot/calls-for-papers",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://www.apa.org/pubs/journals/mot/special-issues",
+        "final_url": "https://www.apa.org/pubs/journals/mot/special-issues",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -19133,15 +19193,15 @@
         "error_code": null
       },
       {
-        "url": "https://www.apa.org/pubs/journals/adb/calls-for-papers",
-        "final_url": "https://www.apa.org/pubs/journals/adb/calls-for-papers",
+        "url": "https://revistas.um.es/analesps/announcement",
+        "final_url": "https://revistas.um.es/analesps/announcement",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://revistas.um.es/analesps/announcement",
-        "final_url": "https://revistas.um.es/analesps/announcement",
+        "url": "https://www.apa.org/pubs/journals/adb/calls-for-papers",
+        "final_url": "https://www.apa.org/pubs/journals/adb/calls-for-papers",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -19168,15 +19228,15 @@
         "error_code": null
       },
       {
-        "url": "https://www.apa.org/pubs/journals/aap/calls-for-papers",
-        "final_url": "https://www.apa.org/pubs/journals/aap/calls-for-papers",
+        "url": "https://www.apa.org/pubs/journals/rel/special-issues",
+        "final_url": "https://www.apa.org/pubs/journals/rel/special-issues",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://www.apa.org/pubs/journals/rel/special-issues",
-        "final_url": "https://www.apa.org/pubs/journals/rel/special-issues",
+        "url": "https://www.apa.org/pubs/journals/aap/calls-for-papers",
+        "final_url": "https://www.apa.org/pubs/journals/aap/calls-for-papers",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -19189,13 +19249,6 @@
         "error_code": null
       },
       {
-        "url": "https://www.apa.org/pubs/journals/pro/special-issues",
-        "final_url": "https://www.apa.org/pubs/journals/pro/special-issues",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
         "url": "https://www.apa.org/pubs/journals/pro/calls-for-papers",
         "final_url": "https://www.apa.org/pubs/journals/pro/calls-for-papers",
         "status": "ok",
@@ -19203,8 +19256,8 @@
         "error_code": null
       },
       {
-        "url": "https://www.apa.org/pubs/journals/amp/calls-for-papers",
-        "final_url": "https://www.apa.org/pubs/journals/amp/calls-for-papers",
+        "url": "https://www.apa.org/pubs/journals/pro/special-issues",
+        "final_url": "https://www.apa.org/pubs/journals/pro/special-issues",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -19217,6 +19270,13 @@
         "error_code": null
       },
       {
+        "url": "https://www.apa.org/pubs/journals/lat/calls-for-papers",
+        "final_url": "https://www.apa.org/pubs/journals/lat/calls-for-papers",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
         "url": "https://www.apa.org/pubs/journals/law/special-issues",
         "final_url": "https://www.apa.org/pubs/journals/law/special-issues",
         "status": "ok",
@@ -19224,22 +19284,8 @@
         "error_code": null
       },
       {
-        "url": "https://www.apa.org/pubs/journals/law/calls-for-papers",
-        "final_url": "https://www.apa.org/pubs/journals/law/calls-for-papers",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
         "url": "https://www.apa.org/pubs/journals/npe/special-issues",
         "final_url": "https://www.apa.org/pubs/journals/npe/special-issues",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.press.uillinois.edu/journals?id=ajp",
-        "final_url": "https://www.press.uillinois.edu/journals/?id=ajp",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -19259,29 +19305,15 @@
         "error_code": null
       },
       {
+        "url": "https://www.apa.org/pubs/journals/law/calls-for-papers",
+        "final_url": "https://www.apa.org/pubs/journals/law/calls-for-papers",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
         "url": "https://www.apa.org/pubs/journals/com/special-issues",
         "final_url": "https://www.apa.org/pubs/journals/com/special-issues",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.apa.org/pubs/journals/lat/calls-for-papers",
-        "final_url": "https://www.apa.org/pubs/journals/lat/calls-for-papers",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.apa.org/pubs/journals/hop/special-issues",
-        "final_url": "https://www.apa.org/pubs/journals/hop/special-issues",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.apa.org/pubs/journals/hop/calls-for-papers",
-        "final_url": "https://www.apa.org/pubs/journals/hop/calls-for-papers",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -19294,8 +19326,22 @@
         "error_code": null
       },
       {
+        "url": "https://www.apa.org/pubs/journals/hop/special-issues",
+        "final_url": "https://www.apa.org/pubs/journals/hop/special-issues",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
         "url": "https://www.apa.org/pubs/journals/drm/special-issues",
         "final_url": "https://www.apa.org/pubs/journals/drm/special-issues",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://www.apa.org/pubs/journals/hop/calls-for-papers",
+        "final_url": "https://www.apa.org/pubs/journals/hop/calls-for-papers",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -19308,134 +19354,120 @@
         "error_code": null
       },
       {
-        "url": "https://link.springer.com/collections/ddigidichd",
+        "url": "https://link.springer.com/collections/ggdfadcida",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/jcgbccagdb",
+        "url": "https://link.springer.com/collections/dhicbcbceb",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/fgagiffgbh",
+        "url": "https://link.springer.com/collections/hjhhbcgbbj",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/bjagigfejh",
+        "url": "https://link.springer.com/collections/gcheifbdaa",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/ihebbbdggf",
+        "url": "https://link.springer.com/collections/hddjidifdh",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/cijdcffedj",
+        "url": "https://link.springer.com/collections/ijcgfieecd",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/ibbfbhdcag",
+        "url": "https://link.springer.com/collections/ajebehaidf",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/jbfchcdhbf",
+        "url": "https://www.degruyterbrill.com/journal/key/iral/62/1/html",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 405: Not Allowed",
+        "error_code": "network_error"
+      },
+      {
+        "url": "https://link.springer.com/collections/gccecahcbh",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.nature.com/collections/hcgcigfaga",
+        "url": "https://link.springer.com/collections/facjfaeche",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/bfbhjhheii",
+        "url": "https://link.springer.com/collections/dfddbbjgab",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.ovid.com/jnls/bsam/collections/12",
-        "final_url": "https://www.ovid.com/jnls/bsam/collections/12",
+        "url": "https://link.springer.com/collections/aehdaicgca",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://www.nature.com/collections/hbjbgffeab",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://link.springer.com/collections/hhdhihgbeg",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://journals.sagepub.com/pb-assets/cmscontent/ECL/JECL%20SI_Attention%20Economy_Final%20(1).pdf",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden",
+        "error_code": "access_denied"
+      },
+      {
+        "url": "https://www.ovid.com/jnls/bsam/collections/32",
+        "final_url": "https://www.ovid.com/jnls/bsam/collections/32",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://link.springer.com/collections/cbieceibjb",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://link.springer.com/collections/hijechebgf",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://www.nature.com/collections/baafedhbdj",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://link.springer.com/collections/iedfjggafi",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://www.bps.org.uk/collections/counselling-psychology",
-        "final_url": "https://www.bps.org.uk/collections/counselling-psychology",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://in.sagepub.com/sites/default/files/detailedcfp-arupvarmsi.pdf?_gl=1%2A57k259%2A_up%2AMQ..%2A_ga%2AMTU2ODE0ODQ4NC4xNzgyNDY0OTEy%2A_ga_60R758KFDG%2AczE3ODI0NjQ5MTEkbzEkZzAkdDE3ODI0NjQ5MTEkajYwJGwwJGg3Nzk3OTc1NDM",
-        "final_url": "https://in.sagepub.com/sites/default/files/detailedcfp-arupvarmsi.pdf?_gl=1%2A57k259%2A_up%2AMQ..%2A_ga%2AMTU2ODE0ODQ4NC4xNzgyNDY0OTEy%2A_ga_60R758KFDG%2AczE3ODI0NjQ5MTEkbzEkZzAkdDE3ODI0NjQ5MTEkajYwJGwwJGg3Nzk3OTc1NDM",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.degruyterbrill.com/publication/journal_key/IRAL/downloadAsset/IRAL_CFP%20Special%20Issue%20on%20Literacy%20teaching%20and%20teacher%20education_CfA.pdf",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 404: Not Found",
-        "error_code": "not_found"
-      },
-      {
-        "url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/special-issues/the-role-of-positive-emotions-and-cognitions-in-psychology",
-        "final_url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/special-issues/the-role-of-positive-emotions-and-cognitions-in-psychology",
+        "url": "https://www.bps.org.uk/collections/ai",
+        "final_url": "https://www.bps.org.uk/collections/ai",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -19448,11 +19480,11 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://journals.sagepub.com/page/sap/collections/index",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
+        "url": "https://www.lltjournal.org/collection/col_10125_102113",
+        "final_url": "https://www.lltjournal.org/collection/col_10125_102113/",
+        "status": "ok",
+        "error": null,
+        "error_code": null
       },
       {
         "url": "https://link.springer.com/collections/cbfhegcjed",
@@ -19462,8 +19494,8 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.apa.org/pubs/journals/hop/call-for-papers-spotlight-section.html",
-        "final_url": "https://www.apa.org/pubs/journals/hop/call-for-papers-spotlight-section.html",
+        "url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/special-issues/mathematical-models-of-decision-making-processes",
+        "final_url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/special-issues/mathematical-models-of-decision-making-processes",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -19497,8 +19529,15 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.lltjournal.org/collection/col_10125_27124",
-        "final_url": "https://www.lltjournal.org/collection/col_10125_27124/",
+        "url": "https://journals.sagepub.com/page/sap/collections/index",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden",
+        "error_code": "access_denied"
+      },
+      {
+        "url": "https://www.apa.org/pubs/journals/ppm/getting-involved.html",
+        "final_url": "https://www.apa.org/pubs/journals/ppm/getting-involved.html",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -19511,11 +19550,11 @@
         "error_code": null
       },
       {
-        "url": "https://journals.aps.org/prper/collections/per-ai",
-        "final_url": "https://journals.aps.org/prper/collections/per-ai",
-        "status": "ok",
-        "error": null,
-        "error_code": null
+        "url": "https://journals.sagepub.com/page/ptj/collections/special-issues/index",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden",
+        "error_code": "access_denied"
       },
       {
         "url": "https://link.springer.com/collections/aadfaghafb",
@@ -19530,6 +19569,13 @@
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://journals.aps.org/prper/collections/curriculum-development-theory-into-design",
+        "final_url": "https://journals.aps.org/prper/collections/curriculum-development-theory-into-design",
+        "status": "ok",
+        "error": null,
+        "error_code": null
       },
       {
         "url": "https://link.springer.com/collections/ccjfcfehfe",
@@ -19547,13 +19593,6 @@
       },
       {
         "url": "https://www.emerald.com/ijlls/calls-for-submissions/1718/Advancing-coaching-and-mentoring-when-facilitating",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
-      },
-      {
-        "url": "https://journals.sagepub.com/page/ptj/collections/special-issues/index",
         "final_url": null,
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -19609,18 +19648,18 @@
         "error_code": "access_denied"
       },
       {
-        "url": "https://revistas.uned.es/index.php/ried/announcement/view/537",
-        "final_url": "https://revistas.uned.es/index.php/ried/announcement/view/537",
+        "url": "https://www.apa.org/pubs/journals/dhe/call-for-papers-general.html",
+        "final_url": "https://www.apa.org/pubs/journals/dhe/call-for-papers-general.html",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://www.degruyter.com/journal/key/humr/32/2/html",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 405: Not Allowed",
-        "error_code": "network_error"
+        "url": "https://revistas.uned.es/index.php/ried/announcement/view/537",
+        "final_url": "https://revistas.uned.es/index.php/ried/announcement/view/537",
+        "status": "ok",
+        "error": null,
+        "error_code": null
       },
       {
         "url": "https://link.springer.com/collections/gbhdaggaig",
@@ -19637,11 +19676,11 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.apa.org/pubs/journals/sgd/sgd-emerging-directions-pdf",
-        "final_url": "https://www.apa.org/pubs/journals/sgd/sgd-emerging-directions-pdf",
-        "status": "ok",
-        "error": null,
-        "error_code": null
+        "url": "https://www.degruyter.com/journal/key/humr/32/2/html",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 405: Not Allowed",
+        "error_code": "network_error"
       },
       {
         "url": "https://journals.sagepub.com/page/tap/call-for-papers",
@@ -19649,6 +19688,13 @@
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
         "error_code": "access_denied"
+      },
+      {
+        "url": "https://www.nature.com/collections/ebfbjajfgi",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
       },
       {
         "url": "https://link.springer.com/collections/eehhgegdha",
@@ -19700,8 +19746,8 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.apa.org/pubs/journals/dhe/call-for-papers-general.html",
-        "final_url": "https://www.apa.org/pubs/journals/dhe/call-for-papers-general.html",
+        "url": "https://www.apa.org/pubs/journals/law/call-for-papers-general.html",
+        "final_url": "https://www.apa.org/pubs/journals/law/call-for-papers-general.html",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -19728,6 +19774,13 @@
         "error_code": "robots_unavailable"
       },
       {
+        "url": "https://www.apa.org/pubs/journals/hop/call-for-papers-spotlight-section.html",
+        "final_url": "https://www.apa.org/pubs/journals/hop/call-for-papers-spotlight-section.html",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
         "url": "https://journals.sagepub.com/page/jlr/collections/50-anniversary",
         "final_url": null,
         "status": "error",
@@ -19742,13 +19795,6 @@
         "error_code": null
       },
       {
-        "url": "https://journals.sagepub.com/doi/10.1177/20413866261470163",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
-      },
-      {
         "url": "https://link.springer.com/collections/bhgdjahfaa",
         "final_url": null,
         "status": "error",
@@ -19756,11 +19802,11 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.apa.org/pubs/journals/ppm/ppm-this-is-not-fine-pdf.html",
-        "final_url": "https://www.apa.org/pubs/journals/ppm/ppm-this-is-not-fine-pdf.html",
-        "status": "ok",
-        "error": null,
-        "error_code": null
+        "url": "https://journals.sagepub.com/doi/10.1177/20413866261470163",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden",
+        "error_code": "access_denied"
       },
       {
         "url": "https://journals.sagepub.com/page/epa/collections/special-issues?pbEditor=true",
@@ -19777,8 +19823,8 @@
         "error_code": "access_denied"
       },
       {
-        "url": "https://www.apa.org/pubs/journals/met/call-for-papers-tutorials.html",
-        "final_url": "https://www.apa.org/pubs/journals/met/call-for-papers-tutorials.html",
+        "url": "https://www.aom.org/event/amp-call-for-special-issue-papers-turning-implications-into-evidence",
+        "final_url": "https://www.aom.org/event/amp-call-for-special-issue-papers-turning-implications-into-evidence/",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -19805,6 +19851,13 @@
         "error_code": "robots_unavailable"
       },
       {
+        "url": "https://www.apa.org/pubs/journals/sgd/sgd-emerging-directions-pdf",
+        "final_url": "https://www.apa.org/pubs/journals/sgd/sgd-emerging-directions-pdf",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
         "url": "https://journals.sagepub.com/page/ijm/collections/virtual-special-issues/around-the-world",
         "final_url": null,
         "status": "error",
@@ -19812,18 +19865,11 @@
         "error_code": "access_denied"
       },
       {
-        "url": "https://www.aom.org/event/amp-call-for-special-issue-papers-turning-implications-into-evidence",
-        "final_url": "https://www.aom.org/event/amp-call-for-special-issue-papers-turning-implications-into-evidence/",
+        "url": "https://www.apa.org/pubs/journals/met/call-for-papers-tutorials.html",
+        "final_url": "https://www.apa.org/pubs/journals/met/call-for-papers-tutorials.html",
         "status": "ok",
         "error": null,
         "error_code": null
-      },
-      {
-        "url": "https://journals.sagepub.com/pb-assets/cmscontent/JHP/Collapse psychology-Call-for-Abstracts-1758109542.pdf",
-        "final_url": null,
-        "status": "error",
-        "error": "InvalidURL: URL can't contain control characters. '/pb-assets/cmscontent/JHP/Collapse psychology-Call-for-Abstracts-1758109542.pdf' (found at least ' ')",
-        "error_code": "network_error"
       },
       {
         "url": "https://link.springer.com/collections/acjihffegd",
@@ -19833,11 +19879,11 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://ieee-edusociety.org/files/ieeeedusociety/media/documents/call_document/Call%20for%20paper%20ToE%20Special%20Issure%20Coding%2C%20Computational%2C%20Algorithmic%2C%20Design%2C%20Creative%2C%20and%20Critical%20Thinking.pdf",
-        "final_url": "https://ieee-edusociety.org/files/ieeeedusociety/media/documents/call_document/Call%20for%20paper%20ToE%20Special%20Issure%20Coding%2C%20Computational%2C%20Algorithmic%2C%20Design%2C%20Creative%2C%20and%20Critical%20Thinking.pdf",
-        "status": "ok",
-        "error": null,
-        "error_code": null
+        "url": "https://journals.sagepub.com/pb-assets/cmscontent/JHP/Collapse psychology-Call-for-Abstracts-1758109542.pdf",
+        "final_url": null,
+        "status": "error",
+        "error": "InvalidURL: URL can't contain control characters. '/pb-assets/cmscontent/JHP/Collapse psychology-Call-for-Abstracts-1758109542.pdf' (found at least ' ')",
+        "error_code": "network_error"
       },
       {
         "url": "https://www.emerald.com/et/calls-for-submissions/1885/Beyond-start-up-enterprise-and-entrepreneurship",
@@ -19868,8 +19914,8 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.apa.org/pubs/journals/mot/6220305",
-        "final_url": "https://www.apa.org/pubs/journals/mot/6220305",
+        "url": "https://ieee-edusociety.org/files/ieeeedusociety/media/documents/call_document/Call%20for%20paper%20ToE%20Special%20Issure%20Coding%2C%20Computational%2C%20Algorithmic%2C%20Design%2C%20Creative%2C%20and%20Critical%20Thinking.pdf",
+        "final_url": "https://ieee-edusociety.org/files/ieeeedusociety/media/documents/call_document/Call%20for%20paper%20ToE%20Special%20Issure%20Coding%2C%20Computational%2C%20Algorithmic%2C%20Design%2C%20Creative%2C%20and%20Critical%20Thinking.pdf",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -19889,127 +19935,127 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/dfidijhddb",
+        "url": "https://link.springer.com/collections/gjcgeijgii",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/gbjfaejjdg",
+        "url": "https://link.springer.com/collections/djeaiahcga",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/cccbbaigdh",
+        "url": "https://link.springer.com/collections/idhbebgicc",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.degruyterbrill.com/publication/journal_key/IRAL/downloadAsset/IRAL_CFP%20Special%20Issue%20on%20Trauma%20informed%20care%20in%20TESOL_CfA.pdf",
-        "final_url": "https://www.degruyterbrill.com/publication/journal_key/IRAL/downloadAsset/IRAL_CFP%20Special%20Issue%20on%20Trauma%20informed%20care%20in%20TESOL_CfA.pdf",
+        "url": "https://www.bps.org.uk/collections/animals",
+        "final_url": "https://www.bps.org.uk/collections/animals",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://link.springer.com/collections/dbdbdjjaha",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://www.bps.org.uk/collections/covid-19-psychological-perspectives",
-        "final_url": "https://www.bps.org.uk/collections/covid-19-psychological-perspectives",
+        "url": "https://www.apa.org/pubs/journals/mot/6220305",
+        "final_url": "https://www.apa.org/pubs/journals/mot/6220305",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://link.springer.com/collections/jfcecgegib",
+        "url": "https://link.springer.com/collections/gicdfgeehg",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/special-issues/trends-insights-and-challenges-in-social-psychology",
-        "final_url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/special-issues/trends-insights-and-challenges-in-social-psychology",
+        "url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/special-issues/the-future-of-work-and-organizational-psychology-emerging-issues-and-trends",
+        "final_url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/special-issues/the-future-of-work-and-organizational-psychology-emerging-issues-and-trends",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://link.springer.com/collections/jcfefcgbci",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://www.nature.com/collections/hfijihihba",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://link.springer.com/collections/bhiihgedha",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://www.lltjournal.org/collection/col_10125_35870",
-        "final_url": "https://www.lltjournal.org/collection/col_10125_35870/",
+        "url": "https://www.lltjournal.org/collection/col_10125_104530",
+        "final_url": "https://www.lltjournal.org/collection/col_10125_104530/",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://www.ovid.com/jnls/bsam/collections/13",
-        "final_url": "https://www.ovid.com/jnls/bsam/collections/13",
+        "url": "https://journals.sagepub.com/pb-assets/cmscontent/EMS/EMS 2022 CFPs-1698061185387.pdf",
+        "final_url": null,
+        "status": "error",
+        "error": "InvalidURL: URL can't contain control characters. '/pb-assets/cmscontent/EMS/EMS 2022 CFPs-1698061185387.pdf' (found at least ' ')",
+        "error_code": "network_error"
+      },
+      {
+        "url": "https://link.springer.com/collections/jbgigibchd",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://www.ovid.com/jnls/bsam/collections/33",
+        "final_url": "https://www.ovid.com/jnls/bsam/collections/33",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://journals.sagepub.com/page/eeg/call-for-papers/100th-anniversary?_gl=1%2A5czgz2%2A_gcl_au%2AMzYyNTQzMzg3LjE3NDQ3MTcxNDM.%2A_ga%2AMTE5MDg4MjQxMi4xNzQ0NzE3MTQz%2A_ga_60R758KFDG%2AczE3NDczOTQwNjEkbzI3JGcxJHQxNzQ3Mzk5NjU1JGo1JGwwJGgxNDU1MzI1OTg1",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
-      },
-      {
-        "url": "https://link.springer.com/collections/cfabgigada",
+        "url": "https://link.springer.com/collections/ccbcjgfghf",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/hjicggjhbi",
+        "url": "https://www.degruyterbrill.com/journal/key/iral/63/1/html",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 405: Not Allowed",
+        "error_code": "network_error"
+      },
+      {
+        "url": "https://link.springer.com/collections/fdcdffgfeg",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.nature.com/collections/bbeidaacgj",
+        "url": "https://link.springer.com/collections/hfchdijeda",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://journals.aps.org/prper/collections/preparing-and-supporting-university-physics-educators",
-        "final_url": "https://journals.aps.org/prper/collections/preparing-and-supporting-university-physics-educators",
+        "url": "https://link.springer.com/collections/afcaadgebg",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://www.nature.com/collections/hfiahhicfb",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://www.apa.org/pubs/journals/rel/5850905",
+        "final_url": "https://www.apa.org/pubs/journals/rel/5850905",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -20020,13 +20066,6 @@
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
         "error_code": "access_denied"
-      },
-      {
-        "url": "https://www.apa.org/pubs/journals/rel/5850905",
-        "final_url": "https://www.apa.org/pubs/journals/rel/5850905",
-        "status": "ok",
-        "error": null,
-        "error_code": null
       },
       {
         "url": "https://link.springer.com/collections/dbfjdijaae",
@@ -20043,11 +20082,11 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://journals.sagepub.com/page/ptj/collections/special-issues/index?pbEditor=true",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
+        "url": "https://journals.aps.org/prper/collections/gender-in-physics",
+        "final_url": "https://journals.aps.org/prper/collections/gender-in-physics",
+        "status": "ok",
+        "error": null,
+        "error_code": null
       },
       {
         "url": "https://www.emerald.com/etpc/calls-for-submissions/1715/The-Unbounded-Journey-The-Teaching-of-First",
@@ -20078,18 +20117,18 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.hogrefe.com/index.php?eID=dumpFile&t=f&f=20702&token=d0966394b21cda34c940138960ac22bebaf953c3",
-        "final_url": "https://www.hogrefe.com/index.php?eID=dumpFile&t=f&f=20702&token=d0966394b21cda34c940138960ac22bebaf953c3",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
         "url": "https://www.apa.org/pubs/journals/lat/call-for-papers-general.html",
         "final_url": "https://www.apa.org/pubs/journals/lat/call-for-papers-general.html",
         "status": "ok",
         "error": null,
         "error_code": null
+      },
+      {
+        "url": "https://journals.sagepub.com/page/ptj/collections/special-issues/index?pbEditor=true",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden",
+        "error_code": "access_denied"
       },
       {
         "url": "https://link.springer.com/collections/ddbdbbbbgc",
@@ -20120,6 +20159,13 @@
         "error_code": "robots_unavailable"
       },
       {
+        "url": "https://www.hogrefe.com/index.php?eID=dumpFile&t=f&f=20702&token=d0966394b21cda34c940138960ac22bebaf953c3",
+        "final_url": "https://www.hogrefe.com/index.php?eID=dumpFile&t=f&f=20702&token=d0966394b21cda34c940138960ac22bebaf953c3",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
         "url": "https://link.springer.com/collections/hchbjiaife",
         "final_url": null,
         "status": "error",
@@ -20148,11 +20194,11 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.apa.org/pubs/journals/pro/2154208",
-        "final_url": "https://www.apa.org/pubs/journals/pro/2154208",
-        "status": "ok",
-        "error": null,
-        "error_code": null
+        "url": "https://www.degruyter.com/journal/key/humr/34/2/html",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 405: Not Allowed",
+        "error_code": "network_error"
       },
       {
         "url": "https://link.springer.com/collections/jaefbhgjbd",
@@ -20169,11 +20215,11 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.degruyter.com/journal/key/humr/34/2/html",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 405: Not Allowed",
-        "error_code": "network_error"
+        "url": "https://www.apa.org/pubs/journals/pro/2154208",
+        "final_url": "https://www.apa.org/pubs/journals/pro/2154208",
+        "status": "ok",
+        "error": null,
+        "error_code": null
       },
       {
         "url": "https://journals.sagepub.com/pb-assets/cmscontent/TAP/Call for Papers Special Issue Theory and Psychology-1770188967410.pdf",
@@ -20181,6 +20227,13 @@
         "status": "error",
         "error": "InvalidURL: URL can't contain control characters. '/pb-assets/cmscontent/TAP/Call for Papers Special Issue Theory and Psychology-1770188967410.pdf' (found at least ' ')",
         "error_code": "network_error"
+      },
+      {
+        "url": "https://www.nature.com/collections/ehdfjjgcef",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
       },
       {
         "url": "https://link.springer.com/journal/11858/updates/53762116",
@@ -20246,18 +20299,18 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.apa.org/pubs/highlights/spotlight/lucid-dreams.html",
-        "final_url": "https://www.apa.org/pubs/highlights/spotlight/lucid-dreams.html",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
         "url": "https://journals.sagepub.com/page/opr/call-for-papers",
         "final_url": null,
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
         "error_code": "access_denied"
+      },
+      {
+        "url": "https://www.apa.org/pubs/highlights/spotlight/lucid-dreams.html",
+        "final_url": "https://www.apa.org/pubs/highlights/spotlight/lucid-dreams.html",
+        "status": "ok",
+        "error": null,
+        "error_code": null
       },
       {
         "url": "https://link.springer.com/collections/iifhjgahbd",
@@ -20267,18 +20320,18 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.apa.org/pubs/journals/bul/illuminate-psychological-phenomena.html",
-        "final_url": "https://www.apa.org/pubs/journals/bul/illuminate-psychological-phenomena.html",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
         "url": "https://journals.sagepub.com/page/epa/special-issues/index?pbEditor=true",
         "final_url": null,
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
         "error_code": "access_denied"
+      },
+      {
+        "url": "https://www.apa.org/pubs/journals/bul/illuminate-psychological-phenomena.html",
+        "final_url": "https://www.apa.org/pubs/journals/bul/illuminate-psychological-phenomena.html",
+        "status": "ok",
+        "error": null,
+        "error_code": null
       },
       {
         "url": "https://www.aom.org/event/amp-open-call-for-papers",
@@ -20302,8 +20355,8 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.apa.org/pubs/journals/law/call-for-papers-general.html",
-        "final_url": "https://www.apa.org/pubs/journals/law/call-for-papers-general.html",
+        "url": "https://www.cambridge.org/core/journals/recall/announcements/call-for-papers/call-for-papers-special-issue-may-2025",
+        "final_url": "https://www.cambridge.org/core/journals/recall/announcements/call-for-papers/call-for-papers-special-issue-may-2025",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -20316,8 +20369,8 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.cambridge.org/core/journals/recall/announcements/call-for-papers/call-for-papers-special-issue-may-2025",
-        "final_url": "https://www.cambridge.org/core/journals/recall/announcements/call-for-papers/call-for-papers-special-issue-may-2025",
+        "url": "https://ieee-edusociety.org/files/ieeeedusociety/media/documents/call_document/CallForPapers_Math_Revised_June27%20%281%29.pdf",
+        "final_url": "https://ieee-edusociety.org/files/ieeeedusociety/media/documents/call_document/CallForPapers_Math_Revised_June27%20%281%29.pdf",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -20358,6 +20411,13 @@
         "error_code": "robots_unavailable"
       },
       {
+        "url": "https://www.press.uillinois.edu/journals?id=ajp",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: <urlopen error timed out>",
+        "error_code": "robots_unavailable"
+      },
+      {
         "url": "https://link.springer.com/collections/cfbbdhfibe",
         "final_url": null,
         "status": "error",
@@ -20365,112 +20425,35 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/dgfefadcbg",
+        "url": "https://link.springer.com/collections/hdfidfeheh",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/gdiafiiajc",
+        "url": "https://link.springer.com/collections/eehigjbied",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/cdaegfcjbc",
+        "url": "https://link.springer.com/collections/jdghcijdce",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://ieee-edusociety.org/files/ieeeedusociety/media/documents/call_document/CallForPapers_Math_Revised_June27%20%281%29.pdf",
-        "final_url": "https://ieee-edusociety.org/files/ieeeedusociety/media/documents/call_document/CallForPapers_Math_Revised_June27%20%281%29.pdf",
+        "url": "https://www.bps.org.uk/collections/being-assistant-psychologist",
+        "final_url": "https://www.bps.org.uk/collections/being-assistant-psychologist",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://link.springer.com/collections/dddagcjegf",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://www.bps.org.uk/collections/culture",
-        "final_url": "https://www.bps.org.uk/collections/culture",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://link.springer.com/journal/10649/updates/26959150",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://link.springer.com/journal/10639/updates/23684714",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://www.nature.com/collections/jjaaddejcg",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://link.springer.com/collections/cafdfjcadg",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://www.degruyterbrill.com/publication/journal_key/IRAL/downloadAsset/IRAL_Instructions%20for%20Authors%20IRAL.pdf",
-        "final_url": "https://www.degruyterbrill.com/publication/journal_key/IRAL/downloadAsset/IRAL_Instructions%20for%20Authors%20IRAL.pdf",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.ovid.com/jnls/bsam/collections/16",
-        "final_url": "https://www.ovid.com/jnls/bsam/collections/16",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://journals.sagepub.com/page/std/calls-for-papers/contemporary_innovations_and_challenges_in_sexual_health",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
-      },
-      {
-        "url": "https://link.springer.com/collections/dabijigchi",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://link.springer.com/collections/jiffieibbh",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://www.nature.com/collections/bhedgiidhc",
+        "url": "https://link.springer.com/collections/hjgiefgahc",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
@@ -20484,18 +20467,81 @@
         "error_code": null
       },
       {
-        "url": "https://journals.aps.org/prper/collections/qualitative-methods-PER",
-        "final_url": "https://journals.aps.org/prper/collections/qualitative-methods-PER",
+        "url": "https://www.lltjournal.org/collection/col_10125_106326",
+        "final_url": "https://www.lltjournal.org/collection/col_10125_106326/",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://www.lltjournal.org/collection/col_10125_35876",
-        "final_url": "https://www.lltjournal.org/collection/col_10125_35876/",
+        "url": "https://journals.sagepub.com/pb-assets/cmscontent/JGP/J23_1824%20JGP%20Quick%20CFP%20Flyer_PASS2-1680034814747.pdf",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden",
+        "error_code": "access_denied"
+      },
+      {
+        "url": "https://link.springer.com/collections/jciiecgjcg",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://www.ovid.com/jnls/bsam/collections/35",
+        "final_url": "https://www.ovid.com/jnls/bsam/collections/35",
         "status": "ok",
         "error": null,
         "error_code": null
+      },
+      {
+        "url": "https://link.springer.com/collections/cifaijifaa",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://link.springer.com/collections/gbbaachgca",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://link.springer.com/collections/iadjbfjefj",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://link.springer.com/collections/cecffafeag",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://www.nature.com/collections/qtqsgncqqp",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://journals.aps.org/prper/collections/racial-diversity-and-identity",
+        "final_url": "https://journals.aps.org/prper/collections/racial-diversity-and-identity",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://journals.sagepub.com/page/sap/collections/stateofscience",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden",
+        "error_code": "access_denied"
       },
       {
         "url": "https://link.springer.com/collections/ejeacbjgdg",
@@ -20512,11 +20558,11 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://journals.sagepub.com/page/sap/collections/stateofscience",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
+        "url": "https://www.apa.org/pubs/journals/npe/from-data-claims.html",
+        "final_url": "https://www.apa.org/pubs/journals/npe/from-data-claims.html",
+        "status": "ok",
+        "error": null,
+        "error_code": null
       },
       {
         "url": "https://link.springer.com/collections/fjaaeaaiaf",
@@ -20540,11 +20586,11 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.apa.org/pubs/journals/mot/call-for-papers-general.html",
-        "final_url": "https://www.apa.org/pubs/journals/mot/call-for-papers-general.html",
-        "status": "ok",
-        "error": null,
-        "error_code": null
+        "url": "https://journals.sagepub.com/toc/ptja/53/2",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden",
+        "error_code": "access_denied"
       },
       {
         "url": "https://link.springer.com/collections/hgjajajdbb",
@@ -20575,8 +20621,8 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.hogrefe.com/index.php?eID=dumpFile&t=f&f=21120&token=f0f198e25825ffbff308c4a1e0d6715a58351f76",
-        "final_url": "https://www.hogrefe.com/index.php?eID=dumpFile&t=f&f=21120&token=f0f198e25825ffbff308c4a1e0d6715a58351f76",
+        "url": "https://ieee-edusociety.org/files/ieeeedusociety/media/documents/call_document/TLT%20SI%20Call%20Extended.pdf",
+        "final_url": "https://ieee-edusociety.org/files/ieeeedusociety/media/documents/call_document/TLT%20SI%20Call%20Extended.pdf",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -20589,18 +20635,18 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://ieee-edusociety.org/files/ieeeedusociety/media/documents/call_document/TLT%20SI%20Call%20Extended.pdf",
-        "final_url": "https://ieee-edusociety.org/files/ieeeedusociety/media/documents/call_document/TLT%20SI%20Call%20Extended.pdf",
+        "url": "https://www.hogrefe.com/index.php?eID=dumpFile&t=f&f=21120&token=f0f198e25825ffbff308c4a1e0d6715a58351f76",
+        "final_url": "https://www.hogrefe.com/index.php?eID=dumpFile&t=f&f=21120&token=f0f198e25825ffbff308c4a1e0d6715a58351f76",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://journals.sagepub.com/toc/ptja/53/2",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
+        "url": "https://www.apa.org/pubs/journals/ppm/ppm-this-is-not-fine-pdf.html",
+        "final_url": "https://www.apa.org/pubs/journals/ppm/ppm-this-is-not-fine-pdf.html",
+        "status": "ok",
+        "error": null,
+        "error_code": null
       },
       {
         "url": "https://link.springer.com/journal/11092/updates/27097808",
@@ -20617,11 +20663,11 @@
         "error_code": "network_error"
       },
       {
-        "url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/announcements/call-for-papers",
-        "final_url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/announcements/call-for-papers",
-        "status": "ok",
-        "error": null,
-        "error_code": null
+        "url": "https://www.nature.com/collections/fcdfdgcdfg",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
       },
       {
         "url": "https://journals.sagepub.com/pb-assets/PDF/Call_for_Manuscripts_Gen_Z_Teacher_Education-6.3.26-1780898363417.pdf",
@@ -20629,6 +20675,13 @@
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
         "error_code": "access_denied"
+      },
+      {
+        "url": "https://www.apa.org/pubs/journals/mot/call-for-papers-general.html",
+        "final_url": "https://www.apa.org/pubs/journals/mot/call-for-papers-general.html",
+        "status": "ok",
+        "error": null,
+        "error_code": null
       },
       {
         "url": "https://link.springer.com/collections/efcbjfhdid",
@@ -20652,18 +20705,18 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.apa.org/pubs/journals/rel/5851005",
-        "final_url": "https://www.apa.org/pubs/journals/rel/5851005",
+        "url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/announcements/call-for-papers",
+        "final_url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/announcements/call-for-papers",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://journals.sagepub.com/page/opr/collections/special-forum-on-good-theory",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
+        "url": "https://www.apa.org/pubs/journals/pro/call-for-papers-general.html",
+        "final_url": "https://www.apa.org/pubs/journals/pro/call-for-papers-general.html",
+        "status": "ok",
+        "error": null,
+        "error_code": null
       },
       {
         "url": "https://link.springer.com/collections/egfihbehhb",
@@ -20673,11 +20726,11 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.cambridge.org/core/journals/recall/announcements/call-for-papers/call-for-papers-special-issue-may-2027",
-        "final_url": "https://www.cambridge.org/core/journals/recall/announcements/call-for-papers/call-for-papers-special-issue-may-2027",
-        "status": "ok",
-        "error": null,
-        "error_code": null
+        "url": "https://journals.sagepub.com/page/opr/collections/special-forum-on-good-theory",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden",
+        "error_code": "access_denied"
       },
       {
         "url": "https://link.springer.com/collections/dagdabiaih",
@@ -20722,123 +20775,109 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/edbjjdebia",
+        "url": "https://link.springer.com/collections/hicjahbhgb",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/gedbaiibja",
+        "url": "https://link.springer.com/collections/egeghiajba",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/ceedjedahh",
+        "url": "https://link.springer.com/collections/jicjeicibh",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.apa.org/pubs/journals/npe/from-data-claims.html",
-        "final_url": "https://www.apa.org/pubs/journals/npe/from-data-claims.html",
+        "url": "https://www.cambridge.org/core/journals/recall/announcements/call-for-papers/call-for-papers-special-issue-may-2027",
+        "final_url": "https://www.cambridge.org/core/journals/recall/announcements/call-for-papers/call-for-papers-special-issue-may-2027",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://link.springer.com/collections/ebagfidbbc",
+        "url": "https://link.springer.com/collections/iddjabccja",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.bps.org.uk/collections/educational-psychology",
-        "final_url": "https://www.bps.org.uk/collections/educational-psychology",
+        "url": "https://www.bps.org.uk/collections/big-picture",
+        "final_url": "https://www.bps.org.uk/collections/big-picture",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://link.springer.com/journal/10649/updates/27436670",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://link.springer.com/journal/10639/updates/25598394",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://link.springer.com/collections/cgfhfcafai",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://www.degruyterbrill.com/publication/journal_key/IRAL/downloadAsset/IRAL_Manuscript%20Checklist%20IRAL.pdf",
-        "final_url": "https://www.degruyterbrill.com/publication/journal_key/IRAL/downloadAsset/IRAL_Manuscript%20Checklist%20IRAL.pdf",
+        "url": "https://www.ovid.com/jnls/bsam/collections/36",
+        "final_url": "https://www.ovid.com/jnls/bsam/collections/36",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://www.ovid.com/jnls/bsam/collections/18",
-        "final_url": "https://www.ovid.com/jnls/bsam/collections/18",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://journals.sagepub.com/page/tea/collections/virtual-special-issues/termis-eu-2026",
+        "url": "https://journals.sagepub.com/pb-assets/cmscontent/JTE/JTE-Call4Proposals-Residencies_76.4-1732106443263.pdf",
         "final_url": null,
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
         "error_code": "access_denied"
       },
       {
-        "url": "https://link.springer.com/collections/dhigbaffja",
+        "url": "https://link.springer.com/journal/40596/updates/27786804",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/journal/12144/updates/25166964",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://www.nature.com/collections/bidghfhiga",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://www.apa.org/pubs/journals/aap/aap-promoting-health-well-being-forcibly-displaced-asian-populations-pdf",
-        "final_url": "https://www.apa.org/pubs/journals/aap/aap-promoting-health-well-being-forcibly-displaced-asian-populations-pdf",
+        "url": "https://journals.aps.org/prper/collections/upper-division-physics-courses",
+        "final_url": "https://journals.aps.org/prper/collections/upper-division-physics-courses",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://journals.aps.org/prper/collections/quantitative-methods",
-        "final_url": "https://journals.aps.org/prper/collections/quantitative-methods",
+        "url": "https://link.springer.com/collections/decdibgiag",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://www.apa.org/pubs/journals/rel/5851005",
+        "final_url": "https://www.apa.org/pubs/journals/rel/5851005",
         "status": "ok",
         "error": null,
         "error_code": null
+      },
+      {
+        "url": "https://link.springer.com/collections/ghdeihfbjb",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://link.springer.com/collections/ihahaehaeg",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://link.springer.com/collections/daafdgbgjg",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
       },
       {
         "url": "https://journals.sagepub.com/pb-assets/PDF/Special Issue - Call for Papers 2024-1705907387.pdf",
@@ -20846,6 +20885,13 @@
         "status": "error",
         "error": "InvalidURL: URL can't contain control characters. '/pb-assets/PDF/Special Issue - Call for Papers 2024-1705907387.pdf' (found at least ' ')",
         "error_code": "network_error"
+      },
+      {
+        "url": "https://www.lltjournal.org/collection/col_10125_108158",
+        "final_url": "https://www.lltjournal.org/collection/col_10125_108158/",
+        "status": "ok",
+        "error": null,
+        "error_code": null
       },
       {
         "url": "https://link.springer.com/collections/fdgfgjjhbd",
@@ -20876,8 +20922,8 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.lltjournal.org/collection/col_10125_35877",
-        "final_url": "https://www.lltjournal.org/collection/col_10125_35877/",
+        "url": "https://www.degruyterbrill.com/publication/journal_key/IRAL/downloadAsset/IRAL_Mouton_journal_stylesheet.pdf",
+        "final_url": "https://www.degruyterbrill.com/publication/journal_key/IRAL/downloadAsset/IRAL_Mouton_journal_stylesheet.pdf",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -20904,8 +20950,8 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.hogrefe.com/index.php?eID=dumpFile&t=f&f=21413&token=c8d8381f4e5b18f9954a472ed66addb153594af1",
-        "final_url": "https://www.hogrefe.com/index.php?eID=dumpFile&t=f&f=21413&token=c8d8381f4e5b18f9954a472ed66addb153594af1",
+        "url": "https://ieee-edusociety.org/files/ieeeedusociety/media/documents/call_document/TLTAGI_SI_fornewsletter-dx-20240210%20%281%29.pdf",
+        "final_url": "https://ieee-edusociety.org/files/ieeeedusociety/media/documents/call_document/TLTAGI_SI_fornewsletter-dx-20240210%20%281%29.pdf",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -20925,8 +20971,8 @@
         "error_code": "network_error"
       },
       {
-        "url": "https://ieee-edusociety.org/files/ieeeedusociety/media/documents/call_document/TLTAGI_SI_fornewsletter-dx-20240210%20%281%29.pdf",
-        "final_url": "https://ieee-edusociety.org/files/ieeeedusociety/media/documents/call_document/TLTAGI_SI_fornewsletter-dx-20240210%20%281%29.pdf",
+        "url": "https://www.hogrefe.com/index.php?eID=dumpFile&t=f&f=21413&token=c8d8381f4e5b18f9954a472ed66addb153594af1",
+        "final_url": "https://www.hogrefe.com/index.php?eID=dumpFile&t=f&f=21413&token=c8d8381f4e5b18f9954a472ed66addb153594af1",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -20939,14 +20985,14 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.apa.org/pubs/journals/amp/amp-ethical-challenges-use-digital-technologies-pdf",
-        "final_url": "https://www.apa.org/pubs/journals/amp/amp-ethical-challenges-use-digital-technologies-pdf",
+        "url": "https://www.apa.org/pubs/journals/aap/aap-promoting-health-well-being-forcibly-displaced-asian-populations-pdf",
+        "final_url": "https://www.apa.org/pubs/journals/aap/aap-promoting-health-well-being-forcibly-displaced-asian-populations-pdf",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://www.nature.com/collections/ebfbjajfgi",
+        "url": "https://www.nature.com/collections/fdafiejgbg",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
@@ -20960,8 +21006,8 @@
         "error_code": "network_error"
       },
       {
-        "url": "https://www.apa.org/pubs/journals/mot/mot-advances-reactance-theory-research-pdf",
-        "final_url": "https://www.apa.org/pubs/journals/mot/mot-advances-reactance-theory-research-pdf",
+        "url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/announcements/call-for-papers/call-for-papers-special-issue-on-psychopathy",
+        "final_url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/announcements/call-for-papers/call-for-papers-special-issue-on-psychopathy",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -20988,11 +21034,11 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://journals.sagepub.com/pb-assets/PDF/OPR AI Special Issue-1729063461.pdf",
-        "final_url": null,
-        "status": "error",
-        "error": "InvalidURL: URL can't contain control characters. '/pb-assets/PDF/OPR AI Special Issue-1729063461.pdf' (found at least ' ')",
-        "error_code": "network_error"
+        "url": "https://www.apa.org/pubs/journals/amp/amp-ethical-challenges-use-digital-technologies-pdf",
+        "final_url": "https://www.apa.org/pubs/journals/amp/amp-ethical-challenges-use-digital-technologies-pdf",
+        "status": "ok",
+        "error": null,
+        "error_code": null
       },
       {
         "url": "https://link.springer.com/collections/ghbffajgae",
@@ -21002,14 +21048,21 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/announcements/call-for-papers/call-for-papers-special-issue-on-psychopathy",
-        "final_url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/announcements/call-for-papers/call-for-papers-special-issue-on-psychopathy",
-        "status": "ok",
-        "error": null,
-        "error_code": null
+        "url": "https://journals.sagepub.com/pb-assets/PDF/OPR AI Special Issue-1729063461.pdf",
+        "final_url": null,
+        "status": "error",
+        "error": "InvalidURL: URL can't contain control characters. '/pb-assets/PDF/OPR AI Special Issue-1729063461.pdf' (found at least ' ')",
+        "error_code": "network_error"
       },
       {
         "url": "https://link.springer.com/collections/fgdedfhejh",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://www.nature.com/collections/baafedhbdj",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
@@ -21051,92 +21104,85 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/edgddbfgig",
+        "url": "https://link.springer.com/collections/hjidiijide",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/hehedeehgb",
+        "url": "https://link.springer.com/collections/fdccffagib",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/cfeagjgibd",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://link.springer.com/collections/edjafgjdci",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://www.bps.org.uk/collections/forensic-psychology",
-        "final_url": "https://www.bps.org.uk/collections/forensic-psychology",
+        "url": "https://www.apa.org/pubs/journals/mot/mot-advances-reactance-theory-research-pdf",
+        "final_url": "https://www.apa.org/pubs/journals/mot/mot-advances-reactance-theory-research-pdf",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://link.springer.com/collections/ddeiibiffh",
+        "url": "https://link.springer.com/collections/jaiiiijfci",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.lltjournal.org/collection/col_10125_35878",
-        "final_url": "https://www.lltjournal.org/collection/col_10125_35878/",
+        "url": "https://www.bps.org.uk/collections/books",
+        "final_url": "https://www.bps.org.uk/collections/books",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://www.ovid.com/jnls/bsam/collections/23",
-        "final_url": "https://www.ovid.com/jnls/bsam/collections/23",
+        "url": "https://www.ovid.com/jnls/bsam/collections/56",
+        "final_url": "https://www.ovid.com/jnls/bsam/collections/56",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://journals.sagepub.com/pb-assets/PDF/Call%20for%20Papers%20IDS2-1745462333317.pdf",
+        "url": "https://journals.sagepub.com/pb-assets/cmscontent/LDQ/LDQ_AI_Special%20Series%20flyer%20(002).pdf",
         "final_url": null,
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
         "error_code": "access_denied"
       },
       {
-        "url": "https://link.springer.com/collections/egbabghbef",
+        "url": "https://link.springer.com/journal/40596/updates/27840814",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/journal/12144/updates/27784544",
+        "url": "https://link.springer.com/collections/eaaeididie",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.nature.com/collections/bjbahbehih",
+        "url": "https://link.springer.com/collections/acifjjjhcj",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.apa.org/pubs/journals/pro/pro-special-issue-older-adults-pdf",
-        "final_url": "https://www.apa.org/pubs/journals/pro/pro-special-issue-older-adults-pdf",
+        "url": "https://link.springer.com/collections/dbibffdbcf",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://www.lltjournal.org/collection/col_10125_110089",
+        "final_url": "https://www.lltjournal.org/collection/col_10125_110089/",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -21226,14 +21272,14 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.apa.org/pubs/journals/aap/asian-america-covid-19-pandemic-part-2",
-        "final_url": "https://www.apa.org/pubs/journals/aap/asian-america-covid-19-pandemic-part-2",
+        "url": "https://www.apa.org/pubs/journals/pro/pro-special-issue-older-adults-pdf",
+        "final_url": "https://www.apa.org/pubs/journals/pro/pro-special-issue-older-adults-pdf",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://www.nature.com/collections/ehdfjjgcef",
+        "url": "https://www.nature.com/collections/hcgcigfaga",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
@@ -21247,11 +21293,11 @@
         "error_code": "access_denied"
       },
       {
-        "url": "https://www.apa.org/pubs/journals/pro/call-for-papers-general.html",
-        "final_url": "https://www.apa.org/pubs/journals/pro/call-for-papers-general.html",
-        "status": "ok",
-        "error": null,
-        "error_code": null
+        "url": "https://journals.sagepub.com/topic/collections/jlr-1-print_environment/jlr",
+        "final_url": null,
+        "status": "error",
+        "error": "HTTPError: HTTP Error 403: Forbidden",
+        "error_code": "access_denied"
       },
       {
         "url": "https://link.springer.com/collections/ihefahbdge",
@@ -21269,6 +21315,13 @@
       },
       {
         "url": "https://link.springer.com/journal/10763/updates/27089010",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://www.nature.com/collections/bbeidaacgj",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
@@ -21296,11 +21349,11 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://journals.sagepub.com/topic/collections/jlr-1-print_environment/jlr",
-        "final_url": null,
-        "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
+        "url": "https://journals.aps.org/prper/collections/PER-LAB",
+        "final_url": "https://journals.aps.org/prper/collections/PER-LAB",
+        "status": "ok",
+        "error": null,
+        "error_code": null
       },
       {
         "url": "https://www.nature.com/collections/gigbgjdaid",
@@ -21317,92 +21370,85 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/gbdfeibbhf",
+        "url": "https://link.springer.com/collections/ihiiajiehg",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/iahcebadei",
+        "url": "https://link.springer.com/collections/fhbjafcjge",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/ddadfbbgde",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://link.springer.com/collections/egdgbbhadd",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://www.bps.org.uk/collections/health-psychology",
-        "final_url": "https://www.bps.org.uk/collections/health-psychology",
+        "url": "https://www.bps.org.uk/collections/climate-and-environment",
+        "final_url": "https://www.bps.org.uk/collections/climate-and-environment",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://link.springer.com/collections/djadgjddbd",
+        "url": "https://link.springer.com/collections/jhjahfdcfe",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.lltjournal.org/collection/col_10125_35881",
-        "final_url": "https://www.lltjournal.org/collection/col_10125_35881/",
+        "url": "https://www.lltjournal.org/collection/col_10125_111242",
+        "final_url": "https://www.lltjournal.org/collection/col_10125_111242/",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://journals.aps.org/prper/collections/PER-LAB",
-        "final_url": "https://journals.aps.org/prper/collections/PER-LAB",
+        "url": "https://www.ovid.com/jnls/bsam/collections/59",
+        "final_url": "https://www.ovid.com/jnls/bsam/collections/59",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://journals.sagepub.com/pb-assets/PDF/PMI1323%20Call%20for%20Papers%20Sustainability%20by%20Projects%20final-1780399322373.pdf",
+        "url": "https://journals.sagepub.com/pb-assets/cmscontent/MIE/MiE Special Issue call out-1787122128663.pdf",
         "final_url": null,
         "status": "error",
-        "error": "HTTPError: HTTP Error 403: Forbidden",
-        "error_code": "access_denied"
+        "error": "InvalidURL: URL can't contain control characters. '/pb-assets/cmscontent/MIE/MiE Special Issue call out-1787122128663.pdf' (found at least ' ')",
+        "error_code": "network_error"
       },
       {
-        "url": "https://link.springer.com/collections/fjjdchhjch",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://link.springer.com/journal/12144/updates/27809662",
+        "url": "https://link.springer.com/collections/eiciahgaib",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.nature.com/collections/fgadegjjbe",
+        "url": "https://link.springer.com/collections/babhddedch",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.ovid.com/jnls/bsam/collections/25",
-        "final_url": "https://www.ovid.com/jnls/bsam/collections/25",
+        "url": "https://link.springer.com/collections/aeeahbbfdh",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://link.springer.com/collections/dcdbjehcbb",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://www.apa.org/pubs/journals/aap/asian-america-covid-19-pandemic-part-2",
+        "final_url": "https://www.apa.org/pubs/journals/aap/asian-america-covid-19-pandemic-part-2",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -21478,14 +21524,14 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.apa.org/pubs/journals/mot/mot-aggressive-motivation-pdf",
-        "final_url": "https://www.apa.org/pubs/journals/mot/mot-aggressive-motivation-pdf",
+        "url": "https://www.apa.org/pubs/journals/amp/amp-foundational-contributions-black-scholars-psychology-pdf",
+        "final_url": "https://www.apa.org/pubs/journals/amp/amp-foundational-contributions-black-scholars-psychology-pdf",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://www.nature.com/collections/fcdfdgcdfg",
+        "url": "https://www.nature.com/collections/hfijihihba",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
@@ -21513,6 +21559,13 @@
         "error_code": "robots_unavailable"
       },
       {
+        "url": "https://www.nature.com/collections/bhedgiidhc",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
         "url": "https://link.springer.com/collections/ceggfffefi",
         "final_url": null,
         "status": "error",
@@ -21527,8 +21580,8 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://journals.aps.org/prper/collections/PER_QUANTUM",
-        "final_url": "https://journals.aps.org/prper/collections/PER_QUANTUM",
+        "url": "https://www.apa.org/pubs/journals/mot/mot-aggressive-motivation-pdf",
+        "final_url": "https://www.apa.org/pubs/journals/mot/mot-aggressive-motivation-pdf",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -21541,85 +21594,85 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/gbhdfdhafb",
+        "url": "https://link.springer.com/collections/jhcbjebeaj",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/jefbgcgcae",
+        "url": "https://link.springer.com/collections/fjghfjjidc",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/collections/ddifaeigcd",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://link.springer.com/collections/hfjbcfejha",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://www.bps.org.uk/collections/looking-back",
-        "final_url": "https://www.bps.org.uk/collections/looking-back",
+        "url": "https://www.bps.org.uk/collections/clinical-psychology",
+        "final_url": "https://www.bps.org.uk/collections/clinical-psychology",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://link.springer.com/collections/ejfadhfjbh",
+        "url": "https://link.springer.com/collections/jiddiefbgj",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.lltjournal.org/collection/col_10125_35882",
-        "final_url": "https://www.lltjournal.org/collection/col_10125_35882/",
+        "url": "https://www.lltjournal.org/collection/col_10125_113395",
+        "final_url": "https://www.lltjournal.org/collection/col_10125_113395/",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://www.ovid.com/jnls/bsam/collections/26",
-        "final_url": "https://www.ovid.com/jnls/bsam/collections/26",
+        "url": "https://www.ovid.com/jnls/bsam/collections/60",
+        "final_url": "https://www.ovid.com/jnls/bsam/collections/60",
         "status": "ok",
         "error": null,
         "error_code": null
       },
       {
-        "url": "https://journals.sagepub.com/pb-assets/PDF/PMI1323%20Call%20for%20Papers%20Tensions%20and%20Paradoxes%20final-1780399397207.pdf",
+        "url": "https://journals.sagepub.com/pb-assets/cmscontent/PMX/PMI1298%20Call%20for%20Papers%20Beyond%20the%20Island%2012-30-25-1769536512380.pdf",
         "final_url": null,
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
         "error_code": "access_denied"
       },
       {
-        "url": "https://link.springer.com/collections/hbghdidjgc",
+        "url": "https://link.springer.com/collections/fbegcjbdeh",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/journal/12144/updates/27844314",
+        "url": "https://link.springer.com/collections/baidichcga",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.apa.org/pubs/journals/pro/pro-substance-use-disorders-addictions-pdf",
-        "final_url": "https://www.apa.org/pubs/journals/pro/pro-substance-use-disorders-addictions-pdf",
+        "url": "https://link.springer.com/collections/aicajacbge",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://link.springer.com/collections/eidgbchgfd",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://www.apa.org/pubs/journals/aap/call-for-papers-general.html",
+        "final_url": "https://www.apa.org/pubs/journals/aap/call-for-papers-general.html",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -21674,7 +21727,7 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.nature.com/collections/fdafiejgbg",
+        "url": "https://www.nature.com/collections/jjaaddejcg",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
@@ -21688,7 +21741,7 @@
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://www.nature.com/collections/gaidhdhbdh",
+        "url": "https://www.nature.com/collections/bidghfhiga",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
@@ -21702,6 +21755,48 @@
         "error_code": "robots_unavailable"
       },
       {
+        "url": "https://journals.aps.org/prper/collections/PER_QUANTUM",
+        "final_url": "https://journals.aps.org/prper/collections/PER_QUANTUM",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://link.springer.com/collections/jhdafbhehg",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://link.springer.com/collections/gagfdfjach",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://www.apa.org/pubs/journals/pro/pro-substance-use-disorders-addictions-pdf",
+        "final_url": "https://www.apa.org/pubs/journals/pro/pro-substance-use-disorders-addictions-pdf",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
+        "url": "https://link.springer.com/collections/jighbjcefd",
+        "final_url": null,
+        "status": "error",
+        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+        "error_code": "robots_unavailable"
+      },
+      {
+        "url": "https://www.bps.org.uk/collections/coaching-psychology",
+        "final_url": "https://www.bps.org.uk/collections/coaching-psychology",
+        "status": "ok",
+        "error": null,
+        "error_code": null
+      },
+      {
         "url": "https://journals.aps.org/prper/collections/astronomy-education-research",
         "final_url": "https://journals.aps.org/prper/collections/astronomy-education-research",
         "status": "ok",
@@ -21709,78 +21804,29 @@
         "error_code": null
       },
       {
-        "url": "https://link.springer.com/collections/gejehdbdji",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://link.springer.com/collections/dfecagebjd",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://link.springer.com/collections/hihbbjffbe",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://www.apa.org/pubs/journals/aap/call-for-papers-general.html",
-        "final_url": "https://www.apa.org/pubs/journals/aap/call-for-papers-general.html",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://link.springer.com/collections/fihgfchgef",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
-      },
-      {
-        "url": "https://www.bps.org.uk/collections/meets",
-        "final_url": "https://www.bps.org.uk/collections/meets",
-        "status": "error",
-        "error": "AccessError: Page content too short; JavaScript or another entry may be required",
-        "error_code": "dynamic_content"
-      },
-      {
-        "url": "https://www.ovid.com/jnls/bsam/collections/27",
-        "final_url": "https://www.ovid.com/jnls/bsam/collections/27",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://journals.sagepub.com/pb-assets/PDF/updated%20CFP%20RCM-1773905521020.pdf",
+        "url": "https://journals.sagepub.com/pb-assets/cmscontent/PMX/PMI919%20SI-PMJ%20PrincipleBased%20PM-LONG(WEB).pdf",
         "final_url": null,
         "status": "error",
         "error": "HTTPError: HTTP Error 403: Forbidden",
         "error_code": "access_denied"
       },
       {
-        "url": "https://link.springer.com/collections/hccaajdgdg",
+        "url": "https://link.springer.com/collections/bbgdfecfda",
         "final_url": null,
         "status": "error",
         "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
         "error_code": "robots_unavailable"
       },
       {
-        "url": "https://link.springer.com/journal/12144/updates/27848954",
-        "final_url": null,
-        "status": "error",
-        "error": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-        "error_code": "robots_unavailable"
+        "url": "https://www.ovid.com/jnls/bsam/collections/7",
+        "final_url": "https://www.ovid.com/jnls/bsam/collections/7",
+        "status": "ok",
+        "error": null,
+        "error_code": null
       },
       {
-        "url": "https://www.lltjournal.org/collection/col_10125_35885",
-        "final_url": "https://www.lltjournal.org/collection/col_10125_35885/",
+        "url": "https://www.lltjournal.org/collection/col_10125_35886",
+        "final_url": "https://www.lltjournal.org/collection/col_10125_35886/",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -21814,22 +21860,8 @@
         "error_code": null
       },
       {
-        "url": "https://www.apa.org/pubs/journals/amp/amp-foundational-contributions-black-scholars-psychology-pdf",
-        "final_url": "https://www.apa.org/pubs/journals/amp/amp-foundational-contributions-black-scholars-psychology-pdf",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
         "url": "https://www.apa.org/pubs/journals/amp/amp-toward-decolonial-psychology-pdf",
         "final_url": "https://www.apa.org/pubs/journals/amp/amp-toward-decolonial-psychology-pdf",
-        "status": "ok",
-        "error": null,
-        "error_code": null
-      },
-      {
-        "url": "https://www.apa.org/pubs/journals/amp/trans-psychology-amid-anti-trans-legislation-us",
-        "final_url": "https://www.apa.org/pubs/journals/amp/trans-psychology-amid-anti-trans-legislation-us",
         "status": "ok",
         "error": null,
         "error_code": null
@@ -22323,7 +22355,7 @@
         "SSCI"
       ],
       "verified": true,
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "journal_url": "https://www.j-ets.net/",
       "evidence_type": "official",
       "registry_provenance": {
@@ -23106,7 +23138,7 @@
         "SSCI"
       ],
       "verified": true,
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "journal_url": "https://ajet.org.au/index.php/AJET",
       "evidence_type": "official",
       "registry_provenance": {
@@ -23735,7 +23767,7 @@
         "SSCI"
       ],
       "verified": true,
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "journal_url": "https://www.irrodl.org/",
       "evidence_type": "official",
       "registry_provenance": {
@@ -26326,7 +26358,7 @@
         "SCIE"
       ],
       "verified": true,
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-19",
       "journal_url": "https://www.rsc.org/publishing/journals/chemistry-education-research-and-practice",
       "evidence_type": "official",
       "registry_provenance": {
@@ -27119,9 +27151,9 @@
         "SSCI"
       ],
       "verified": true,
-      "checked_at": "2026-10-05",
+      "checked_at": "2026-10-19",
       "journal_url": "https://revistaseug.ugr.es/index.php/portalin/en",
-      "evidence_type": "user_jcr",
+      "evidence_type": "official",
       "registry_provenance": {
         "kind": "user_jcr",
         "file": "SSCI_JCR_JournalResults_06_2026.xlsx",

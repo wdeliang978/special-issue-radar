@@ -1,6 +1,18 @@
 {
   "candidates": [
     {
+      "url": "https://callforpapers.taylorandfrancis.com/special_issues/reconnecting-physical-education-to-the-living-world",
+      "title": "(Re)connecting Physical Education to the living world: ecocentric, embodied and indigenous pedagogies for sustainability education",
+      "journal_id": "e245772f08e2",
+      "publisher": "Taylor & Francis",
+      "discovery_source_url": "https://authorservices.taylorandfrancis.com/call-for-papers/",
+      "format": "publisher-api",
+      "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/65731?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
+      "discovered_at": "2026-10-19",
+      "last_checked": "2026-10-19",
+      "reason": "additional publisher deadline requires submission-stage review"
+    },
+    {
       "url": "https://callforpapers.taylorandfrancis.com/special_issues/intergenerational-learning-to-shape-the-future-of-health-and-physical-education",
       "title": "Intergenerational learning to shape the future of health and physical education",
       "journal_id": "2945252fa9fa",
@@ -9,7 +21,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/65784?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-12",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "additional publisher deadline requires submission-stage review"
     },
     {
@@ -21,7 +33,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/65783?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-12",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "invitation or pre-screening stage requires deadline review"
     },
     {
@@ -33,7 +45,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/65581?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "additional publisher deadline requires submission-stage review"
     },
     {
@@ -45,7 +57,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/64956?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "additional publisher deadline requires submission-stage review"
     },
     {
@@ -57,7 +69,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/64685?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not open or index not verified"
     },
     {
@@ -69,7 +81,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/64530?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "additional publisher deadline requires submission-stage review"
     },
     {
@@ -81,7 +93,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/64324?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not open or index not verified"
     },
     {
@@ -93,7 +105,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/64405?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not open or index not verified"
     },
     {
@@ -105,7 +117,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/64002?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "additional publisher deadline requires submission-stage review"
     },
     {
@@ -117,7 +129,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/63309?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "additional publisher deadline requires submission-stage review"
     },
     {
@@ -129,7 +141,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/62796?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not open or index not verified"
     },
     {
@@ -141,7 +153,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/62780?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not open or index not verified"
     },
     {
@@ -153,7 +165,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/63072?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not open or index not verified"
     },
     {
@@ -165,7 +177,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/62868?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not open or index not verified"
     },
     {
@@ -177,7 +189,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/62300?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not open or index not verified"
     },
     {
@@ -189,7 +201,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/62629?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not open or index not verified"
     },
     {
@@ -201,7 +213,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/62616?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "additional publisher deadline requires submission-stage review"
     },
     {
@@ -213,7 +225,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/62236?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "additional publisher deadline requires submission-stage review"
     },
     {
@@ -225,7 +237,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/62277?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "additional publisher deadline requires submission-stage review"
     },
     {
@@ -237,7 +249,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/62274?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not open or index not verified"
     },
     {
@@ -249,7 +261,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/62065?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not open or index not verified"
     },
     {
@@ -261,7 +273,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/61906?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "additional publisher deadline requires submission-stage review"
     },
     {
@@ -273,7 +285,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/61696?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not open or index not verified"
     },
     {
@@ -285,7 +297,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/61665?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not open or index not verified"
     },
     {
@@ -297,7 +309,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/61517?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "additional publisher deadline requires submission-stage review"
     },
     {
@@ -309,7 +321,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/60892?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not open or index not verified"
     },
     {
@@ -321,7 +333,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/special_issues/55960?_fields=id%2Clink%2Cspecial_issues._special_issues_journal_select%2Cspecial_issues._special_issues_journal_title%2Cspecial_issues._special_issues_title%2Cspecial_issues._special_issues_copy%2Cspecial_issues._special_issues_submissions_instructions%2Cspecial_issues._special_issues_deadline%2Cspecial_issues._special_issues_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "additional publisher deadline requires submission-stage review"
     },
     {
@@ -333,7 +345,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/article_collections/65924?_fields=id%2Clink%2Carticle_collections._article_collections_journal_select%2Carticle_collections._article_collections_journal_title%2Carticle_collections._article_collections_title%2Carticle_collections._article_collections_copy%2Carticle_collections._article_collections_submissions_instructions%2Carticle_collections._article_collections_deadline%2Carticle_collections._article_collections_deadline2",
       "discovered_at": "2026-10-12",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "additional publisher deadline requires submission-stage review"
     },
     {
@@ -345,7 +357,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/article_collections/65667?_fields=id%2Clink%2Carticle_collections._article_collections_journal_select%2Carticle_collections._article_collections_journal_title%2Carticle_collections._article_collections_title%2Carticle_collections._article_collections_copy%2Carticle_collections._article_collections_submissions_instructions%2Carticle_collections._article_collections_deadline%2Carticle_collections._article_collections_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "additional publisher deadline requires submission-stage review"
     },
     {
@@ -357,7 +369,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/article_collections/62973?_fields=id%2Clink%2Carticle_collections._article_collections_journal_select%2Carticle_collections._article_collections_journal_title%2Carticle_collections._article_collections_title%2Carticle_collections._article_collections_copy%2Carticle_collections._article_collections_submissions_instructions%2Carticle_collections._article_collections_deadline%2Carticle_collections._article_collections_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "additional publisher deadline requires submission-stage review"
     },
     {
@@ -369,7 +381,7 @@
       "format": "publisher-api",
       "verification_url": "https://callforpapers.taylorandfrancis.com/wp-json/wp/v2/article_collections/60411?_fields=id%2Clink%2Carticle_collections._article_collections_journal_select%2Carticle_collections._article_collections_journal_title%2Carticle_collections._article_collections_title%2Carticle_collections._article_collections_copy%2Carticle_collections._article_collections_submissions_instructions%2Carticle_collections._article_collections_deadline%2Carticle_collections._article_collections_deadline2",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not open or index not verified"
     },
     {
@@ -380,8 +392,19 @@
       "discovery_source_url": "https://www.computer.org/publications/author-resources/calls-for-papers",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: Publisher robots policy disallows this path"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1exUpgd0gA9gO4dToLqe40zni8YFkpZut/view?usp=drive_link",
+      "title": "Trustworthy AI-Enhanced Education Data Governance, Pedagogical Evidence, and Human Oversight",
+      "publisher": "IFETS",
+      "journal_id": "8f6887bfd440",
+      "discovery_source_url": "https://www.j-ets.net/",
+      "format": "external-pdf",
+      "discovered_at": "2026-10-19",
+      "last_checked": "2026-10-19",
+      "reason": "Official journal links an external PDF; deadline verification requires a permitted document source."
     },
     {
       "url": "https://ieee-edusociety.org/post/announcement/call-papers-special-topic-agentic-ai-and-embodied-cognition",
@@ -391,7 +414,7 @@
       "discovery_source_url": "https://ieee-edusociety.org/publication/about-publications/tlt",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not open or index not verified"
     },
     {
@@ -402,7 +425,7 @@
       "discovery_source_url": "https://ieee-edusociety.org/publication/about-publications/tlt",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not open or index not verified"
     },
     {
@@ -413,7 +436,7 @@
       "discovery_source_url": "https://ieee-edusociety.org/publication/about-publications/tlt",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not a manuscript call"
     },
     {
@@ -424,7 +447,7 @@
       "discovery_source_url": "https://ieee-edusociety.org/publication/about-publications/tlt",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not a manuscript call"
     },
     {
@@ -435,7 +458,7 @@
       "discovery_source_url": "https://ieee-edusociety.org/publication/about-publications/tlt",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not a manuscript call"
     },
     {
@@ -446,7 +469,7 @@
       "discovery_source_url": "https://ieee-edusociety.org/publication/about-publications/tlt",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not open or index not verified"
     },
     {
@@ -457,7 +480,7 @@
       "discovery_source_url": "https://ieee-edusociety.org/publication/about-publications/tlt",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -468,7 +491,8 @@
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://www.lltjournal.org/collection/col_10125_111242",
@@ -478,7 +502,8 @@
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://www.lltjournal.org/collection/col_10125_110089",
@@ -488,7 +513,8 @@
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://www.lltjournal.org/collection/col_10125_108158",
@@ -498,7 +524,8 @@
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://www.lltjournal.org/collection/col_10125_106326",
@@ -508,7 +535,8 @@
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://www.lltjournal.org/collection/col_10125_104530",
@@ -518,7 +546,8 @@
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://www.lltjournal.org/collection/col_10125_102113",
@@ -528,7 +557,8 @@
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://www.lltjournal.org/collection/col_10125_76505",
@@ -537,7 +567,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -547,7 +577,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -557,7 +587,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -567,7 +597,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -577,7 +607,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -587,7 +617,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -597,7 +627,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -607,7 +637,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -617,7 +647,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -627,7 +657,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -637,7 +667,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -647,9 +677,8 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.lltjournal.org/collection/col_10125_35921",
@@ -658,7 +687,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -668,7 +697,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -678,7 +707,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -688,7 +717,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -698,7 +727,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -708,7 +737,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -718,7 +747,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -728,7 +757,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -738,7 +767,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -748,7 +777,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -758,7 +787,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -768,7 +797,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -778,9 +807,8 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.lltjournal.org/collection/col_10125_35887",
@@ -789,7 +817,7 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -800,7 +828,8 @@
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://www.lltjournal.org/collection/col_10125_35882",
@@ -809,9 +838,8 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.lltjournal.org/collection/col_10125_35881",
@@ -820,9 +848,8 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.lltjournal.org/collection/col_10125_35878",
@@ -831,9 +858,8 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.lltjournal.org/collection/col_10125_35877",
@@ -842,9 +868,8 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.lltjournal.org/collection/col_10125_35876",
@@ -853,9 +878,8 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.lltjournal.org/collection/col_10125_35870",
@@ -864,9 +888,8 @@
       "journal_id": "81ac32ff85a5",
       "discovery_source_url": "https://www.lltjournal.org",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://revistas.uned.es/index.php/ried/announcement/view/537",
@@ -876,7 +899,7 @@
       "discovery_source_url": "https://revistas.uned.es/index.php/ried",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -887,7 +910,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/dhe/index",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -898,7 +921,7 @@
       "discovery_source_url": "https://ieee-edusociety.org/publication/about-publications/toe",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not a manuscript call"
     },
     {
@@ -909,7 +932,7 @@
       "discovery_source_url": "https://ieee-edusociety.org/publication/about-publications/toe",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not a manuscript call"
     },
     {
@@ -920,7 +943,7 @@
       "discovery_source_url": "https://ieee-edusociety.org/publication/about-publications/toe",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "specific special-issue title needs review"
     },
     {
@@ -931,7 +954,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/bul/index.aspx",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -942,7 +965,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/met/index.aspx",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -953,7 +976,7 @@
       "discovery_source_url": "https://www.dovepress.com/psychology-research-and-behavior-management-journal",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "specific special-issue title needs review"
     },
     {
@@ -964,7 +987,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/mot/",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -975,7 +998,7 @@
       "discovery_source_url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not open or index not verified"
     },
     {
@@ -986,7 +1009,7 @@
       "discovery_source_url": "https://www.hogrefe.com/uk/journal/zeitschrift-fuer-psychologie",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not a manuscript call"
     },
     {
@@ -997,7 +1020,7 @@
       "discovery_source_url": "https://www.hogrefe.com/uk/journal/zeitschrift-fuer-psychologie",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not a manuscript call"
     },
     {
@@ -1008,7 +1031,7 @@
       "discovery_source_url": "https://www.hogrefe.com/uk/journal/zeitschrift-fuer-psychologie",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not a manuscript call"
     },
     {
@@ -1019,7 +1042,7 @@
       "discovery_source_url": "https://www.hogrefe.com/uk/journal/zeitschrift-fuer-psychologie",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not a manuscript call"
     },
     {
@@ -1030,7 +1053,18 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/ppm/",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
+    },
+    {
+      "url": "https://www.apa.org/pubs/journals/ppm/getting-involved.html",
+      "title": "Call for papers: Getting involved",
+      "publisher": "APA",
+      "journal_id": "4cedb2cc70f1",
+      "discovery_source_url": "https://www.apa.org/pubs/journals/ppm/",
+      "format": "html",
+      "discovered_at": "2026-10-19",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1041,7 +1075,7 @@
       "discovery_source_url": "https://www.apa.org/journals/aap/",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1052,7 +1086,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/pro/",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1063,7 +1097,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/lat",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1074,7 +1108,7 @@
       "discovery_source_url": "https://www.apa.org/journals/law/",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1085,7 +1119,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/npe/calls-for-papers",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not open or index not verified"
     },
     {
@@ -1096,7 +1130,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/npe/calls-for-papers",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1107,7 +1141,7 @@
       "discovery_source_url": "https://www.apa.org/journals/hop/",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1118,19 +1152,8 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/drm/index.aspx",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "journal identity not unambiguous or not in verified registry"
-    },
-    {
-      "url": "https://www.press.uillinois.edu/journals?id=ajp",
-      "title": "Call for Papers",
-      "publisher": "UNIV ILLINOIS PRESS",
-      "journal_id": "e81f72487dcd",
-      "discovery_source_url": "https://www.press.uillinois.edu/journals/ajp.html",
-      "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "specific special-issue title needs review"
     },
     {
       "url": "https://www.bps.org.uk/collections/ai",
@@ -1140,7 +1163,8 @@
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "not a manuscript call"
     },
     {
       "url": "https://www.bps.org.uk/collections/psychology-space",
@@ -1149,7 +1173,7 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -1160,7 +1184,8 @@
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "not a manuscript call"
     },
     {
       "url": "https://www.bps.org.uk/collections/relationships-love-and-sex",
@@ -1169,7 +1194,7 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -1179,7 +1204,7 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -1189,7 +1214,7 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -1199,7 +1224,7 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -1209,7 +1234,7 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -1220,7 +1245,8 @@
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "journal identity not unambiguous or not in verified registry"
     },
     {
       "url": "https://www.bps.org.uk/collections/climate-and-environment",
@@ -1230,7 +1256,8 @@
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "journal identity not unambiguous or not in verified registry"
     },
     {
       "url": "https://www.bps.org.uk/collections/psychology-matters-0",
@@ -1239,7 +1266,7 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -1249,7 +1276,7 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -1259,9 +1286,8 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "journal identity not unambiguous or not in verified registry"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.bps.org.uk/collections/looking-back",
@@ -1270,9 +1296,8 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.bps.org.uk/collections/meets",
@@ -1281,9 +1306,8 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "AccessError: Page content too short; JavaScript or another entry may be required"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.bps.org.uk/collections/culture",
@@ -1292,9 +1316,8 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "not a manuscript call"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.bps.org.uk/collections/books",
@@ -1304,7 +1327,8 @@
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "not a manuscript call"
     },
     {
       "url": "https://www.bps.org.uk/collections/health-psychology",
@@ -1313,9 +1337,8 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.bps.org.uk/collections/educational-psychology",
@@ -1324,9 +1347,8 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "specific special-issue title needs review"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.bps.org.uk/collections/counselling-psychology",
@@ -1335,9 +1357,8 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "journal identity not unambiguous or not in verified registry"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.bps.org.uk/collections/occupational-psychology",
@@ -1346,7 +1367,7 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -1356,7 +1377,7 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -1367,7 +1388,8 @@
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "journal identity not unambiguous or not in verified registry"
     },
     {
       "url": "https://www.bps.org.uk/collections/sports-psychology",
@@ -1376,7 +1398,7 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -1386,9 +1408,8 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "journal identity not unambiguous or not in verified registry"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.bps.org.uk/collections/neuropsychology",
@@ -1397,7 +1418,7 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -1408,7 +1429,8 @@
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "journal identity not unambiguous or not in verified registry"
     },
     {
       "url": "https://www.bps.org.uk/collections/obituaries",
@@ -1417,7 +1439,7 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -1427,7 +1449,7 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -1437,7 +1459,7 @@
       "journal_id": "5e9604ad24dc",
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -1448,7 +1470,8 @@
       "discovery_source_url": "https://www.bps.org.uk/psychologist",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "journal identity not unambiguous or not in verified registry"
     },
     {
       "url": "https://www.cambridge.org/core/journals/recall/announcements/call-for-papers",
@@ -1458,7 +1481,7 @@
       "discovery_source_url": "https://www.cambridge.org/core/journals/recall/announcements",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not a manuscript call"
     },
     {
@@ -1469,7 +1492,7 @@
       "discovery_source_url": "https://www.wiley.com/en-us/journal-finder/journal/ejed",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -1480,7 +1503,7 @@
       "discovery_source_url": "https://www.aom.org/events/calls-for-papers",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "journal identity not unambiguous or not in verified registry"
     },
     {
@@ -1491,7 +1514,7 @@
       "discovery_source_url": "https://www.aom.org/events/calls-for-papers",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "journal identity not unambiguous or not in verified registry"
     },
     {
@@ -1501,9 +1524,8 @@
       "journal_id": "e6ea6bb69a64",
       "discovery_source_url": "https://journals.aps.org/prper/collections",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://journals.aps.org/prper/collections/gender-in-physics",
@@ -1513,7 +1535,8 @@
       "discovery_source_url": "https://journals.aps.org/prper/collections",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://journals.aps.org/prper/collections/PER_QUANTUM",
@@ -1523,7 +1546,7 @@
       "discovery_source_url": "https://journals.aps.org/prper/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1533,9 +1556,8 @@
       "journal_id": "e6ea6bb69a64",
       "discovery_source_url": "https://journals.aps.org/prper/collections",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://journals.aps.org/prper/collections/PER-LAB",
@@ -1545,7 +1567,7 @@
       "discovery_source_url": "https://journals.aps.org/prper/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1556,7 +1578,8 @@
       "discovery_source_url": "https://journals.aps.org/prper/collections",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://journals.aps.org/prper/collections/racial-diversity-and-identity",
@@ -1566,7 +1589,8 @@
       "discovery_source_url": "https://journals.aps.org/prper/collections",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://journals.aps.org/prper/collections/quantitative-methods",
@@ -1575,9 +1599,8 @@
       "journal_id": "e6ea6bb69a64",
       "discovery_source_url": "https://journals.aps.org/prper/collections",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://journals.aps.org/prper/collections/astronomy-education-research",
@@ -1587,7 +1610,7 @@
       "discovery_source_url": "https://journals.aps.org/prper/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1597,9 +1620,8 @@
       "journal_id": "e6ea6bb69a64",
       "discovery_source_url": "https://journals.aps.org/prper/collections",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://journals.aps.org/prper/collections/upper-division-physics-courses",
@@ -1609,7 +1631,8 @@
       "discovery_source_url": "https://journals.aps.org/prper/collections",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://www.apa.org/pubs/journals/amp/trans-psychology-amid-anti-trans-legislation-us",
@@ -1618,9 +1641,8 @@
       "journal_id": "0459fb940619",
       "discovery_source_url": "https://www.apa.org/pubs/journals/amp/special-issues",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.apa.org/pubs/journals/amp/amp-antisemitism-psychology-pdf",
@@ -1630,7 +1652,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/amp/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1641,7 +1663,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/amp/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1652,7 +1674,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/amp/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1663,7 +1685,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/amp/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1674,7 +1696,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/amp/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1685,7 +1707,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/amp/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1696,7 +1718,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/amp/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1707,7 +1729,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/mot/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1718,7 +1740,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/mot/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1729,7 +1751,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/mot/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1740,7 +1762,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/mot/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1751,7 +1773,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/mot/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1762,7 +1784,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/sgd/special-issues",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1773,7 +1795,7 @@
       "discovery_source_url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/announcements",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1783,9 +1805,8 @@
       "journal_id": "6b539c189d03",
       "discovery_source_url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/special-issues",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/special-issues/mathematical-models-of-decision-making-processes",
@@ -1795,7 +1816,8 @@
       "discovery_source_url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/special-issues",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/special-issues/the-future-of-work-and-organizational-psychology-emerging-issues-and-trends",
@@ -1805,7 +1827,8 @@
       "discovery_source_url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/special-issues",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/special-issues/the-role-of-positive-emotions-and-cognitions-in-psychology",
@@ -1814,9 +1837,8 @@
       "journal_id": "6b539c189d03",
       "discovery_source_url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/special-issues",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/special-issues/cognition-and-culture-in-evolutionary-context",
@@ -1826,7 +1848,7 @@
       "discovery_source_url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1837,7 +1859,7 @@
       "discovery_source_url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1848,7 +1870,7 @@
       "discovery_source_url": "https://www.cambridge.org/core/journals/spanish-journal-of-psychology/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1859,7 +1881,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/aap/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1870,7 +1892,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/aap/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1881,7 +1903,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/aap/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1892,7 +1914,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/rel/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1903,7 +1925,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/rel/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1914,7 +1936,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/pro/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1925,7 +1947,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/pro/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1936,7 +1958,7 @@
       "discovery_source_url": "https://www.apa.org/pubs/journals/pro/special-issues",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "no unambiguous full manuscript deadline"
     },
     {
@@ -1946,7 +1968,7 @@
       "journal_id": "8dad63785e18",
       "discovery_source_url": "https://www.ovid.com/jnls/bsam/collections",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -1956,7 +1978,7 @@
       "journal_id": "8dad63785e18",
       "discovery_source_url": "https://www.ovid.com/jnls/bsam/collections",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -1967,7 +1989,8 @@
       "discovery_source_url": "https://www.ovid.com/jnls/bsam/collections",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://www.ovid.com/jnls/bsam/collections/56",
@@ -1977,7 +2000,8 @@
       "discovery_source_url": "https://www.ovid.com/jnls/bsam/collections",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://www.ovid.com/jnls/bsam/collections/80",
@@ -1986,7 +2010,7 @@
       "journal_id": "8dad63785e18",
       "discovery_source_url": "https://www.ovid.com/jnls/bsam/collections",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -1996,7 +2020,7 @@
       "journal_id": "8dad63785e18",
       "discovery_source_url": "https://www.ovid.com/jnls/bsam/collections",
       "format": "html",
-      "discovered_at": "2026-10-12",
+      "discovered_at": "2026-10-19",
       "reason": "Deferred by weekly page budget"
     },
     {
@@ -2006,9 +2030,8 @@
       "journal_id": "8dad63785e18",
       "discovery_source_url": "https://www.ovid.com/jnls/bsam/collections",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.ovid.com/jnls/bsam/collections/13",
@@ -2017,9 +2040,8 @@
       "journal_id": "8dad63785e18",
       "discovery_source_url": "https://www.ovid.com/jnls/bsam/collections",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.ovid.com/jnls/bsam/collections/18",
@@ -2028,9 +2050,8 @@
       "journal_id": "8dad63785e18",
       "discovery_source_url": "https://www.ovid.com/jnls/bsam/collections",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.ovid.com/jnls/bsam/collections/16",
@@ -2039,9 +2060,8 @@
       "journal_id": "8dad63785e18",
       "discovery_source_url": "https://www.ovid.com/jnls/bsam/collections",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.ovid.com/jnls/bsam/collections/23",
@@ -2050,9 +2070,8 @@
       "journal_id": "8dad63785e18",
       "discovery_source_url": "https://www.ovid.com/jnls/bsam/collections",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.ovid.com/jnls/bsam/collections/59",
@@ -2062,7 +2081,8 @@
       "discovery_source_url": "https://www.ovid.com/jnls/bsam/collections",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://www.ovid.com/jnls/bsam/collections/25",
@@ -2071,9 +2091,8 @@
       "journal_id": "8dad63785e18",
       "discovery_source_url": "https://www.ovid.com/jnls/bsam/collections",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.ovid.com/jnls/bsam/collections/26",
@@ -2082,9 +2101,8 @@
       "journal_id": "8dad63785e18",
       "discovery_source_url": "https://www.ovid.com/jnls/bsam/collections",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.ovid.com/jnls/bsam/collections/60",
@@ -2094,7 +2112,8 @@
       "discovery_source_url": "https://www.ovid.com/jnls/bsam/collections",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://www.ovid.com/jnls/bsam/collections/27",
@@ -2103,9 +2122,8 @@
       "journal_id": "8dad63785e18",
       "discovery_source_url": "https://www.ovid.com/jnls/bsam/collections",
       "format": "html",
-      "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "no unambiguous full manuscript deadline"
+      "discovered_at": "2026-10-19",
+      "reason": "Deferred by weekly page budget"
     },
     {
       "url": "https://www.ovid.com/jnls/bsam/collections/32",
@@ -2115,7 +2133,8 @@
       "discovery_source_url": "https://www.ovid.com/jnls/bsam/collections",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://www.ovid.com/jnls/bsam/collections/33",
@@ -2125,7 +2144,8 @@
       "discovery_source_url": "https://www.ovid.com/jnls/bsam/collections",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://www.ovid.com/jnls/bsam/collections/35",
@@ -2135,7 +2155,8 @@
       "discovery_source_url": "https://www.ovid.com/jnls/bsam/collections",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://www.ovid.com/jnls/bsam/collections/36",
@@ -2145,7 +2166,8 @@
       "discovery_source_url": "https://www.ovid.com/jnls/bsam/collections",
       "format": "html",
       "discovered_at": "2026-10-12",
-      "reason": "Deferred by weekly page budget"
+      "last_checked": "2026-10-19",
+      "reason": "no unambiguous full manuscript deadline"
     },
     {
       "url": "https://www.cambridge.org/core/journals/recall/announcements/call-for-papers/call-for-papers-special-issue-may-2027",
@@ -2155,7 +2177,7 @@
       "discovery_source_url": "https://www.cambridge.org/core/journals/recall/announcements/call-for-papers",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not a manuscript call"
     },
     {
@@ -2166,8 +2188,19 @@
       "discovery_source_url": "https://www.cambridge.org/core/journals/recall/announcements/call-for-papers",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "not a manuscript call"
+    },
+    {
+      "url": "https://www.press.uillinois.edu/journals?id=ajp",
+      "title": "Call for Papers",
+      "publisher": "UNIV ILLINOIS PRESS",
+      "journal_id": "e81f72487dcd",
+      "discovery_source_url": "https://www.press.uillinois.edu/journals/ajp.html",
+      "format": "html",
+      "discovered_at": "2026-10-05",
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: <urlopen error timed out>"
     },
     {
       "url": "https://journals.sagepub.com/pb-assets/PDF/updated%20CFP%20RCM-1773905521020.pdf",
@@ -2199,7 +2232,8 @@
       "discovery_source_url": "https://journals.sagepub.com/open-call-for-papers",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "HTTPError: HTTP Error 403: Forbidden",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://journals.sagepub.com/pb-assets/PDF/PMI1323%20Call%20for%20Papers%20Sustainability%20by%20Projects%20final-1780399322373.pdf",
@@ -2252,7 +2286,8 @@
       "discovery_source_url": "https://journals.sagepub.com/open-call-for-papers",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "InvalidURL: URL can't contain control characters. '/pb-assets/cmscontent/MIE/MiE Special Issue call out-1787122128663.pdf' (found at least ' ')",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://journals.sagepub.com/pb-assets/cmscontent/ECL/JECL%20SI_Attention%20Economy_Final%20(1).pdf",
@@ -2262,7 +2297,8 @@
       "discovery_source_url": "https://journals.sagepub.com/open-call-for-papers",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "HTTPError: HTTP Error 403: Forbidden",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://journals.sagepub.com/pb-assets/cmscontent/JTE/JTE-Call4Proposals-Residencies_76.4-1732106443263.pdf",
@@ -2272,7 +2308,8 @@
       "discovery_source_url": "https://journals.sagepub.com/open-call-for-papers",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "HTTPError: HTTP Error 403: Forbidden",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://journals.sagepub.com/pb-assets/cmscontent/LDQ/LDQ_AI_Special%20Series%20flyer%20(002).pdf",
@@ -2282,7 +2319,8 @@
       "discovery_source_url": "https://journals.sagepub.com/open-call-for-papers",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "HTTPError: HTTP Error 403: Forbidden",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://journals.sagepub.com/pb-assets/cmscontent/fnb/J25_5249%20FNB%20Quick%20CFP%20Flyer_Pass2-1751273647097.pdf",
@@ -2323,7 +2361,8 @@
       "discovery_source_url": "https://journals.sagepub.com/open-call-for-papers",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "InvalidURL: URL can't contain control characters. '/pb-assets/cmscontent/EMS/EMS 2022 CFPs-1698061185387.pdf' (found at least ' ')",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://journals.sagepub.com/pb-assets/cmscontent/JGP/J23_1824%20JGP%20Quick%20CFP%20Flyer_PASS2-1680034814747.pdf",
@@ -2333,7 +2372,8 @@
       "discovery_source_url": "https://journals.sagepub.com/open-call-for-papers",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "HTTPError: HTTP Error 403: Forbidden",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/iffhjcagac",
@@ -2343,7 +2383,7 @@
       "discovery_source_url": "https://link.springer.com/journal/40299",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -2355,7 +2395,7 @@
       "format": "html",
       "discovered_at": "2026-10-05",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-      "last_checked": "2026-10-12"
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://www.nature.com/collections/qtqsgncqqp",
@@ -2365,8 +2405,8 @@
       "discovery_source_url": "https://www.nature.com/palcomms",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "research relevance needs review"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/fajaaijijd",
@@ -2376,7 +2416,7 @@
       "discovery_source_url": "https://link.springer.com/journal/40561",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -2387,8 +2427,8 @@
       "discovery_source_url": "https://link.springer.com/journal/12144",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "multiple conflicting stage deadlines"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/journal/12144/updates/27848954",
@@ -2431,7 +2471,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/opr",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -2442,7 +2482,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/opr",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -2453,7 +2493,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/opr",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -2464,7 +2504,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/opr",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "InvalidURL: URL can't contain control characters. '/pb-assets/PDF/OPR AI Special Issue-1729063461.pdf' (found at least ' ')"
     },
     {
@@ -2475,7 +2515,7 @@
       "discovery_source_url": "https://link.springer.com/journal/40299/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -2486,7 +2526,7 @@
       "discovery_source_url": "https://link.springer.com/journal/40299/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -2497,7 +2537,7 @@
       "discovery_source_url": "https://link.springer.com/journal/40299/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -2519,7 +2559,7 @@
       "discovery_source_url": "https://link.springer.com/journal/40561/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -2530,7 +2570,7 @@
       "discovery_source_url": "https://link.springer.com/journal/40561/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -2541,7 +2581,7 @@
       "discovery_source_url": "https://link.springer.com/journal/40561/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -2552,7 +2592,7 @@
       "discovery_source_url": "https://link.springer.com/journal/40561/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -2563,8 +2603,8 @@
       "discovery_source_url": "https://link.springer.com/journal/40561/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/bfjgffcjdj",
@@ -2574,7 +2614,7 @@
       "discovery_source_url": "https://link.springer.com/journal/40561/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -2585,7 +2625,7 @@
       "discovery_source_url": "https://link.springer.com/journal/40594/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -2596,7 +2636,7 @@
       "discovery_source_url": "https://link.springer.com/journal/40594/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -2607,7 +2647,7 @@
       "discovery_source_url": "https://link.springer.com/journal/40594/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -2618,7 +2658,7 @@
       "discovery_source_url": "https://link.springer.com/journal/40594/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -2629,7 +2669,8 @@
       "discovery_source_url": "https://link.springer.com/journal/40359/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/dfidijhddb",
@@ -2661,7 +2702,8 @@
       "discovery_source_url": "https://link.springer.com/journal/40359/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/jhcbjebeaj",
@@ -2671,7 +2713,8 @@
       "discovery_source_url": "https://link.springer.com/journal/40359/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/ddigidichd",
@@ -2692,7 +2735,8 @@
       "discovery_source_url": "https://link.springer.com/journal/40359/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/dbcgfcdgae",
@@ -2735,7 +2779,8 @@
       "discovery_source_url": "https://link.springer.com/journal/40359/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/hdfidfeheh",
@@ -2745,7 +2790,8 @@
       "discovery_source_url": "https://link.springer.com/journal/40359/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/afedjadhde",
@@ -2777,7 +2823,8 @@
       "discovery_source_url": "https://link.springer.com/journal/40359/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/gejehdbdji",
@@ -2853,7 +2900,8 @@
       "discovery_source_url": "https://link.springer.com/journal/40359/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/aecijbcibc",
@@ -2874,8 +2922,8 @@
       "discovery_source_url": "https://link.springer.com/journal/12144/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/afcaadgebg",
@@ -2885,8 +2933,8 @@
       "discovery_source_url": "https://link.springer.com/journal/12144/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "multiple conflicting stage deadlines"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/dbibffdbcf",
@@ -2896,8 +2944,8 @@
       "discovery_source_url": "https://link.springer.com/journal/12144/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/jiffieibbh",
@@ -2918,8 +2966,8 @@
       "discovery_source_url": "https://link.springer.com/journal/12144/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/daafdgbgjg",
@@ -2929,8 +2977,8 @@
       "discovery_source_url": "https://link.springer.com/journal/12144/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/hijechebgf",
@@ -2951,8 +2999,8 @@
       "discovery_source_url": "https://link.springer.com/journal/12144/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/hjicggjhbi",
@@ -2973,7 +3021,8 @@
       "discovery_source_url": "https://link.springer.com/journal/41239",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/bbidfhdihg",
@@ -3005,7 +3054,8 @@
       "discovery_source_url": "https://link.springer.com/journal/41239/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/aahjffeghg",
@@ -3026,7 +3076,8 @@
       "discovery_source_url": "https://link.springer.com/journal/41239/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/djadgjddbd",
@@ -3124,7 +3175,8 @@
       "discovery_source_url": "https://link.springer.com/journal/41239/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/jiddiefbgj",
@@ -3134,7 +3186,8 @@
       "discovery_source_url": "https://link.springer.com/journal/41239/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/gcheifbdaa",
@@ -3144,7 +3197,8 @@
       "discovery_source_url": "https://link.springer.com/journal/41239/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/gicdfgeehg",
@@ -3154,7 +3208,8 @@
       "discovery_source_url": "https://link.springer.com/journal/41239/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/bcgfdaaidh",
@@ -3175,7 +3230,8 @@
       "discovery_source_url": "https://link.springer.com/journal/41239/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/fihgfchgef",
@@ -3240,8 +3296,8 @@
       "discovery_source_url": "https://link.springer.com/journal/10639/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/iadjbfjefj",
@@ -3251,8 +3307,8 @@
       "discovery_source_url": "https://link.springer.com/journal/10639/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/bhjijjffae",
@@ -3262,7 +3318,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10639/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3273,7 +3329,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10639/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3284,7 +3340,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10639/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3306,8 +3362,8 @@
       "discovery_source_url": "https://link.springer.com/journal/10639/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/jbfchcdhbf",
@@ -3328,8 +3384,8 @@
       "discovery_source_url": "https://link.springer.com/journal/10639/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/iacdfefhie",
@@ -3339,7 +3395,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11412/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3350,7 +3406,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11412/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3361,7 +3417,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11423",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3372,7 +3428,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11423",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3383,7 +3439,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11423/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3394,7 +3450,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11423/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3405,7 +3461,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11423/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3416,7 +3472,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11423/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3427,7 +3483,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10956",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3438,7 +3494,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/ltr",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -3449,7 +3505,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/jte",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "InvalidURL: URL can't contain control characters. '/pb-assets/PDF/JTE-Call4Manuscripts-Global Competence - FINAL6.10.26-1781239199050.pdf' (found at least ' ')"
     },
     {
@@ -3460,7 +3516,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/jte",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -3471,7 +3527,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/jte",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -3482,7 +3538,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/jte",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -3493,7 +3549,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/jte",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -3504,7 +3560,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/jte",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -3515,7 +3571,7 @@
       "discovery_source_url": "https://link.springer.com/journal/12528/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3526,7 +3582,7 @@
       "discovery_source_url": "https://link.springer.com/journal/12528/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3537,7 +3593,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10734/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3548,7 +3604,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10734/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3559,7 +3615,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10734/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3570,7 +3626,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10734/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3581,7 +3637,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10734/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3592,7 +3648,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10734/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3623,7 +3679,8 @@
       "discovery_source_url": "https://bmcmededuc.biomedcentral.com/",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/journal/11858/updates/53762116",
@@ -3633,7 +3690,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11858",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3644,7 +3701,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11858",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3655,7 +3712,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10993",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3666,7 +3723,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10993",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3688,7 +3745,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10993/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3699,7 +3756,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10993/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3710,7 +3767,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10993/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3721,8 +3778,8 @@
       "discovery_source_url": "https://link.springer.com/journal/10993/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/iigjhghfhb",
@@ -3732,7 +3789,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10993/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3743,7 +3800,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11409",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3754,7 +3811,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11409/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3765,7 +3822,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11409/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3776,7 +3833,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10459/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3787,7 +3844,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10459/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3798,7 +3855,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10459/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3809,7 +3866,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10459/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3820,7 +3877,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10833",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3831,7 +3888,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10833",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3842,7 +3899,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10833",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3853,7 +3910,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10833",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3864,7 +3921,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10833/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3875,7 +3932,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11165",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3886,7 +3943,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11165",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3897,7 +3954,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11165/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3908,7 +3965,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11165/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3919,7 +3976,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11165/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3930,7 +3987,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11024",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3941,7 +3998,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11024/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3952,7 +4009,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11024/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3963,7 +4020,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11024/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3974,7 +4031,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11024/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -3985,7 +4042,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/epa",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -3996,7 +4053,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/epa",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -4007,7 +4064,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10763",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4018,7 +4075,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10763/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4029,7 +4086,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10763/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4040,7 +4097,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10763/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4051,7 +4108,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11092",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4062,7 +4119,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11092",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4073,7 +4130,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11092",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4084,7 +4141,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11092",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4095,7 +4152,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11092",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4106,8 +4163,8 @@
       "discovery_source_url": "https://www.degruyterbrill.com/journal/key/iral/html",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "no unambiguous full manuscript deadline"
+      "last_checked": "2026-10-19",
+      "reason": "HTTPError: HTTP Error 405: Not Allowed"
     },
     {
       "url": "https://www.degruyterbrill.com/journal/key/iral/63/1/html",
@@ -4117,8 +4174,8 @@
       "discovery_source_url": "https://www.degruyterbrill.com/journal/key/iral/html",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "no unambiguous full manuscript deadline"
+      "last_checked": "2026-10-19",
+      "reason": "HTTPError: HTTP Error 405: Not Allowed"
     },
     {
       "url": "https://www.degruyterbrill.com/journal/key/iral/62/1/html",
@@ -4128,8 +4185,8 @@
       "discovery_source_url": "https://www.degruyterbrill.com/journal/key/iral/html",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "no unambiguous full manuscript deadline"
+      "last_checked": "2026-10-19",
+      "reason": "HTTPError: HTTP Error 405: Not Allowed"
     },
     {
       "url": "https://www.degruyterbrill.com/journal/key/iral/54/2/html",
@@ -4139,7 +4196,7 @@
       "discovery_source_url": "https://www.degruyterbrill.com/journal/key/iral/html",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 405: Not Allowed"
     },
     {
@@ -4150,7 +4207,7 @@
       "discovery_source_url": "https://www.degruyterbrill.com/journal/key/iral/html",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 405: Not Allowed"
     },
     {
@@ -4161,7 +4218,7 @@
       "discovery_source_url": "https://www.degruyterbrill.com/journal/key/iral/html",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 405: Not Allowed"
     },
     {
@@ -4216,7 +4273,7 @@
       "discovery_source_url": "https://www.degruyterbrill.com/journal/key/iral/html",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
+      "last_checked": "2026-10-19",
       "reason": "not a manuscript call"
     },
     {
@@ -4227,7 +4284,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11251/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4238,7 +4295,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11251/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4249,7 +4306,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11251/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4260,7 +4317,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11251/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4271,7 +4328,7 @@
       "discovery_source_url": "https://www.emerald.com/jea",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -4282,7 +4339,7 @@
       "discovery_source_url": "https://www.emerald.com/et",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -4293,7 +4350,7 @@
       "discovery_source_url": "https://www.emerald.com/et",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -4315,7 +4372,8 @@
       "discovery_source_url": "https://link.springer.com/journal/40596",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/journal/40596/updates/27840814",
@@ -4325,7 +4383,8 @@
       "discovery_source_url": "https://link.springer.com/journal/40596",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/dabijigchi",
@@ -4412,8 +4471,8 @@
       "discovery_source_url": "https://link.springer.com/journal/40596/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/aicajacbge",
@@ -4423,8 +4482,8 @@
       "discovery_source_url": "https://link.springer.com/journal/40596/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/bcdijebagh",
@@ -4478,7 +4537,8 @@
       "discovery_source_url": "https://link.springer.com/journal/40596/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/jciiecgjcg",
@@ -4488,7 +4548,8 @@
       "discovery_source_url": "https://link.springer.com/journal/40596/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/cfabgigada",
@@ -4509,7 +4570,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11191/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4553,8 +4614,8 @@
       "discovery_source_url": "https://link.springer.com/journal/10649/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/acebaagbha",
@@ -4564,7 +4625,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10649/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4575,8 +4636,8 @@
       "discovery_source_url": "https://link.springer.com/journal/10649/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/cibgdgbdfj",
@@ -4586,7 +4647,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10649/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4597,8 +4658,8 @@
       "discovery_source_url": "https://link.springer.com/journal/10649/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/cegjhedhhc",
@@ -4608,7 +4669,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10649/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4630,8 +4691,8 @@
       "discovery_source_url": "https://link.springer.com/journal/10649/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/eaaeididie",
@@ -4641,8 +4702,8 @@
       "discovery_source_url": "https://link.springer.com/journal/11145",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "not a manuscript call"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/gbjfaejjdg",
@@ -4663,8 +4724,8 @@
       "discovery_source_url": "https://link.springer.com/journal/11145/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/cifaijifaa",
@@ -4674,8 +4735,8 @@
       "discovery_source_url": "https://link.springer.com/journal/11145/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/fgagiffgbh",
@@ -4751,8 +4812,8 @@
       "discovery_source_url": "https://link.springer.com/journal/11145/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/fbegcjbdeh",
@@ -4762,8 +4823,8 @@
       "discovery_source_url": "https://link.springer.com/journal/11145/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/eiciahgaib",
@@ -4773,8 +4834,8 @@
       "discovery_source_url": "https://link.springer.com/journal/11145/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/decdibgiag",
@@ -4784,8 +4845,8 @@
       "discovery_source_url": "https://link.springer.com/journal/11145/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/hicbgjhdgf",
@@ -4795,7 +4856,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11162",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4806,7 +4867,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11162/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4817,7 +4878,7 @@
       "discovery_source_url": "https://link.springer.com/journal/12564/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4828,7 +4889,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10857/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4839,7 +4900,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/epx",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -4850,7 +4911,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/epx",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -4861,7 +4922,7 @@
       "discovery_source_url": "https://link.springer.com/journal/41307/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4872,7 +4933,7 @@
       "discovery_source_url": "https://link.springer.com/journal/41307/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4883,7 +4944,7 @@
       "discovery_source_url": "https://link.springer.com/journal/41307/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4894,7 +4955,7 @@
       "discovery_source_url": "https://link.springer.com/journal/41307/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4905,7 +4966,7 @@
       "discovery_source_url": "https://link.springer.com/journal/41307/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4916,7 +4977,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11422",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4927,7 +4988,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11422/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4938,7 +4999,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10643/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4949,7 +5010,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10643/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4960,7 +5021,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10643/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -4971,8 +5032,8 @@
       "discovery_source_url": "https://link.springer.com/journal/10643/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/iedfjggafi",
@@ -4993,7 +5054,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10643/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5004,7 +5065,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10643/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5015,7 +5076,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10643/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5026,7 +5087,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/aed",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -5037,7 +5098,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/aed",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -5048,7 +5109,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/jlr",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -5059,7 +5120,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/jlr",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -5070,7 +5131,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/jlr",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -5081,7 +5142,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/jlr",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -5092,7 +5153,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/jlr",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -5103,7 +5164,7 @@
       "discovery_source_url": "https://www.emerald.com/etpc",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -5114,7 +5175,7 @@
       "discovery_source_url": "https://www.emerald.com/etpc",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -5125,7 +5186,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11618/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5136,7 +5197,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11618/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5147,7 +5208,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11217",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5158,7 +5219,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11217/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5169,7 +5230,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11217/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5180,7 +5241,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11217/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5191,7 +5252,7 @@
       "discovery_source_url": "https://www.emerald.com/ijlls",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -5202,7 +5263,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/ijm",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -5213,7 +5274,7 @@
       "discovery_source_url": "https://link.springer.com/journal/13187",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5224,7 +5285,7 @@
       "discovery_source_url": "https://link.springer.com/journal/13187",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5235,7 +5296,7 @@
       "discovery_source_url": "https://www.nature.com/nrpsychol/",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5246,7 +5307,7 @@
       "discovery_source_url": "https://www.nature.com/nrpsychol/",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5257,7 +5318,7 @@
       "discovery_source_url": "https://www.nature.com/nrpsychol/",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5268,7 +5329,7 @@
       "discovery_source_url": "https://www.nature.com/nrpsychol/",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5279,7 +5340,7 @@
       "discovery_source_url": "https://academic.oup.com/abm",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -5290,7 +5351,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10902/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5301,7 +5362,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10519",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5312,7 +5373,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10519",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5323,7 +5384,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10519",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5334,7 +5395,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10519/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5345,7 +5406,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10519/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5356,7 +5417,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10519/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5367,7 +5428,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10519/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5378,8 +5439,8 @@
       "discovery_source_url": "https://link.springer.com/journal/13030/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/babhddedch",
@@ -5389,8 +5450,8 @@
       "discovery_source_url": "https://link.springer.com/journal/13030/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/baidichcga",
@@ -5400,8 +5461,8 @@
       "discovery_source_url": "https://link.springer.com/journal/13030/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/egdgbbhadd",
@@ -5444,7 +5505,8 @@
       "discovery_source_url": "https://link.springer.com/journal/13030/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/jdghcijdce",
@@ -5454,7 +5516,8 @@
       "discovery_source_url": "https://link.springer.com/journal/13030/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/jicjeicibh",
@@ -5464,7 +5527,8 @@
       "discovery_source_url": "https://link.springer.com/journal/13030/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/cbbdgdegjd",
@@ -5529,7 +5593,8 @@
       "discovery_source_url": "https://link.springer.com/journal/13030/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/dddagcjegf",
@@ -5550,8 +5615,8 @@
       "discovery_source_url": "https://link.springer.com/journal/13030/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "official call is closed"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://link.springer.com/collections/edjafgjdci",
@@ -5583,7 +5648,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/tap",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -5594,7 +5659,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/ptj",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -5605,7 +5670,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/ptj",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -5616,7 +5681,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/ptj",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -5627,7 +5692,7 @@
       "discovery_source_url": "https://www.degruyter.com/view/j/humr",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 405: Not Allowed"
     },
     {
@@ -5638,7 +5703,7 @@
       "discovery_source_url": "https://www.degruyter.com/view/j/humr",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 405: Not Allowed"
     },
     {
@@ -5649,7 +5714,7 @@
       "discovery_source_url": "https://www.degruyter.com/view/j/humr",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 405: Not Allowed"
     },
     {
@@ -5660,7 +5725,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/jhp",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "InvalidURL: URL can't contain control characters. '/pb-assets/cmscontent/JHP/Collapse psychology-Call-for-Abstracts-1758109542.pdf' (found at least ' ')"
     },
     {
@@ -5671,7 +5736,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/sap",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -5682,7 +5747,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/sap",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -5693,7 +5758,7 @@
       "discovery_source_url": "https://journals.sagepub.com/home/sap",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "InvalidURL: URL can't contain control characters. '/pb-assets/PDF/Special Issue - Call for Papers 2024-1705907387.pdf' (found at least ' ')"
     },
     {
@@ -5704,7 +5769,7 @@
       "discovery_source_url": "https://link.springer.com/journal/40732/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5715,7 +5780,7 @@
       "discovery_source_url": "https://link.springer.com/journal/40732/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5726,7 +5791,7 @@
       "discovery_source_url": "https://link.springer.com/journal/40732/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5846,7 +5911,8 @@
       "discovery_source_url": "https://journals.sagepub.com/special-issue-calls-for-papers",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "HTTPError: HTTP Error 403: Forbidden",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/journal/40299/updates/27747296",
@@ -5856,7 +5922,7 @@
       "discovery_source_url": "https://link.springer.com/journal/40299/updates",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5867,7 +5933,7 @@
       "discovery_source_url": "https://link.springer.com/journal/40299/updates",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5890,7 +5956,7 @@
       "format": "html",
       "discovered_at": "2026-10-05",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-      "last_checked": "2026-10-12"
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://www.nature.com/collections/bidghfhiga",
@@ -5901,7 +5967,7 @@
       "format": "html",
       "discovered_at": "2026-10-05",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-      "last_checked": "2026-10-12"
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://www.nature.com/collections/gaidhdhbdh",
@@ -5922,8 +5988,8 @@
       "discovery_source_url": "https://www.nature.com/palcomms/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "research relevance needs review"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://www.nature.com/collections/bjbahbehih",
@@ -5944,8 +6010,8 @@
       "discovery_source_url": "https://www.nature.com/palcomms/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "reason": "research relevance needs review"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
       "url": "https://www.nature.com/collections/baafedhbdj",
@@ -5956,7 +6022,7 @@
       "format": "html",
       "discovered_at": "2026-10-05",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-      "last_checked": "2026-10-12"
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://www.nature.com/collections/fdafiejgbg",
@@ -5966,7 +6032,7 @@
       "discovery_source_url": "https://www.nature.com/npjscilearn/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5977,7 +6043,7 @@
       "discovery_source_url": "https://www.nature.com/npjscilearn/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -5988,7 +6054,7 @@
       "discovery_source_url": "https://www.nature.com/npjscilearn/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -6000,7 +6066,7 @@
       "format": "html",
       "discovered_at": "2026-10-05",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-      "last_checked": "2026-10-12"
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://www.nature.com/collections/jjaaddejcg",
@@ -6011,7 +6077,7 @@
       "format": "html",
       "discovered_at": "2026-10-05",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-      "last_checked": "2026-10-12"
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://www.nature.com/collections/hfijihihba",
@@ -6022,7 +6088,7 @@
       "format": "html",
       "discovered_at": "2026-10-05",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
-      "last_checked": "2026-10-12"
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://www.nature.com/collections/fcdfdgcdfg",
@@ -6032,7 +6098,7 @@
       "discovery_source_url": "https://www.nature.com/npjscilearn/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -6065,7 +6131,7 @@
       "discovery_source_url": "https://link.springer.com/journal/11423/updates",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -6076,7 +6142,8 @@
       "discovery_source_url": "https://link.springer.com/journal/12909/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/egeghiajba",
@@ -6086,7 +6153,8 @@
       "discovery_source_url": "https://link.springer.com/journal/12909/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/cccbbaigdh",
@@ -6117,7 +6185,8 @@
       "discovery_source_url": "https://link.springer.com/journal/12909/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/hjhiagdbaj",
@@ -6197,7 +6266,8 @@
       "discovery_source_url": "https://link.springer.com/journal/12909/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/iiefgcidbe",
@@ -6217,7 +6287,8 @@
       "discovery_source_url": "https://link.springer.com/journal/12909/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/iggicdbdaj",
@@ -6289,7 +6360,8 @@
       "discovery_source_url": "https://link.springer.com/journal/12909/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/bjagigfejh",
@@ -6467,7 +6539,8 @@
       "discovery_source_url": "https://link.springer.com/journal/12909/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://link.springer.com/collections/dfecagebjd",
@@ -6520,7 +6593,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10763/updates",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -6531,7 +6604,7 @@
       "discovery_source_url": "https://link.springer.com/journal/10763/updates",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -6542,7 +6615,8 @@
       "discovery_source_url": "https://link.springer.com/journal/40596/updates",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "reason": "Deferred by weekly page budget"
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules",
+      "last_checked": "2026-10-19"
     },
     {
       "url": "https://www.nature.com/collections/affjgfcigg",
@@ -6552,7 +6626,7 @@
       "discovery_source_url": "https://www.nature.com/nrpsychol/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -6563,7 +6637,7 @@
       "discovery_source_url": "https://www.nature.com/nrpsychol/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -6574,7 +6648,7 @@
       "discovery_source_url": "https://link.springer.com/journal/41155/collections",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "AccessError: robots.txt unavailable; access permission could not be checked: robots.txt returned an HTML page instead of crawl rules"
     },
     {
@@ -6585,7 +6659,7 @@
       "discovery_source_url": "https://journals.sagepub.com/page/tap/call-for-papers",
       "format": "pdf",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "InvalidURL: URL can't contain control characters. '/pb-assets/cmscontent/TAP/Call for Papers Special Issue Theory and Psychology-1770188967410.pdf' (found at least ' ')"
     },
     {
@@ -6596,7 +6670,7 @@
       "discovery_source_url": "https://journals.sagepub.com/page/sap/collections/index",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
@@ -6651,7 +6725,7 @@
       "discovery_source_url": "https://www.degruyter.com/view/j/humr",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 405: Not Allowed"
     },
     {
@@ -6662,7 +6736,7 @@
       "discovery_source_url": "https://www.degruyter.com/view/j/humr",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 405: Not Allowed"
     },
     {
@@ -6673,7 +6747,7 @@
       "discovery_source_url": "https://www.degruyter.com/view/j/humr",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-19",
       "reason": "HTTPError: HTTP Error 405: Not Allowed"
     },
     {
@@ -6684,9 +6758,9 @@
       "discovery_source_url": "https://www.press.uillinois.edu/journals/ajp.html",
       "format": "html",
       "discovered_at": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "reason": "specific special-issue title needs review"
+      "last_checked": "2026-10-19",
+      "reason": "AccessError: robots.txt unavailable; access permission could not be checked: <urlopen error timed out>"
     }
   ],
-  "unchecked_due_to_limit": 219
+  "unchecked_due_to_limit": 222
 }
